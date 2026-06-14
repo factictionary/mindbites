@@ -1,86 +1,1192 @@
 [
   {
-    "id": "1",
     "title": "Octopuses Have Three Hearts",
-    "fact": "An octopus has three hearts: two pump blood through the gills, while the third pumps it to the rest of the body. Interestingly, the main heart actually stops beating when the octopus swims, which is why they prefer crawling over swimming.",
+    "fact": "An octopus has three hearts: two pump blood through the gills while the third pumps it to the rest of the body. Their heart stops beating when they swim, which is why they prefer crawling.",
     "category": "Animals",
-    "image": "octopus.jpg"
+    "id": "1",
+    "image": "1.jpg"
   },
   {
+    "title": "Crows Never Forget a Face",
+    "fact": "Crows can recognize individual human faces and hold grudges for years. They even teach their offspring which people to avoid, passing down the knowledge through generations.",
+    "category": "Animals",
     "id": "2",
-    "title": "Honey Never Spoils",
-    "fact": "Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. Honey's low moisture content and acidic pH make it nearly impossible for bacteria to survive in it.",
-    "category": "Food",
-    "image": "honey.jpg"
+    "image": "2.jpg"
   },
   {
+    "title": "Wombats Produce Cube Poop",
+    "fact": "Wombats are the only known animals to produce cube-shaped droppings. Scientists discovered this is caused by elastic intestinal walls that mold the feces into cubes, which stack easily as territorial markers.",
+    "category": "Animals",
     "id": "3",
-    "title": "Bananas Are Berries",
-    "fact": "Botanically speaking, bananas are berries because they develop from a single flower with one ovary. Meanwhile, strawberries are not true berries at all — they're classified as 'aggregate accessory fruits'.",
-    "category": "Science",
-    "image": "banana.jpg"
+    "image": "3.jpg"
   },
   {
+    "title": "Mantis Shrimp See 16 Colors",
+    "fact": "Humans see three color channels; mantis shrimp have 16. They can perceive ultraviolet, visible, and infrared light, and can detect cancer cells and the polarization of light.",
+    "category": "Animals",
     "id": "4",
-    "title": "A Day on Venus is Longer Than its Year",
-    "fact": "Venus takes about 243 Earth days to rotate once on its axis, but only about 225 Earth days to orbit the Sun. That means a single day on Venus is actually longer than its entire year.",
-    "category": "Space",
-    "image": "venus.jpg"
+    "image": "4.jpg"
   },
   {
+    "title": "Elephants Are the Only Animals That Can't Jump",
+    "fact": "Adult elephants are the only mammals physically incapable of jumping. Their bones are too dense and heavy, and their legs are designed to bear weight rather than generate upward spring.",
+    "category": "Animals",
     "id": "5",
-    "title": "Sharks Existed Before Trees",
-    "fact": "Sharks have been swimming in Earth's oceans for about 400 million years, while the earliest trees appeared around 350 million years ago. That means sharks predate trees by roughly 50 million years.",
-    "category": "History",
-    "image": "shark.jpg"
+    "image": "5.jpg"
   },
   {
+    "title": "Sea Otters Hold Hands While Sleeping",
+    "fact": "Sea otters hold hands (known as 'rafting') while sleeping to prevent drifting apart in ocean currents. A group of resting otters is called a raft.",
+    "category": "Animals",
     "id": "6",
-    "title": "The Eiffel Tower Grows in Summer",
-    "fact": "Iron expands when heated, so during hot summer days the Eiffel Tower can grow by up to 15 centimeters taller due to thermal expansion of its iron structure.",
-    "category": "Geography",
-    "image": "eiffel.jpg"
+    "image": "6.jpg"
   },
   {
+    "title": "A Group of Flamingos Is a Flamboyance",
+    "fact": "A flock of flamingos is officially called a 'flamboyance'. Flamingos are actually white — their pink color comes entirely from the carotenoid pigments in the algae and crustaceans they eat.",
+    "category": "Animals",
     "id": "7",
-    "title": "Your Brain Uses 20% of Your Energy",
-    "fact": "Despite making up only about 2% of your total body weight, the human brain consumes roughly 20% of your body's total energy and oxygen intake, even while you sleep.",
-    "category": "Human Body",
-    "image": "brain.jpg"
+    "image": "7.jpg"
   },
   {
+    "title": "Sharks Are Older Than Trees",
+    "fact": "Sharks have existed for approximately 450 million years, predating the first trees by about 90 million years. They have survived all five mass extinctions in Earth's history.",
+    "category": "Animals",
     "id": "8",
-    "title": "Wombat Poop is Cube-Shaped",
-    "fact": "Wombats are the only known animals that produce cube-shaped droppings. Scientists believe this unique shape helps the poop stay stacked on rocks and logs without rolling away, which wombats use to mark their territory.",
-    "category": "Animals",
-    "image": "wombat.jpg"
+    "image": "8.jpg"
   },
   {
+    "title": "Dogs Can Smell Diseases",
+    "fact": "Dogs can detect certain cancers, diabetes, and Parkinson's disease through smell alone. Their noses have 300 million olfactory receptors compared to 6 million in humans, making them 10,000× more sensitive.",
+    "category": "Animals",
     "id": "9",
-    "title": "There Are More Stars Than Grains of Sand",
-    "fact": "Astronomers estimate there are roughly 200 billion trillion stars in the observable universe — a number that vastly exceeds all the grains of sand on every beach and desert on Earth combined.",
-    "category": "Space",
-    "image": "stars.jpg"
+    "image": "9.jpg"
   },
   {
-    "id": "10",
-    "title": "The Inventor of the Frisbee Became One",
-    "fact": "Walter Morrison, who invented the Frisbee in the 1950s, requested that after his death his ashes be molded into special edition Frisbee discs and given to family members.",
-    "category": "History",
-    "image": "frisbee.jpg"
-  },
-  {
-    "id": "11",
-    "title": "Hot Water Can Freeze Faster Than Cold",
-    "fact": "Under certain conditions, hot water can freeze faster than cold water — a phenomenon called the Mpemba effect. Scientists still debate the exact causes, which may involve evaporation, convection currents, and dissolved gases.",
-    "category": "Science",
-    "image": "ice.jpg"
-  },
-  {
-    "id": "12",
-    "title": "Some Frogs Can Survive Being Frozen",
-    "fact": "The wood frog can survive being frozen solid for weeks during winter. Its body produces high levels of glucose that act as a natural antifreeze, protecting its cells from damage until it thaws and hops away.",
+    "title": "Tardigrades Can Survive in Space",
+    "fact": "Tardigrades (water bears) can survive the vacuum of space, extreme radiation, and temperatures from -272°C to 150°C. They enter a cryptobiotic state, expelling all water and reducing metabolism to 0.01%.",
     "category": "Animals",
-    "image": "frog.jpg"
+    "id": "10",
+    "image": "10.jpg"
+  },
+  {
+    "title": "Butterflies Taste With Their Feet",
+    "fact": "Butterflies have taste sensors on their feet called chemoreceptors. When they land on a plant, they instantly know whether it's suitable food for their larvae — 200 times more sensitive than a human tongue.",
+    "category": "Animals",
+    "id": "11",
+    "image": "11.jpg"
+  },
+  {
+    "title": "Clownfish Can Change Sex",
+    "fact": "All clownfish are born male. When the dominant female in a group dies, the largest male changes sex to become female. This process is irreversible — they cannot change back.",
+    "category": "Animals",
+    "id": "12",
+    "image": "12.jpg"
+  },
+  {
+    "title": "Cows Have Best Friends",
+    "fact": "Research shows cows form deep social bonds and have best friends. When separated from their companion, their heart rate increases and stress hormone levels spike significantly.",
+    "category": "Animals",
+    "id": "13",
+    "image": "13.jpg"
+  },
+  {
+    "title": "Honey Badgers Are Nearly Fearless",
+    "fact": "The honey badger is listed in the Guinness World Records as the world's most fearless creature. It has been observed fighting off lions, cheetahs, and porcupines, and its thick rubbery skin is resistant to arrows and machetes.",
+    "category": "Animals",
+    "id": "14",
+    "image": "14.jpg"
+  },
+  {
+    "title": "Wood Frogs Freeze Solid in Winter",
+    "fact": "The wood frog survives winter by literally freezing solid — its heart stops, breathing ceases, and 65% of its body water turns to ice. In spring it thaws and hops away completely unharmed.",
+    "category": "Animals",
+    "id": "15",
+    "image": "15.jpg"
+  },
+  {
+    "title": "Dolphins Have Names for Each Other",
+    "fact": "Dolphins give each other unique signature whistles that function as names. They remember and respond to the 'names' of other dolphins they haven't seen in over 20 years.",
+    "category": "Animals",
+    "id": "16",
+    "image": "16.jpg"
+  },
+  {
+    "title": "Pistol Shrimp Shoots Plasma",
+    "fact": "The pistol shrimp snaps its claw so fast it creates a cavitation bubble reaching 8,000°F — hotter than the sun's surface — that stuns or kills prey with a shockwave.",
+    "category": "Animals",
+    "id": "17",
+    "image": "17.jpg"
+  },
+  {
+    "title": "Penguins Propose With Pebbles",
+    "fact": "Male Gentoo penguins search through piles of pebbles to find the smoothest, most perfect one to present to a female as a marriage proposal. If she accepts, they become lifelong partners.",
+    "category": "Animals",
+    "id": "18",
+    "image": "18.jpg"
+  },
+  {
+    "title": "Axolotls Can Regenerate Their Brain",
+    "fact": "Axolotls can regenerate their heart, lungs, limbs, and even portions of their brain. Scientists are studying them to understand how their cells retain the ability to de-differentiate and rebuild complex tissues.",
+    "category": "Animals",
+    "id": "19",
+    "image": "19.jpg"
+  },
+  {
+    "title": "Goats Have Rectangular Pupils",
+    "fact": "Goats have horizontal rectangular pupils that give them a 320° field of vision — almost panoramic. This lets them spot predators from nearly all directions without moving their head.",
+    "category": "Animals",
+    "id": "20",
+    "image": "20.jpg"
+  },
+  {
+    "title": "Hippos Sweat Sunscreen",
+    "fact": "Hippos secrete a reddish oily fluid that acts as a natural sunscreen and antibiotic. Scientists call it 'blood sweat' — it's neither blood nor sweat, but a unique skin moisturiser.",
+    "category": "Animals",
+    "id": "21",
+    "image": "21.jpg"
+  },
+  {
+    "title": "Ravens Are as Smart as Apes",
+    "fact": "Ravens demonstrate planning, tool use, and deception — cognitive abilities once thought exclusive to great apes. They can solve multi-step problems and understand the concept of hidden objects.",
+    "category": "Animals",
+    "id": "22",
+    "image": "22.jpg"
+  },
+  {
+    "title": "A Snail Can Sleep 3 Years",
+    "fact": "Snails can hibernate (called estivation in warm climates) for up to 3 years when conditions are too dry or cold. During this time, they seal their shell opening with a membrane called an epiphragm.",
+    "category": "Animals",
+    "id": "23",
+    "image": "23.jpg"
+  },
+  {
+    "title": "Cats Can Make 100 Sounds",
+    "fact": "Cats can produce approximately 100 different vocalizations, while dogs manage around 10. Cats developed the ability to 'meow' specifically to communicate with humans — adult cats rarely meow at each other.",
+    "category": "Animals",
+    "id": "24",
+    "image": "24.jpg"
+  },
+  {
+    "title": "Whale Songs Are Evolving",
+    "fact": "Humpback whale songs change every year and spread across oceans like cultural waves. A new song heard in the Pacific is often singing in the Atlantic within two years — the largest cultural transmission in the animal kingdom.",
+    "category": "Animals",
+    "id": "25",
+    "image": "25.jpg"
+  },
+  {
+    "title": "Bees Can Recognize Human Faces",
+    "fact": "Bees can learn and recognize human faces using the same facial recognition techniques as people — called configural processing. They can even be trained to visit a specific person's photo.",
+    "category": "Animals",
+    "id": "26",
+    "image": "26.jpg"
+  },
+  {
+    "title": "Starfish Have No Blood",
+    "fact": "Starfish (sea stars) have no blood. Instead, they use seawater to pump nutrients through their vascular system. If you remove them from the ocean, they die from suffocation within minutes.",
+    "category": "Animals",
+    "id": "27",
+    "image": "27.jpg"
+  },
+  {
+    "title": "Horses Can Sleep Standing Up",
+    "fact": "Horses can doze in a light sleep while standing, using a 'stay apparatus' — a system of ligaments and tendons that locks their legs in place. However, they must lie down to reach full REM deep sleep.",
+    "category": "Animals",
+    "id": "28",
+    "image": "28.jpg"
+  },
+  {
+    "title": "Crocodiles Haven't Changed in 200M Years",
+    "fact": "Modern crocodiles are almost identical to their Triassic ancestors from 200 million years ago. They survived the mass extinction that killed the dinosaurs and have remained virtually unchanged.",
+    "category": "Animals",
+    "id": "29",
+    "image": "29.jpg"
+  },
+  {
+    "title": "Moths Navigate by Moonlight",
+    "fact": "Moths use the moon as a navigational compass, keeping it at a fixed angle to fly in a straight line. Artificial lights confuse this system, causing them to spiral inward — that's why moths circle light bulbs.",
+    "category": "Animals",
+    "id": "30",
+    "image": "30.jpg"
+  },
+  {
+    "title": "A Day on Venus is Longer Than Its Year",
+    "fact": "Venus rotates so slowly that a single day (243 Earth days) is longer than its entire year (225 Earth days). It also rotates backwards compared to most planets.",
+    "category": "Space",
+    "id": "31",
+    "image": "31.jpg"
+  },
+  {
+    "title": "Neutron Stars Are Impossibly Dense",
+    "fact": "A neutron star packs the mass of 1.4 suns into a sphere 20km across. A single teaspoon of neutron star material would weigh about 10 million tons on Earth.",
+    "category": "Space",
+    "id": "32",
+    "image": "32.jpg"
+  },
+  {
+    "title": "The Sun Is a Middle-Aged Star",
+    "fact": "Our sun is approximately 4.6 billion years old and is about halfway through its lifespan. In roughly 5 billion years, it will expand into a red giant, engulfing Mercury, Venus, and possibly Earth.",
+    "category": "Space",
+    "id": "33",
+    "image": "33.jpg"
+  },
+  {
+    "title": "Light From Distant Stars Is Ancient",
+    "fact": "When you look at the Andromeda galaxy with the naked eye, you're seeing light that left it 2.5 million years ago. The star might not even exist anymore — you're looking back in time.",
+    "category": "Space",
+    "id": "34",
+    "image": "34.jpg"
+  },
+  {
+    "title": "There Are More Stars Than Grains of Sand",
+    "fact": "The observable universe contains an estimated 2 trillion galaxies, each with hundreds of billions of stars — totaling roughly 10²⁴ stars. That's more than all the grains of sand on every beach on Earth.",
+    "category": "Space",
+    "id": "35",
+    "image": "35.jpg"
+  },
+  {
+    "title": "Saturn Would Float on Water",
+    "fact": "Saturn is so large and has such low density (mostly hydrogen and helium) that if you could find a body of water large enough, the entire planet would float on it like a balloon.",
+    "category": "Space",
+    "id": "36",
+    "image": "36.jpg"
+  },
+  {
+    "title": "Mars Has the Largest Volcano",
+    "fact": "Olympus Mons on Mars is the tallest volcanic mountain in the solar system — 21.9 km high (3× Everest) and 600 km wide. It's so wide that if you stood on its summit, the base would be below the horizon.",
+    "category": "Space",
+    "id": "37",
+    "image": "37.jpg"
+  },
+  {
+    "title": "Jupiter's Storm Has Lasted 350 Years",
+    "fact": "The Great Red Spot on Jupiter is a storm that has been raging for at least 350 years. It's larger than Earth, with wind speeds exceeding 430 km/h, though it has been slowly shrinking in recent decades.",
+    "category": "Space",
+    "id": "38",
+    "image": "38.jpg"
+  },
+  {
+    "title": "Space Is Completely Silent",
+    "fact": "Space is an almost perfect vacuum — there are no air molecules to carry sound waves. Explosions, spacecraft engines, and even the Big Bang itself would be completely inaudible if you were floating nearby in space.",
+    "category": "Space",
+    "id": "39",
+    "image": "39.jpg"
+  },
+  {
+    "title": "Black Holes Slow Down Time",
+    "fact": "Near a black hole, gravity is so extreme that time itself slows down compared to a distant observer — a phenomenon called gravitational time dilation, predicted by Einstein and confirmed by atomic clocks on satellites.",
+    "category": "Space",
+    "id": "40",
+    "image": "40.jpg"
+  },
+  {
+    "title": "There Are Diamonds Raining on Neptune",
+    "fact": "Scientists believe it rains diamonds on Neptune and Uranus. The extreme pressure converts carbon in their atmospheres into diamond crystals that fall like hailstones toward the planet's core.",
+    "category": "Space",
+    "id": "41",
+    "image": "41.jpg"
+  },
+  {
+    "title": "The Moon Is Moving Away From Earth",
+    "fact": "The Moon is drifting away from Earth at about 3.8 cm per year — roughly the rate your fingernails grow. In the distant past, the Moon was much closer, causing massive tides and shorter days on Earth.",
+    "category": "Space",
+    "id": "42",
+    "image": "42.jpg"
+  },
+  {
+    "title": "Pluto Has a Heart",
+    "fact": "Pluto has a massive heart-shaped region called Tombaugh Regio — a 1,600 km wide nitrogen ice plain. Images captured by NASA's New Horizons probe in 2015 revealed this feature with remarkable clarity.",
+    "category": "Space",
+    "id": "43",
+    "image": "43.jpg"
+  },
+  {
+    "title": "Sunlight Is 170,000 Years Old When It Reaches You",
+    "fact": "A photon takes about 170,000 years to travel from the sun's core to its surface — because the interior is so dense it keeps bouncing around. Then it takes only 8 minutes to reach Earth from the surface.",
+    "category": "Space",
+    "id": "44",
+    "image": "44.jpg"
+  },
+  {
+    "title": "There May Be a 9th Planet",
+    "fact": "Astronomers have found evidence for a 9th planet far beyond Neptune — dubbed Planet Nine — based on the clustered orbits of distant trans-Neptunian objects. If it exists, it's 10× Earth's mass and takes 10,000–20,000 years to orbit the sun.",
+    "category": "Space",
+    "id": "45",
+    "image": "45.jpg"
+  },
+  {
+    "title": "Stars Are Born in Nebulae",
+    "fact": "Stars are born inside giant clouds of gas and dust called nebulae. Over millions of years, gravity causes parts of the cloud to collapse and heat up until nuclear fusion ignites — a new star is born.",
+    "category": "Space",
+    "id": "46",
+    "image": "46.jpg"
+  },
+  {
+    "title": "The ISS Travels at 28,000 km/h",
+    "fact": "The International Space Station orbits Earth at 28,000 km/h — so fast it completes a full orbit every 90 minutes, meaning astronauts aboard see 16 sunrises and sunsets every single day.",
+    "category": "Space",
+    "id": "47",
+    "image": "47.jpg"
+  },
+  {
+    "title": "Galaxies Are Mostly Empty Space",
+    "fact": "Despite containing hundreds of billions of stars, galaxies are almost entirely empty space. If our solar system were scaled to the size of a pea, the nearest star would be 300 km away.",
+    "category": "Space",
+    "id": "48",
+    "image": "48.jpg"
+  },
+  {
+    "title": "Time Passes Faster at Higher Altitude",
+    "fact": "Due to gravitational time dilation, clocks at higher altitudes — further from Earth's gravity — run slightly faster. GPS satellites must correct for this effect or navigational errors would accumulate at 10 km/day.",
+    "category": "Space",
+    "id": "49",
+    "image": "49.jpg"
+  },
+  {
+    "title": "The Universe Is Flat",
+    "fact": "Measurements of the cosmic microwave background radiation show the universe is geometrically flat to within 0.4% margin of error. This means parallel lines will never meet — even across billions of light-years.",
+    "category": "Space",
+    "id": "50",
+    "image": "50.jpg"
+  },
+  {
+    "title": "Europa May Have Alien Life",
+    "fact": "Jupiter's moon Europa has a liquid water ocean twice the size of all Earth's oceans combined, kept warm by tidal heating. NASA considers it one of the best candidates for finding extraterrestrial life in our solar system.",
+    "category": "Space",
+    "id": "51",
+    "image": "51.jpg"
+  },
+  {
+    "title": "Stars Come in Rainbow Colors",
+    "fact": "Stars range from deep red (the coolest, ~3,000K) through orange, yellow, white, blue-white, to brilliant blue (the hottest, ~50,000K). The sun appears yellow from Earth but is actually white from space.",
+    "category": "Space",
+    "id": "52",
+    "image": "52.jpg"
+  },
+  {
+    "title": "The Voyager 1 Probe Has Left the Solar System",
+    "fact": "Launched in 1977, Voyager 1 crossed into interstellar space in 2012 and is now the most distant human-made object — over 23 billion km from Earth. It still communicates with NASA at the speed of light, with a 22-hour delay each way.",
+    "category": "Space",
+    "id": "53",
+    "image": "53.jpg"
+  },
+  {
+    "title": "Titan Has Methane Seas",
+    "fact": "Saturn's moon Titan has lakes and seas of liquid methane instead of water, with methane rain and rivers. It has a thicker atmosphere than Earth and is the only other world with stable surface liquids.",
+    "category": "Space",
+    "id": "54",
+    "image": "54.jpg"
+  },
+  {
+    "title": "There Are Rogue Planets Without Stars",
+    "fact": "Rogue planets drift through interstellar space with no host star — ejected from solar systems during formation. Some may have subsurface oceans heated by radioactive decay, potentially supporting life despite being in total darkness.",
+    "category": "Space",
+    "id": "55",
+    "image": "55.jpg"
+  },
+  {
+    "title": "Hot Water Can Freeze Faster Than Cold",
+    "fact": "Under certain conditions, hot water freezes faster than cold — called the Mpemba effect. Discovered by Tanzanian student Erasto Mpemba in 1963, it's still debated why this happens.",
+    "category": "Science",
+    "id": "56",
+    "image": "56.jpg"
+  },
+  {
+    "title": "You Are Mostly Empty Space",
+    "fact": "Atoms are 99.9999999999996% empty space. If you removed all the empty space from every atom in every human on Earth, all 8 billion of us would fit into a sugar cube.",
+    "category": "Science",
+    "id": "57",
+    "image": "57.jpg"
+  },
+  {
+    "title": "Bananas Are Radioactive",
+    "fact": "Bananas contain trace amounts of potassium-40, a naturally radioactive isotope. But you'd need to eat about 10 million bananas at once for a lethal dose — you'd die of potassium overdose first anyway.",
+    "category": "Science",
+    "id": "58",
+    "image": "58.jpg"
+  },
+  {
+    "title": "Glass Is Actually a Liquid",
+    "fact": "Glass is technically an amorphous solid — its molecules are arranged like a liquid but move so slowly it behaves as a solid. Old window glass is thicker at the bottom because it very slowly flows downward over centuries.",
+    "category": "Science",
+    "id": "59",
+    "image": "59.jpg"
+  },
+  {
+    "title": "Helium Makes Your Voice High",
+    "fact": "Breathing helium raises the pitch of your voice because sound travels faster through helium than air, increasing the resonant frequency of your vocal tract. Sulfur hexafluoride works the opposite way, making your voice extremely deep.",
+    "category": "Science",
+    "id": "60",
+    "image": "60.jpg"
+  },
+  {
+    "title": "Diamonds Are Basically Pencil Lead",
+    "fact": "Diamonds and graphite (pencil lead) are both made entirely of carbon atoms. The only difference is how those atoms are arranged — diamond's tetrahedral structure makes it the hardest natural material.",
+    "category": "Science",
+    "id": "61",
+    "image": "61.jpg"
+  },
+  {
+    "title": "Quantum Particles Can Be in Two Places at Once",
+    "fact": "Quantum superposition allows particles to exist in multiple states simultaneously until observed. This isn't theoretical — it's the physical principle behind lasers, MRI machines, and all modern electronics.",
+    "category": "Science",
+    "id": "62",
+    "image": "62.jpg"
+  },
+  {
+    "title": "Fire Is Not a Solid, Liquid, or Gas",
+    "fact": "Fire (or flame) is a plasma — the fourth state of matter — a rapid oxidation reaction producing heat and light. Unlike solids, liquids, or gases, plasma consists of ionized particles and emits electromagnetic radiation.",
+    "category": "Science",
+    "id": "63",
+    "image": "63.jpg"
+  },
+  {
+    "title": "Sound Can Kill",
+    "fact": "Infrasound below 18 Hz and extremely loud sounds above 155 decibels can cause internal organ damage, paralysis, or death. The threshold of pain is 130 dB — a military acoustic weapon can reach 162 dB.",
+    "category": "Science",
+    "id": "64",
+    "image": "64.jpg"
+  },
+  {
+    "title": "We Don't Fully Understand Gravity",
+    "fact": "Despite predicting it with extraordinary precision, physicists have no explanation for why gravity exists or how it works at the quantum level. It cannot be reconciled with quantum mechanics — one of the greatest unsolved problems in physics.",
+    "category": "Science",
+    "id": "65",
+    "image": "65.jpg"
+  },
+  {
+    "title": "The Human Body Has More Bacteria Than Cells",
+    "fact": "Your body contains about 38 trillion bacteria versus 30 trillion human cells. Most live in your gut and are essential for digestion, immunity, and even mental health — a community called the microbiome.",
+    "category": "Science",
+    "id": "66",
+    "image": "66.jpg"
+  },
+  {
+    "title": "Oxygen Was Once Poisonous",
+    "fact": "When photosynthetic bacteria first produced oxygen 2.4 billion years ago, it was toxic to most life on Earth and caused the 'Great Oxygenation Event' — the largest extinction in history. Life had to evolve to use it.",
+    "category": "Science",
+    "id": "67",
+    "image": "67.jpg"
+  },
+  {
+    "title": "Lightning Strikes 100 Times per Second",
+    "fact": "The Earth is struck by lightning approximately 100 times every second — about 8.6 million strikes per day. Each bolt is hotter than the surface of the sun, reaching around 30,000 Kelvin.",
+    "category": "Science",
+    "id": "68",
+    "image": "68.jpg"
+  },
+  {
+    "title": "The Speed of Light Is a Speed Limit",
+    "fact": "Nothing with mass can reach the speed of light. As an object accelerates toward it, its mass effectively increases infinitely, requiring infinite energy to go further. This is why light speed is the ultimate cosmic speed limit.",
+    "category": "Science",
+    "id": "69",
+    "image": "69.jpg"
+  },
+  {
+    "title": "Water Is Weird",
+    "fact": "Water is one of very few substances that expands when it freezes. This is why ice floats — and why aquatic life survived ice ages. Without this anomaly, ice would sink, freezing lakes and oceans from the bottom up.",
+    "category": "Science",
+    "id": "70",
+    "image": "70.jpg"
+  },
+  {
+    "title": "Every Atom in You Was Once a Star",
+    "fact": "Every heavy element in your body — the carbon, iron, calcium, oxygen — was forged inside massive stars that exploded as supernovae billions of years ago. You are literally made of stardust.",
+    "category": "Science",
+    "id": "71",
+    "image": "71.jpg"
+  },
+  {
+    "title": "Time Flows Differently on Mountains",
+    "fact": "A clock on a mountain summit runs slightly faster than one at sea level due to reduced gravity (gravitational time dilation). This difference is real enough that GPS satellites must compensate for it.",
+    "category": "Science",
+    "id": "72",
+    "image": "72.jpg"
+  },
+  {
+    "title": "Mirrors Don't Show What Others See",
+    "fact": "A mirror shows you a left-right reversed image of yourself. This is why your mirror self looks slightly different from photos — your face is asymmetrical, and photos show how others actually see you.",
+    "category": "Science",
+    "id": "73",
+    "image": "73.jpg"
+  },
+  {
+    "title": "Boiling Water Can Be Room Temperature",
+    "fact": "Water boils at 100°C only at sea-level atmospheric pressure. At high altitude, water boils at lower temperatures. In a perfect vacuum, water boils at room temperature (around 20°C).",
+    "category": "Science",
+    "id": "74",
+    "image": "74.jpg"
+  },
+  {
+    "title": "DNA Is an Incredible Data Drive",
+    "fact": "All of humanity's digital data — every movie, website, and book ever created — could theoretically be stored in less than 9 grams of DNA, which could fit in a spoon. DNA can last 700,000 years under the right conditions.",
+    "category": "Science",
+    "id": "75",
+    "image": "75.jpg"
+  },
+  {
+    "title": "Lasers Were Called 'A Solution in Search of a Problem'",
+    "fact": "When lasers were invented in 1960, scientists had no idea what to use them for. Today they're in surgery, communications, manufacturing, barcode readers, DVDs, telescopes, and weapons — one of the most versatile tools ever created.",
+    "category": "Science",
+    "id": "76",
+    "image": "76.jpg"
+  },
+  {
+    "title": "Humans Glow in the Dark",
+    "fact": "The human body emits a faint bioluminescent glow — visible light produced by chemical reactions in cells. It's about 1,000 times weaker than what the human eye can detect, but sensitive cameras can capture it.",
+    "category": "Science",
+    "id": "77",
+    "image": "77.jpg"
+  },
+  {
+    "title": "Superconductors Levitate",
+    "fact": "When certain materials are cooled below their critical temperature, they become superconductors — expelling all magnetic fields (Meissner effect) and causing magnets to levitate above them indefinitely with zero energy loss.",
+    "category": "Science",
+    "id": "78",
+    "image": "78.jpg"
+  },
+  {
+    "title": "Cleopatra Lived Closer to iPhone Than to Pyramids",
+    "fact": "Cleopatra lived around 30 BC. The iPhone was released in 2007 — about 2,037 years after her death. The Great Pyramid was built around 2560 BC — about 2,530 years before she was born. She was chronologically closer to us.",
+    "category": "History",
+    "id": "79",
+    "image": "79.jpg"
+  },
+  {
+    "title": "Oxford University Is Older Than the Aztec Empire",
+    "fact": "Teaching began at Oxford around 1096–1167 AD. The Aztec Empire was founded in 1428. This means Oxford University had already been educating students for over 200 years before the Aztecs built Tenochtitlan.",
+    "category": "History",
+    "id": "80",
+    "image": "80.jpg"
+  },
+  {
+    "title": "Nintendo Was Founded in 1889",
+    "fact": "Nintendo was originally founded in 1889 in Kyoto, Japan — as a playing card company. They made traditional Japanese hanafuda cards for nearly 80 years before pivoting to toys and eventually video games in the 1970s.",
+    "category": "History",
+    "id": "81",
+    "image": "81.jpg"
+  },
+  {
+    "title": "The Library of Alexandria Was Destroyed Multiple Times",
+    "fact": "Contrary to popular belief, the Library of Alexandria wasn't destroyed in a single fire by Julius Caesar. It declined gradually over centuries through multiple incidents, funding cuts, and neglect — the last recorded use was around 400 AD.",
+    "category": "History",
+    "id": "82",
+    "image": "82.jpg"
+  },
+  {
+    "title": "Napoleon Was Average Height for His Time",
+    "fact": "Napoleon was approximately 5'7\" (170 cm) — average height for a French man of his era. The myth arose from a misunderstanding: English propaganda confused French inches (pouces) with English inches, making him seem 5'2\".",
+    "category": "History",
+    "id": "83",
+    "image": "83.jpg"
+  },
+  {
+    "title": "The Great Wall of China Can't Be Seen From Space",
+    "fact": "The Great Wall of China is NOT visible from space with the naked eye — it's about as wide as a highway. Astronauts have confirmed this repeatedly. The myth was published in a 1932 Ripley's Believe It or Not column.",
+    "category": "History",
+    "id": "84",
+    "image": "84.jpg"
+  },
+  {
+    "title": "Vikings Never Wore Horned Helmets",
+    "fact": "The horned Viking helmet is entirely fictional, popularized by a 19th-century opera costume designer. Real Viking helmets were plain iron or leather. Only two intact Viking helmets have ever been found.",
+    "category": "History",
+    "id": "85",
+    "image": "85.jpg"
+  },
+  {
+    "title": "Einstein Failed Math — Is a Myth",
+    "fact": "Albert Einstein never failed mathematics. He mastered calculus by age 15. The myth arose from a misunderstanding of Swiss school grading — in Swiss schools, 6 is the top grade, not 1, and his '1s' were actually perfect scores.",
+    "category": "History",
+    "id": "86",
+    "image": "86.jpg"
+  },
+  {
+    "title": "Ancient Romans Used Urine as Mouthwash",
+    "fact": "Ancient Romans rinsed their mouths with imported Portuguese urine as toothpaste and mouthwash. The ammonia in urine actually works as a whitening agent. The practice was common enough that the emperor taxed urine sales.",
+    "category": "History",
+    "id": "87",
+    "image": "87.jpg"
+  },
+  {
+    "title": "WWII Ended 56 Years Late for One Soldier",
+    "fact": "Japanese soldier Hiroo Onoda continued fighting in the Philippine jungle until 1974 — 29 years after WWII ended in 1945 — because he never received official orders to surrender and believed it was enemy propaganda.",
+    "category": "History",
+    "id": "88",
+    "image": "88.jpg"
+  },
+  {
+    "title": "The Berlin Wall Fell Without an Order",
+    "fact": "The fall of the Berlin Wall on November 9, 1989 was an accident. A confused East German spokesman announced border crossings would open 'immediately' — he meant the next day, after procedures were in place. Crowds gathered and guards let them through.",
+    "category": "History",
+    "id": "89",
+    "image": "89.jpg"
+  },
+  {
+    "title": "Morse Code Was Never Standardized by Morse",
+    "fact": "Samuel Morse never created a complete Morse code — his assistant Alfred Vail invented most of it. And what we use internationally today (International Morse Code) was entirely redesigned by Friedrich Gerke in 1848.",
+    "category": "History",
+    "id": "90",
+    "image": "90.jpg"
+  },
+  {
+    "title": "The Egyptian Pyramids Were Built by Paid Workers",
+    "fact": "Egyptian pyramids were not built by slaves but by skilled, paid workers who received wages, healthcare, and were buried near the pyramids as an honor. Archaeological evidence of their village was found in the 1990s.",
+    "category": "History",
+    "id": "91",
+    "image": "91.jpg"
+  },
+  {
+    "title": "There Were Female Pharaohs in Egypt",
+    "fact": "Ancient Egypt had multiple female pharaohs, including Hatshepsut — who ruled for over 20 years and built one of the largest temples in Egypt. Her successor Thutmose III tried to erase her from history by defacing her monuments.",
+    "category": "History",
+    "id": "92",
+    "image": "92.jpg"
+  },
+  {
+    "title": "Nikola Tesla Was Erased From History",
+    "fact": "Thomas Edison waged a smear campaign against Nikola Tesla in the 'War of Currents'. After Tesla's death, the US government seized all his papers — and his contribution was largely omitted from history books for decades.",
+    "category": "History",
+    "id": "93",
+    "image": "93.jpg"
+  },
+  {
+    "title": "Roman Concrete Has Lasted 2,000 Years",
+    "fact": "Modern concrete crumbles within decades, but Roman concrete is still standing after 2,000 years. Scientists discovered they used volcanic ash and seawater in a reaction that actually makes it stronger over time.",
+    "category": "History",
+    "id": "94",
+    "image": "94.jpg"
+  },
+  {
+    "title": "The Eiffel Tower Was Supposed to Be Demolished",
+    "fact": "The Eiffel Tower was built in 1889 as a temporary structure for the World's Fair and was scheduled for demolition in 1909. It was saved because its tall antenna proved invaluable as a radio transmission tower.",
+    "category": "History",
+    "id": "95",
+    "image": "95.jpg"
+  },
+  {
+    "title": "Coca-Cola Was Originally Green",
+    "fact": "The original Coca-Cola formula, created in 1886, had a different color due to different processing. The signature caramel color we know today was developed as the formula was refined. The iconic bottle is green for unrelated branding reasons.",
+    "category": "History",
+    "id": "96",
+    "image": "96.jpg"
+  },
+  {
+    "title": "The First Computer Programmer Was a Woman",
+    "fact": "Ada Lovelace wrote the first computer algorithm in 1843 — for Charles Babbage's Analytical Engine, which had never even been built. She predicted computers would go beyond calculation to compose music and create graphics.",
+    "category": "History",
+    "id": "97",
+    "image": "97.jpg"
+  },
+  {
+    "title": "Magellan Didn't Finish the First Circumnavigation",
+    "fact": "Ferdinand Magellan is credited with the first circumnavigation of the globe, but he was killed in the Philippines in 1521 and never completed it. His ship and 18 remaining crew members finished the voyage without him.",
+    "category": "History",
+    "id": "98",
+    "image": "98.jpg"
+  },
+  {
+    "title": "Stonehenge Was Built in Stages Over Millennia",
+    "fact": "Stonehenge wasn't built all at once — construction took place in multiple phases from around 3000 BC to 1500 BC, spanning 1,500 years. The earliest part was a circular earthwork built 500 years before the famous stone circle.",
+    "category": "History",
+    "id": "99",
+    "image": "99.jpg"
+  },
+  {
+    "title": "The Shortest War Lasted 38 Minutes",
+    "fact": "The Anglo-Zanzibar War of 1896 is the shortest war in history at 38–45 minutes. The British fleet bombarded the Sultan's palace and the new Sultan surrendered, reportedly fleeing to a German consulate to seek asylum.",
+    "category": "History",
+    "id": "100",
+    "image": "100.jpg"
+  },
+  {
+    "title": "The Colosseum Once Had a Retractable Roof",
+    "fact": "The Roman Colosseum had an awning system called the velarium — operated by 1,000 Roman sailors — that could be extended to provide shade for the 50,000–80,000 spectators in under an hour.",
+    "category": "History",
+    "id": "101",
+    "image": "101.jpg"
+  },
+  {
+    "title": "Genghis Khan Killed 40 Million People",
+    "fact": "The Mongol conquests led by Genghis Khan killed an estimated 40 million people — about 10% of the world's population at the time. Some regions of Central Asia still haven't recovered the population levels they had before the conquest.",
+    "category": "History",
+    "id": "102",
+    "image": "102.jpg"
+  },
+  {
+    "title": "The Titanic's Lookout Had No Binoculars",
+    "fact": "The Titanic's crow's nest binoculars were accidentally left behind in Southampton. The lookouts had to spot the iceberg with the naked eye. Had they had binoculars, they might have seen it in time to avoid the collision.",
+    "category": "History",
+    "id": "103",
+    "image": "103.jpg"
+  },
+  {
+    "title": "Your Brain Uses 20% of Your Energy",
+    "fact": "The human brain accounts for only 2% of body weight but consumes 20% of the body's total energy and 25% of its oxygen supply — even while you sleep. This is why thinking hard makes you genuinely tired.",
+    "category": "Human Body",
+    "id": "104",
+    "image": "104.jpg"
+  },
+  {
+    "title": "You Shed Your Skin Every Month",
+    "fact": "Humans shed their entire outer layer of skin every 2–4 weeks — about 30,000–40,000 dead skin cells per hour. The dust in your home is largely composed of shed human skin cells.",
+    "category": "Human Body",
+    "id": "105",
+    "image": "105.jpg"
+  },
+  {
+    "title": "Your Eyes Can Distinguish 10 Million Colors",
+    "fact": "The human eye can distinguish up to 10 million different colors, and women statistically identify more shades than men. However, color perception is largely constructed by the brain — not purely measured by the eye.",
+    "category": "Human Body",
+    "id": "106",
+    "image": "106.jpg"
+  },
+  {
+    "title": "Bones Are Stronger Than Steel by Weight",
+    "fact": "Bone is stronger than reinforced concrete and comparable to steel in tensile strength — but at a fraction of the weight. The femur can support 30× your body weight. Its hollow structure and collagen matrix make it remarkably resilient.",
+    "category": "Human Body",
+    "id": "107",
+    "image": "107.jpg"
+  },
+  {
+    "title": "Your Heart Beats 100,000 Times a Day",
+    "fact": "The human heart beats approximately 100,000 times per day, pumping 7,570 liters of blood — enough to fill about 50 bathtubs. Over a 70-year lifetime, it beats 2.5 billion times without stopping for a rest.",
+    "category": "Human Body",
+    "id": "108",
+    "image": "108.jpg"
+  },
+  {
+    "title": "You Are Taller in the Morning",
+    "fact": "You are approximately 1 cm taller when you wake up than when you go to bed. During the day, the cartilage discs in your spine compress under the weight of your body, shrinking you slightly.",
+    "category": "Human Body",
+    "id": "109",
+    "image": "109.jpg"
+  },
+  {
+    "title": "Your Gut Has Its Own Nervous System",
+    "fact": "The enteric nervous system in your gut contains 500 million neurons — more than your spinal cord. It can function completely independently from your brain, which is why it's called 'the second brain'.",
+    "category": "Human Body",
+    "id": "110",
+    "image": "110.jpg"
+  },
+  {
+    "title": "Stomach Acid Can Dissolve Metal",
+    "fact": "Hydrochloric acid in the human stomach has a pH of 1.5–2.0 — strong enough to dissolve metal and irritate the skin. Your stomach lining replaces itself completely every 3–4 days to avoid self-digestion.",
+    "category": "Human Body",
+    "id": "111",
+    "image": "111.jpg"
+  },
+  {
+    "title": "Your Nose Remembers 50,000 Scents",
+    "fact": "The human nose can distinguish up to 50,000 different smells. Scent is the only sense that connects directly to the limbic system (memory and emotion) — which is why smells so powerfully trigger memories.",
+    "category": "Human Body",
+    "id": "112",
+    "image": "112.jpg"
+  },
+  {
+    "title": "You're Born With 270 Bones",
+    "fact": "Babies are born with approximately 270 bones, but adults have only 206. As you grow, many bones fuse together. The last bones to fuse are usually the collarbones, around age 25.",
+    "category": "Human Body",
+    "id": "113",
+    "image": "113.jpg"
+  },
+  {
+    "title": "Your Blood Vessels Could Circle Earth 2.5 Times",
+    "fact": "If you stretched out all the blood vessels in an adult human body end-to-end, they would extend approximately 100,000 km — enough to circle the Earth roughly 2.5 times.",
+    "category": "Human Body",
+    "id": "114",
+    "image": "114.jpg"
+  },
+  {
+    "title": "The Brain Has No Pain Receptors",
+    "fact": "The brain itself cannot feel pain — it has no nociceptors. Brain surgery can be performed on conscious patients because only the scalp and skull are sensitive. Headaches are caused by surrounding tissues, not the brain tissue.",
+    "category": "Human Body",
+    "id": "115",
+    "image": "115.jpg"
+  },
+  {
+    "title": "Hair Is Basically Dead",
+    "fact": "Hair is composed of dead keratin cells pushed upward from hair follicles. Only the follicle itself is alive — the hair shaft you see and style is entirely dead material. This is why cutting hair doesn't hurt.",
+    "category": "Human Body",
+    "id": "116",
+    "image": "116.jpg"
+  },
+  {
+    "title": "Humans Are the Only Animals to Have Chins",
+    "fact": "The chin is a uniquely human anatomical feature — no other primate has one. Scientists believe it evolved not for structural support (it isn't needed for chewing) but possibly as a byproduct of reduced jaw size during evolution.",
+    "category": "Human Body",
+    "id": "117",
+    "image": "117.jpg"
+  },
+  {
+    "title": "Your Appendix Is Not Useless",
+    "fact": "The appendix was considered vestigial for decades, but research shows it acts as a 'safe house' for good gut bacteria after illness. It repopulates the gut with healthy microbiomes after diarrheal disease wipes them out.",
+    "category": "Human Body",
+    "id": "118",
+    "image": "118.jpg"
+  },
+  {
+    "title": "Humans Are Bioluminescent",
+    "fact": "The human body emits a faint visible light — 1,000 times too dim for the human eye to detect. This glow fluctuates with your metabolism, peaking on your cheeks and forehead in the afternoon.",
+    "category": "Human Body",
+    "id": "119",
+    "image": "119.jpg"
+  },
+  {
+    "title": "You Have a Blind Spot in Each Eye",
+    "fact": "Each eye has a blind spot where the optic nerve connects — roughly the size of a coin at arm's length. Your brain fills in this gap using context from the surrounding image, which is why you never notice it.",
+    "category": "Human Body",
+    "id": "120",
+    "image": "120.jpg"
+  },
+  {
+    "title": "Goosebumps Are an Evolutionary Leftover",
+    "fact": "Goosebumps (piloerection) is the reflex that causes body hair to stand up — in hairy mammals, it creates an insulating layer or makes them appear bigger to threats. In humans, who have little body hair, it serves no useful purpose.",
+    "category": "Human Body",
+    "id": "121",
+    "image": "121.jpg"
+  },
+  {
+    "title": "Sneezes Exit at Over 160 km/h",
+    "fact": "A human sneeze expels air at speeds between 160–200 km/h and can project over 100,000 infectious droplets up to 8 meters. A cough expels about 3,000 droplets at 80 km/h.",
+    "category": "Human Body",
+    "id": "122",
+    "image": "122.jpg"
+  },
+  {
+    "title": "The Liver Can Regenerate Itself",
+    "fact": "The liver is the only internal organ capable of complete regeneration. If 75% is surgically removed, it can regrow to full size within months. Ancient Greeks knew about this — the myth of Prometheus being eaten daily by an eagle reflects real liver regeneration.",
+    "category": "Human Body",
+    "id": "123",
+    "image": "123.jpg"
+  },
+  {
+    "title": "The Eiffel Tower Grows in Summer",
+    "fact": "The Eiffel Tower's iron structure expands when heated, making it up to 15 cm taller on hot summer days. Its 7,000 tonnes of iron have a thermal expansion coefficient of about 1.17cm per degree Celsius.",
+    "category": "Geography",
+    "id": "124",
+    "image": "124.jpg"
+  },
+  {
+    "title": "Australia Is Wider Than the Moon",
+    "fact": "Australia's diameter from east to west is approximately 4,000 km. The Moon's diameter is only 3,474 km. Australia is literally wider than the Moon.",
+    "category": "Geography",
+    "id": "125",
+    "image": "125.jpg"
+  },
+  {
+    "title": "Russia Has 11 Time Zones",
+    "fact": "Russia spans 11 time zones — more than any other country. When it's noon in Kaliningrad on the Baltic coast, it's 10 PM in Kamchatka on the Pacific. The country is so vast it covers 1/8th of Earth's total land surface.",
+    "category": "Geography",
+    "id": "126",
+    "image": "126.jpg"
+  },
+  {
+    "title": "There Are More Trees Than Stars in the Milky Way",
+    "fact": "Earth has approximately 3 trillion trees — 46× more than previously estimated. The Milky Way has an estimated 100–400 billion stars. Earth's forests have 7.5× more trees than the Milky Way has stars.",
+    "category": "Geography",
+    "id": "127",
+    "image": "127.jpg"
+  },
+  {
+    "title": "Africa Is Much Larger Than Maps Show",
+    "fact": "Standard Mercator map projections dramatically distort size. Africa is actually 14× bigger than Greenland, can fit the US, China, India, and most of Europe inside it, and covers 20% of Earth's land area.",
+    "category": "Geography",
+    "id": "128",
+    "image": "128.jpg"
+  },
+  {
+    "title": "There Are 195 Countries But 6,500 Languages",
+    "fact": "Earth has 195 countries but an estimated 6,500–7,000 living languages. Papua New Guinea alone has over 800 languages among its 8 million people — the highest linguistic density of any country on Earth.",
+    "category": "Geography",
+    "id": "129",
+    "image": "129.jpg"
+  },
+  {
+    "title": "The Dead Sea Is Getting Deader",
+    "fact": "The Dead Sea is shrinking at about 1 meter per year due to water diversion from the Jordan River. It's already 40% smaller than in the 1930s. A canal project called the 'Red-Dead Canal' has been proposed but remains controversial.",
+    "category": "Geography",
+    "id": "130",
+    "image": "130.jpg"
+  },
+  {
+    "title": "Greenland Is Not Green",
+    "fact": "Greenland is 80% covered by an ice sheet, while Iceland is covered in farmland and vegetation. Viking explorer Erik the Red gave Greenland its attractive name to lure settlers — and Iceland its unappealing one to keep it for himself.",
+    "category": "Geography",
+    "id": "131",
+    "image": "131.jpg"
+  },
+  {
+    "title": "The Pacific Ocean Is Bigger Than All Land",
+    "fact": "The Pacific Ocean covers about 165 million square kilometers — larger than the total land area of all seven continents combined. You could fit all of Earth's continents inside it with room to spare.",
+    "category": "Geography",
+    "id": "132",
+    "image": "132.jpg"
+  },
+  {
+    "title": "The Sahara Was Once Green",
+    "fact": "Just 5,000–11,000 years ago, the Sahara was a lush green savanna with rivers, lakes, hippos, and giraffes. This 'Green Sahara' or African Humid Period ended as Earth's orbital cycle shifted, cutting off monsoon rains.",
+    "category": "Geography",
+    "id": "133",
+    "image": "133.jpg"
+  },
+  {
+    "title": "Mount Everest Is Not the Tallest Mountain",
+    "fact": "Mount Everest is the highest peak above sea level, but Mauna Kea in Hawaii is the tallest mountain from base to summit at 10,210 m (though much of it is underwater). And Chimborazo in Ecuador is the furthest point from Earth's center.",
+    "category": "Geography",
+    "id": "134",
+    "image": "134.jpg"
+  },
+  {
+    "title": "Lake Baikal Holds 20% of All Freshwater",
+    "fact": "Russia's Lake Baikal is the deepest lake on Earth (1,642 m) and contains approximately 23,000 cubic kilometers of water — about 20% of all fresh surface water on the planet — more than all five Great Lakes combined.",
+    "category": "Geography",
+    "id": "135",
+    "image": "135.jpg"
+  },
+  {
+    "title": "Canada Has the Most Lakes",
+    "fact": "Canada has more lakes than any other country — approximately 879,800 lakes larger than 0.1 km², holding 20% of the world's fresh lake water. Ontario alone has more lakes than the rest of the world combined.",
+    "category": "Geography",
+    "id": "136",
+    "image": "136.jpg"
+  },
+  {
+    "title": "The Amazon River Discharges 20% of Global River Flow",
+    "fact": "The Amazon River discharges approximately 209,000 cubic meters of water per second into the Atlantic — accounting for 20% of all freshwater entering the world's oceans. Its plume of freshwater is detectable 125 miles offshore.",
+    "category": "Geography",
+    "id": "137",
+    "image": "137.jpg"
+  },
+  {
+    "title": "There Is an Underground River Beneath the Amazon",
+    "fact": "A massive underground river called the Hamza flows beneath the Amazon at about 4km depth. It's about the same length as the Amazon (6,000 km) but 100× wider and flows much slower.",
+    "category": "Geography",
+    "id": "138",
+    "image": "138.jpg"
+  },
+  {
+    "title": "Antarctica Is a Desert",
+    "fact": "Antarctica is the world's largest desert — receiving less than 200mm of precipitation per year, comparable to the Sahara. The Dry Valleys of Antarctica are so arid they haven't seen rain or snow in approximately 2 million years.",
+    "category": "Geography",
+    "id": "139",
+    "image": "139.jpg"
+  },
+  {
+    "title": "The Mariana Trench Is Deeper Than Everest Is Tall",
+    "fact": "The Challenger Deep in the Mariana Trench reaches 10,935 m below sea level — about 2,000 m deeper than Everest is tall. Less than 25 people have visited the bottom; more have been to the Moon.",
+    "category": "Geography",
+    "id": "140",
+    "image": "140.jpg"
+  },
+  {
+    "title": "Iceland Has No Army",
+    "fact": "Iceland has no military (only a coast guard) and has been at peace since 1262. It consistently ranks as one of the world's safest countries and spends its defense budget on education, healthcare, and renewable energy instead.",
+    "category": "Geography",
+    "id": "141",
+    "image": "141.jpg"
+  },
+  {
+    "title": "Brazil Has No McDonalds Free Zone",
+    "fact": "Every country in South America except Suriname, Guyana, Bolivia and French Guiana has McDonald's. Bolivia removed the fast food chain in 2002 and it never returned — Bolivians celebrated with a documentary called 'Why McDonald's Left Bolivia'.",
+    "category": "Geography",
+    "id": "142",
+    "image": "142.jpg"
+  },
+  {
+    "title": "Honey Never Spoils",
+    "fact": "Archaeologists have found 3,000-year-old honey in Egyptian tombs that was still perfectly edible. Honey's low moisture, acidic pH, and natural hydrogen peroxide make it impossible for bacteria to survive.",
+    "category": "Food",
+    "id": "143",
+    "image": "143.jpg"
+  },
+  {
+    "title": "Apples Are More Effective Than Coffee",
+    "fact": "The natural sugars and vitamins in apples provide more sustained alertness than caffeine. Apples contain quercetin, fiber, and B vitamins that stabilize blood glucose and provide longer-lasting energy without a caffeine crash.",
+    "category": "Food",
+    "id": "144",
+    "image": "144.jpg"
+  },
+  {
+    "title": "Pineapple Dissolves Meat",
+    "fact": "Pineapple contains bromelain — a protease enzyme that literally digests proteins and can dissolve meat. It's also why pineapple causes that tingling sensation in your mouth: it's slowly dissolving the proteins on your tongue.",
+    "category": "Food",
+    "id": "145",
+    "image": "145.jpg"
+  },
+  {
+    "title": "Carrots Were Originally Purple",
+    "fact": "Wild carrots were purple and white. The familiar orange carrot was cultivated by Dutch growers in the 17th century, reportedly as a tribute to William of Orange. It became dominant because it grew larger and tasted better.",
+    "category": "Food",
+    "id": "146",
+    "image": "146.jpg"
+  },
+  {
+    "title": "White Chocolate Is Not Actually Chocolate",
+    "fact": "White chocolate contains no cocoa solids — only cocoa butter, milk, and sugar. Since chocolate is defined by cocoa solids content, white chocolate legally cannot be called 'chocolate' in many countries.",
+    "category": "Food",
+    "id": "147",
+    "image": "147.jpg"
+  },
+  {
+    "title": "Strawberries Are Not Berries",
+    "fact": "Botanically, strawberries are 'aggregate accessory fruits' — the red fleshy part is enlarged receptacle tissue, not the fruit. The tiny seeds on the outside are the actual fruits. Bananas, avocados, and tomatoes are true berries.",
+    "category": "Food",
+    "id": "148",
+    "image": "148.jpg"
+  },
+  {
+    "title": "Cheese Is the Most Stolen Food",
+    "fact": "Cheese is the world's most stolen food, accounting for about 4% of all cheese produced. It's so commonly stolen from supermarkets that it's called 'the most shoplifted food in the world' by the Centre for Retail Research.",
+    "category": "Food",
+    "id": "149",
+    "image": "149.jpg"
+  },
+  {
+    "title": "Chocolate Was Once Used as Currency",
+    "fact": "The Aztecs used cacao beans as currency — 100 cacao beans could buy a turkey. Spanish conquistadors were so confused by cacao-for-gold trades that some threw the 'brown almonds' overboard, not understanding their value.",
+    "category": "Food",
+    "id": "150",
+    "image": "150.jpg"
+  },
+  {
+    "title": "Nutmeg Is Psychedelic in Large Doses",
+    "fact": "Nutmeg contains myristicin and elemicin — psychoactive compounds that cause hallucinations in doses of 1–2 teaspoons. However, the severe nausea, vomiting, and 48-hour hangover make it a deeply unpleasant experience.",
+    "category": "Food",
+    "id": "151",
+    "image": "151.jpg"
+  },
+  {
+    "title": "Garlic Was Used as Antibiotic in WWI",
+    "fact": "During WWI, when antibiotics were unavailable, British doctors dressed wounds with raw garlic juice. Modern science confirms allicin in garlic is a broad-spectrum antimicrobial that kills bacteria including MRSA.",
+    "category": "Food",
+    "id": "152",
+    "image": "152.jpg"
+  },
+  {
+    "title": "Ketchup Was Once Sold as Medicine",
+    "fact": "In the 1830s, Dr. John Cook Bennett prescribed tomato ketchup (tomato extract) as medicine for liver disease, diarrhea, and indigestion. Tomato ketchup pills were sold commercially until the 1850s.",
+    "category": "Food",
+    "id": "153",
+    "image": "153.jpg"
+  },
+  {
+    "title": "Coffee Was Discovered by a Goat Herder",
+    "fact": "According to legend, coffee was discovered in 850 AD when Ethiopian goat herder Kaldi noticed his goats became unusually energetic after eating berries from a certain tree. He tried them himself — and coffee culture was born.",
+    "category": "Food",
+    "id": "154",
+    "image": "154.jpg"
+  },
+  {
+    "title": "Avocados Are Evolutionary Anachronisms",
+    "fact": "Avocados evolved their large seeds to be dispersed by giant ground sloths and mastodons, which went extinct 13,000 years ago. They should be extinct without their seed dispersers — but humans saved them by cultivating them.",
+    "category": "Food",
+    "id": "155",
+    "image": "155.jpg"
+  },
+  {
+    "title": "Cashews Cannot Be Sold in Shells",
+    "fact": "Raw cashews are toxic — they contain urushiol (the same chemical in poison ivy) in their shells. All cashews must be roasted or steamed at high heat to destroy the toxin before selling. There are literally no truly 'raw' cashews.",
+    "category": "Food",
+    "id": "156",
+    "image": "156.jpg"
+  },
+  {
+    "title": "The First Computer Bug Was an Actual Bug",
+    "fact": "In 1947, Grace Hopper's team at Harvard found a moth trapped in a relay of the Mark II computer, causing errors. They taped it to their log with the note 'First actual case of bug being found'. This popularized the term 'computer bug'.",
+    "category": "Technology",
+    "id": "157",
+    "image": "157.jpg"
+  },
+  {
+    "title": "The Internet Weighs 50 Grams",
+    "fact": "Physicist Russell Seitz calculated that all the electrons flowing through the internet's infrastructure at any given moment weigh about 50 grams — roughly the weight of a strawberry.",
+    "category": "Technology",
+    "id": "158",
+    "image": "158.jpg"
+  },
+  {
+    "title": "More People Have Mobile Phones Than Toilets",
+    "fact": "As of recent years, approximately 6 billion people have access to mobile phones while only 4.5 billion have access to toilets. More humans own a smartphone than a flush toilet.",
+    "category": "Technology",
+    "id": "159",
+    "image": "159.jpg"
+  },
+  {
+    "title": "The QWERTY Keyboard Was Designed to Slow You Down",
+    "fact": "The QWERTY layout was designed in the 1870s to prevent typewriter jams by separating commonly used letter pairs. Despite being obsolete, it became the global standard and faster alternatives like Dvorak never caught on.",
+    "category": "Technology",
+    "id": "160",
+    "image": "160.jpg"
+  },
+  {
+    "title": "YouTube's First Video Was 18 Seconds",
+    "fact": "The first video uploaded to YouTube on April 23, 2005 was 'Me at the zoo' by co-founder Jawed Karim — an 18-second clip of him at the San Diego Zoo talking about elephants. It now has over 200 million views.",
+    "category": "Technology",
+    "id": "161",
+    "image": "161.jpg"
+  },
+  {
+    "title": "GPS Depends on Einstein's Theory of Relativity",
+    "fact": "GPS satellites must correct their atomic clocks daily for both special and general relativity effects. Without these corrections, GPS would drift by 10 km per day. Einstein's 1915 theory directly enables your phone's navigation.",
+    "category": "Technology",
+    "id": "162",
+    "image": "162.jpg"
+  },
+  {
+    "title": "Emails Have Been Sent Since Before the Internet",
+    "fact": "Email predates the internet — Ray Tomlinson sent the first email in 1971 on ARPANET (the internet's predecessor) between two machines in the same room. He chose the @ symbol to separate user from machine, which we still use.",
+    "category": "Technology",
+    "id": "163",
+    "image": "163.jpg"
+  },
+  {
+    "title": "The First Smartphone Was in 1994",
+    "fact": "IBM's Simon Personal Communicator, released in 1994, was the first true smartphone — it had a touchscreen, apps, email, a calendar, and could make calls. Apple's iPhone came 13 years later but popularized the form factor.",
+    "category": "Technology",
+    "id": "164",
+    "image": "164.jpg"
+  },
+  {
+    "title": "Wi-Fi Was Invented to Detect Black Holes",
+    "fact": "Wi-Fi technology was developed by Australian astronomer John O'Sullivan in the 1990s while trying to detect radio waves from evaporating black holes. The signal-cleaning algorithm he developed became the basis of Wi-Fi.",
+    "category": "Technology",
+    "id": "165",
+    "image": "165.jpg"
+  },
+  {
+    "title": "Apollo 11 Had Less Computing Power Than Your Phone",
+    "fact": "The Apollo Guidance Computer that landed humans on the Moon had 4KB of RAM and ran at 0.043 MHz. A modern smartphone is roughly 1 million times more powerful. The Moon mission was navigated primarily by human skill and mathematics.",
+    "category": "Technology",
+    "id": "166",
+    "image": "166.jpg"
+  },
+  {
+    "title": "The First Computer Virus Was Written as a Prank",
+    "fact": "The 'Elk Cloner' virus (1982) was written by 15-year-old Rich Skrenta as a prank. It spread via floppy disk and displayed a silly poem. It became the first widespread computer virus in history — started by a bored teenager.",
+    "category": "Technology",
+    "id": "167",
+    "image": "167.jpg"
+  },
+  {
+    "title": "Google Was Almost Named BackRub",
+    "fact": "Before becoming Google, the search engine was called 'BackRub' — referring to its method of ranking pages by backlinks. Larry Page and Sergey Brin renamed it Google (a misspelling of 'googol') in 1997.",
+    "category": "Technology",
+    "id": "168",
+    "image": "168.jpg"
+  },
+  {
+    "title": "The Domain Name pizza.com Sold for $2.6 Million",
+    "fact": "In 2008, pizza.com sold for $2.6 million — making it one of the most expensive domain sales in history. Sex.com was sold for $13 million in 2010, and Insurance.com went for $35.6 million in 2010.",
+    "category": "Technology",
+    "id": "169",
+    "image": "169.jpg"
+  },
+  {
+    "title": "The GIF Format Is Older Than the World Wide Web",
+    "fact": "The GIF image format was created by CompuServe in 1987 — two years before Tim Berners-Lee invented the World Wide Web in 1989. Animated GIFs are thus older than the internet as we know it.",
+    "category": "Technology",
+    "id": "170",
+    "image": "170.jpg"
   }
 ]
