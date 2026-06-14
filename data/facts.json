@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "title": "Octopuses Have Three Hearts",
+    "fact": "An octopus has three hearts: two pump blood through the gills, while the third pumps it to the rest of the body. Interestingly, the main heart actually stops beating when the octopus swims, which is why they prefer crawling over swimming.",
+    "category": "Animals",
+    "image": "octopus.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Honey Never Spoils",
+    "fact": "Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. Honey's low moisture content and acidic pH make it nearly impossible for bacteria to survive in it.",
+    "category": "Food",
+    "image": "honey.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Bananas Are Berries",
+    "fact": "Botanically speaking, bananas are berries because they develop from a single flower with one ovary. Meanwhile, strawberries are not true berries at all — they're classified as 'aggregate accessory fruits'.",
+    "category": "Science",
+    "image": "banana.jpg"
+  },
+  {
+    "id": "4",
+    "title": "A Day on Venus is Longer Than its Year",
+    "fact": "Venus takes about 243 Earth days to rotate once on its axis, but only about 225 Earth days to orbit the Sun. That means a single day on Venus is actually longer than its entire year.",
+    "category": "Space",
+    "image": "venus.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Sharks Existed Before Trees",
+    "fact": "Sharks have been swimming in Earth's oceans for about 400 million years, while the earliest trees appeared around 350 million years ago. That means sharks predate trees by roughly 50 million years.",
+    "category": "History",
+    "image": "shark.jpg"
+  },
+  {
+    "id": "6",
+    "title": "The Eiffel Tower Grows in Summer",
+    "fact": "Iron expands when heated, so during hot summer days the Eiffel Tower can grow by up to 15 centimeters taller due to thermal expansion of its iron structure.",
+    "category": "Geography",
+    "image": "eiffel.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Your Brain Uses 20% of Your Energy",
+    "fact": "Despite making up only about 2% of your total body weight, the human brain consumes roughly 20% of your body's total energy and oxygen intake, even while you sleep.",
+    "category": "Human Body",
+    "image": "brain.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Wombat Poop is Cube-Shaped",
+    "fact": "Wombats are the only known animals that produce cube-shaped droppings. Scientists believe this unique shape helps the poop stay stacked on rocks and logs without rolling away, which wombats use to mark their territory.",
+    "category": "Animals",
+    "image": "wombat.jpg"
+  },
+  {
+    "id": "9",
+    "title": "There Are More Stars Than Grains of Sand",
+    "fact": "Astronomers estimate there are roughly 200 billion trillion stars in the observable universe — a number that vastly exceeds all the grains of sand on every beach and desert on Earth combined.",
+    "category": "Space",
+    "image": "stars.jpg"
+  },
+  {
+    "id": "10",
+    "title": "The Inventor of the Frisbee Became One",
+    "fact": "Walter Morrison, who invented the Frisbee in the 1950s, requested that after his death his ashes be molded into special edition Frisbee discs and given to family members.",
+    "category": "History",
+    "image": "frisbee.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Hot Water Can Freeze Faster Than Cold",
+    "fact": "Under certain conditions, hot water can freeze faster than cold water — a phenomenon called the Mpemba effect. Scientists still debate the exact causes, which may involve evaporation, convection currents, and dissolved gases.",
+    "category": "Science",
+    "image": "ice.jpg"
+  },
+  {
+    "id": "12",
+    "title": "Some Frogs Can Survive Being Frozen",
+    "fact": "The wood frog can survive being frozen solid for weeks during winter. Its body produces high levels of glucose that act as a natural antifreeze, protecting its cells from damage until it thaws and hops away.",
+    "category": "Animals",
+    "image": "frog.jpg"
+  }
+]
