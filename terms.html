@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Terms of Service — Mind Bites</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --brand: #7C3AED;
+    --brand-light: #EDE9FE;
+    --gold: #F59E0B;
+    --text: #1C1917;
+    --muted: #6B7280;
+    --border: #E5E7EB;
+    --surface: #F9FAFB;
+    --white: #FFFFFF;
+    --radius: 12px;
+    --max-w: 780px;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-size: 16px;
+    line-height: 1.75;
+    color: var(--text);
+    background: var(--white);
+  }
+
+  header {
+    background: linear-gradient(135deg, #1E1B4B 0%, #3730A3 55%, #4338CA 100%);
+    padding: 56px 24px 48px;
+    text-align: center;
+  }
+
+  .brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: rgba(255,255,255,0.12);
+    border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 50px;
+    padding: 8px 20px;
+    margin-bottom: 28px;
+    text-decoration: none;
+  }
+
+  .brand-emoji { font-size: 22px; }
+  .brand-text { font-size: 16px; font-weight: 700; color: #fff; letter-spacing: 0.3px; }
+  .brand-text span { color: var(--gold); }
+
+  header h1 { font-size: clamp(28px, 5vw, 40px); font-weight: 800; color: #fff; line-height: 1.2; margin-bottom: 12px; }
+  header p { font-size: 15px; color: rgba(255,255,255,0.72); max-width: 480px; margin: 0 auto; }
+
+  .meta-row { display: flex; justify-content: center; gap: 20px; margin-top: 20px; flex-wrap: wrap; }
+  .meta-badge { background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.25); border-radius: 6px; padding: 4px 14px; font-size: 12px; color: rgba(255,255,255,0.85); font-weight: 600; letter-spacing: 0.5px; }
+
+  main { max-width: var(--max-w); margin: 0 auto; padding: 56px 24px 80px; }
+
+  .toc { background: var(--surface); border: 1px solid var(--border); border-left: 4px solid var(--brand); border-radius: var(--radius); padding: 24px 28px; margin-bottom: 48px; }
+  .toc h2 { font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--brand); margin-bottom: 16px; }
+  .toc ol { padding-left: 20px; display: grid; grid-template-columns: 1fr 1fr; gap: 4px 32px; }
+  .toc li { font-size: 14px; }
+  .toc a { color: var(--muted); text-decoration: none; transition: color 0.15s; }
+  .toc a:hover { color: var(--brand); }
+
+  section { margin-bottom: 44px; scroll-margin-top: 80px; }
+
+  h2 { font-size: 22px; font-weight: 800; color: var(--text); margin-bottom: 6px; display: flex; align-items: center; gap: 10px; }
+
+  .section-icon { width: 32px; height: 32px; border-radius: 8px; background: var(--brand-light); display: inline-flex; align-items: center; justify-content: center; font-size: 16px; flex-shrink: 0; }
+  .section-divider { width: 100%; height: 1px; background: var(--border); margin: 10px 0 18px; }
+
+  p { margin-bottom: 14px; }
+  p:last-child { margin-bottom: 0; }
+  ul, ol { padding-left: 22px; margin-bottom: 14px; }
+  li { margin-bottom: 6px; }
+  strong { font-weight: 700; }
+
+  .highlight-box { background: var(--brand-light); border-radius: var(--radius); padding: 18px 22px; margin: 20px 0; border-left: 3px solid var(--brand); }
+  .highlight-box p { font-size: 14.5px; margin: 0; color: #3730A3; }
+
+  .warning-box { background: #FFF7ED; border-radius: var(--radius); padding: 18px 22px; margin: 20px 0; border-left: 3px solid #F59E0B; }
+  .warning-box p { font-size: 14.5px; margin: 0; color: #92400E; }
+
+  .contact-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 24px; display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 16px; }
+  .contact-item label { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; color: var(--muted); display: block; margin-bottom: 4px; }
+  .contact-item a { color: var(--brand); text-decoration: none; font-weight: 600; font-size: 15px; }
+
+  footer { background: var(--surface); border-top: 1px solid var(--border); padding: 28px 24px; text-align: center; }
+  footer p { font-size: 13px; color: var(--muted); margin: 0; }
+  footer a { color: var(--brand); text-decoration: none; font-weight: 600; }
+
+  @media (max-width: 540px) { .toc ol { grid-template-columns: 1fr; } .contact-card { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+
+<header>
+  <a class="brand" href="#">
+    <span class="brand-emoji">🧠</span>
+    <span class="brand-text">Mind <span>Bites</span></span>
+  </a>
+  <h1>Terms of Service</h1>
+  <p>Please read these terms carefully before using Mind Bites.</p>
+  <div class="meta-row">
+    <span class="meta-badge">Effective: 14 June 2025</span>
+    <span class="meta-badge">Version 1.0</span>
+    <span class="meta-badge">Applies to: Android &amp; iOS</span>
+  </div>
+</header>
+
+<main>
+
+  <nav class="toc" aria-label="Contents">
+    <h2>Contents</h2>
+    <ol>
+      <li><a href="#acceptance">Acceptance</a></li>
+      <li><a href="#description">App Description</a></li>
+      <li><a href="#license">License</a></li>
+      <li><a href="#content">Content &amp; Accuracy</a></li>
+      <li><a href="#ads">Advertising</a></li>
+      <li><a href="#user-conduct">User Conduct</a></li>
+      <li><a href="#ip">Intellectual Property</a></li>
+      <li><a href="#disclaimer">Disclaimers</a></li>
+      <li><a href="#liability">Limitation of Liability</a></li>
+      <li><a href="#termination">Termination</a></li>
+      <li><a href="#governing">Governing Law</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ol>
+  </nav>
+
+  <section id="acceptance">
+    <h2><span class="section-icon">✅</span> Acceptance of Terms</h2>
+    <div class="section-divider"></div>
+    <p>By downloading, installing, or using the Mind Bites mobile application ("App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the App.</p>
+    <p>These Terms apply to all users of the App on all platforms (Android and iOS). Use of the App is also subject to our <a href="privacy.html">Privacy Policy</a>, which is incorporated into these Terms by reference.</p>
+    <div class="highlight-box">
+      <p>These Terms constitute a legal agreement between you and the developer of Mind Bites ("we", "us", "our"). By tapping "Install" on the Play Store or App Store, you accept these Terms.</p>
+    </div>
+  </section>
+
+  <section id="description">
+    <h2><span class="section-icon">📖</span> App Description</h2>
+    <div class="section-divider"></div>
+    <p>Mind Bites is a free educational and entertainment application that presents curated facts across categories including Animals, Space, Science, History, Human Body, Geography, Food, and Technology. The App features:</p>
+    <ul>
+      <li>An infinite, swipeable fact feed with AI-generated illustrative images</li>
+      <li>Category filtering and full-text search</li>
+      <li>Local read-progress tracking</li>
+      <li>Content delivered via a static GitHub CDN (no user accounts required)</li>
+      <li>Display advertising via Google AdMob</li>
+    </ul>
+    <p>The App is provided free of charge and is supported by advertising revenue.</p>
+  </section>
+
+  <section id="license">
+    <h2><span class="section-icon">📄</span> License to Use</h2>
+    <div class="section-divider"></div>
+    <p>Subject to your compliance with these Terms, we grant you a <strong>limited, non-exclusive, non-transferable, revocable license</strong> to download and use the App on a device you own or control, solely for your personal, non-commercial purposes.</p>
+    <p>You may <strong>not</strong>:</p>
+    <ul>
+      <li>Copy, modify, distribute, sell, or sublicense the App or any of its content</li>
+      <li>Reverse-engineer, decompile, or disassemble the App (except where required by law)</li>
+      <li>Use the App for any commercial purpose without our express written consent</li>
+      <li>Attempt to circumvent, disable, or interfere with security-related features</li>
+      <li>Scrape or systematically download content from the App or its CDN</li>
+    </ul>
+  </section>
+
+  <section id="content">
+    <h2><span class="section-icon">📚</span> Content &amp; Accuracy</h2>
+    <div class="section-divider"></div>
+    <p>The facts displayed in Mind Bites are curated for entertainment and general education. While we strive for accuracy, we make <strong>no warranty</strong> that any fact, statistic, or statement in the App is accurate, complete, current, or error-free.</p>
+    <p>Content in Mind Bites should not be relied upon for:</p>
+    <ul>
+      <li>Medical, legal, financial, or professional advice</li>
+      <li>Academic research or citation</li>
+      <li>Safety-critical decisions of any kind</li>
+    </ul>
+    <div class="warning-box">
+      <p>If you believe a fact in the App is materially inaccurate or misleading, please contact us so we can review and correct it.</p>
+    </div>
+    <p>Images in the App are generated by AI models (Stable Diffusion) for illustrative purposes only. They may not accurately represent the subjects depicted and are not intended as factual reference images.</p>
+  </section>
+
+  <section id="ads">
+    <h2><span class="section-icon">📢</span> Advertising</h2>
+    <div class="section-divider"></div>
+    <p>Mind Bites displays advertisements provided by <strong>Google AdMob</strong>. By using the App you agree to the display of these advertisements as part of the free-to-use experience.</p>
+    <p>We are not responsible for the content of third-party advertisements. If you encounter an advertisement that is offensive, inaccurate, or inappropriate, please report it through the AdMob reporting mechanism or contact us.</p>
+    <p>We do not endorse any product, service, or organisation advertised within the App.</p>
+  </section>
+
+  <section id="user-conduct">
+    <h2><span class="section-icon">🤝</span> User Conduct</h2>
+    <div class="section-divider"></div>
+    <p>Mind Bites is a passive content-consumption app — there are no user-generated posts, comments, or submissions. However, you agree not to use the App in any way that:</p>
+    <ul>
+      <li>Violates any applicable law or regulation</li>
+      <li>Infringes the rights of any third party</li>
+      <li>Attempts to gain unauthorised access to our systems or the GitHub CDN</li>
+      <li>Interferes with the proper functioning of the App</li>
+      <li>Is fraudulent, deceptive, or harmful</li>
+    </ul>
+  </section>
+
+  <section id="ip">
+    <h2><span class="section-icon">©</span> Intellectual Property</h2>
+    <div class="section-divider"></div>
+    <p>The Mind Bites app — including its name, logo, design, code, UI layout, and curated content — is owned by us or licensed to us and is protected by copyright, trademark, and other intellectual property laws.</p>
+    <p>The underlying facts in the App are drawn from public-domain scientific and historical knowledge. The <em>compilation, curation, and presentation</em> of those facts, along with all associated images, remain our intellectual property.</p>
+    <p>Nothing in these Terms transfers any intellectual property rights to you beyond the limited license described above.</p>
+  </section>
+
+  <section id="disclaimer">
+    <h2><span class="section-icon">⚠️</span> Disclaimers</h2>
+    <div class="section-divider"></div>
+    <p>THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.</p>
+    <p>We do not warrant that:</p>
+    <ul>
+      <li>The App will be available at all times or operate error-free</li>
+      <li>Content will be accurate, complete, or up to date</li>
+      <li>The App will be free of viruses or other harmful components</li>
+      <li>Defects will be corrected</li>
+    </ul>
+    <p>Some jurisdictions do not allow the exclusion of implied warranties. In such cases, the above exclusion applies to the maximum extent permitted by law.</p>
+  </section>
+
+  <section id="liability">
+    <h2><span class="section-icon">🛡️</span> Limitation of Liability</h2>
+    <div class="section-divider"></div>
+    <p>TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF THE APP, INCLUDING BUT NOT LIMITED TO LOSS OF DATA, LOSS OF PROFITS, OR PERSONAL INJURY.</p>
+    <p>OUR TOTAL LIABILITY TO YOU FOR ALL CLAIMS ARISING OUT OF OR RELATED TO THESE TERMS OR THE APP SHALL NOT EXCEED THE AMOUNT YOU PAID FOR THE APP IN THE TWELVE MONTHS PRECEDING THE CLAIM (WHICH, AS THE APP IS FREE, IS ZERO).</p>
+    <p>Some jurisdictions do not allow these limitations. In such cases, the limitations apply to the fullest extent permitted by law.</p>
+  </section>
+
+  <section id="termination">
+    <h2><span class="section-icon">🔚</span> Termination</h2>
+    <div class="section-divider"></div>
+    <p>We reserve the right to terminate or suspend your access to the App at any time, without notice, for any reason including violation of these Terms.</p>
+    <p>You may terminate these Terms at any time by uninstalling the App from your device. Upon uninstallation, all locally stored data (read history, cached facts) will be permanently deleted from your device.</p>
+    <p>Sections that by their nature should survive termination (Disclaimers, Limitation of Liability, Governing Law) will survive.</p>
+  </section>
+
+  <section id="governing">
+    <h2><span class="section-icon">⚖️</span> Governing Law</h2>
+    <div class="section-divider"></div>
+    <p>These Terms are governed by the laws of <strong>India</strong>, without regard to its conflict of law provisions. Any disputes arising under these Terms shall be subject to the exclusive jurisdiction of the courts of <strong>Bengaluru, Karnataka, India</strong>.</p>
+    <p>If any provision of these Terms is found to be unenforceable, the remaining provisions will continue in full force and effect.</p>
+    <p>Our failure to enforce any provision of these Terms does not constitute a waiver of our right to enforce it in the future.</p>
+  </section>
+
+  <section id="contact">
+    <h2><span class="section-icon">✉️</span> Contact</h2>
+    <div class="section-divider"></div>
+    <p>For questions about these Terms, please contact:</p>
+    <div class="contact-card">
+      <div class="contact-item">
+        <label>Legal enquiries</label>
+        <a href="mailto:factictionary@gmail.com">factictionary@gmail.com</a>
+      </div>
+      <div class="contact-item">
+        <label>General support</label>
+        <a href="mailto:factictionary@gmail.com">factictionary@gmail.com</a>
+      </div>
+      <div class="contact-item">
+        <label>Response time</label>
+        <span style="font-size:15px; font-weight:600;">Within 48 hours</span>
+      </div>
+      <div class="contact-item">
+        <label>Jurisdiction</label>
+        <span style="font-size:15px; font-weight:600;">Bengaluru, India</span>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <p>© 2025 Mind Bites. All rights reserved. &nbsp;|&nbsp; <a href="privacy_policy.html">Privacy Policy</a></p>
+</footer>
+
+</body>
+</html>
