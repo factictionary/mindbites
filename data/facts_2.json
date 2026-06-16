@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Your Stomach Acid Can Dissolve Metal",
+    "fact": "Gastric acid in your stomach has a pH of 1-2, which is strong enough to dissolve some metals. It can break down food and kill bacteria that enter your digestive system.",
+    "category": "Human Body",
+    "id": "101",
+    "image": "101.jpg"
+  },
+  {
+    "title": "The Sun Is 93 Million Miles Away",
+    "fact": "The Sun is approximately 93 million miles (150 million km) from Earth. Light from the Sun takes about 8 minutes and 20 seconds to reach us.",
+    "category": "Space",
+    "id": "102",
+    "image": "102.jpg"
+  },
+  {
+    "title": "Crocodiles Can't Stick Their Tongue Out",
+    "fact": "A crocodile's tongue is held in place by a membrane and cannot move. However, they have salt glands on their tongues to help excrete excess salt from seawater.",
+    "category": "Animals",
+    "id": "103",
+    "image": "103.jpg"
+  },
+  {
+    "title": "The Longest River in Europe Is 3,530 km",
+    "fact": "The Volga River in Russia is the longest river in Europe, stretching 3,530 kilometers. It flows into the Caspian Sea and drains about one-third of European Russia.",
+    "category": "Geography",
+    "id": "104",
+    "image": "104.jpg"
+  },
+  {
+    "title": "A Byte Contains 8 Bits",
+    "fact": "A byte is the basic unit of digital information, consisting of 8 bits. Each bit can be either 0 or 1, giving 256 possible combinations per byte.",
+    "category": "Technology",
+    "id": "105",
+    "image": "105.jpg"
+  },
+  {
+    "title": "Forests Cover 31% of Global Land Area",
+    "fact": "Forests cover approximately 31% of the world's land area, providing habitat for 80% of terrestrial biodiversity. They also store about 45% of carbon stored on land.",
+    "category": "Nature",
+    "id": "106",
+    "image": "106.jpg"
+  },
+  {
+    "title": "Paper Was Invented in China Around 100 CE",
+    "fact": "Cai Lun invented paper in China around 100 CE, using bark, hemp, and rags. This invention revolutionized communication and record-keeping worldwide.",
+    "category": "History",
+    "id": "107",
+    "image": "107.jpg"
+  },
+  {
+    "title": "Owls Can Rotate Their Heads 270 Degrees",
+    "fact": "Owls have flexible necks that allow them to rotate their heads up to 270 degrees. This compensates for their fixed eyeballs that cannot move in their sockets.",
+    "category": "Animals",
+    "id": "108",
+    "image": "108.jpg"
+  },
+  {
+    "title": "The Universe Is 13.8 Billion Years Old",
+    "fact": "The universe began with the Big Bang approximately 13.8 billion years ago. The oldest light we can see comes from about 380,000 years after this event.",
+    "category": "Space",
+    "id": "109",
+    "image": "109.jpg"
+  },
+  {
+    "title": "Your DNA Would Stretch to Pluto and Back",
+    "fact": "If you uncoiled all the DNA in your body and stretched it out, it would reach about 10 billion miles, enough to go to Pluto and back twice.",
+    "category": "Human Body",
+    "id": "110",
+    "image": "110.jpg"
+  },
+  {
+    "title": "Mount Kilimanjaro Is a Volcano",
+    "fact": "Mount Kilimanjaro is a dormant volcano in Tanzania with three volcanic cones: Kibo, Mawenzi, and Shira. It is the highest mountain in Africa at 5,895 meters.",
+    "category": "Geography",
+    "id": "111",
+    "image": "111.jpg"
+  },
+  {
+    "title": "Bees Can Recognize Human Faces",
+    "fact": "Honeybees can recognize and remember human faces using a method called configural processing, similar to how humans recognize faces.",
+    "category": "Animals",
+    "id": "112",
+    "image": "112.jpg"
+  },
+  {
+    "title": "The First Web Browser Was Created in 1990",
+    "fact": "Tim Berners-Lee created the first web browser called WorldWideWeb in 1990 at CERN. It was later renamed Nexus to avoid confusion with the web itself.",
+    "category": "Technology",
+    "id": "113",
+    "image": "113.jpg"
+  },
+  {
+    "title": "The Amazon River Has 3,000 Species of Fish",
+    "fact": "The Amazon River basin contains approximately 3,000 known species of fish, with many more yet to be discovered. This is more fish species than in the entire Atlantic Ocean.",
+    "category": "Nature",
+    "id": "114",
+    "image": "114.jpg"
+  },
+  {
+    "title": "The Pyramids Were Built by Paid Workers",
+    "fact": "Recent evidence shows the Great Pyramids were built by paid workers, not slaves. These workers were well-fed and received medical care, and were buried in tombs near the pyramids.",
+    "category": "History",
+    "id": "115",
+    "image": "115.jpg"
+  },
+  {
+    "title": "Starfish Have Blue Blood",
+    "fact": "Starfish have pale blue blood due to hemocyanin containing copper, instead of iron-based hemoglobin. This is more efficient in cold, low-oxygen environments.",
+    "category": "Animals",
+    "id": "116",
+    "image": "116.jpg"
+  },
+  {
+    "title": "Neutron Stars Spin 600 Times Per Second",
+    "fact": "Neutron stars are the fastest-spinning objects in the universe. Some pulsars, a type of neutron star, can rotate up to 716 times per second.",
+    "category": "Space",
+    "id": "117",
+    "image": "117.jpg"
+  },
+  {
+    "title": "Your Brain Is 73% Water",
+    "fact": "The human brain is composed of approximately 73% water. Even slight dehydration can affect cognitive function, mood, and concentration.",
+    "category": "Human Body",
+    "id": "118",
+    "image": "118.jpg"
+  },
+  {
+    "title": "Iceland Has No Mosquitoes",
+    "fact": "Iceland is one of few countries with no native mosquito species. Scientists believe the country's harsh climate cycles of freezing and thawing prevent mosquito larvae from surviving.",
+    "category": "Geography",
+    "id": "119",
+    "image": "119.jpg"
+  },
+  {
+    "title": "Elephants Use seismic Communication",
+    "fact": "Elephants can communicate through seismic vibrations that travel through the ground. They use special sensors in their feet and trunk to detect these signals.",
+    "category": "Animals",
+    "id": "120",
+    "image": "120.jpg"
+  },
+  {
+    "title": "USB Stands for Universal Serial Bus",
+    "fact": "USB was developed in the mid-1990s by Intel, Microsoft, Compaq, and others to standardize computer connections. The USB 1.0 could transfer data at 12 Mbps.",
+    "category": "Technology",
+    "id": "121",
+    "image": "121.jpg"
+  },
+  {
+    "title": "Coral Reefs Support 25% of Marine Life",
+    "fact": "Coral reefs cover less than 1% of the ocean floor but support about 25% of all marine species. They are often called the 'rainforests of the sea.'",
+    "category": "Nature",
+    "id": "122",
+    "image": "122.jpg"
+  },
+  {
+    "title": "The Great Fire of London Burned 13,200 Houses",
+    "fact": "The Great Fire of London in 1666 destroyed 13,200 houses, 87 churches, and St. Paul's Cathedral. It killed about 70,000 people and burned for 4 days.",
+    "category": "History",
+    "id": "123",
+    "image": "123.jpg"
+  },
+  {
+    "title": "Frogs Don't Drink Water Through Their Mouths",
+    "fact": "Frogs absorb water through a 'drinking patch' on their belly called the ventral skin. They also absorb moisture and breathe through their skin.",
+    "category": "Animals",
+    "id": "124",
+    "image": "124.jpg"
+  },
+  {
+    "title": "The Largest Galaxy Has 100 Trillion Stars",
+    "fact": "IC 1101 is the largest known galaxy, containing over 100 trillion stars. It is about 6 million light-years in diameter, compared to the Milky Way's 100,000 light-years.",
+    "category": "Space",
+    "id": "125",
+    "image": "125.jpg"
+  },
+  {
+    "title": "Your Body Has About 60,000 Miles of Blood Vessels",
+    "fact": "If all your blood vessels were laid end to end, they would stretch about 60,000 miles. This is enough to circle the Earth more than twice.",
+    "category": "Human Body",
+    "id": "126",
+    "image": "126.jpg"
+  },
+  {
+    "title": "The Pacific Ocean Covers 63 Million Square Miles",
+    "fact": "The Pacific Ocean is the largest and deepest ocean, covering about 63 million square miles. It is larger than all the land on Earth combined.",
+    "category": "Geography",
+    "id": "127",
+    "image": "127.jpg"
+  },
+  {
+    "title": "Seahorses Travel Upright",
+    "fact": "Seahorses are the only fish species that swim upright. They use their dorsal fin for propulsion and steer with tiny pectoral fins on their sides.",
+    "category": "Animals",
+    "id": "128",
+    "image": "128.jpg"
+  },
+  {
+    "title": "The First Computer Mouse Was Made of Wood",
+    "fact": "Doug Engelbart invented the first computer mouse in 1964, which was made of wood with two wheels. It took nearly 20 years before it became commercially available.",
+    "category": "Technology",
+    "id": "129",
+    "image": "129.jpg"
+  },
+  {
+    "title": "Some Trees Can Live for Thousands of Years",
+    "fact": "Bristlecone pine trees in the USA are among the oldest living organisms, with some individuals exceeding 5,000 years. Their dead wood often remains standing for centuries.",
+    "category": "Nature",
+    "id": "130",
+    "image": "130.jpg"
+  },
+  {
+    "title": "The Berlin Wall Stood for 28 Years",
+    "fact": "The Berlin Wall was built in 1961 and fell in 1989, dividing East and West Berlin for 28 years. Over 100 people died trying to cross it.",
+    "category": "History",
+    "id": "131",
+    "image": "131.jpg"
+  },
+  {
+    "title": "Snakes Can Feel Love",
+    "fact": "Recent research suggests snakes can form bonds with humans and recognize their owners. They may show preference for familiar people and experience stress when separated.",
+    "category": "Animals",
+    "id": "132",
+    "image": "132.jpg"
+  },
+  {
+    "title": "Jupiter Has 95 Known Moons",
+    "fact": "Jupiter has 95 known moons as of 2023, the most of any planet in our solar system. The four largest are the Galilean moons: Io, Europa, Ganymede, and Callisto.",
+    "category": "Space",
+    "id": "133",
+    "image": "133.jpg"
+  },
+  {
+    "title": "You Blink About 15-20 Times Per Minute",
+    "fact": "On average, you blink 15-20 times per minute, or about 1,200 times per hour. Each blink lasts 0.1-0.4 seconds, totaling about 23 minutes of blinking daily.",
+    "category": "Human Body",
+    "id": "134",
+    "image": "134.jpg"
+  },
+  {
+    "title": "The Mariana Trench Is 36,070 Feet Deep",
+    "fact": "The Mariana Trench is the deepest part of the ocean, reaching 36,070 feet (10,994 meters). Mount Everest would fit inside with over a mile to spare.",
+    "category": "Geography",
+    "id": "135",
+    "image": "135.jpg"
+  },
+  {
+    "title": "Koalas Have Fingerprints Like Humans",
+    "fact": "Koalas have fingerprints that are almost indistinguishable from human fingerprints under a microscope. This can cause confusion at crime scenes.",
+    "category": "Animals",
+    "id": "136",
+    "image": "136.jpg"
+  },
+  {
+    "title": "The First Programmer Was a Woman",
+    "fact": "Ada Lovelace, writing in the 1840s, created the first algorithm intended for a machine. She is considered the first computer programmer.",
+    "category": "Technology",
+    "id": "137",
+    "image": "137.jpg"
+  },
+  {
+    "title": "Forests Can Create Their Own Climate",
+    "fact": "Large forests create their own microclimates through transpiration, releasing massive amounts of water vapor that can form clouds and trigger rainfall.",
+    "category": "Nature",
+    "id": "138",
+    "image": "138.jpg"
+  },
+  {
+    "title": "Shakespeare Invented 1,700 Words",
+    "fact": "William Shakespeare is credited with inventing about 1,700 words used in the English language, including 'assassination', 'bedroom', and 'lonely'.",
+    "category": "History",
+    "id": "139",
+    "image": "139.jpg"
+  },
+  {
+    "title": "Butterflies Have Compound Eyes",
+    "fact": "A butterfly's compound eye contains thousands of lenses, giving it nearly 360-degree vision. However, they see far fewer colors than humans.",
+    "category": "Animals",
+    "id": "140",
+    "image": "140.jpg"
+  },
+  {
+    "title": "The Nearest Star Is 4.24 Light-Years Away",
+    "fact": "Proxima Centauri is the closest star to our Sun at 4.24 light-years distance. At current spacecraft speeds, it would take about 73,000 years to reach it.",
+    "category": "Space",
+    "id": "141",
+    "image": "141.jpg"
+  },
+  {
+    "title": "Your Brain Uses 20% of Your Oxygen",
+    "fact": "Despite being only 2% of body weight, the brain uses 20% of the body's oxygen supply. This makes it extremely vulnerable to oxygen deprivation.",
+    "category": "Human Body",
+    "id": "142",
+    "image": "142.jpg"
+  },
+  {
+    "title": "The Amazon Rainforest Is 5.5 Million km²",
+    "fact": "The Amazon rainforest covers about 5.5 million square kilometers, spanning nine countries. It is the largest tropical rainforest in the world.",
+    "category": "Geography",
+    "id": "143",
+    "image": "143.jpg"
+  },
+  {
+    "title": "Camels Have Three Eyelids",
+    "fact": "Camels have three eyelids to protect their eyes from sand and dust. Two of the eyelids have lashes, and one is transparent to see through while protecting the eye.",
+    "category": "Animals",
+    "id": "144",
+    "image": "144.jpg"
+  },
+  {
+    "title": "The First Camera Weighed 50 Pounds",
+    "fact": "Joseph Nicéphore Niépce created the first camera in 1826, which weighed about 50 pounds and required an 8-hour exposure time to capture an image.",
+    "category": "Technology",
+    "id": "145",
+    "image": "145.jpg"
+  },
+  {
+    "title": "Trees Absorb More CO2 Than They Release",
+    "fact": "Trees absorb carbon dioxide during photosynthesis and release oxygen. A mature tree can absorb about 48 pounds of CO2 per year and produce 260 pounds of oxygen.",
+    "category": "Nature",
+    "id": "146",
+    "image": "146.jpg"
+  },
+  {
+    "title": "The Titanic Had 20 Lifeboats, Needed 48",
+    "fact": "The Titanic carried only 20 lifeboats, enough for about half the people aboard. Maritime regulations at the time did not require more.",
+    "category": "History",
+    "id": "147",
+    "image": "147.jpg"
+  },
+  {
+    "title": "Goldfish Have a Memory Span of 3 Months",
+    "fact": "Goldfish can remember things for at least 3 months, contrary to the popular myth of 3 seconds. They can be trained to respond to colors and sounds.",
+    "category": "Animals",
+    "id": "148",
+    "image": "148.jpg"
+  },
+  {
+    "title": "Uranus Orbits the Sun on Its Side",
+    "fact": "Uranus has an axial tilt of 98 degrees, essentially orbiting the Sun on its side. This was likely caused by a collision with an Earth-sized object long ago.",
+    "category": "Space",
+    "id": "149",
+    "image": "149.jpg"
+  },
+  {
+    "title": "Your Lungs Contain 300 Million Alveoli",
+    "fact": "Your lungs contain about 300 million tiny air sacs called alveoli. If spread flat, they would cover about 70 square meters, roughly half a tennis court.",
+    "category": "Human Body",
+    "id": "150",
+    "image": "150.jpg"
+  },
+  {
+    "title": "The Grand Canyon Is 277 Miles Long",
+    "fact": "The Grand Canyon in Arizona is 277 miles long, up to 18 miles wide, and over a mile deep. It was formed by the Colorado River over 5-6 million years.",
+    "category": "Geography",
+    "id": "151",
+    "image": "151.jpg"
+  },
+  {
+    "title": "Sloths Can Hold Their Breath for 40 Minutes",
+    "fact": "Sloths can hold their breath for up to 40 minutes, which is longer than dolphins. This ability helps them avoid predators and survive underwater.",
+    "category": "Animals",
+    "id": "152",
+    "image": "152.jpg"
+  },
+  {
+    "title": "The First Smartphone Was Called Simon",
+    "fact": "IBM's Simon Personal Communicator, released in 1994, is considered the first smartphone. It combined a mobile phone with a PDA and cost $899.",
+    "category": "Technology",
+    "id": "153",
+    "image": "153.jpg"
+  },
+  {
+    "title": "The Amazon Emits Less CO2 Than It Absorbs",
+    "fact": "The Amazon rainforest absorbs more carbon dioxide than it emits, acting as a major carbon sink. It stores about 100-150 billion metric tons of carbon.",
+    "category": "Nature",
+    "id": "154",
+    "image": "154.jpg"
+  },
+  {
+    "title": "The Black Death Killed 30-60% of Europe's Population",
+    "fact": "The Black Death (1347-1351) killed an estimated 75-200 million people in Eurasia, reducing Europe's population by 30-60% in just a few years.",
+    "category": "History",
+    "id": "155",
+    "image": "155.jpg"
+  },
+  {
+    "title": "Ostriches Can Run Faster Than Horses",
+    "fact": "Ostriches can run at speeds up to 45 mph (72 km/h), faster than horses which max out at about 30 mph. They are the fastest two-legged animals on land.",
+    "category": "Animals",
+    "id": "156",
+    "image": "156.jpg"
+  },
+  {
+    "title": "Neutron Stars Are 12 Miles Wide but Weigh More Than the Sun",
+    "fact": "Neutron stars pack the mass of about 1.4 suns into a sphere only 12 miles (20 km) across. A teaspoon of neutron star material would weigh billions of tons.",
+    "category": "Space",
+    "id": "157",
+    "image": "157.jpg"
+  },
+  {
+    "title": "Your Skin Weighs About 8 Pounds",
+    "fact": "The skin is the largest organ in the human body, weighing about 8 pounds (3.6 kg) in adults. It covers about 20 square feet in average adults.",
+    "category": "Human Body",
+    "id": "158",
+    "image": "158.jpg"
+  },
+  {
+    "title": "Lake Vostok Has Been Sealed for 15 Million Years",
+    "fact": "Lake Vostok in Antarctica has been isolated from the rest of the world for about 15 million years. It may contain unique forms of life never seen before.",
+    "category": "Geography",
+    "id": "159",
+    "image": "159.jpg"
+  },
+  {
+    "title": "Pigeons Can Do Math",
+    "fact": "Research has shown that pigeons can learn to rank objects by abstract numerical concepts, demonstrating mathematical abilities previously thought to be unique to primates.",
+    "category": "Animals",
+    "id": "160",
+    "image": "160.jpg"
+  },
+  {
+    "title": "The First Email Was Sent in 1971",
+    "fact": "Ray Tomlinson sent the first network email in 1971, using the @ sign to separate the user name from the computer name. He also chose QWERTYUIOP as the first message.",
+    "category": "Technology",
+    "id": "161",
+    "image": "161.jpg"
+  },
+  {
+    "title": "Forests Can Be Named After Colors",
+    "fact": "Some forests are named after their autumn colors, like Japan's 'momiji' (maple) forests that turn brilliant red. Different trees produce different color pigments.",
+    "category": "Nature",
+    "id": "162",
+    "image": "162.jpg"
+  },
+  {
+    "title": "The French Revolution Began in 1789",
+    "fact": "The French Revolution began on July 14, 1789, with the storming of the Bastille. It led to the end of the monarchy and the rise of Napoleon Bonaparte.",
+    "category": "History",
+    "id": "163",
+    "image": "163.jpg"
+  },
+  {
+    "title": "Sharks Have No Bones",
+    "fact": "Sharks are made entirely of cartilage, the same flexible material in human noses and ears. Their skeletons are much lighter, helping them stay buoyant.",
+    "category": "Animals",
+    "id": "164",
+    "image": "164.jpg"
+  },
+  {
+    "title": "There Are More Galaxies Than Stars in the Observable Universe",
+    "fact": "The observable universe contains an estimated 200 billion galaxies, each with 100-400 billion stars. No one knows how many galaxies exist beyond our observable universe.",
+    "category": "Space",
+    "id": "165",
+    "image": "165.jpg"
+  },
+  {
+    "title": "Your Brain Stops Feeling Hungry When Full",
+    "fact": "The hormone ghrelin stimulates hunger, while leptin signals fullness. Your stomach produces ghrelin, and fat cells produce leptin to regulate appetite.",
+    "category": "Human Body",
+    "id": "166",
+    "image": "166.jpg"
+  },
+  {
+    "title": "There Are 195 Countries in the World",
+    "fact": "There are 195 countries in the world: 193 are member states of the United Nations, plus 2 observer states (Vatican City and Palestine).",
+    "category": "Geography",
+    "id": "167",
+    "image": "167.jpg"
+  },
+  {
+    "title": "Parrots Can Learn to Use Tools",
+    "fact": "Some parrots, like the kea of New Zealand, have been observed using tools and solving complex problems. They can also learn to use objects as implements.",
+    "category": "Animals",
+    "id": "168",
+    "image": "168.jpg"
+  },
+  {
+    "title": "The First Computer Virus Was Created in 1971",
+    "fact": "The Creeper virus, created by Bob Thomas in 1971, was the first computer virus. It displayed the message 'I'm the Creeper: Catch me if you can!'",
+    "category": "Technology",
+    "id": "169",
+    "image": "169.jpg"
+  },
+  {
+    "title": "Trees Can Absorb Sound Pollution",
+    "fact": "Dense vegetation can reduce noise pollution by absorbing and deflecting sound waves. A row of trees can reduce noise by 6-8 decibels per 30 meters.",
+    "category": "Nature",
+    "id": "170",
+    "image": "170.jpg"
+  },
+  {
+    "title": "The Industrial Revolution Changed Work Permanently",
+    "fact": "The Industrial Revolution (1760-1840) transformed society from agricultural to industrial, introducing factories, mass production, and wage labor.",
+    "category": "History",
+    "id": "171",
+    "image": "171.jpg"
+  },
+  {
+    "title": "Salamanders Can Regrow Lost Limbs",
+    "fact": "Salamanders can regrow entire limbs, parts of their heart, liver, lungs, brain, and spinal cord. Scientists study them to understand how to trigger similar regeneration in humans.",
+    "category": "Animals",
+    "id": "172",
+    "image": "172.jpg"
+  },
+  {
+    "title": "The Sun Makes Up 99.86% of the Solar System's Mass",
+    "fact": "The Sun contains 99.86% of all the mass in the solar system. Jupiter alone makes up most of the remaining 0.14%.",
+    "category": "Space",
+    "id": "173",
+    "image": "173.jpg"
+  },
+  {
+    "title": "Your Brain Uses Electricity",
+    "fact": "The human brain generates about 20 watts of electrical power, enough to power a small light bulb. Neurons fire at speeds up to 268 mph.",
+    "category": "Human Body",
+    "id": "174",
+    "image": "174.jpg"
+  },
+  {
+    "title": "The Mediterranean Sea Is Almost Completely Surrounded by Land",
+    "fact": "The Mediterranean Sea is connected to the Atlantic Ocean only by the 8.9-mile-wide Strait of Gibraltar. It is almost entirely enclosed by Europe, Asia, and Africa.",
+    "category": "Geography",
+    "id": "175",
+    "image": "175.jpg"
+  },
+  {
+    "title": "Some Jellyfish Are Immortal",
+    "fact": "Turritopsis dohrnii, the 'immortal jellyfish,' can revert to its juvenile polyp stage after reaching maturity, theoretically living forever under ideal conditions.",
+    "category": "Animals",
+    "id": "176",
+    "image": "176.jpg"
+  },
+  {
+    "title": "HTTPS Uses Encryption for Security",
+    "fact": "HTTPS (Hypertext Transfer Protocol Secure) uses SSL/TLS encryption to protect data transmitted between browsers and servers, making online transactions safer.",
+    "category": "Technology",
+    "id": "177",
+    "image": "177.jpg"
+  },
+  {
+    "title": "Some Trees Can Communicate Through Root Systems",
+    "fact": "Trees in forests are connected by mycorrhizal fungi networks, allowing them to share nutrients and send chemical signals to warn of insect attacks.",
+    "category": "Nature",
+    "id": "178",
+    "image": "178.jpg"
+  },
+  {
+    "title": "The Roman Empire Lasted Over 500 Years",
+    "fact": "The Roman Empire lasted from 27 BCE to 476 CE, a span of over 500 years. At its height, it controlled about 5 million square kilometers.",
+    "category": "History",
+    "id": "179",
+    "image": "179.jpg"
+  },
+  {
+    "title": "Bats Are the Only Mammals Capable of Sustained Flight",
+    "fact": "While flying squirrels glide, bats are the only mammals that can truly fly. Their wings are made of a membrane stretched over elongated finger bones.",
+    "category": "Animals",
+    "id": "180",
+    "image": "180.jpg"
+  },
+  {
+    "title": "The Moon Is Slowly Moving Away from Earth",
+    "fact": "The Moon recedes from Earth at about 3.8 centimeters per year. In 600 million years, it will be too far away to completely cover the Sun during eclipses.",
+    "category": "Space",
+    "id": "181",
+    "image": "181.jpg"
+  },
+  {
+    "title": "You Produce 25,000 Quarts of Saliva in a Lifetime",
+    "fact": "The average person produces about 0.7 liters of saliva per day, totaling about 25,000 quarts over a lifetime. Saliva contains enzymes that begin digestion.",
+    "category": "Human Body",
+    "id": "182",
+    "image": "182.jpg"
+  },
+  {
+    "title": "Mount Everest Is Getting Taller",
+    "fact": "Mount Everest grows about 4 millimeters taller every year due to the collision of the Indian and Asian tectonic plates, which continues to push the Himalayas upward.",
+    "category": "Geography",
+    "id": "183",
+    "image": "183.jpg"
+  },
+  {
+    "title": "Cows Can Walk Upstairs but Not Down",
+    "fact": "Cows can walk upstairs but struggle to walk downstairs because of the angle of their knees and their heavy front ends. This is why they rarely go down steep slopes.",
+    "category": "Animals",
+    "id": "184",
+    "image": "184.jpg"
+  },
+  {
+    "title": "QR Codes Can Store Up to 2,900 Bytes",
+    "fact": "QR codes can store up to 2,953 bytes of data, which translates to about 4,296 alphanumeric characters. They use error correction to remain readable when partially damaged.",
+    "category": "Technology",
+    "id": "185",
+    "image": "185.jpg"
+  },
+  {
+    "title": "Forests Can Reduce Air Temperature",
+    "fact": "Trees can reduce ambient air temperature by up to 10 degrees Fahrenheit through shade and transpiration. A single tree can have the cooling effect of 10 room-sized air conditioners.",
+    "category": "Nature",
+    "id": "186",
+    "image": "186.jpg"
+  },
+  {
+    "title": "The First Wheel Was Used 5,500 Years Ago",
+    "fact": "The earliest known wheels date to about 3500 BCE in Mesopotamia. They were initially used for pottery before being adapted for transportation.",
+    "category": "History",
+    "id": "187",
+    "image": "187.jpg"
+  },
+  {
+    "title": "A Whale's Heart Beats Only 4-8 Times Per Minute",
+    "fact": "A blue whale's heart is the size of a small car and beats only 4-8 times per minute. Its heartbeat can be detected from 2 miles away underwater.",
+    "category": "Animals",
+    "id": "188",
+    "image": "188.jpg"
+  },
+  {
+    "title": "Light Takes 8 Minutes to Travel from Sun to Earth",
+    "fact": "Light travels at 186,000 miles per second and takes about 8 minutes and 20 seconds to reach Earth from the Sun. The Sun is 93 million miles away.",
+    "category": "Space",
+    "id": "189",
+    "image": "189.jpg"
+  },
+  {
+    "title": "Your Hair Grows About 6 Inches Per Year",
+    "fact": "On average, human hair grows about 6 inches (15 cm) per year, or about 0.3-0.4 mm per day. Hair grows faster in summer than winter.",
+    "category": "Human Body",
+    "id": "190",
+    "image": "190.jpg"
+  },
+  {
+    "title": "Australia Is Both a Country and a Continent",
+    "fact": "Australia is the smallest continent and largest island, as well as being the only continent that is also a single country. It covers about 7.7 million km².",
+    "category": "Geography",
+    "id": "191",
+    "image": "191.jpg"
+  },
+  {
+    "title": "Sea Otters Hold Hands While Sleeping",
+    "fact": "Sea otters often hold paws while sleeping to prevent drifting apart. They also wrap themselves in kelp to anchor themselves in place.",
+    "category": "Animals",
+    "id": "192",
+    "image": "192.jpg"
+  },
+  {
+    "title": "The Internet Has 4.5 Billion Users",
+    "fact": "As of 2023, about 4.5 billion people use the internet, representing about 59% of the global population. This number continues to grow every year.",
+    "category": "Technology",
+    "id": "193",
+    "image": "193.jpg"
+  },
+  {
+    "title": "Forests Can Take 100+ Years to Mature",
+    "fact": "Old-growth forests take over 100 years to develop their complex ecosystems. These forests contain the most biodiversity and store the most carbon.",
+    "category": "Nature",
+    "id": "194",
+    "image": "194.jpg"
+  },
+  {
+    "title": "The Printing Press Was Invented in 1440",
+    "fact": "Johannes Gutenberg invented the printing press around 1440, revolutionizing book production. The Gutenberg Bible was the first major book printed with movable type.",
+    "category": "History",
+    "id": "195",
+    "image": "195.jpg"
+  },
+  {
+    "title": "Penguins Propose with Pebbles",
+    "fact": "Male Adelie penguins propose to females by presenting them with carefully selected pebbles. If the female accepts, she adds it to their nest.",
+    "category": "Animals",
+    "id": "196",
+    "image": "196.jpg"
+  },
+  {
+    "title": "The Universe Has No Center",
+    "fact": "The universe has no center because it is expanding uniformly in all directions from every point. There is no special location from which to measure expansion.",
+    "category": "Space",
+    "id": "197",
+    "image": "197.jpg"
+  },
+  {
+    "title": "Your Brain Has 86 Billion Neurons",
+    "fact": "The human brain contains approximately 86 billion neurons, each connected to thousands of others via synapses. This creates a network of about 100 trillion connections.",
+    "category": "Human Body",
+    "id": "198",
+    "image": "198.jpg"
+  },
+  {
+    "title": "The Dead Sea Is the Lowest Point on Earth",
+    "fact": "The Dead Sea shoreline is the lowest exposed point on Earth's surface at 430.5 meters below sea level. It is also one of the saltiest bodies of water.",
+    "category": "Geography",
+    "id": "199",
+    "image": "199.jpg"
+  },
+  {
+    "title": "Ants Can Carry 50 Times Their Body Weight",
+    "fact": "Ants can carry objects up to 50 times their own body weight due to their strength-to-weight ratio. This is like a human carrying a car.",
+    "category": "Animals",
+    "id": "200",
+    "image": "200.jpg"
+  }
+]
