@@ -1,0 +1,64 @@
+name: Update index.json
+
+# Runs whenever a JSON file inside data/ is added, modified, or deleted.
+# Also runnable manually from the Actions tab.
+on:
+  push:
+    paths:
+      - 'data/**.json'
+  workflow_dispatch:
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # needed to push the updated index.json back
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          # Use a token that can push back (default GITHUB_TOKEN is fine for
+          # same-repo commits when contents: write is granted above)
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Regenerate index.json
+        run: |
+          python3 - << 'EOF'
+          import json, os, re
+          from pathlib import Path
+
+          data_dir = Path('data')
+
+          # Collect every *.json inside data/ EXCEPT index.json itself
+          files = sorted(
+              p.name
+              for p in data_dir.glob('*.json')
+              if p.name != 'index.json'
+          )
+
+          index_path = data_dir / 'index.json'
+          index_path.write_text(
+              json.dumps(files, indent=2, ensure_ascii=False) + '\n'
+          )
+
+          print(f'✅ index.json updated with {len(files)} file(s):')
+          for f in files:
+              print(f'   {f}')
+          EOF
+
+      - name: Check for changes
+        id: diff
+        run: |
+          git diff --quiet data/index.json && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push updated index.json
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/index.json
+          git commit -m "🤖 Auto-update index.json [skip ci]"
+          git push
+        # [skip ci] prevents this commit from triggering the workflow again
