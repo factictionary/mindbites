@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Neptune Orbits the Sun Every 165 Years",
+    "fact": "Neptune takes about 165 Earth years to complete one orbit around the Sun. Since its discovery in 1846, it has completed only one full orbit in 2011.",
+    "category": "Space",
+    "id": "601",
+    "image": "601.jpg"
+  },
+  {
+    "title": "Your Body Has 60,000 Miles of Blood Vessels",
+    "fact": "If all your blood vessels were laid end to end, they would stretch about 60,000 miles, enough to circle the Earth more than twice.",
+    "category": "Human Body",
+    "id": "602",
+    "image": "602.jpg"
+  },
+  {
+    "title": "The Pacific Ocean Covers 63 Million Square Miles",
+    "fact": "The Pacific Ocean is the largest and deepest ocean, covering about 63 million square miles. It is larger than all the land on Earth combined.",
+    "category": "Geography",
+    "id": "603",
+    "image": "603.jpg"
+  },
+  {
+    "title": "Koalas Sleep 22 Hours Per Day",
+    "fact": "Koalas sleep up to 22 hours per day to conserve energy. Their diet of eucalyptus leaves provides low nutritional value, requiring lots of rest to digest.",
+    "category": "Animals",
+    "id": "604",
+    "image": "604.jpg"
+  },
+  {
+    "title": "The First Computer Mouse Was Made of Wood",
+    "fact": "Douglas Engelbart invented the computer mouse in 1964, which was made of wood with two wheels. It took nearly 20 years before it became commercially available.",
+    "category": "Technology",
+    "id": "605",
+    "image": "605.jpg"
+  },
+  {
+    "title": "Trees Can Absorb 48 Pounds of CO2 Per Year",
+    "fact": "A single tree can absorb about 48 pounds of carbon dioxide per year and release enough oxygen for two people to breathe.",
+    "category": "Nature",
+    "id": "606",
+    "image": "606.jpg"
+  },
+  {
+    "title": "The French Revolution Began in 1789",
+    "fact": "The French Revolution began on July 14, 1789, with the storming of the Bastille. It led to the end of the monarchy and rise of Napoleon.",
+    "category": "History",
+    "id": "607",
+    "image": "607.jpg"
+  },
+  {
+    "title": "Flamingos Are Born Grey, Not Pink",
+    "fact": "Flamingos are born with grey/white feathers. They turn pink from eating shrimp and blue-green algae that contain carotenoid pigments.",
+    "category": "Animals",
+    "id": "608",
+    "image": "608.jpg"
+  },
+  {
+    "title": "The Longest Day on Mercury Is 176 Earth Days",
+    "fact": "Mercury rotates slowly, so one day (sunrise to sunrise) takes 176 Earth days. However, one year on Mercury is only 88 Earth days.",
+    "category": "Space",
+    "id": "609",
+    "image": "609.jpg"
+  },
+  {
+    "title": "Your Brain Weighs About 3 Pounds",
+    "fact": "The adult human brain weighs about 3 pounds (1.4 kg) and contains 86 billion neurons. Despite being only 2% of body weight, it uses 20% of energy.",
+    "category": "Human Body",
+    "id": "610",
+    "image": "610.jpg"
+  },
+  {
+    "title": "The Amazon Rainforest Is 5.5 Million km²",
+    "fact": "The Amazon rainforest covers about 5.5 million square kilometers, spanning nine countries. It is the largest tropical rainforest in the world.",
+    "category": "Geography",
+    "id": "611",
+    "image": "611.jpg"
+  },
+  {
+    "title": "Camels Have Three Eyelids",
+    "fact": "Camels have three eyelids: two with lashes and one transparent one that protects the eye while allowing visibility during sandstorms.",
+    "category": "Animals",
+    "id": "612",
+    "image": "612.jpg"
+  },
+  {
+    "title": "WiFi Was Invented in Australia in the 1990s",
+    "fact": "WiFi technology was developed by CSIRO in Australia in the 1990s. The term 'WiFi' doesn't actually stand for anything—it's a trademarked brand name.",
+    "category": "Technology",
+    "id": "613",
+    "image": "613.jpg"
+  },
+  {
+    "title": "Forests Can Be Named After Their Age",
+    "fact": "Old-growth forests are over 200 years old and contain the most biodiversity. They store more carbon than younger forests.",
+    "category": "Nature",
+    "id": "614",
+    "image": "614.jpg"
+  },
+  {
+    "title": "The Industrial Revolution Changed Work Permanently",
+    "fact": "The Industrial Revolution (1760-1840) transformed society from agricultural to industrial, introducing factories, mass production, and wage labor.",
+    "category": "History",
+    "id": "615",
+    "image": "615.jpg"
+  },
+  {
+    "title": "Salamanders Can Regrow Lost Limbs",
+    "fact": "Salamanders can regrow entire limbs, parts of their heart, liver, lungs, brain, and spinal cord. Scientists study them to understand regeneration.",
+    "category": "Animals",
+    "id": "616",
+    "image": "616.jpg"
+  },
+  {
+    "title": "The Sun Makes Up 99.86% of the Solar System's Mass",
+    "fact": "The Sun contains 99.86% of all mass in the solar system. Jupiter accounts for most of the remaining 0.14%.",
+    "category": "Space",
+    "id": "617",
+    "image": "617.jpg"
+  },
+  {
+    "title": "Your Brain Uses Electricity",
+    "fact": "The human brain generates about 20 watts of electrical power, enough to power a small light bulb. Neurons fire at speeds up to 268 mph.",
+    "category": "Human Body",
+    "id": "618",
+    "image": "618.jpg"
+  },
+  {
+    "title": "The Mediterranean Sea Is Almost Surrounded by Land",
+    "fact": "The Mediterranean Sea is connected to the Atlantic Ocean only by the 8.9-mile-wide Strait of Gibraltar. It is almost entirely enclosed by Europe, Asia, and Africa.",
+    "category": "Geography",
+    "id": "619",
+    "image": "619.jpg"
+  },
+  {
+    "title": "Some Jellyfish Are Immortal",
+    "fact": "Turritopsis dohrnii, the 'immortal jellyfish,' can revert to its juvenile polyp stage after reaching maturity, theoretically living forever under ideal conditions.",
+    "category": "Animals",
+    "id": "620",
+    "image": "620.jpg"
+  },
+  {
+    "title": "HTTPS Uses Encryption for Security",
+    "fact": "HTTPS (Hypertext Transfer Protocol Secure) uses SSL/TLS encryption to protect data transmitted between browsers and servers, making online transactions safer.",
+    "category": "Technology",
+    "id": "621",
+    "image": "621.jpg"
+  },
+  {
+    "title": "Some Trees Can Communicate Through Root Systems",
+    "fact": "Trees in forests are connected by mycorrhizal fungi networks, allowing them to share nutrients and send chemical signals to warn of insect attacks.",
+    "category": "Nature",
+    "id": "622",
+    "image": "622.jpg"
+  },
+  {
+    "title": "The Roman Empire Lasted Over 500 Years",
+    "fact": "The Roman Empire lasted from 27 BCE to 476 CE, a span of over 500 years. At its height, it controlled about 5 million square kilometers.",
+    "category": "History",
+    "id": "623",
+    "image": "623.jpg"
+  },
+  {
+    "title": "Bats Are the Only Mammals Capable of Sustained Flight",
+    "fact": "While flying squirrels glide, bats are the only mammals that can truly fly. Their wings are made of a membrane stretched over elongated finger bones.",
+    "category": "Animals",
+    "id": "624",
+    "image": "624.jpg"
+  },
+  {
+    "title": "The Moon Is Slowly Moving Away from Earth",
+    "fact": "The Moon recedes from Earth at about 3.8 centimeters per year. In 600 million years, it will be too far away to completely cover the Sun during eclipses.",
+    "category": "Space",
+    "id": "625",
+    "image": "625.jpg"
+  },
+  {
+    "title": "You Produce 25,000 Quarts of Saliva in a Lifetime",
+    "fact": "The average person produces about 0.7 liters of saliva per day, totaling about 25,000 quarts over a lifetime. Saliva contains enzymes that begin digestion.",
+    "category": "Human Body",
+    "id": "626",
+    "image": "626.jpg"
+  },
+  {
+    "title": "Mount Everest Is Getting Taller",
+    "fact": "Mount Everest grows about 4 millimeters every year due to the collision of the Indian and Asian tectonic plates, which continues to push the Himalayas upward.",
+    "category": "Geography",
+    "id": "627",
+    "image": "627.jpg"
+  },
+  {
+    "title": "Cows Can Walk Upstairs but Not Down",
+    "fact": "Cows can walk upstairs but struggle to walk downstairs because of the angle of their knees and their heavy front ends. This is why they rarely go down steep slopes.",
+    "category": "Animals",
+    "id": "628",
+    "image": "628.jpg"
+  },
+  {
+    "title": "QR Codes Can Store Up to 2,900 Bytes",
+    "fact": "QR codes can store up to 2,953 bytes of data, which translates to about 4,296 alphanumeric characters. They use error correction to remain readable when partially damaged.",
+    "category": "Technology",
+    "id": "629",
+    "image": "629.jpg"
+  },
+  {
+    "title": "Forests Can Reduce Air Temperature",
+    "fact": "Trees can reduce ambient air temperature by up to 10 degrees Fahrenheit through shade and transpiration. A single tree can have the cooling effect of 10 room-sized air conditioners.",
+    "category": "Nature",
+    "id": "630",
+    "image": "630.jpg"
+  },
+  {
+    "title": "The First Wheel Was Used 5,500 Years Ago",
+    "fact": "The earliest known wheels date to about 3500 BCE in Mesopotamia. They were initially used for pottery before being adapted for transportation.",
+    "category": "History",
+    "id": "631",
+    "image": "631.jpg"
+  },
+  {
+    "title": "A Whale's Heart Beats Only 4-8 Times Per Minute",
+    "fact": "A blue whale's heart is the size of a small car and beats only 4-8 times per minute. Its heartbeat can be detected from 2 miles away underwater.",
+    "category": "Animals",
+    "id": "632",
+    "image": "632.jpg"
+  },
+  {
+    "title": "Light Takes 8 Minutes to Travel from Sun to Earth",
+    "fact": "Light travels at 186,000 miles per second and takes about 8 minutes and 20 seconds to reach Earth from the Sun. The Sun is 93 million miles away.",
+    "category": "Space",
+    "id": "633",
+    "image": "633.jpg"
+  },
+  {
+    "title": "Your Hair Grows About 6 Inches Per Year",
+    "fact": "On average, human hair grows about 6 inches (15 cm) per year, or about 0.3-0.4 mm per day. Hair grows faster in summer than winter.",
+    "category": "Human Body",
+    "id": "634",
+    "image": "634.jpg"
+  },
+  {
+    "title": "Australia Is Both a Country and a Continent",
+    "fact": "Australia is the smallest continent and largest island, as well as being the only continent that is also a single country. It covers about 7.7 million km².",
+    "category": "Geography",
+    "id": "635",
+    "image": "635.jpg"
+  },
+  {
+    "title": "Sea Otters Hold Hands While Sleeping",
+    "fact": "Sea otters often hold paws while sleeping to prevent drifting apart. They also wrap themselves in kelp to anchor themselves in place.",
+    "category": "Animals",
+    "id": "636",
+    "image": "636.jpg"
+  },
+  {
+    "title": "The Internet Has 4.5 Billion Users",
+    "fact": "As of 2023, about 4.5 billion people use the internet, representing about 59% of the global population. This number continues to grow every year.",
+    "category": "Technology",
+    "id": "637",
+    "image": "637.jpg"
+  },
+  {
+    "title": "Forests Can Take 100+ Years to Mature",
+    "fact": "Old-growth forests take over 100 years to develop their complex ecosystems. These ancient forests are among the most biodiverse ecosystems on Earth.",
+    "category": "Nature",
+    "id": "638",
+    "image": "638.jpg"
+  },
+  {
+    "title": "The Printing Press Was Invented in 1440",
+    "fact": "Johannes Gutenberg invented the printing press around 1440, revolutionizing book production. The Gutenberg Bible was the first major book printed with movable type.",
+    "category": "History",
+    "id": "639",
+    "image": "639.jpg"
+  },
+  {
+    "title": "Penguins Propose with Pebbles",
+    "fact": "Male Adelie penguins propose to females by presenting them with carefully selected pebbles. If the female accepts, she adds it to their nest.",
+    "category": "Animals",
+    "id": "640",
+    "image": "640.jpg"
+  },
+  {
+    "title": "The Universe Has No Center",
+    "fact": "The universe has no center because it is expanding uniformly in all directions from every point. There is no special location from which to measure expansion.",
+    "category": "Space",
+    "id": "641",
+    "image": "641.jpg"
+  },
+  {
+    "title": "Your Brain Has 86 Billion Neurons",
+    "fact": "The human brain contains approximately 86 billion neurons, each connected to thousands of others via synapses. This creates a network of about 100 trillion connections.",
+    "category": "Human Body",
+    "id": "642",
+    "image": "642.jpg"
+  },
+  {
+    "title": "The Dead Sea Is the Lowest Point on Earth",
+    "fact": "The Dead Sea shoreline is the lowest exposed point on Earth's surface at 430.5 meters below sea level. It is also one of the saltiest bodies of water.",
+    "category": "Geography",
+    "id": "643",
+    "image": "643.jpg"
+  },
+  {
+    "title": "Ants Can Carry 50 Times Their Body Weight",
+    "fact": "Ants can carry objects up to 50 times their own body weight due to their strength-to-weight ratio. This is like a human carrying a car.",
+    "category": "Animals",
+    "id": "644",
+    "image": "644.jpg"
+  },
+  {
+    "title": "Java Was Originally Called Oak",
+    "fact": "Java was originally named Oak by James Gosling in 1991, after a tree outside his office. It was renamed Java because Oak was already trademarked.",
+    "category": "Technology",
+    "id": "645",
+    "image": "645.jpg"
+  },
+  {
+    "title": "Trees Can Live to Be Thousands of Years Old",
+    "fact": "The oldest known individual tree is a bristlecone pine named Methuselah, estimated to be over 4,850 years old. Some clonal colonies are even older.",
+    "category": "Nature",
+    "id": "646",
+    "image": "646.jpg"
+  },
+  {
+    "title": "The Renaissance Began in Italy in the 14th Century",
+    "fact": "The Renaissance began in Florence, Italy around 1350, marking a cultural rebirth that spread throughout Europe and lasted until the 17th century.",
+    "category": "History",
+    "id": "647",
+    "image": "647.jpg"
+  },
+  {
+    "title": "Cows Have 4 Stomachs",
+    "fact": "Cows have a four-chambered stomach (rumen, reticulum, omasum, and abomasum) to digest tough plant material. Food passes through each chamber during digestion.",
+    "category": "Animals",
+    "id": "648",
+    "image": "648.jpg"
+  },
+  {
+    "title": "Mars Has the Largest Dust Storms in the Solar System",
+    "fact": "Mars experiences massive dust storms that can cover the entire planet for months. These storms can reach speeds of 70 mph and tower 50 km high.",
+    "category": "Space",
+    "id": "649",
+    "image": "649.jpg"
+  },
+  {
+    "title": "Your Liver Weighs About 3 Pounds",
+    "fact": "The liver is the largest internal organ, weighing about 3 pounds in adults. It performs over 500 functions, including filtering blood and producing bile.",
+    "category": "Human Body",
+    "id": "650",
+    "image": "650.jpg"
+  },
+  {
+    "title": "The Ganges River Supports 400 Million People",
+    "fact": "The Ganges River basin in India is home to about 400 million people. It is considered sacred by Hindus and is used for irrigation, drinking water, and religious ceremonies.",
+    "category": "Geography",
+    "id": "651",
+    "image": "651.jpg"
+  },
+  {
+    "title": "Parrots Can Live Over 80 Years",
+    "fact": "Some parrot species can live over 80 years in captivity. Macaws, cockatoos, and African greys are among the longest-lived parrots.",
+    "category": "Animals",
+    "id": "652",
+    "image": "652.jpg"
+  },
+  {
+    "title": "The First Computer Mouse Was Invented in 1964",
+    "fact": "Douglas Engelbart invented the computer mouse in 1964 at the Stanford Research Institute. It was made of wood with two perpendicular wheels.",
+    "category": "Technology",
+    "id": "653",
+    "image": "653.jpg"
+  },
+  {
+    "title": "Forests Cover About 31% of Earth's Land",
+    "fact": "Forests cover approximately 31% of Earth's total land area. They provide habitat for 80% of terrestrial biodiversity.",
+    "category": "Nature",
+    "id": "654",
+    "image": "654.jpg"
+  },
+  {
+    "title": "The First Olympics Were Held in 776 BCE",
+    "fact": "The ancient Olympic Games began in 776 BCE in Olympia, Greece. They were held every four years and featured athletic competitions.",
+    "category": "History",
+    "id": "655",
+    "image": "655.jpg"
+  },
+  {
+    "title": "A Group of Crows Is Called a Murder",
+    "fact": "A group of crows is called a murder, possibly due to their association with death. Crows are highly intelligent and can recognize human faces.",
+    "category": "Animals",
+    "id": "656",
+    "image": "656.jpg"
+  },
+  {
+    "title": "The Moon Has No Atmosphere",
+    "fact": "The Moon has virtually no atmosphere, meaning no weather, wind, or protection from radiation. Footprints left by astronauts will remain for millions of years.",
+    "category": "Space",
+    "id": "657",
+    "image": "657.jpg"
+  },
+  {
+    "title": "Your Blood Takes 60 Seconds to Circulate",
+    "fact": "Blood circulates through your entire body in about 60 seconds, completing the journey from heart to extremities and back. Your heart beats about 100,000 times daily.",
+    "category": "Human Body",
+    "id": "658",
+    "image": "658.jpg"
+  },
+  {
+    "title": "The Great Barrier Reef Is 1,400 Miles Long",
+    "fact": "The Great Barrier Reef in Australia stretches over 1,400 miles along the coast. It is the world's largest coral reef system and is visible from space.",
+    "category": "Geography",
+    "id": "659",
+    "image": "659.jpg"
+  },
+  {
+    "title": "Chameleons Change Color for Communication",
+    "fact": "Chameleons change color primarily for social signals and to regulate body temperature, not for camouflage as commonly believed. Darker colors absorb more heat.",
+    "category": "Animals",
+    "id": "660",
+    "image": "660.jpg"
+  },
+  {
+    "title": "The Internet Was Created for Military Purposes",
+    "fact": "ARPANET, the precursor to the internet, was created by the US Department of Defense in 1969 to maintain communication during nuclear war.",
+    "category": "Technology",
+    "id": "661",
+    "image": "661.jpg"
+  },
+  {
+    "title": "Trees Can Absorb Sound and Reduce Noise",
+    "fact": "A thick forest can reduce noise by 10-15 decibels. Trees with dense foliage and rough bark are most effective at absorbing and blocking sound.",
+    "category": "Nature",
+    "id": "662",
+    "image": "662.jpg"
+  },
+  {
+    "title": "The Roman Colosseum Held 50,000 Spectators",
+    "fact": "The Colosseum in Rome could hold between 50,000-80,000 spectators. It was built between 70-80 CE and was used for gladiatorial contests.",
+    "category": "History",
+    "id": "663",
+    "image": "663.jpg"
+  },
+  {
+    "title": "Electric Eels Can Produce 600 Volts",
+    "fact": "Electric eels can produce electric discharges of up to 600 volts, enough to power 12 household light bulbs. They use electricity to hunt and navigate.",
+    "category": "Animals",
+    "id": "664",
+    "image": "664.jpg"
+  },
+  {
+    "title": "The Sun Contains 99.9% of the Solar System's Mass",
+    "fact": "The Sun contains 99.9% of all mass in the solar system. Jupiter accounts for most of the remaining 0.1%.",
+    "category": "Space",
+    "id": "665",
+    "image": "665.jpg"
+  },
+  {
+    "title": "Your Brain Shrinks With Age",
+    "fact": "The brain begins shrinking around age 30 and loses about 0.5-1% of its volume per year after that. This can affect memory and cognitive function.",
+    "category": "Human Body",
+    "id": "666",
+    "image": "666.jpg"
+  },
+  {
+    "title": "There Are 195 Countries in the World",
+    "fact": "There are 195 countries in the world, including 193 member states of the United Nations and 2 observer states (Vatican City and Palestine).",
+    "category": "Geography",
+    "id": "667",
+    "image": "667.jpg"
+  },
+  {
+    "title": "Puffins Mate for Life",
+    "fact": "Puffins are monogamous and typically mate for life. They return to the same partner and nesting site each year and raise one chick per year.",
+    "category": "Animals",
+    "id": "668",
+    "image": "668.jpg"
+  },
+  {
+    "title": "The First Web Page Went Online in 1991",
+    "fact": "Tim Berners-Lee created the first website at CERN on August 6, 1991. It explained the World Wide Web project and how to use it.",
+    "category": "Technology",
+    "id": "669",
+    "image": "669.jpg"
+  },
+  {
+    "title": "Forests Store Carbon in Their Biomass",
+    "fact": "Forests store about 45% of all carbon stored on land, primarily in their biomass (trunks, branches, leaves) and soil. Deforestation releases this stored carbon.",
+    "category": "Nature",
+    "id": "670",
+    "image": "670.jpg"
+  },
+  {
+    "title": "The Trojan War Was Mythological",
+    "fact": "The Trojan War, described in Homer's Iliad, is now considered mythological. However, archaeological evidence suggests a real Troy existed in modern-day Turkey.",
+    "category": "History",
+    "id": "671",
+    "image": "671.jpg"
+  },
+  {
+    "title": "A Group of Wolves Is Called a Pack",
+    "fact": "Wolves live in family groups called packs, typically with 6-10 members. The pack is led by an alpha pair, usually the parents.",
+    "category": "Animals",
+    "id": "672",
+    "image": "672.jpg"
+  },
+  {
+    "title": "The Largest Known Star Would Engulf Jupiter's Orbit",
+    "fact": "UY Scuti is one of the largest known stars, with a radius about 1,700 times that of the Sun. If placed at the Sun's position, it would engulf Jupiter's orbit.",
+    "category": "Space",
+    "id": "673",
+    "image": "673.jpg"
+  },
+  {
+    "title": "You Have More Taste Buds as a Child",
+    "fact": "Children have about 10,000 taste buds, which decrease to about 5,000 by adulthood. This is why some foods taste different as you age.",
+    "category": "Human Body",
+    "id": "674",
+    "image": "674.jpg"
+  },
+  {
+    "title": "The Sahara Desert Is Growing",
+    "fact": "The Sahara Desert is expanding southward by about 30-60 miles per decade due to climate change and reduced rainfall in the Sahel region.",
+    "category": "Geography",
+    "id": "675",
+    "image": "675.jpg"
+  },
+  {
+    "title": "Dolphins Have Names for Each Other",
+    "fact": "Dolphins develop unique signature whistles that function like names. They use these whistles to call specific individuals and coordinate group activities.",
+    "category": "Animals",
+    "id": "676",
+    "image": "676.jpg"
+  },
+  {
+    "title": "The First Email Was Sent by Ray Tomlinson in 1971",
+    "fact": "Ray Tomlinson sent the first network email in 1971, using the @ sign to separate user names from computer names. He chose QWERTYUIOP as the first message.",
+    "category": "Technology",
+    "id": "677",
+    "image": "677.jpg"
+  },
+  {
+    "title": "Trees Can Cool the Air Through Transpiration",
+    "fact": "A single large tree can transpire 100 gallons of water daily, which cools the surrounding air by up to 10 degrees Fahrenheit through evaporation.",
+    "category": "Nature",
+    "id": "678",
+    "image": "678.jpg"
+  },
+  {
+    "title": "The Declaration of Independence Was Signed in 1776",
+    "fact": "The United States Declaration of Independence was signed on July 4, 1776, declaring independence from Great Britain. It was signed by 56 delegates.",
+    "category": "History",
+    "id": "679",
+    "image": "679.jpg"
+  },
+  {
+    "title": "A Group of Hummingbirds Is Called a Charm",
+    "fact": "A group of hummingbirds is called a charm, reflecting their beautiful, shimmering plumage. These tiny birds can beat their wings up to 80 times per second.",
+    "category": "Animals",
+    "id": "680",
+    "image": "680.jpg"
+  },
+  {
+    "title": "The Milky Way Will Collide with Andromeda in 4.5 Billion Years",
+    "fact": "The Milky Way and Andromeda galaxies are approaching each other at 250,000 mph and will merge in about 4.5 billion years, forming 'Milkomeda.'",
+    "category": "Space",
+    "id": "681",
+    "image": "681.jpg"
+  },
+  {
+    "title": "Your Body Temperature Is Highest in the Late Afternoon",
+    "fact": "Body temperature is lowest around 4 a.m. and highest around 4-5 p.m. This daily rhythm is controlled by your circadian clock.",
+    "category": "Human Body",
+    "id": "682",
+    "image": "682.jpg"
+  },
+  {
+    "title": "The Largest Desert Is Antarctica",
+    "fact": "Antarctica is technically the largest desert in the world, covering 5.5 million square miles. It receives only 2 inches of precipitation per year.",
+    "category": "Geography",
+    "id": "683",
+    "image": "683.jpg"
+  },
+  {
+    "title": "A Woodpecker's Tongue Wraps Around Its Brain",
+    "fact": "Woodpeckers have tongues that extend up to 4 inches past their beak and wrap around the back of their brain to cushion it during pecking.",
+    "category": "Animals",
+    "id": "684",
+    "image": "684.jpg"
+  },
+  {
+    "title": "GPS Satellites Need Constant Time Corrections",
+    "fact": "GPS satellites experience time dilation due to their speed and weaker gravity, causing clocks to tick faster by 45 microseconds per day. This requires constant corrections.",
+    "category": "Technology",
+    "id": "685",
+    "image": "685.jpg"
+  },
+  {
+    "title": "Forests Help Prevent Soil Erosion",
+    "fact": "Tree roots bind soil together and prevent erosion. Forests can reduce soil erosion by up to 90% compared to cleared land.",
+    "category": "Nature",
+    "id": "686",
+    "image": "686.jpg"
+  },
+  {
+    "title": "The Great Wall of China Was Built Over 2,000 Years",
+    "fact": "Construction on the Great Wall began in the 7th century BCE and continued until the Ming Dynasty in the 17th century, taking over 2,000 years to complete.",
+    "category": "History",
+    "id": "687",
+    "image": "687.jpg"
+  },
+  {
+    "title": "Koalas Have Fingerprints Nearly Identical to Humans",
+    "fact": "Koala fingerprints are so similar to human fingerprints that they could potentially confuse forensic scientists at crime scenes.",
+    "category": "Animals",
+    "id": "688",
+    "image": "688.jpg"
+  },
+  {
+    "title": "The Earth's Core Is as Hot as the Sun's Surface",
+    "fact": "The inner core of the Earth reaches temperatures of about 9,000°F (5,000°C), comparable to the surface temperature of the Sun.",
+    "category": "Space",
+    "id": "689",
+    "image": "689.jpg"
+  },
+  {
+    "title": "Your Brain Weighs About 3 Pounds",
+    "fact": "The adult human brain weighs about 3 pounds (1.4 kg) and contains 86 billion neurons. Despite being only 2% of body weight, it uses 20% of energy.",
+    "category": "Human Body",
+    "id": "690",
+    "image": "690.jpg"
+  },
+  {
+    "title": "The Nile River Flows Northward",
+    "fact": "The Nile River flows northward from Lake Victoria to the Mediterranean Sea, contrary to the common misconception that rivers flow south.",
+    "category": "Geography",
+    "id": "691",
+    "image": "691.jpg"
+  },
+  {
+    "title": "Squirrels Plant Millions of Trees",
+    "fact": "Tree squirrels bury thousands of nuts each year, forgetting many locations. These forgotten nuts grow into trees, making squirrels unintentional foresters.",
+    "category": "Animals",
+    "id": "692",
+    "image": "692.jpg"
+  },
+  {
+    "title": "The First Computer Bug Was an Actual Moth",
+    "fact": "In 1947, a moth was found dead in the Harvard Mark II computer, causing a malfunction. The log entry reads 'First actual case of bug being found.'",
+    "category": "Technology",
+    "id": "693",
+    "image": "693.jpg"
+  },
+  {
+    "title": "Forests Can Filter Water Naturally",
+    "fact": "Forest soils act as natural filters, removing up to 90% of pollutants from water. They recharge groundwater aquifers and maintain water quality.",
+    "category": "Nature",
+    "id": "694",
+    "image": "694.jpg"
+  },
+  {
+    "title": "The First Humans Emerged About 300,000 Years Ago",
+    "fact": "Homo sapiens evolved in Africa around 300,000 years ago. Early humans migrated out of Africa about 70,000 years ago.",
+    "category": "History",
+    "id": "695",
+    "image": "695.jpg"
+  },
+  {
+    "title": "Butterflies Have Taste Receptors on Their Feet",
+    "fact": "Butterflies taste with their feet, using chemoreceptors to identify if a plant is suitable for laying eggs. They can taste sugar 2,000 times better than humans.",
+    "category": "Animals",
+    "id": "696",
+    "image": "696.jpg"
+  },
+  {
+    "title": "There Are More Stars Than All the Words Ever Spoken",
+    "fact": "Scientists estimate there are more stars in the universe than all the words ever spoken by humans. The observable universe has about 200 billion trillion stars.",
+    "category": "Space",
+    "id": "697",
+    "image": "697.jpg"
+  },
+  {
+    "title": "Your Small Intestine Is About 22 Feet Long",
+    "fact": "The small intestine is approximately 22 feet long and 1 inch in diameter in adults. Its surface area is about 2,700 square feet due to villi.",
+    "category": "Human Body",
+    "id": "698",
+    "image": "698.jpg"
+  },
+  {
+    "title": "Mount Everest Was First Climbed in 1953",
+    "fact": "Sir Edmund Hillary and Tenzing Norgay became the first climbers to reach the summit of Mount Everest on May 29, 1953.",
+    "category": "Geography",
+    "id": "699",
+    "image": "699.jpg"
+  },
+  {
+    "title": "Crocodiles Can Go Through 8,000 Teeth in a Lifetime",
+    "fact": "Crocodiles can go through 8,000 teeth over their lifetime. When one falls out, another grows to replace it. They can last 3,000 biting cycles.",
+    "category": "Animals",
+    "id": "700",
+    "image": "700.jpg"
+  }
+]

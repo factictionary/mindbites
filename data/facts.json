@@ -3,15 +3,15 @@
     "title": "Your Stomach Acid Can Dissolve Metal",
     "fact": "Gastric acid in your stomach has a pH of 1-2, which is strong enough to dissolve some metals. It can break down food and kill bacteria that enter your digestive system.",
     "category": "Human Body",
-    "id": "101",
-    "image": "101.jpg"
+    "id": "101b",
+    "image": "101b.jpg"
   },
   {
     "title": "Octopuses Have Three Hearts",
     "fact": "Octopuses have three hearts. Two pump blood to the gills, while the third pumps blood to the rest of the body. When they swim, the heart that pumps blood to the body actually stops beating.",
     "category": "Animals",
     "id": "102",
-    "image": "102.jpg"
+    "image": "572.jpg"
   },
   {
     "title": "Bananas Are Radioactive",
@@ -25,13 +25,13 @@
     "fact": "The Eiffel Tower can grow up to 15 centimeters (6 inches) taller during the summer months due to thermal expansion of the iron structure.",
     "category": "Architecture",
     "id": "104",
-    "image": "104.jpg"
+    "image": "95.jpg"
   },
   {
     "title": "Your Brain Uses 20% of Your Oxygen",
     "fact": "Even though your brain only makes up about 2% of your body weight, it consumes approximately 20% of your body's oxygen supply.",
     "category": "Human Body",
     "id": "105",
-    "image": "105.jpg"
+    "image": "104.jpg"
   }
 ]

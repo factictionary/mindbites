@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Bluetooth Technology Is Named After a King",
+    "fact": "Bluetooth is named after King Harald Bluetooth of Denmark, who united Scandinavian tribes. His initials BH form the Bluetooth symbol.",
+    "category": "Technology",
+    "id": "701",
+    "image": "701.jpg"
+  },
+  {
+    "title": "Forests Produce Medicinal Compounds",
+    "fact": "About 25% of modern medicines come from rainforest plants. Many more potential medicines remain undiscovered among the millions of forest species.",
+    "category": "Nature",
+    "id": "702",
+    "image": "702.jpg"
+  },
+  {
+    "title": "The Titanic Sank in 1912",
+    "fact": "The RMS Titanic sank on April 15, 1912, after hitting an iceberg. Of the 2,224 aboard, over 1,500 died in one of history's deadliest maritime disasters.",
+    "category": "History",
+    "id": "703",
+    "image": "703.jpg"
+  },
+  {
+    "title": "A Group of Cats Is Called a Clowder",
+    "fact": "A group of cats is called a clowder, while a group of kittens is called a kindle. Cats have over 20 different vocalizations, including the meow.",
+    "category": "Animals",
+    "id": "704",
+    "image": "704.jpg"
+  },
+  {
+    "title": "The Moon Is Moving Away From Earth",
+    "fact": "The Moon is receding from Earth at about 3.8 cm per year. This is caused by tidal interactions between Earth and the Moon.",
+    "category": "Space",
+    "id": "705",
+    "image": "705.jpg"
+  },
+  {
+    "title": "Your Kidneys Filter 120-150 Quarts of Blood Daily",
+    "fact": "Your kidneys filter about 120-150 quarts of blood daily, producing 1-2 quarts of urine. They remove waste and balance fluid levels.",
+    "category": "Human Body",
+    "id": "706",
+    "image": "706.jpg"
+  },
+  {
+    "title": "The Amazon Produces 20% of Earth's Oxygen",
+    "fact": "The Amazon rainforest produces about 20% of the world's oxygen, earning it the nickname 'the lungs of the Earth.' It absorbs 2 billion tons of CO2 yearly.",
+    "category": "Geography",
+    "id": "707",
+    "image": "707.jpg"
+  },
+  {
+    "title": "A Flea Can Jump 150 Times Its Body Length",
+    "fact": "Fleas can jump up to 150 times their body length, equivalent to a human jumping over a skyscraper. They use elastic energy stored in their legs.",
+    "category": "Animals",
+    "id": "708",
+    "image": "708.jpg"
+  },
+  {
+    "title": "WiFi Uses Radio Waves",
+    "fact": "WiFi uses radio waves at frequencies of 2.4 GHz or 5 GHz to transmit data wirelessly. It was invented by CSIRO in Australia in the 1990s.",
+    "category": "Technology",
+    "id": "709",
+    "image": "709.jpg"
+  },
+  {
+    "title": "Trees Can Reduce Urban Temperatures",
+    "fact": "Urban trees can reduce air temperatures by 2-8 degrees Fahrenheit through shade and evapotranspiration. This reduces energy costs and improves air quality.",
+    "category": "Nature",
+    "id": "710",
+    "image": "710.jpg"
+  },
+  {
+    "title": "The First Written Language Was Cuneiform",
+    "fact": "Cuneiform, developed by Sumerians around 3400 BCE, was the first written language. It was used for record-keeping, literature, and correspondence.",
+    "category": "History",
+    "id": "711",
+    "image": "711.jpg"
+  },
+  {
+    "title": "Octopuses Have Three Hearts and Blue Blood",
+    "fact": "Octopuses have three hearts: two pump blood to gills, one to the body. Their blood is blue because it contains copper-based hemocyanin instead of iron.",
+    "category": "Animals",
+    "id": "712",
+    "image": "712.jpg"
+  },
+  {
+    "title": "Jupiter Orbits the Sun Every 12 Years",
+    "fact": "Jupiter takes about 12 Earth years to complete one orbit around the Sun. However, it rotates on its axis in just under 10 hours.",
+    "category": "Space",
+    "id": "713",
+    "image": "713.jpg"
+  },
+  {
+    "title": "You Lose About 4 Pounds of Skin Cells Daily",
+    "fact": "You lose about 30,000 to 40,000 dead skin cells per minute, totaling about 4 pounds annually. Most house dust is composed of dead skin cells.",
+    "category": "Human Body",
+    "id": "714",
+    "image": "714.jpg"
+  },
+  {
+    "title": "Lake Superior Contains 10% of World's Freshwater",
+    "fact": "Lake Superior contains about 10% of all surface fresh water on Earth. It holds more water than all the other Great Lakes combined.",
+    "category": "Geography",
+    "id": "715",
+    "image": "715.jpg"
+  },
+  {
+    "title": "Bees Can Fly Higher Than Buildings",
+    "fact": "Bees can fly at altitudes up to 5,900 meters (19,357 feet), higher than Mount Everest's base camp. They navigate using the sun and Earth's magnetic field.",
+    "category": "Animals",
+    "id": "716",
+    "image": "716.jpg"
+  },
+  {
+    "title": "The First Pixel Was Displayed in 1957",
+    "fact": "Russell Kirsch created the first digital image in 1957: a 176x176 pixel picture of his son. The image was scanned into a computer with 1s and 0s.",
+    "category": "Technology",
+    "id": "717",
+    "image": "717.jpg"
+  },
+  {
+    "title": "Forests Provide Jobs for 13 Million People",
+    "fact": "The forestry sector provides employment to about 13 million people worldwide. Forests support the livelihoods of 1.6 billion people globally.",
+    "category": "Nature",
+    "id": "718",
+    "image": "718.jpg"
+  },
+  {
+    "title": "The First Moon Landing Was in 1969",
+    "fact": "Apollo 11 astronauts Neil Armstrong and Buzz Aldrin landed on the Moon on July 20, 1969. Armstrong's first words were 'That's one small step for man.'",
+    "category": "History",
+    "id": "719",
+    "image": "719.jpg"
+  },
+  {
+    "title": "A Group of Owls Is Called a Parliament",
+    "fact": "A group of owls is called a parliament, wisdom, or congress. Owls can rotate their heads up to 270 degrees due to their unique vertebrae structure.",
+    "category": "Animals",
+    "id": "720",
+    "image": "720.jpg"
+  },
+  {
+    "title": "The Sun Is 4.6 Billion Years Old",
+    "fact": "The Sun formed about 4.6 billion years ago from a cloud of gas and dust. It has enough fuel to burn for another 5 billion years.",
+    "category": "Space",
+    "id": "721",
+    "image": "721.jpg"
+  },
+  {
+    "title": "Your Stomach Produces 2 Liters of Acid Daily",
+    "fact": "Your stomach produces about 2 liters of hydrochloric acid daily. This powerful acid has a pH of 1-2 and helps digest food and kill bacteria.",
+    "category": "Human Body",
+    "id": "722",
+    "image": "722.jpg"
+  },
+  {
+    "title": "The Highest Waterfall Is Angel Falls in Venezuela",
+    "fact": "Angel Falls in Venezuela is the highest waterfall in the world at 979 meters (3,212 feet). Its longest drop is 807 meters.",
+    "category": "Geography",
+    "id": "723",
+    "image": "723.jpg"
+  },
+  {
+    "title": "Tigers Have Striped Skin Under Their Fur",
+    "fact": "Tigers have striped skin under their fur, not just fur patterns. Each tiger has a unique stripe pattern, like human fingerprints.",
+    "category": "Animals",
+    "id": "724",
+    "image": "724.jpg"
+  },
+  {
+    "title": "USB Drives Can Hold Up to 2 Terabytes",
+    "fact": "USB flash drives can now hold up to 2 TB of data, though 64-256 GB are most common. They can store thousands of photos, videos, and documents.",
+    "category": "Technology",
+    "id": "725",
+    "image": "725.jpg"
+  },
+  {
+    "title": "Forests Regulate the Water Cycle",
+    "fact": "Trees absorb water through their roots and release it through transpiration. A single tree can release 100-500 gallons of water vapor daily.",
+    "category": "Nature",
+    "id": "726",
+    "image": "726.jpg"
+  },
+  {
+    "title": "The Berlin Wall Fell in 1989",
+    "fact": "The Berlin Wall fell on November 9, 1989, after standing for 28 years. Its fall symbolized the end of the Cold War division of Europe.",
+    "category": "History",
+    "id": "727",
+    "image": "727.jpg"
+  },
+  {
+    "title": "Seahorses Are the Only Fish With Necks",
+    "fact": "Seahorses are the only fish species with necks, giving them the ability to move their heads up and down. They also mate for life.",
+    "category": "Animals",
+    "id": "728",
+    "image": "728.jpg"
+  },
+  {
+    "title": "Pluto Has Heart-Shaped Glacier",
+    "fact": "Pluto has a heart-shaped glacier called Tombaugh Regio, about 1,000 miles wide. This nitrogen ice plain is one of the most iconic features in the solar system.",
+    "category": "Space",
+    "id": "729",
+    "image": "729.jpg"
+  },
+  {
+    "title": "Your Lungs Breathe About 20,000 Times Daily",
+    "fact": "You breathe about 20,000 times per day, moving 300 million liters of air annually. This supplies oxygen to every cell in your body.",
+    "category": "Human Body",
+    "id": "730",
+    "image": "730.jpg"
+  },
+  {
+    "title": "The World's Deepest Lake Is Lake Baikal",
+    "fact": "Lake Baikal in Siberia is the world's deepest and oldest freshwater lake at 1,642 meters. It contains 20% of Earth's unfrozen fresh water.",
+    "category": "Geography",
+    "id": "731",
+    "image": "731.jpg"
+  },
+  {
+    "title": "Mosquitoes Are Deadliest Animals on Earth",
+    "fact": "Mosquitoes kill more humans than any other animal, causing over 700,000 deaths annually through diseases like malaria, dengue, and Zika.",
+    "category": "Animals",
+    "id": "732",
+    "image": "732.jpg"
+  },
+  {
+    "title": "The First Search Engine Was Created in 1990",
+    "fact": "Archie, created in 1990 by Alan Emtage, was the first internet search engine. It indexed FTP sites but couldn't search within documents.",
+    "category": "Technology",
+    "id": "733",
+    "image": "733.jpg"
+  },
+  {
+    "title": "Forests Create Their Own Weather",
+    "fact": "Large forests create weather systems through transpiration, releasing huge amounts of water vapor that can form clouds and generate rainfall.",
+    "category": "Nature",
+    "id": "734",
+    "image": "734.jpg"
+  },
+  {
+    "title": "The Ancient Egyptians Invented the 365-Day Calendar",
+    "fact": "The ancient Egyptians developed the 365-day solar calendar around 3000 BCE by observing the heliacal rising of the star Sirius.",
+    "category": "History",
+    "id": "735",
+    "image": "735.jpg"
+  },
+  {
+    "title": "Narwhals' Tusks Are Actually Teeth",
+    "fact": "The narwhal's spiral tusk is actually a canine tooth that grows through the lip. It can reach up to 10 feet long and contains millions of nerve endings.",
+    "category": "Animals",
+    "id": "736",
+    "image": "736.jpg"
+  },
+  {
+    "title": "The Universe Is 93 Billion Light-Years Across",
+    "fact": "The observable universe has a diameter of about 93 billion light-years. We can only see objects whose light has had time to reach us.",
+    "category": "Space",
+    "id": "737",
+    "image": "737.jpg"
+  },
+  {
+    "title": "Your Bones Are Stronger Than Steel",
+    "fact": "Bone is stronger than steel gram for gram. A block of bone the size of a matchbox could support 10 tons of weight.",
+    "category": "Human Body",
+    "id": "738",
+    "image": "738.jpg"
+  },
+  {
+    "title": "The Amazon Rainforest Has 15,000 Tree Species",
+    "fact": "The Amazon contains at least 15,000 tree species, with new species discovered regularly. A single hectare may contain 750 tree species.",
+    "category": "Geography",
+    "id": "739",
+    "image": "739.jpg"
+  },
+  {
+    "title": "Dragonflies Can Fly 35 mph",
+    "fact": "Dragonflies are among the fastest flying insects, reaching speeds up to 35 mph. They have been flying for 300 million years, predating dinosaurs.",
+    "category": "Animals",
+    "id": "740",
+    "image": "740.jpg"
+  },
+  {
+    "title": "HTML Was Created by Tim Berners-Lee in 1990",
+    "fact": "Tim Berners-Lee invented HTML (HyperText Markup Language) in 1990 as part of the World Wide Web project at CERN.",
+    "category": "Technology",
+    "id": "741",
+    "image": "741.jpg"
+  },
+  {
+    "title": "Forests Help Combat Climate Change",
+    "fact": "Forests absorb about 2.6 billion tons of CO2 annually, helping to mitigate climate change. Protecting forests is crucial for meeting climate goals.",
+    "category": "Nature",
+    "id": "742",
+    "image": "742.jpg"
+  },
+  {
+    "title": "The Crusades Occurred 1095-1291",
+    "fact": "The Crusades were a series of religious wars between Christians and Muslims over control of holy sites. There were at least nine major Crusades.",
+    "category": "History",
+    "id": "743",
+    "image": "743.jpg"
+  },
+  {
+    "title": "Giraffes Only Sleep 2 Hours Per Day",
+    "fact": "Giraffes sleep an average of 1.9 hours per day, often in short naps lasting just a few minutes. This helps them stay alert for predators.",
+    "category": "Animals",
+    "id": "744",
+    "image": "744.jpg"
+  },
+  {
+    "title": "The Hubble Space Telescope Orbits Earth Every 95 Minutes",
+    "fact": "The Hubble Space Telescope orbits Earth at about 340 miles altitude, completing one orbit every 95 minutes. It has observed galaxies 13.4 billion light-years away.",
+    "category": "Space",
+    "id": "745",
+    "image": "745.jpg"
+  },
+  {
+    "title": "Your Hair Grows 6 Inches Per Year",
+    "fact": "Hair grows about 0.5 mm per day, or 6 inches per year. Scalp hair grows faster than body hair, and growth is faster in summer than winter.",
+    "category": "Human Body",
+    "id": "746",
+    "image": "746.jpg"
+  },
+  {
+    "title": "The Nile Is the Longest River at 4,132 Miles",
+    "fact": "The Nile River is approximately 4,132 miles long, making it the longest river in the world. It flows through 11 countries in northeastern Africa.",
+    "category": "Geography",
+    "id": "747",
+    "image": "747.jpg"
+  },
+  {
+    "title": "Cows Can Remember 50 Other Cows",
+    "fact": "Cows have excellent memories and can recognize at least 50 other cows in their herd. They also form close friendships with specific individuals.",
+    "category": "Animals",
+    "id": "748",
+    "image": "748.jpg"
+  },
+  {
+    "title": "The First Operating System Was Created in 1964",
+    "fact": "The first operating system, CTSS (Compatible Time-Sharing System), was developed at MIT in 1964, allowing multiple users to access a computer simultaneously.",
+    "category": "Technology",
+    "id": "749",
+    "image": "749.jpg"
+  },
+  {
+    "title": "Trees Can Absorb 48 Pounds of CO2 Per Year",
+    "fact": "A single tree can absorb about 48 pounds of carbon dioxide per year and release enough oxygen for two people to breathe.",
+    "category": "Nature",
+    "id": "750",
+    "image": "750.jpg"
+  },
+  {
+    "title": "The Treaty of Versailles Was Signed in 1919",
+    "fact": "The Treaty of Versailles officially ended World War I in 1919. It imposed heavy penalties on Germany, which later contributed to World War II.",
+    "category": "History",
+    "id": "751",
+    "image": "751.jpg"
+  },
+  {
+    "title": "Starfish Can Regenerate Lost Arms",
+    "fact": "Starfish can regenerate lost arms, and some species can regrow an entire body from a single arm. Some species can have up to 40 arms.",
+    "category": "Animals",
+    "id": "752",
+    "image": "752.jpg"
+  },
+  {
+    "title": "The Moon Orbits Earth Every 27.3 Days",
+    "fact": "The Moon takes 27.3 days to orbit Earth, but the lunar cycle (new moon to new moon) is 29.5 days due to Earth's movement around the Sun.",
+    "category": "Space",
+    "id": "753",
+    "image": "753.jpg"
+  },
+  {
+    "title": "Your Brain Contains 86 Billion Neurons",
+    "fact": "The human brain contains about 86 billion neurons, each connected to thousands of others via synapses, creating a network of about 100 trillion connections.",
+    "category": "Human Body",
+    "id": "754",
+    "image": "754.jpg"
+  },
+  {
+    "title": "Antarctica Contains 70% of Earth's Freshwater",
+    "fact": "Antarctica contains about 70% of Earth's fresh water, stored as ice. If all this ice melted, global sea levels would rise about 200 feet.",
+    "category": "Geography",
+    "id": "755",
+    "image": "755.jpg"
+  },
+  {
+    "title": "Sharks Have Been on Earth for 450 Million Years",
+    "fact": "Sharks have existed for 450 million years, predating dinosaurs by 200 million years. They survived all five mass extinctions.",
+    "category": "Animals",
+    "id": "756",
+    "image": "756.jpg"
+  },
+  {
+    "title": "The First Smartphone Was the IBM Simon in 1994",
+    "fact": "The IBM Simon Personal Communicator, released in 1994, is considered the first smartphone. It had a touchscreen, email, and could send faxes.",
+    "category": "Technology",
+    "id": "757",
+    "image": "757.jpg"
+  },
+  {
+    "title": "Forests Provide Habitat for 80% of Land Species",
+    "fact": "Forests are home to about 80% of terrestrial biodiversity, including 80% of amphibians, 75% of birds, and 65% of mammals.",
+    "category": "Nature",
+    "id": "758",
+    "image": "758.jpg"
+  },
+  {
+    "title": "The Black Death Occurred 1346-1353",
+    "fact": "The Black Death killed an estimated 75-200 million people in Eurasia, wiping out 30-60% of Europe's population in just a few years.",
+    "category": "History",
+    "id": "759",
+    "image": "759.jpg"
+  },
+  {
+    "title": "Crocodiles Can Hold Their Breath for Over an Hour",
+    "fact": "Crocodiles can hold their breath for over an hour underwater. They slow their heart rate to conserve oxygen during dives.",
+    "category": "Animals",
+    "id": "760",
+    "image": "760.jpg"
+  },
+  {
+    "title": "Neutron Stars Spin 716 Times Per Second",
+    "fact": "The fastest known neutron star, PSR J1748-2446ad, rotates 716 times per second. This is near the theoretical limit before the star would fly apart.",
+    "category": "Space",
+    "id": "761",
+    "image": "761.jpg"
+  },
+  {
+    "title": "Your Heart Beats 100,000 Times Per Day",
+    "fact": "Your heart beats about 100,000 times per day, pumping about 2,000 gallons of blood. Over a lifetime, it beats more than 2.5 billion times.",
+    "category": "Human Body",
+    "id": "762",
+    "image": "762.jpg"
+  },
+  {
+    "title": "The Sahara Desert Is 3.6 Million Square Miles",
+    "fact": "The Sahara is the largest hot desert in the world at 3.6 million square miles. However, Antarctica is larger overall if all deserts are considered.",
+    "category": "Geography",
+    "id": "763",
+    "image": "763.jpg"
+  },
+  {
+    "title": "Bees Communicate Through Dance",
+    "fact": "Bees use the waggle dance to communicate the location of food sources to other bees. The dance angle indicates direction relative to the Sun.",
+    "category": "Animals",
+    "id": "764",
+    "image": "764.jpg"
+  },
+  {
+    "title": "The First Computer Mouse Was Made of Wood",
+    "fact": "The first computer mouse, invented in 1964 by Doug Engelbart, was made of wood with two perpendicular wheels that tracked movement.",
+    "category": "Technology",
+    "id": "765",
+    "image": "765.jpg"
+  },
+  {
+    "title": "Forests Store Carbon for Thousands of Years",
+    "fact": "Forests store carbon in their biomass and soil for hundreds to thousands of years. Old-growth forests can store more carbon than younger ones.",
+    "category": "Nature",
+    "id": "766",
+    "image": "766.jpg"
+  },
+  {
+    "title": "The Magna Carta Was Signed in 1215",
+    "fact": "The Magna Carta was signed by King John of England in 1215, establishing that everyone, including the king, was subject to the law.",
+    "category": "History",
+    "id": "767",
+    "image": "767.jpg"
+  },
+  {
+    "title": "A Cockroach Can Live Without Its Head",
+    "fact": "A cockroach can survive for weeks without its head because its brain is not in its head. It breathes through spiracles along its body.",
+    "category": "Animals",
+    "id": "768",
+    "image": "768.jpg"
+  },
+  {
+    "title": "The Sun Makes Up 99.86% of Solar System Mass",
+    "fact": "The Sun contains 99.86% of all mass in the solar system. Jupiter accounts for most of the remaining mass.",
+    "category": "Space",
+    "id": "769",
+    "image": "769.jpg"
+  },
+  {
+    "title": "Your Skin Has 3 Layers",
+    "fact": "Human skin has three main layers: epidermis (outer), dermis (middle), and hypodermis (inner). Together, they form the body's largest organ.",
+    "category": "Human Body",
+    "id": "770",
+    "image": "770.jpg"
+  },
+  {
+    "title": "Lake Victoria Is Africa's Largest Lake",
+    "fact": "Lake Victoria is the largest lake in Africa and the second largest freshwater lake in the world, covering 68,800 square kilometers.",
+    "category": "Geography",
+    "id": "771",
+    "image": "771.jpg"
+  },
+  {
+    "title": "Parrots Can Live to Be Over 80 Years Old",
+    "fact": "Large parrots like macaws and cockatoos can live 60-80+ years. Some African grey parrots have been documented living over 60 years in captivity.",
+    "category": "Animals",
+    "id": "772",
+    "image": "772.jpg"
+  },
+  {
+    "title": "JavaScript Was Created in 10 Days",
+    "fact": "Brendan Eich created JavaScript in just 10 days in 1995, originally called LiveScript. It became one of the most widely used programming languages.",
+    "category": "Technology",
+    "id": "773",
+    "image": "773.jpg"
+  },
+  {
+    "title": "Forests Help Prevent Floods",
+    "fact": "Forests absorb rainfall and slow runoff, reducing flood risks. Tree roots absorb water and release it slowly, maintaining stream flows.",
+    "category": "Nature",
+    "id": "774",
+    "image": "774.jpg"
+  },
+  {
+    "title": "The French Revolution Started in 1789",
+    "fact": "The French Revolution began on July 14, 1789, with the storming of the Bastille. It transformed France from a monarchy to a republic.",
+    "category": "History",
+    "id": "775",
+    "image": "775.jpg"
+  },
+  {
+    "title": "Elephants Are the Only Animals That Can't Jump",
+    "fact": "Adult elephants are the only land mammals that cannot jump. Despite this, they can run up to 25 mph and swim excellently.",
+    "category": "Animals",
+    "id": "776",
+    "image": "776.jpg"
+  },
+  {
+    "title": "The Longest Daylight Period Is 24 Hours at the Poles",
+    "fact": "At the poles, the Sun doesn't set for about 6 months during summer. This creates periods of 24-hour daylight alternating with 24-hour darkness.",
+    "category": "Space",
+    "id": "777",
+    "image": "777.jpg"
+  },
+  {
+    "title": "Your Blood Vessels Would Circle Earth Twice",
+    "fact": "If all blood vessels were laid end to end, they would stretch about 60,000 miles—enough to circle the Earth more than twice.",
+    "category": "Human Body",
+    "id": "778",
+    "image": "778.jpg"
+  },
+  {
+    "title": "Mount Everest Is 29,029 Feet Tall",
+    "fact": "Mount Everest stands at 29,029 feet (8,848 meters) above sea level, making it the tallest mountain on Earth. It grows about 4mm taller each year.",
+    "category": "Geography",
+    "id": "779",
+    "image": "779.jpg"
+  },
+  {
+    "title": "Dolphins Sleep With One Eye Open",
+    "fact": "Dolphins practice unihemispheric sleep, keeping one eye open and half their brain awake to watch for predators and remember to breathe.",
+    "category": "Animals",
+    "id": "780",
+    "image": "780.jpg"
+  },
+  {
+    "title": "WiFi Signals Travel at the Speed of Light",
+    "fact": "WiFi signals travel at the speed of light (about 300,000 km/s), but interference and obstacles can slow them down.",
+    "category": "Technology",
+    "id": "781",
+    "image": "781.jpg"
+  },
+  {
+    "title": "Trees Can Reduce Air Pollution",
+    "fact": "Trees absorb pollutants like ozone, nitrogen dioxide, and sulfur dioxide through their leaves. A single tree can remove 0.4-1.5 pounds of pollutants annually.",
+    "category": "Nature",
+    "id": "782",
+    "image": "782.jpg"
+  },
+  {
+    "title": "The Library of Alexandria Burned in 48 BCE",
+    "fact": "The Library of Alexandria, the ancient world's greatest repository of knowledge, was partially destroyed by fire during Julius Caesar's siege of Alexandria.",
+    "category": "History",
+    "id": "783",
+    "image": "783.jpg"
+  },
+  {
+    "title": "Tardigrades Survive in Space",
+    "fact": "Tardigrades (water bears) are the only animals that can survive in outer space. They can withstand extreme radiation, temperatures, and vacuum.",
+    "category": "Animals",
+    "id": "784",
+    "image": "784.jpg"
+  },
+  {
+    "title": "The Moon Is 4.5 Billion Years Old",
+    "fact": "The Moon formed about 4.5 billion years ago, shortly after Earth. It likely formed when a Mars-sized body collided with early Earth.",
+    "category": "Space",
+    "id": "785",
+    "image": "785.jpg"
+  },
+  {
+    "title": "Your Brain Uses 20% of Body Energy",
+    "fact": "Despite being only 2% of body weight, the brain uses 20% of the body's energy and oxygen. This makes it extremely sensitive to deprivation.",
+    "category": "Human Body",
+    "id": "786",
+    "image": "786.jpg"
+  },
+  {
+    "title": "The Great Barrier Reef Has 1,500 Fish Species",
+    "fact": "The Great Barrier Reef is home to about 1,500 species of fish, 4,000 types of mollusks, and 400 species of coral.",
+    "category": "Geography",
+    "id": "787",
+    "image": "787.jpg"
+  },
+  {
+    "title": "Honey Never Spoils",
+    "fact": "Archaeologists have found 3,000-year-old honey in Egyptian tombs that was still edible. Honey's low moisture and acidic pH prevent bacterial growth.",
+    "category": "Animals",
+    "id": "788",
+    "image": "788.jpg"
+  },
+  {
+    "title": "The First Camera Took 8 Hours to Expose an Image",
+    "fact": "The first photograph (1826-1827) by Nicéphore Niépce took about 8 hours to expose. Modern cameras capture images in fractions of a second.",
+    "category": "Technology",
+    "id": "789",
+    "image": "789.jpg"
+  },
+  {
+    "title": "Trees Can Absorb 100 Gallons of Water Daily",
+    "fact": "A large tree can absorb and transpire up to 100 gallons of water from the soil daily, helping regulate local humidity and rainfall patterns.",
+    "category": "Nature",
+    "id": "790",
+    "image": "790.jpg"
+  },
+  {
+    "title": "The Pyramids of Giza Were Built Around 2560 BCE",
+    "fact": "The Great Pyramid of Giza was built around 2560 BCE for Pharaoh Khufu. It was the tallest structure in the world for over 3,800 years.",
+    "category": "History",
+    "id": "791",
+    "image": "791.jpg"
+  },
+  {
+    "title": "Owls Can Turn Their Heads 270 Degrees",
+    "fact": "Owls have 14 neck vertebrae (humans have 7) and can rotate their heads up to 270 degrees. This compensates for their fixed eyeballs.",
+    "category": "Animals",
+    "id": "792",
+    "image": "792.jpg"
+  },
+  {
+    "title": "The Universe Is 13.8 Billion Years Old",
+    "fact": "The universe began with the Big Bang about 13.8 billion years ago. The first stars formed about 200 million years after this event.",
+    "category": "Space",
+    "id": "793",
+    "image": "793.jpg"
+  },
+  {
+    "title": "Your Nose Can Remember 50,000 Scents",
+    "fact": "Humans can distinguish about 1 trillion different odors, though we only have about 400 types of smell receptors. Memory of scents is stored long-term.",
+    "category": "Human Body",
+    "id": "794",
+    "image": "794.jpg"
+  },
+  {
+    "title": "The Amazon Contains 20% of World Rivers",
+    "fact": "The Amazon River system carries more water than any other river system, discharging about 7.2 million cubic feet per second into the Atlantic.",
+    "category": "Geography",
+    "id": "795",
+    "image": "795.jpg"
+  },
+  {
+    "title": "Sharks Can Detect Electrical Fields",
+    "fact": "Sharks can detect electrical fields as small as a billionth of a volt using special organs called ampullae of Lorenzini. This helps them find prey.",
+    "category": "Animals",
+    "id": "796",
+    "image": "796.jpg"
+  },
+  {
+    "title": "Python Was Named After Monty Python",
+    "fact": "Guido van Rossum named Python after the British comedy troupe Monty Python, not the snake. He was reading Monty Python scripts when developing the language.",
+    "category": "Technology",
+    "id": "797",
+    "image": "797.jpg"
+  },
+  {
+    "title": "Forests Provide 75% of Urban Freshwater",
+    "fact": "About 75% of accessible freshwater for urban areas comes from forested watersheds. Forests filter and regulate water flow throughout the year.",
+    "category": "Nature",
+    "id": "798",
+    "image": "798.jpg"
+  },
+  {
+    "title": "The Industrial Revolution Started in Britain in 1760",
+    "fact": "The Industrial Revolution began in Britain around 1760, transforming economies from agricultural to industrial. It spread to Europe and America by the 1800s.",
+    "category": "History",
+    "id": "799",
+    "image": "799.jpg"
+  },
+  {
+    "title": "Crows Recognize Human Faces",
+    "fact": "Crows can recognize and remember human faces for years. They can teach other crows which people are dangerous, passing this knowledge through generations.",
+    "category": "Animals",
+    "id": "800",
+    "image": "800.jpg"
+  }
+]
