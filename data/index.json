@@ -1,5 +1,6 @@
 [
   "facts.json",
+  "facts_10.json",
   "facts_2.json",
   "facts_3.json",
   "facts_4.json",
@@ -7,5 +8,6 @@
   "facts_6.json",
   "facts_7.json",
   "facts_8.json",
+  "facts_9.json",
   "facts_fixed.json"
 ]
