@@ -1,705 +1,816 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>Mind Bites — Feed Your Curiosity</title>
-<meta name="description" content="Mind-blowing facts about space, animals, science, history and more. Swipe through and learn something new every day.">
-<meta property="og:title" content="Mind Bites — Feed Your Curiosity">
-<meta property="og:description" content="Mind-blowing facts with stunning imagery. Download the app.">
-<meta property="og:image" content="https://raw.githubusercontent.com/factictionary/mindbites/main/images/1.jpg">
-<meta name="theme-color" content="#0a0a14">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;800&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
-<style>
-/* ── Reset & base ────────────────────────────────────────────────────── */
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Mind Bites — Feed Your Curiosity</title>
+  <meta name="description"
+    content="Mind-blowing facts about space, animals, science, history and more. Swipe through and learn something new every day.">
+  <meta property="og:title" content="Mind Bites — Feed Your Curiosity">
+  <meta property="og:description" content="Mind-blowing facts with stunning imagery. Download the app.">
+  <meta property="og:image" content="https://raw.githubusercontent.com/factictionary/mindbites/main/images/1.jpg">
+  <meta name="theme-color" content="#0a0a14">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;800&family=Inter:wght@300;400;500;600&display=swap"
+    rel="stylesheet">
+  <style>
+    /* ── Reset & base ────────────────────────────────────────────────────── */
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
 
-html, body {
-  width: 100%; height: 100%;
-  overflow: hidden;           /* NO body scroll — swipe drives navigation */
-  background: #0a0a14;
-  color: #fff;
-  font-family: 'Inter', sans-serif;
-  -webkit-font-smoothing: antialiased;
-  touch-action: none;         /* we handle touch ourselves */
-}
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      /* NO body scroll — swipe drives navigation */
+      background: #0a0a14;
+      color: #fff;
+      font-family: 'Inter', sans-serif;
+      -webkit-font-smoothing: antialiased;
+      touch-action: none;
+      /* we handle touch ourselves */
+    }
 
-/* ── Star-field canvas ───────────────────────────────────────────────── */
-#stars {
-  position: fixed;
-  inset: 0;
-  z-index: 0;
-  pointer-events: none;
-}
+    /* ── Star-field canvas ───────────────────────────────────────────────── */
+    #stars {
+      position: fixed;
+      inset: 0;
+      z-index: 0;
+      pointer-events: none;
+    }
 
-/* ── Slide container ─────────────────────────────────────────────────── */
-#stage {
-  position: fixed;
-  inset: 0;
-  z-index: 1;
-}
+    /* ── Slide container ─────────────────────────────────────────────────── */
+    #stage {
+      position: fixed;
+      inset: 0;
+      z-index: 1;
+    }
 
-/* Each slide is absolutely positioned; transitions via transform */
-.slide {
-  position: absolute;
-  inset: 0;
-  display: flex;
-  align-items: stretch;
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 0.55s cubic-bezier(0.4,0,0.2,1),
-              transform 0.55s cubic-bezier(0.4,0,0.2,1);
-  transform: translateX(60px);
-}
-.slide.active {
-  opacity: 1;
-  pointer-events: all;
-  transform: translateX(0);
-}
-.slide.prev {
-  opacity: 0;
-  transform: translateX(-60px);
-}
+    /* Each slide is absolutely positioned; transitions via transform */
+    .slide {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: stretch;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.55s cubic-bezier(0.4, 0, 0.2, 1),
+        transform 0.55s cubic-bezier(0.4, 0, 0.2, 1);
+      transform: translateX(60px);
+    }
 
-/* ── Image pane ──────────────────────────────────────────────────────── */
-.img-pane {
-  position: relative;
-  flex: 1 1 58%;
-  min-width: 0;
-  overflow: hidden;
-}
+    .slide.active {
+      opacity: 1;
+      pointer-events: all;
+      transform: translateX(0);
+    }
 
-.img-pane img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-  transition: transform 8s ease-out;
-}
-.slide.active .img-pane img {
-  transform: scale(1.04);
-}
+    .slide.prev {
+      opacity: 0;
+      transform: translateX(-60px);
+    }
 
-/* Image gradient overlay — darkens edges for text legibility */
-.img-pane::after {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background:
-    linear-gradient(to right, transparent 55%, #0a0a14 100%),
-    linear-gradient(to bottom, rgba(0,0,0,0.35) 0%, transparent 30%,
-                               transparent 70%, rgba(0,0,0,0.5) 100%);
-  pointer-events: none;
-}
+    /* ── Image pane ──────────────────────────────────────────────────────── */
+    .img-pane {
+      position: relative;
+      flex: 1 1 58%;
+      min-width: 0;
+      overflow: hidden;
+    }
 
-/* Category ribbon on image */
-.ribbon {
-  position: absolute;
-  top: 28px;
-  left: 28px;
-  z-index: 2;
-  background: rgba(255,255,255,0.12);
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  border: 1px solid rgba(255,255,255,0.2);
-  border-radius: 50px;
-  padding: 6px 16px;
-  font-size: 11px;
-  font-weight: 600;
-  letter-spacing: 1.4px;
-  text-transform: uppercase;
-  color: rgba(255,255,255,0.85);
-}
+    .img-pane img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform 8s ease-out;
+    }
 
-/* ── Fact pane ───────────────────────────────────────────────────────── */
-.fact-pane {
-  flex: 0 0 42%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  padding: 56px 52px 56px 44px;
-  background: linear-gradient(135deg, #0f0f1e 0%, #0d1b2a 100%);
-  overflow: hidden;             /* content clipped, no scroll */
-  position: relative;
-}
+    .slide.active .img-pane img {
+      transform: scale(1.04);
+    }
 
-/* Decorative accent line */
-.fact-pane::before {
-  content: '';
-  position: absolute;
-  left: 0; top: 20%; bottom: 20%;
-  width: 1px;
-  background: linear-gradient(to bottom,
-    transparent, rgba(255,255,255,0.15) 30%,
-    rgba(255,255,255,0.15) 70%, transparent);
-}
+    /* Image gradient overlay — darkens edges for text legibility */
+    .img-pane::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(to right, transparent 55%, #0a0a14 100%),
+        linear-gradient(to bottom, rgba(0, 0, 0, 0.35) 0%, transparent 30%,
+          transparent 70%, rgba(0, 0, 0, 0.5) 100%);
+      pointer-events: none;
+    }
 
-.fact-number {
-  font-size: 11px;
-  font-weight: 500;
-  letter-spacing: 2px;
-  color: rgba(255,255,255,0.3);
-  text-transform: uppercase;
-  margin-bottom: 20px;
-}
+    /* Category ribbon on image */
+    .ribbon {
+      position: absolute;
+      top: 28px;
+      left: 28px;
+      z-index: 2;
+      background: rgba(255, 255, 255, 0.12);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 50px;
+      padding: 6px 16px;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 1.4px;
+      text-transform: uppercase;
+      color: rgba(255, 255, 255, 0.85);
+    }
 
-.fact-title {
-  font-family: 'Playfair Display', serif;
-  font-size: clamp(22px, 2.6vw, 34px);
-  font-weight: 800;
-  line-height: 1.2;
-  color: #fff;
-  margin-bottom: 24px;
-  letter-spacing: -0.3px;
-}
+    /* ── Fact pane ───────────────────────────────────────────────────────── */
+    .fact-pane {
+      flex: 0 0 42%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 56px 52px 56px 44px;
+      background: linear-gradient(135deg, #0f0f1e 0%, #0d1b2a 100%);
+      overflow: hidden;
+      /* content clipped, no scroll */
+      position: relative;
+    }
 
-.fact-divider {
-  width: 40px;
-  height: 3px;
-  background: linear-gradient(90deg, #7c3aed, #06b6d4);
-  border-radius: 2px;
-  margin-bottom: 24px;
-}
+    /* Decorative accent line */
+    .fact-pane::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 20%;
+      bottom: 20%;
+      width: 1px;
+      background: linear-gradient(to bottom,
+          transparent, rgba(255, 255, 255, 0.15) 30%,
+          rgba(255, 255, 255, 0.15) 70%, transparent);
+    }
 
-.fact-text {
-  font-size: clamp(13.5px, 1.15vw, 15.5px);
-  line-height: 1.75;
-  color: rgba(255,255,255,0.72);
-  font-weight: 300;
-  max-height: 38vh;            /* clip long facts — no scroll bar */
-  overflow: hidden;
-  display: -webkit-box;
-  -webkit-line-clamp: 9;
-  -webkit-box-orient: vertical;
-}
+    .fact-number {
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 2px;
+      color: rgba(255, 255, 255, 0.3);
+      text-transform: uppercase;
+      margin-bottom: 20px;
+    }
 
-/* App download strip */
-.download-strip {
-  margin-top: 36px;
-  padding-top: 24px;
-  border-top: 1px solid rgba(255,255,255,0.08);
-}
+    .fact-title {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(22px, 2.6vw, 34px);
+      font-weight: 800;
+      line-height: 1.2;
+      color: #fff;
+      margin-bottom: 24px;
+      letter-spacing: -0.3px;
+    }
 
-.download-label {
-  font-size: 11px;
-  letter-spacing: 1.2px;
-  text-transform: uppercase;
-  color: rgba(255,255,255,0.3);
-  margin-bottom: 14px;
-}
+    .fact-divider {
+      width: 40px;
+      height: 3px;
+      background: linear-gradient(90deg, #7c3aed, #06b6d4);
+      border-radius: 2px;
+      margin-bottom: 24px;
+    }
 
-.store-buttons {
-  display: flex;
-  gap: 12px;
-  flex-wrap: wrap;
-}
+    .fact-text {
+      font-size: clamp(13.5px, 1.15vw, 15.5px);
+      line-height: 1.75;
+      color: rgba(255, 255, 255, 0.72);
+      font-weight: 300;
+      max-height: 38vh;
+      /* clip long facts — no scroll bar */
+      overflow: hidden;
+      display: -webkit-box;
+      -webkit-line-clamp: 9;
+      -webkit-box-orient: vertical;
+    }
 
-.store-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 10px;
-  background: rgba(255,255,255,0.07);
-  border: 1px solid rgba(255,255,255,0.15);
-  border-radius: 10px;
-  padding: 10px 18px;
-  text-decoration: none;
-  color: #fff;
-  font-size: 13px;
-  font-weight: 500;
-  transition: background 0.2s, border-color 0.2s, transform 0.15s;
-  cursor: pointer;
-}
-.store-btn:hover {
-  background: rgba(255,255,255,0.13);
-  border-color: rgba(255,255,255,0.3);
-  transform: translateY(-1px);
-}
-.store-btn svg { opacity: 0.9; flex-shrink: 0; }
+    /* App download strip */
+    .download-strip {
+      margin-top: 36px;
+      padding-top: 24px;
+      border-top: 1px solid rgba(255, 255, 255, 0.08);
+    }
 
-/* ── Navigation controls ─────────────────────────────────────────────── */
-#nav {
-  position: fixed;
-  bottom: 32px;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 10;
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  background: rgba(10,10,20,0.7);
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
-  border: 1px solid rgba(255,255,255,0.1);
-  border-radius: 60px;
-  padding: 10px 20px;
-}
+    .download-label {
+      font-size: 11px;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      color: rgba(255, 255, 255, 0.3);
+      margin-bottom: 14px;
+    }
 
-.nav-btn {
-  width: 36px; height: 36px;
-  border-radius: 50%;
-  border: 1px solid rgba(255,255,255,0.15);
-  background: rgba(255,255,255,0.07);
-  color: #fff;
-  cursor: pointer;
-  display: flex; align-items: center; justify-content: center;
-  transition: background 0.2s, transform 0.15s;
-  flex-shrink: 0;
-}
-.nav-btn:hover { background: rgba(255,255,255,0.16); transform: scale(1.08); }
-.nav-btn:active { transform: scale(0.96); }
-.nav-btn svg { pointer-events: none; }
+    .store-buttons {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
 
-#dots {
-  display: flex;
-  gap: 6px;
-  align-items: center;
-  max-width: 200px;
-  overflow: hidden;
-}
+    .store-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      background: rgba(255, 255, 255, 0.07);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      border-radius: 10px;
+      padding: 10px 18px;
+      text-decoration: none;
+      color: #fff;
+      font-size: 13px;
+      font-weight: 500;
+      transition: background 0.2s, border-color 0.2s, transform 0.15s;
+      cursor: pointer;
+    }
 
-.dot {
-  width: 5px; height: 5px;
-  border-radius: 50%;
-  background: rgba(255,255,255,0.25);
-  transition: all 0.3s;
-  flex-shrink: 0;
-  cursor: pointer;
-}
-.dot.active {
-  background: #fff;
-  width: 20px;
-  border-radius: 3px;
-}
+    .store-btn:hover {
+      background: rgba(255, 255, 255, 0.13);
+      border-color: rgba(255, 255, 255, 0.3);
+      transform: translateY(-1px);
+    }
 
-#counter {
-  font-size: 12px;
-  color: rgba(255,255,255,0.4);
-  font-variant-numeric: tabular-nums;
-  min-width: 44px;
-  text-align: center;
-}
+    .store-btn svg {
+      opacity: 0.9;
+      flex-shrink: 0;
+    }
 
-/* Auto-play progress ring */
-#progress-ring {
-  position: relative;
-  width: 36px; height: 36px;
-  flex-shrink: 0;
-}
-#progress-ring svg {
-  position: absolute;
-  inset: 0;
-  transform: rotate(-90deg);
-}
-#progress-track { stroke: rgba(255,255,255,0.08); }
-#progress-fill {
-  stroke: rgba(255,255,255,0.5);
-  stroke-dasharray: 94.25;
-  stroke-dashoffset: 94.25;
-  transition: stroke-dashoffset 0.1s linear;
-}
-#play-pause {
-  position: absolute;
-  inset: 0;
-  display: flex; align-items: center; justify-content: center;
-  cursor: pointer;
-  color: rgba(255,255,255,0.6);
-  border: none; background: none;
-}
-#play-pause:hover { color: #fff; }
+    /* ── Navigation controls ─────────────────────────────────────────────── */
+    #nav {
+      position: fixed;
+      bottom: 32px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 10;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      background: rgba(10, 10, 20, 0.7);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 60px;
+      padding: 10px 20px;
+    }
 
-/* ── Category filter bar ─────────────────────────────────────────────── */
-#filter-bar {
-  position: fixed;
-  top: 0; left: 0; right: 0;
-  z-index: 10;
-  padding: 16px 24px;
-  background: linear-gradient(to bottom, rgba(10,10,20,0.9) 60%, transparent);
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  overflow-x: auto;
-  scrollbar-width: none;
-}
-#filter-bar::-webkit-scrollbar { display: none; }
+    .nav-btn {
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      background: rgba(255, 255, 255, 0.07);
+      color: #fff;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.2s, transform 0.15s;
+      flex-shrink: 0;
+    }
 
-.brand {
-  font-family: 'Playfair Display', serif;
-  font-size: 17px;
-  font-weight: 800;
-  white-space: nowrap;
-  margin-right: 8px;
-  flex-shrink: 0;
-}
-.brand span { color: #fbbf24; }
+    .nav-btn:hover {
+      background: rgba(255, 255, 255, 0.16);
+      transform: scale(1.08);
+    }
 
-.filter-chip {
-  padding: 6px 16px;
-  border-radius: 50px;
-  border: 1px solid rgba(255,255,255,0.18);
-  background: rgba(255,255,255,0.06);
-  color: rgba(255,255,255,0.7);
-  font-size: 12px;
-  font-weight: 500;
-  cursor: pointer;
-  white-space: nowrap;
-  transition: all 0.2s;
-  flex-shrink: 0;
-}
-.filter-chip:hover {
-  background: rgba(255,255,255,0.12);
-  color: #fff;
-}
-.filter-chip.active {
-  background: rgba(255,255,255,0.95);
-  color: #0a0a14;
-  border-color: transparent;
-  font-weight: 600;
-}
+    .nav-btn:active {
+      transform: scale(0.96);
+    }
 
-/* ── Keyboard hint ───────────────────────────────────────────────────── */
-#kbd-hint {
-  position: fixed;
-  bottom: 90px;
-  right: 28px;
-  z-index: 10;
-  font-size: 11px;
-  color: rgba(255,255,255,0.2);
-  display: flex;
-  gap: 8px;
-  align-items: center;
-}
-kbd {
-  background: rgba(255,255,255,0.08);
-  border: 1px solid rgba(255,255,255,0.15);
-  border-radius: 4px;
-  padding: 2px 7px;
-  font-family: inherit;
-  font-size: 11px;
-}
+    .nav-btn svg {
+      pointer-events: none;
+    }
 
-/* ── Loading state ───────────────────────────────────────────────────── */
-#loader {
-  position: fixed;
-  inset: 0;
-  z-index: 100;
-  background: #0a0a14;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 20px;
-  transition: opacity 0.6s;
-}
-#loader.hidden { opacity: 0; pointer-events: none; }
+    #dots {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+      max-width: 200px;
+      overflow: hidden;
+    }
 
-.loader-brain {
-  font-size: 48px;
-  animation: pulse 1.8s ease-in-out infinite;
-}
-@keyframes pulse {
-  0%, 100% { transform: scale(1); opacity: 0.8; }
-  50%       { transform: scale(1.1); opacity: 1; }
-}
-.loader-bar {
-  width: 160px; height: 2px;
-  background: rgba(255,255,255,0.1);
-  border-radius: 1px;
-  overflow: hidden;
-}
-.loader-fill {
-  height: 100%;
-  background: linear-gradient(90deg, #7c3aed, #06b6d4);
-  border-radius: 1px;
-  width: 0%;
-  transition: width 0.3s;
-}
-.loader-text {
-  font-size: 13px;
-  color: rgba(255,255,255,0.4);
-}
+    .dot {
+      width: 5px;
+      height: 5px;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.25);
+      transition: all 0.3s;
+      flex-shrink: 0;
+      cursor: pointer;
+    }
 
-/* ── Mobile layout ───────────────────────────────────────────────────── */
-@media (max-width: 768px) {
-  .slide {
-    flex-direction: column;
-  }
-  .img-pane {
-    flex: 0 0 52%;
-  }
-  .img-pane::after {
-    background:
-      linear-gradient(to bottom, rgba(0,0,0,0.2) 0%, transparent 40%,
-                                 rgba(10,10,20,0.8) 85%, #0a0a14 100%),
-      linear-gradient(to right, transparent, transparent);
-  }
-  .fact-pane {
-    flex: 1;
-    padding: 24px 24px 80px;
-    background: #0a0a14;
-    justify-content: flex-start;
-    overflow: hidden;
-  }
-  .fact-pane::before { display: none; }
-  .fact-number { margin-bottom: 10px; }
-  .fact-title { font-size: clamp(18px, 5vw, 24px); margin-bottom: 14px; }
-  .fact-divider { margin-bottom: 14px; }
-  .fact-text {
-    font-size: 14px;
-    -webkit-line-clamp: 6;
-    max-height: 30vh;
-  }
-  .download-strip { margin-top: 20px; padding-top: 16px; }
-  .ribbon { top: 68px; }
-  #kbd-hint { display: none; }
-}
-</style>
+    .dot.active {
+      background: #fff;
+      width: 20px;
+      border-radius: 3px;
+    }
+
+    #counter {
+      font-size: 12px;
+      color: rgba(255, 255, 255, 0.4);
+      font-variant-numeric: tabular-nums;
+      min-width: 44px;
+      text-align: center;
+    }
+
+    /* Auto-play progress ring */
+    #progress-ring {
+      position: relative;
+      width: 36px;
+      height: 36px;
+      flex-shrink: 0;
+    }
+
+    #progress-ring svg {
+      position: absolute;
+      inset: 0;
+      transform: rotate(-90deg);
+    }
+
+    #progress-track {
+      stroke: rgba(255, 255, 255, 0.08);
+    }
+
+    #progress-fill {
+      stroke: rgba(255, 255, 255, 0.5);
+      stroke-dasharray: 94.25;
+      stroke-dashoffset: 94.25;
+      transition: stroke-dashoffset 0.1s linear;
+    }
+
+    #play-pause {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      color: rgba(255, 255, 255, 0.6);
+      border: none;
+      background: none;
+    }
+
+    #play-pause:hover {
+      color: #fff;
+    }
+
+    /* ── Category filter bar ─────────────────────────────────────────────── */
+    #filter-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 10;
+      padding: 16px 24px;
+      background: linear-gradient(to bottom, rgba(10, 10, 20, 0.9) 60%, transparent);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+
+    #filter-bar::-webkit-scrollbar {
+      display: none;
+    }
+
+    .brand {
+      font-family: 'Playfair Display', serif;
+      font-size: 17px;
+      font-weight: 800;
+      white-space: nowrap;
+      margin-right: 8px;
+      flex-shrink: 0;
+    }
+
+    .brand span {
+      color: #fbbf24;
+    }
+
+    .filter-chip {
+      padding: 6px 16px;
+      border-radius: 50px;
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      background: rgba(255, 255, 255, 0.06);
+      color: rgba(255, 255, 255, 0.7);
+      font-size: 12px;
+      font-weight: 500;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.2s;
+      flex-shrink: 0;
+    }
+
+    .filter-chip:hover {
+      background: rgba(255, 255, 255, 0.12);
+      color: #fff;
+    }
+
+    .filter-chip.active {
+      background: rgba(255, 255, 255, 0.95);
+      color: #0a0a14;
+      border-color: transparent;
+      font-weight: 600;
+    }
+
+    /* ── Keyboard hint ───────────────────────────────────────────────────── */
+    #kbd-hint {
+      position: fixed;
+      bottom: 90px;
+      right: 28px;
+      z-index: 10;
+      font-size: 11px;
+      color: rgba(255, 255, 255, 0.2);
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+
+    kbd {
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      border-radius: 4px;
+      padding: 2px 7px;
+      font-family: inherit;
+      font-size: 11px;
+    }
+
+    /* ── Loading state ───────────────────────────────────────────────────── */
+    #loader {
+      position: fixed;
+      inset: 0;
+      z-index: 100;
+      background: #0a0a14;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+      transition: opacity 0.6s;
+    }
+
+    #loader.hidden {
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .loader-brain {
+      font-size: 48px;
+      animation: pulse 1.8s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+
+      0%,
+      100% {
+        transform: scale(1);
+        opacity: 0.8;
+      }
+
+      50% {
+        transform: scale(1.1);
+        opacity: 1;
+      }
+    }
+
+    .loader-bar {
+      width: 160px;
+      height: 2px;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 1px;
+      overflow: hidden;
+    }
+
+    .loader-fill {
+      height: 100%;
+      background: linear-gradient(90deg, #7c3aed, #06b6d4);
+      border-radius: 1px;
+      width: 0%;
+      transition: width 0.3s;
+    }
+
+    .loader-text {
+      font-size: 13px;
+      color: rgba(255, 255, 255, 0.4);
+    }
+
+    /* ── Mobile layout ───────────────────────────────────────────────────── */
+    @media (max-width: 768px) {
+      .slide {
+        flex-direction: column;
+      }
+
+      .img-pane {
+        flex: 0 0 52%;
+      }
+
+      .img-pane::after {
+        background:
+          linear-gradient(to bottom, rgba(0, 0, 0, 0.2) 0%, transparent 40%,
+            rgba(10, 10, 20, 0.8) 85%, #0a0a14 100%),
+          linear-gradient(to right, transparent, transparent);
+      }
+
+      .fact-pane {
+        flex: 1;
+        padding: 24px 24px 80px;
+        background: #0a0a14;
+        justify-content: flex-start;
+        overflow: hidden;
+      }
+
+      .fact-pane::before {
+        display: none;
+      }
+
+      .fact-number {
+        margin-bottom: 10px;
+      }
+
+      .fact-title {
+        font-size: clamp(18px, 5vw, 24px);
+        margin-bottom: 14px;
+      }
+
+      .fact-divider {
+        margin-bottom: 14px;
+      }
+
+      .fact-text {
+        font-size: 14px;
+        -webkit-line-clamp: 6;
+        max-height: 30vh;
+      }
+
+      .download-strip {
+        margin-top: 20px;
+        padding-top: 16px;
+      }
+
+      .ribbon {
+        top: 68px;
+      }
+
+      #kbd-hint {
+        display: none;
+      }
+    }
+  </style>
 </head>
+
 <body>
 
-<!-- Star-field canvas -->
-<canvas id="stars"></canvas>
+  <!-- Star-field canvas -->
+  <canvas id="stars"></canvas>
 
-<!-- Filter bar -->
-<div id="filter-bar">
-  <div class="brand">🧠 Mind <span>Bites</span></div>
-  <div id="chips-container"></div>
-</div>
+  <!-- Filter bar -->
+  <div id="filter-bar">
+    <div class="brand">🧠 Mind <span>Bites</span></div>
+    <div id="chips-container"></div>
+  </div>
 
-<!-- Main slide stage -->
-<div id="stage"></div>
+  <!-- Main slide stage -->
+  <div id="stage"></div>
 
-<!-- Navigation bar -->
-<div id="nav">
-  <button class="nav-btn" id="btn-prev" aria-label="Previous">
-    <svg width="14" height="14" viewBox="0 0 24 24" fill="none"
-         stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
-      <polyline points="15 18 9 12 15 6"/>
-    </svg>
-  </button>
-
-  <div id="dots"></div>
-  <span id="counter">1 / 1</span>
-
-  <div id="progress-ring">
-    <svg viewBox="0 0 36 36">
-      <circle class="progress-track" id="progress-track" cx="18" cy="18" r="15"
-              fill="none" stroke-width="2"/>
-      <circle id="progress-fill" cx="18" cy="18" r="15"
-              fill="none" stroke-width="2"/>
-    </svg>
-    <button id="play-pause" aria-label="Play / Pause">
-      <svg id="icon-play" width="10" height="12" viewBox="0 0 10 12" fill="currentColor">
-        <path d="M0 0l10 6-10 6z"/>
+  <!-- Navigation bar -->
+  <div id="nav">
+    <button class="nav-btn" id="btn-prev" aria-label="Previous">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+        stroke-linecap="round">
+        <polyline points="15 18 9 12 15 6" />
       </svg>
-      <svg id="icon-pause" width="10" height="12" viewBox="0 0 10 12" fill="currentColor" style="display:none">
-        <rect x="0" y="0" width="3.5" height="12" rx="1"/>
-        <rect x="6.5" y="0" width="3.5" height="12" rx="1"/>
+    </button>
+
+    <div id="dots"></div>
+    <span id="counter">1 / 1</span>
+
+    <div id="progress-ring">
+      <svg viewBox="0 0 36 36">
+        <circle class="progress-track" id="progress-track" cx="18" cy="18" r="15" fill="none" stroke-width="2" />
+        <circle id="progress-fill" cx="18" cy="18" r="15" fill="none" stroke-width="2" />
+      </svg>
+      <button id="play-pause" aria-label="Play / Pause">
+        <svg id="icon-play" width="10" height="12" viewBox="0 0 10 12" fill="currentColor">
+          <path d="M0 0l10 6-10 6z" />
+        </svg>
+        <svg id="icon-pause" width="10" height="12" viewBox="0 0 10 12" fill="currentColor" style="display:none">
+          <rect x="0" y="0" width="3.5" height="12" rx="1" />
+          <rect x="6.5" y="0" width="3.5" height="12" rx="1" />
+        </svg>
+      </button>
+    </div>
+
+    <button class="nav-btn" id="btn-next" aria-label="Next">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+        stroke-linecap="round">
+        <polyline points="9 18 15 12 9 6" />
       </svg>
     </button>
   </div>
 
-  <button class="nav-btn" id="btn-next" aria-label="Next">
-    <svg width="14" height="14" viewBox="0 0 24 24" fill="none"
-         stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
-      <polyline points="9 18 15 12 9 6"/>
-    </svg>
-  </button>
-</div>
+  <!-- Keyboard hint (desktop only) -->
+  <div id="kbd-hint">
+    <kbd>←</kbd> <kbd>→</kbd> navigate &nbsp;
+    <kbd>Space</kbd> play/pause
+  </div>
 
-<!-- Keyboard hint (desktop only) -->
-<div id="kbd-hint">
-  <kbd>←</kbd> <kbd>→</kbd> navigate &nbsp;
-  <kbd>Space</kbd> play/pause
-</div>
+  <!-- Loading overlay -->
+  <div id="loader">
+    <div class="loader-brain">🧠</div>
+    <div class="loader-bar">
+      <div class="loader-fill" id="loader-fill"></div>
+    </div>
+    <div class="loader-text" id="loader-text">Loading facts…</div>
+  </div>
 
-<!-- Loading overlay -->
-<div id="loader">
-  <div class="loader-brain">🧠</div>
-  <div class="loader-bar"><div class="loader-fill" id="loader-fill"></div></div>
-  <div class="loader-text" id="loader-text">Loading facts…</div>
-</div>
+  <script>
+    // ════════════════════════════════════════════════════════════════════
+    //  CONFIG — update to match your GitHub repo
+    // ════════════════════════════════════════════════════════════════════
+    const REPO_BASE = 'https://raw.githubusercontent.com/factictionary/mindbites/main';
+    const INDEX_URL = `${REPO_BASE}/data/index.json`;
+    const DATA_BASE = `${REPO_BASE}/data`;
+    const IMAGES_BASE = `${REPO_BASE}/images`;
 
-<script>
-// ════════════════════════════════════════════════════════════════════
-//  CONFIG — update to match your GitHub repo
-// ════════════════════════════════════════════════════════════════════
-const REPO_BASE   = 'https://raw.githubusercontent.com/factictionary/mindbites/main';
-const INDEX_URL   = `${REPO_BASE}/data/index.json`;
-const DATA_BASE   = `${REPO_BASE}/data`;
-const IMAGES_BASE = `${REPO_BASE}/images`;
+    const AUTO_ADVANCE_MS = 8000;   // ms per slide when playing
+    const MAX_DOTS = 9;      // max visible dots in nav bar
 
-const AUTO_ADVANCE_MS = 8000;   // ms per slide when playing
-const MAX_DOTS        = 9;      // max visible dots in nav bar
+    // ════════════════════════════════════════════════════════════════════
+    //  STAR FIELD
+    // ════════════════════════════════════════════════════════════════════
+    (function initStars() {
+      const canvas = document.getElementById('stars');
+      const ctx = canvas.getContext('2d');
+      let W, H, stars = [], mouse = { x: 0, y: 0 };
 
-// ════════════════════════════════════════════════════════════════════
-//  STAR FIELD
-// ════════════════════════════════════════════════════════════════════
-(function initStars() {
-  const canvas = document.getElementById('stars');
-  const ctx    = canvas.getContext('2d');
-  let W, H, stars = [], mouse = { x: 0, y: 0 };
+      function resize() {
+        W = canvas.width = window.innerWidth;
+        H = canvas.height = window.innerHeight;
+        stars = Array.from({ length: 140 }, () => ({
+          x: Math.random() * W,
+          y: Math.random() * H,
+          r: Math.random() * 1.1 + 0.2,
+          a: Math.random() * 0.6 + 0.15,
+          dx: (Math.random() - 0.5) * 0.12,
+          dy: (Math.random() - 0.5) * 0.12,
+        }));
+      }
 
-  function resize() {
-    W = canvas.width  = window.innerWidth;
-    H = canvas.height = window.innerHeight;
-    stars = Array.from({ length: 140 }, () => ({
-      x: Math.random() * W,
-      y: Math.random() * H,
-      r: Math.random() * 1.1 + 0.2,
-      a: Math.random() * 0.6 + 0.15,
-      dx: (Math.random() - 0.5) * 0.12,
-      dy: (Math.random() - 0.5) * 0.12,
-    }));
-  }
+      function draw() {
+        ctx.clearRect(0, 0, W, H);
+        const mx = mouse.x, my = mouse.y;
+        stars.forEach(s => {
+          // Subtle parallax toward mouse
+          const px = s.x + (mx - W / 2) * 0.006;
+          const py = s.y + (my - H / 2) * 0.006;
+          ctx.beginPath();
+          ctx.arc(px, py, s.r, 0, Math.PI * 2);
+          ctx.fillStyle = `rgba(255,255,255,${s.a})`;
+          ctx.fill();
+          s.x += s.dx;
+          s.y += s.dy;
+          if (s.x < 0) s.x = W;
+          if (s.x > W) s.x = 0;
+          if (s.y < 0) s.y = H;
+          if (s.y > H) s.y = 0;
+        });
+        requestAnimationFrame(draw);
+      }
 
-  function draw() {
-    ctx.clearRect(0, 0, W, H);
-    const mx = mouse.x, my = mouse.y;
-    stars.forEach(s => {
-      // Subtle parallax toward mouse
-      const px = s.x + (mx - W / 2) * 0.006;
-      const py = s.y + (my - H / 2) * 0.006;
-      ctx.beginPath();
-      ctx.arc(px, py, s.r, 0, Math.PI * 2);
-      ctx.fillStyle = `rgba(255,255,255,${s.a})`;
-      ctx.fill();
-      s.x += s.dx;
-      s.y += s.dy;
-      if (s.x < 0) s.x = W;
-      if (s.x > W) s.x = 0;
-      if (s.y < 0) s.y = H;
-      if (s.y > H) s.y = 0;
-    });
-    requestAnimationFrame(draw);
-  }
+      window.addEventListener('resize', resize);
+      window.addEventListener('mousemove', e => { mouse.x = e.clientX; mouse.y = e.clientY; });
+      resize();
+      draw();
+    })();
 
-  window.addEventListener('resize', resize);
-  window.addEventListener('mousemove', e => { mouse.x = e.clientX; mouse.y = e.clientY; });
-  resize();
-  draw();
-})();
+    // ════════════════════════════════════════════════════════════════════
+    //  DATA LOADING
+    // ════════════════════════════════════════════════════════════════════
+    let allFacts = [];
+    let filteredFacts = [];
+    let categories = ['All'];
+    let activeCategory = 'All';
 
-// ════════════════════════════════════════════════════════════════════
-//  DATA LOADING
-// ════════════════════════════════════════════════════════════════════
-let allFacts      = [];
-let filteredFacts = [];
-let categories    = ['All'];
-let activeCategory = 'All';
+    async function loadFacts() {
+      const fillEl = document.getElementById('loader-fill');
+      const textEl = document.getElementById('loader-text');
 
-async function loadFacts() {
-  const fillEl = document.getElementById('loader-fill');
-  const textEl = document.getElementById('loader-text');
+      // 1. Fetch index
+      textEl.textContent = 'Fetching index…';
+      let files;
+      try {
+        const r = await fetch(INDEX_URL);
+        files = await r.json();
+      } catch (e) {
+        textEl.textContent = 'Could not reach GitHub. Check your connection.';
+        return;
+      }
 
-  // 1. Fetch index
-  textEl.textContent = 'Fetching index…';
-  let files;
-  try {
-    const r = await fetch(INDEX_URL);
-    files   = await r.json();
-  } catch(e) {
-    textEl.textContent = 'Could not reach GitHub. Check your connection.';
-    return;
-  }
+      // 2. Fetch each file sequentially, update progress bar
+      const total = files.length;
+      for (let i = 0; i < files.length; i++) {
+        textEl.textContent = `Loading ${files[i]} (${i + 1}/${total})…`;
+        fillEl.style.width = `${Math.round(((i) / total) * 100)}%`;
+        try {
+          const r = await fetch(`${DATA_BASE}/${files[i]}`);
+          const facts = await r.json();
+          facts.forEach(f => {
+            // Normalise image URL
+            if (!f.image && f.id) f.image = `${f.id}.jpg`;
+            if (f.image && !f.image.startsWith('http')) {
+              f.image = `${IMAGES_BASE}/${f.image}`;
+            }
+            if (f.image_url) f.image = f.image_url;
+          });
+          allFacts.push(...facts);
+        } catch (e) { /* skip bad file */ }
+      }
 
-  // 2. Fetch each file sequentially, update progress bar
-  const total = files.length;
-  for (let i = 0; i < files.length; i++) {
-    textEl.textContent = `Loading ${files[i]} (${i+1}/${total})…`;
-    fillEl.style.width = `${Math.round(((i) / total) * 100)}%`;
-    try {
-      const r     = await fetch(`${DATA_BASE}/${files[i]}`);
-      const facts = await r.json();
-      facts.forEach(f => {
-        // Normalise image URL
-        if (!f.image && f.id) f.image = `${f.id}.jpg`;
-        if (f.image && !f.image.startsWith('http')) {
-          f.image = `${IMAGES_BASE}/${f.image}`;
-        }
-        if (f.image_url) f.image = f.image_url;
-      });
-      allFacts.push(...facts);
-    } catch(e) { /* skip bad file */ }
-  }
+      fillEl.style.width = '100%';
+      textEl.textContent = `${allFacts.length} facts loaded!`;
 
-  fillEl.style.width = '100%';
-  textEl.textContent = `${allFacts.length} facts loaded!`;
+      // 3. Extract categories
+      const catSet = new Set(allFacts.map(f => f.category || 'General'));
+      categories = ['All', ...Array.from(catSet).sort()];
 
-  // 3. Extract categories
-  const catSet = new Set(allFacts.map(f => f.category || 'General'));
-  categories = ['All', ...Array.from(catSet).sort()];
+      // 4. Build filter chips
+      buildFilterChips();
 
-  // 4. Build filter chips
-  buildFilterChips();
-
-  // 5. Apply filter & render
-  applyFilter();
-
-  // Hide loader
-  await new Promise(r => setTimeout(r, 400));
-  document.getElementById('loader').classList.add('hidden');
-
-  // Start autoplay
-  startAutoplay();
-}
-
-// ════════════════════════════════════════════════════════════════════
-//  FILTER
-// ════════════════════════════════════════════════════════════════════
-function buildFilterChips() {
-  const container = document.getElementById('chips-container');
-  container.innerHTML = '';
-  categories.forEach(cat => {
-    const chip = document.createElement('button');
-    chip.className = 'filter-chip' + (cat === activeCategory ? ' active' : '');
-    chip.textContent = cat;
-    chip.addEventListener('click', () => {
-      activeCategory = cat;
-      document.querySelectorAll('.filter-chip').forEach(c =>
-        c.classList.toggle('active', c.textContent === cat));
+      // 5. Apply filter & render
       applyFilter();
-    });
-    container.appendChild(chip);
-  });
-}
 
-function applyFilter() {
-  filteredFacts = activeCategory === 'All'
-    ? [...allFacts]
-    : allFacts.filter(f => f.category === activeCategory);
-  currentIndex = 0;
-  buildSlides();
-  goTo(0, false);
-  buildDots();
-}
+      // Hide loader
+      await new Promise(r => setTimeout(r, 400));
+      document.getElementById('loader').classList.add('hidden');
 
-// ════════════════════════════════════════════════════════════════════
-//  SLIDES
-// ════════════════════════════════════════════════════════════════════
-let currentIndex = 0;
-const stage = document.getElementById('stage');
+      // Start autoplay
+      startAutoplay();
+    }
 
-const CAT_ICONS = {
-  Animals:'🐙', Space:'🚀', Science:'🔬', History:'📜',
-  'Human Body':'🫀', Geography:'🌍', Food:'🍕', Technology:'💻',
-  General:'💡'
-};
+    // ════════════════════════════════════════════════════════════════════
+    //  FILTER
+    // ════════════════════════════════════════════════════════════════════
+    function buildFilterChips() {
+      const container = document.getElementById('chips-container');
+      container.innerHTML = '';
+      categories.forEach(cat => {
+        const chip = document.createElement('button');
+        chip.className = 'filter-chip' + (cat === activeCategory ? ' active' : '');
+        chip.textContent = cat;
+        chip.addEventListener('click', () => {
+          activeCategory = cat;
+          document.querySelectorAll('.filter-chip').forEach(c =>
+            c.classList.toggle('active', c.textContent === cat));
+          applyFilter();
+        });
+        container.appendChild(chip);
+      });
+    }
 
-function buildSlides() {
-  stage.innerHTML = '';
-  filteredFacts.forEach((fact, i) => {
-    const icon  = CAT_ICONS[fact.category] || '💡';
-    const title = fact.title || '';
-    const text  = fact.fact  || fact.text || '';
-    const cat   = fact.category || 'General';
+    function applyFilter() {
+      filteredFacts = activeCategory === 'All'
+        ? [...allFacts]
+        : allFacts.filter(f => f.category === activeCategory);
+      currentIndex = 0;
+      buildSlides();
+      goTo(0, false);
+      buildDots();
+    }
 
-    const slide = document.createElement('div');
-    slide.className = 'slide';
-    slide.dataset.index = i;
+    // ════════════════════════════════════════════════════════════════════
+    //  SLIDES
+    // ════════════════════════════════════════════════════════════════════
+    let currentIndex = 0;
+    const stage = document.getElementById('stage');
 
-    slide.innerHTML = `
+    const CAT_ICONS = {
+      Animals: '🐙', Space: '🚀', Science: '🔬', History: '📜',
+      'Human Body': '🫀', Geography: '🌍', Food: '🍕', Technology: '💻',
+      General: '💡'
+    };
+
+    function buildSlides() {
+      stage.innerHTML = '';
+      filteredFacts.forEach((fact, i) => {
+        const icon = CAT_ICONS[fact.category] || '💡';
+        const title = fact.title || '';
+        const text = fact.fact || fact.text || '';
+        const cat = fact.category || 'General';
+
+        const slide = document.createElement('div');
+        slide.className = 'slide';
+        slide.dataset.index = i;
+
+        slide.innerHTML = `
       <div class="img-pane">
         <div class="ribbon">${icon} ${cat}</div>
         <img src="${fact.image || ''}"
@@ -708,6 +819,8 @@ function buildSlides() {
              onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22800%22 height=%22600%22><rect fill=%22%230d1b2a%22 width=%22800%22 height=%22600%22/><text x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-size=%2280%22>${icon}</text></svg>'">
       </div>
       <div class="fact-pane">
+        <div>🧠 1,000+ Mind-Blowing Facts</div>
+        <br />
         <div class="fact-number">Fact ${i + 1} of ${filteredFacts.length}</div>
         <h2 class="fact-title">${escHtml(title)}</h2>
         <div class="fact-divider"></div>
@@ -728,152 +841,153 @@ function buildSlides() {
         </div>
       </div>`;
 
-    stage.appendChild(slide);
-  });
-}
+        stage.appendChild(slide);
+      });
+    }
 
-function escHtml(str) {
-  return String(str)
-    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
-    .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-}
+    function escHtml(str) {
+      return String(str)
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
 
-// ════════════════════════════════════════════════════════════════════
-//  NAVIGATION
-// ════════════════════════════════════════════════════════════════════
-function goTo(index, animate = true) {
-  const slides = stage.querySelectorAll('.slide');
-  if (!slides.length) return;
+    // ════════════════════════════════════════════════════════════════════
+    //  NAVIGATION
+    // ════════════════════════════════════════════════════════════════════
+    function goTo(index, animate = true) {
+      const slides = stage.querySelectorAll('.slide');
+      if (!slides.length) return;
 
-  // Clamp
-  index = ((index % filteredFacts.length) + filteredFacts.length) % filteredFacts.length;
+      // Clamp
+      index = ((index % filteredFacts.length) + filteredFacts.length) % filteredFacts.length;
 
-  const prevActive = stage.querySelector('.slide.active');
-  if (prevActive) {
-    prevActive.classList.remove('active');
-    if (animate) prevActive.classList.add('prev');
-    setTimeout(() => prevActive.classList.remove('prev'), 600);
-  }
+      const prevActive = stage.querySelector('.slide.active');
+      if (prevActive) {
+        prevActive.classList.remove('active');
+        if (animate) prevActive.classList.add('prev');
+        setTimeout(() => prevActive.classList.remove('prev'), 600);
+      }
 
-  currentIndex = index;
-  slides[index].classList.add('active');
+      currentIndex = index;
+      slides[index].classList.add('active');
 
-  // Update counter
-  document.getElementById('counter').textContent =
-    `${index + 1} / ${filteredFacts.length}`;
+      // Update counter
+      document.getElementById('counter').textContent =
+        `${index + 1} / ${filteredFacts.length}`;
 
-  // Update dots
-  updateDots(index);
+      // Update dots
+      updateDots(index);
 
-  // Reset autoplay timer
-  if (isPlaying) resetAutoplay();
-}
+      // Reset autoplay timer
+      if (isPlaying) resetAutoplay();
+    }
 
-function next() { goTo(currentIndex + 1); }
-function prev() { goTo(currentIndex - 1); }
+    function next() { goTo(currentIndex + 1); }
+    function prev() { goTo(currentIndex - 1); }
 
-// ── Dots ────────────────────────────────────────────────────────────
-function buildDots() {
-  const container = document.getElementById('dots');
-  container.innerHTML = '';
-  const n = Math.min(filteredFacts.length, MAX_DOTS);
-  for (let i = 0; i < n; i++) {
-    const dot = document.createElement('div');
-    dot.className = 'dot';
-    dot.addEventListener('click', () => goTo(i));
-    container.appendChild(dot);
-  }
-  updateDots(0);
-}
+    // ── Dots ────────────────────────────────────────────────────────────
+    function buildDots() {
+      const container = document.getElementById('dots');
+      container.innerHTML = '';
+      const n = Math.min(filteredFacts.length, MAX_DOTS);
+      for (let i = 0; i < n; i++) {
+        const dot = document.createElement('div');
+        dot.className = 'dot';
+        dot.addEventListener('click', () => goTo(i));
+        container.appendChild(dot);
+      }
+      updateDots(0);
+    }
 
-function updateDots(index) {
-  const dots = document.querySelectorAll('.dot');
-  const n    = dots.length;
-  // Map actual index to dot index (for long lists, compress)
-  const ratio    = filteredFacts.length > n
-    ? Math.floor(index / filteredFacts.length * n)
-    : index;
-  dots.forEach((d, i) => d.classList.toggle('active', i === ratio));
-}
+    function updateDots(index) {
+      const dots = document.querySelectorAll('.dot');
+      const n = dots.length;
+      // Map actual index to dot index (for long lists, compress)
+      const ratio = filteredFacts.length > n
+        ? Math.floor(index / filteredFacts.length * n)
+        : index;
+      dots.forEach((d, i) => d.classList.toggle('active', i === ratio));
+    }
 
-// ── Autoplay ─────────────────────────────────────────────────────────
-let isPlaying  = true;
-let autoTimer  = null;
-let startTime  = 0;
-let rafId      = null;
-const fillEl   = document.getElementById('progress-fill');
-const iconPlay = document.getElementById('icon-play');
-const iconPause= document.getElementById('icon-pause');
-const CIRCUM   = 2 * Math.PI * 15; // r=15
+    // ── Autoplay ─────────────────────────────────────────────────────────
+    let isPlaying = true;
+    let autoTimer = null;
+    let startTime = 0;
+    let rafId = null;
+    const fillEl = document.getElementById('progress-fill');
+    const iconPlay = document.getElementById('icon-play');
+    const iconPause = document.getElementById('icon-pause');
+    const CIRCUM = 2 * Math.PI * 15; // r=15
 
-function startAutoplay() {
-  isPlaying = true;
-  iconPlay.style.display  = 'none';
-  iconPause.style.display = '';
-  resetAutoplay();
-}
+    function startAutoplay() {
+      isPlaying = true;
+      iconPlay.style.display = 'none';
+      iconPause.style.display = '';
+      resetAutoplay();
+    }
 
-function resetAutoplay() {
-  clearTimeout(autoTimer);
-  cancelAnimationFrame(rafId);
-  startTime = performance.now();
-  animateRing();
-  autoTimer = setTimeout(next, AUTO_ADVANCE_MS);
-}
+    function resetAutoplay() {
+      clearTimeout(autoTimer);
+      cancelAnimationFrame(rafId);
+      startTime = performance.now();
+      animateRing();
+      autoTimer = setTimeout(next, AUTO_ADVANCE_MS);
+    }
 
-function animateRing() {
-  rafId = requestAnimationFrame(t => {
-    const elapsed  = t - startTime;
-    const fraction = Math.min(elapsed / AUTO_ADVANCE_MS, 1);
-    fillEl.style.strokeDashoffset = CIRCUM * (1 - fraction);
-    if (fraction < 1) animateRing();
-  });
-}
+    function animateRing() {
+      rafId = requestAnimationFrame(t => {
+        const elapsed = t - startTime;
+        const fraction = Math.min(elapsed / AUTO_ADVANCE_MS, 1);
+        fillEl.style.strokeDashoffset = CIRCUM * (1 - fraction);
+        if (fraction < 1) animateRing();
+      });
+    }
 
-function togglePlay() {
-  if (isPlaying) {
-    isPlaying = false;
-    clearTimeout(autoTimer);
-    cancelAnimationFrame(rafId);
-    fillEl.style.strokeDashoffset = CIRCUM;
-    iconPlay.style.display  = '';
-    iconPause.style.display = 'none';
-  } else {
-    startAutoplay();
-  }
-}
+    function togglePlay() {
+      if (isPlaying) {
+        isPlaying = false;
+        clearTimeout(autoTimer);
+        cancelAnimationFrame(rafId);
+        fillEl.style.strokeDashoffset = CIRCUM;
+        iconPlay.style.display = '';
+        iconPause.style.display = 'none';
+      } else {
+        startAutoplay();
+      }
+    }
 
-// ── Touch / swipe ─────────────────────────────────────────────────────
-let touchStartX = 0, touchStartY = 0;
-document.addEventListener('touchstart', e => {
-  touchStartX = e.touches[0].clientX;
-  touchStartY = e.touches[0].clientY;
-}, { passive: true });
+    // ── Touch / swipe ─────────────────────────────────────────────────────
+    let touchStartX = 0, touchStartY = 0;
+    document.addEventListener('touchstart', e => {
+      touchStartX = e.touches[0].clientX;
+      touchStartY = e.touches[0].clientY;
+    }, { passive: true });
 
-document.addEventListener('touchend', e => {
-  const dx = e.changedTouches[0].clientX - touchStartX;
-  const dy = e.changedTouches[0].clientY - touchStartY;
-  if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 40) {
-    dx < 0 ? next() : prev();
-  }
-}, { passive: true });
+    document.addEventListener('touchend', e => {
+      const dx = e.changedTouches[0].clientX - touchStartX;
+      const dy = e.changedTouches[0].clientY - touchStartY;
+      if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 40) {
+        dx < 0 ? next() : prev();
+      }
+    }, { passive: true });
 
-// ── Keyboard ─────────────────────────────────────────────────────────
-document.addEventListener('keydown', e => {
-  if (e.key === 'ArrowRight' || e.key === 'ArrowDown') { e.preventDefault(); next(); }
-  if (e.key === 'ArrowLeft'  || e.key === 'ArrowUp')   { e.preventDefault(); prev(); }
-  if (e.key === ' ') { e.preventDefault(); togglePlay(); }
-});
+    // ── Keyboard ─────────────────────────────────────────────────────────
+    document.addEventListener('keydown', e => {
+      if (e.key === 'ArrowRight' || e.key === 'ArrowDown') { e.preventDefault(); next(); }
+      if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') { e.preventDefault(); prev(); }
+      if (e.key === ' ') { e.preventDefault(); togglePlay(); }
+    });
 
-// ── Button listeners ──────────────────────────────────────────────────
-document.getElementById('btn-prev').addEventListener('click', prev);
-document.getElementById('btn-next').addEventListener('click', next);
-document.getElementById('play-pause').addEventListener('click', togglePlay);
+    // ── Button listeners ──────────────────────────────────────────────────
+    document.getElementById('btn-prev').addEventListener('click', prev);
+    document.getElementById('btn-next').addEventListener('click', next);
+    document.getElementById('play-pause').addEventListener('click', togglePlay);
 
-// ════════════════════════════════════════════════════════════════════
-//  BOOT
-// ════════════════════════════════════════════════════════════════════
-loadFacts();
-</script>
+    // ════════════════════════════════════════════════════════════════════
+    //  BOOT
+    // ════════════════════════════════════════════════════════════════════
+    loadFacts();
+  </script>
 </body>
+
 </html>
