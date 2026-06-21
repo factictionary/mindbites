@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Your Heart Produces Enough Energy to Drive a Truck",
+    "fact": "Over a lifetime, your heart produces enough energy to drive a truck to the Moon and back. It beats about 2.5 billion times in an average lifespan.",
+    "category": "Human Body",
+    "id": "1001",
+    "image": "1001.jpg"
+  },
+  {
+    "title": "The Sun's Core Reaches 27 Million Degrees Fahrenheit",
+    "fact": "The core of the Sun reaches temperatures of about 27 million degrees Fahrenheit (15 million°C). This extreme heat enables nuclear fusion.",
+    "category": "Space",
+    "id": "1002",
+    "image": "1002.jpg"
+  },
+  {
+    "title": "Antarctica Has No Permanent Residents",
+    "fact": "Antarctica has no permanent human residents, only seasonal researchers. About 1,000-4,000 people live there at any given time, depending on the season.",
+    "category": "Geography",
+    "id": "1003",
+    "image": "1003.jpg"
+  },
+  {
+    "title": "A Group of Flamingos Is Called a Flamboyance",
+    "fact": "A group of flamingos is called a flamboyance, which perfectly matches their colorful appearance. They often stand on one leg to conserve body heat.",
+    "category": "Animals",
+    "id": "1004",
+    "image": "1004.jpg"
+  },
+  {
+    "title": "Blockchain Can Process 100,000 Transactions Per Second",
+    "fact": "Some blockchain networks can process over 100,000 transactions per second, though most process far fewer. This depends on the specific network architecture.",
+    "category": "Technology",
+    "id": "1005",
+    "image": "1005.jpg"
+  },
+  {
+    "title": "Forests Can Take 100 Years to Mature",
+    "fact": "Old-growth forests take over 100 years to develop their complex ecosystems. These ancient forests contain the most biodiversity and store the most carbon.",
+    "category": "Nature",
+    "id": "1006",
+    "image": "1006.jpg"
+  },
+  {
+    "title": "The Declaration of the Rights of Man Was in 1789",
+    "fact": "The Declaration of the Rights of Man and of the Citizen, adopted in 1789, established principles of liberty, equality, and popular sovereignty in France.",
+    "category": "History",
+    "id": "1007",
+    "image": "1007.jpg"
+  },
+  {
+    "title": "Sharks Can Detect Blood From Miles Away",
+    "fact": "Sharks can detect blood in the water at concentrations as low as 1 part per million, from up to 3 miles away using their highly sensitive sense of smell.",
+    "category": "Animals",
+    "id": "1008",
+    "image": "1008.jpg"
+  },
+  {
+    "title": "The Solar System Is 4.6 Billion Years Old",
+    "fact": "The solar system formed about 4.6 billion years ago from a giant molecular cloud. The Sun will continue burning for another 5 billion years.",
+    "category": "Space",
+    "id": "1009",
+    "image": "1009.jpg"
+  },
+  {
+    "title": "Your Brain Uses 20% of Your Oxygen Intake",
+    "fact": "Despite being only 2% of body weight, your brain uses 20% of your oxygen intake. This makes it extremely sensitive to oxygen deprivation.",
+    "category": "Human Body",
+    "id": "1010",
+    "image": "1010.jpg"
+  },
+  {
+    "title": "The Sahara Desert Has Sand Dunes Over 1,000 Feet High",
+    "fact": "Some sand dunes in the Sahara Desert reach heights of over 1,000 feet (300 meters). The tallest recorded dune is about 1,287 feet high.",
+    "category": "Geography",
+    "id": "1011",
+    "image": "1011.jpg"
+  },
+  {
+    "title": "A Group of Porcupines Is Called a Prickle",
+    "fact": "A group of porcupines is called a prickle. Despite their dangerous quills, porcupines are generally docile and try to avoid confrontation.",
+    "category": "Animals",
+    "id": "1012",
+    "image": "1012.jpg"
+  },
+  {
+    "title": "The First Ransomware Attack Occurred in 1989",
+    "fact": "The first known ransomware attack occurred in 1989, when Joseph Popp distributed 20,000 floppy disks containing ransomware disguised as AIDS education software.",
+    "category": "Technology",
+    "id": "1013",
+    "image": "1013.jpg"
+  },
+  {
+    "title": "Trees Can Communicate With Each Other",
+    "fact": "Trees in forests communicate through underground fungal networks called mycorrhizal networks, sharing nutrients and chemical warnings about insect attacks.",
+    "category": "Nature",
+    "id": "1014",
+    "image": "1014.jpg"
+  },
+  {
+    "title": "The French Revolution Ended in 1799",
+    "fact": "The French Revolution effectively ended in 1799 when Napoleon Bonaparte seized power, establishing the Consulate and later the Empire.",
+    "category": "History",
+    "id": "1015",
+    "image": "1015.jpg"
+  },
+  {
+    "title": "Cheetahs Can't Roar",
+    "fact": "Cheetahs can't roar; they make chirping and yelping sounds instead. Their vocal cords are structured differently from other big cats that can roar.",
+    "category": "Animals",
+    "id": "1016",
+    "image": "1016.jpg"
+  },
+  {
+    "title": "The Largest Known Star Would Engulf Earth's Orbit",
+    "fact": "If placed at our Sun's position, the star UY Scuti would extend past the orbit of Jupiter, engulfing Earth and Mars.",
+    "category": "Space",
+    "id": "1017",
+    "image": "1017.jpg"
+  },
+  {
+    "title": "Your Liver Performs 500 Different Functions",
+    "fact": "The liver performs over 500 essential functions, including filtering blood, producing bile, storing glycogen, and detoxifying harmful substances.",
+    "category": "Human Body",
+    "id": "1018",
+    "image": "1018.jpg"
+  },
+  {
+    "title": "The Largest Salt Flat Is in Bolivia",
+    "fact": "Salar de Uyuni in Bolivia is the world's largest salt flat at 4,086 square miles. During wet season, it becomes the world's largest mirror.",
+    "category": "Geography",
+    "id": "1019",
+    "image": "1019.jpg"
+  },
+  {
+    "title": "Peregrine Falcons Dive at 240 mph",
+    "fact": "Peregrine falcons are the fastest animals on Earth, diving at speeds up to 240 mph to catch prey in mid-air.",
+    "category": "Animals",
+    "id": "1020",
+    "image": "1020.jpg"
+  },
+  {
+    "title": "WiFi Passwords Originated from Banking",
+    "fact": "The concept of passwords originated from ancient Roman military watchwords. Modern digital passwords evolved from computer time-sharing systems in the 1960s.",
+    "category": "Technology",
+    "id": "1021",
+    "image": "1021.jpg"
+  },
+  {
+    "title": "Forests Generate Their Own Rainfall",
+    "fact": "Large forests like the Amazon create their own rainfall systems through transpiration, releasing so much water vapor that it forms clouds and generates rain.",
+    "category": "Nature",
+    "id": "1022",
+    "image": "1022.jpg"
+  },
+  {
+    "title": "The First Written Constitution Was in 1755 BCE",
+    "fact": "The oldest known written constitution is the Constitution of Medina, established by Prophet Muhammad in 622 CE. However, the US Constitution dates to 1787.",
+    "category": "History",
+    "id": "1023",
+    "image": "1023.jpg"
+  },
+  {
+    "title": "A Group of Rhinoceros Is Called a Crash",
+    "fact": "A group of rhinoceros is called a crash. These endangered animals are threatened by poaching for their horns.",
+    "category": "Animals",
+    "id": "1024",
+    "image": "1024.jpg"
+  },
+  {
+    "title": "Neutron Stars Are密度Extremely Dense",
+    "fact": "Neutron stars are so dense that a sugar-cube-sized amount of their material would weigh about 1 billion tons, equivalent to the weight of all humans combined.",
+    "category": "Space",
+    "id": "1025",
+    "image": "1025.jpg"
+  },
+  {
+    "title": "Your Body Has More Bacteria Than Human Cells",
+    "fact": "Your body contains about 38 trillion bacterial cells compared to 30 trillion human cells. These microbes are essential for digestion and immunity.",
+    "category": "Human Body",
+    "id": "1026",
+    "image": "1026.jpg"
+  },
+  {
+    "title": "The Amazon River Has 1,100 Tributaries",
+    "fact": "The Amazon River has over 1,100 tributaries, contributing to its massive flow that represents about 20% of the world's river flow into the ocean.",
+    "category": "Geography",
+    "id": "1027",
+    "image": "1027.jpg"
+  },
+  {
+    "title": "A Group of Hedgehogs Is Called an Array",
+    "fact": "A group of hedgehogs is called an array. These small mammals have about 5,000-7,000 quills covering their bodies.",
+    "category": "Animals",
+    "id": "1028",
+    "image": "1028.jpg"
+  },
+  {
+    "title": "The Dark Web Contains 7.5 Petabytes of Data",
+    "fact": "The dark web contains approximately 7.5 petabytes of data, though this number fluctuates. It represents only a small fraction of the total internet.",
+    "category": "Technology",
+    "id": "1029",
+    "image": "1029.jpg"
+  },
+  {
+    "title": "Trees Can Reduce Air Pollution",
+    "fact": "Trees absorb pollutants like nitrogen dioxide and sulfur dioxide through their leaves. A single tree can remove 0.4-1.5 pounds of pollutants annually.",
+    "category": "Nature",
+    "id": "1030",
+    "image": "1030.jpg"
+  },
+  {
+    "title": "The French Revolution's Reign of Terror Lasted 10 Months",
+    "fact": "The Reign of Terror (1793-1794) lasted about 10 months, during which about 17,000 people were executed by guillotine.",
+    "category": "History",
+    "id": "1031",
+    "image": "1031.jpg"
+  },
+  {
+    "title": "A Group of Stingrays Is Called a Fever",
+    "fact": "A group of stingrays is called a fever. These graceful swimmers use their disc-shaped bodies to glide through the water.",
+    "category": "Animals",
+    "id": "1032",
+    "image": "1032.jpg"
+  },
+  {
+    "title": "A Photon Takes 100,000 Years to Travel from Sun's Core to Surface",
+    "fact": "It takes a photon about 100,000 years to travel from the Sun's core to its surface, but only 8 minutes to travel from there to Earth.",
+    "category": "Space",
+    "id": "1033",
+    "image": "1033.jpg"
+  },
+  {
+    "title": "Your Brain Has a Storage Capacity of 2.5 Petabytes",
+    "fact": "Your brain's memory storage capacity is estimated at about 2.5 petabytes (2.5 million gigabytes), equivalent to 3 million hours of TV shows.",
+    "category": "Human Body",
+    "id": "1034",
+    "image": "1034.jpg"
+  },
+  {
+    "title": "Mount Kilimanjaro Has Three Volcanic Cones",
+    "fact": "Mount Kilimanjaro has three volcanic cones: Kibo, Mawenzi, and Shira. Kibo is the highest and could erupt again despite being dormant.",
+    "category": "Geography",
+    "id": "1035",
+    "image": "1035.jpg"
+  },
+  {
+    "title": "A Group of Cheetahs Is Called a Coalition",
+    "fact": "A group of cheetahs is called a coalition. Male cheetahs often form coalitions to protect their territory and hunting grounds.",
+    "category": "Animals",
+    "id": "1036",
+    "image": "1036.jpg"
+  },
+  {
+    "title": "The First 1 GB Hard Drive Cost $40,000",
+    "fact": "IBM introduced the first gigabyte-capacity hard drive in 1980. It weighed about 550 pounds and cost $40,000. Today, 1 TB drives cost under $50.",
+    "category": "Technology",
+    "id": "1037",
+    "image": "1037.jpg"
+  },
+  {
+    "title": "Forests Store 45% of All Terrestrial Carbon",
+    "fact": "Forests store approximately 45% of all carbon stored on land, making them crucial for regulating Earth's climate.",
+    "category": "Nature",
+    "id": "1038",
+    "image": "1038.jpg"
+  },
+  {
+    "title": "The Napoleonic Wars Lasted 12 Years",
+    "fact": "The Napoleonic Wars (1803-1815) lasted about 12 years and involved most of Europe. Napoleon commanded forces across multiple continents.",
+    "category": "History",
+    "id": "1039",
+    "image": "1039.jpg"
+  },
+  {
+    "title": "A Group of Eagles Is Called a Convocation",
+    "fact": "A group of eagles is called a convocation. Bald eagles mate for life and return to the same nest year after year.",
+    "category": "Animals",
+    "id": "1040",
+    "image": "1040.jpg"
+  },
+  {
+    "title": "The Milky Way Will Collide with Andromeda",
+    "fact": "The Milky Way and Andromeda galaxies are approaching each other at 250,000 mph and will merge in about 4.5 billion years.",
+    "category": "Space",
+    "id": "1041",
+    "image": "1041.jpg"
+  },
+  {
+    "title": "Your Stomach Has a pH of 1-3",
+    "fact": "Your stomach acid has a pH between 1 and 3, making it strong enough to dissolve metal. It protects against pathogens in food.",
+    "category": "Human Body",
+    "id": "1042",
+    "image": "1042.jpg"
+  },
+  {
+    "title": "The Driest Place Is in Antarctica",
+    "fact": "The McMurdo Dry Valleys in Antarctica are the driest places on Earth, with virtually no ice or snow and extremely low humidity.",
+    "category": "Geography",
+    "id": "1043",
+    "image": "1043.jpg"
+  },
+  {
+    "title": "A Group of Jellyfish Is Called a Smack",
+    "fact": "A group of jellyfish is called a smack. Jellyfish have been floating in Earth's oceans for over 500 million years.",
+    "category": "Animals",
+    "id": "1044",
+    "image": "1044.jpg"
+  },
+  {
+    "title": "Cloud Computing Was Coined in 1996",
+    "fact": "The term 'cloud computing' was coined in 1996 by Compaq executives. The first widely available cloud services appeared around 2006.",
+    "category": "Technology",
+    "id": "1045",
+    "image": "1045.jpg"
+  },
+  {
+    "title": "Trees Can Live for Thousands of Years",
+    "fact": "Some bristlecone pine trees have been alive for over 5,000 years, making them the oldest known living organisms on Earth.",
+    "category": "Nature",
+    "id": "1046",
+    "image": "1046.jpg"
+  },
+  {
+    "title": "The Suez Canal Took 10 Years to Build",
+    "fact": "The Suez Canal took 10 years to build (1859-1869) and is 120 miles long. It connects the Mediterranean Sea to the Red Sea.",
+    "category": "History",
+    "id": "1047",
+    "image": "1047.jpg"
+  },
+  {
+    "title": "A Group of Kangaroos Is Called a Mob",
+    "fact": "A group of kangaroos is called a mob. They use their strong tails for balance when hopping and as a fifth leg when standing.",
+    "category": "Animals",
+    "id": "1048",
+    "image": "1048.jpg"
+  },
+  {
+    "title": "The Universe Contains 2 Trillion Galaxies",
+    "fact": "The observable universe contains about 2 trillion galaxies, each containing hundreds of billions of stars. Most galaxies are dwarf galaxies.",
+    "category": "Space",
+    "id": "1049",
+    "image": "1049.jpg"
+  },
+  {
+    "title": "Your Body Has 12 Systems Working Together",
+    "fact": "The human body has 12 major organ systems: skeletal, muscular, nervous, endocrine, cardiovascular, respiratory, digestive, urinary, immune, and others.",
+    "category": "Human Body",
+    "id": "1050",
+    "image": "1050.jpg"
+  },
+  {
+    "title": "The Amazon Contains 16% of World's Freshwater",
+    "fact": "The Amazon basin contains about 16% of the world's freshwater. The river alone holds more water than the next 10 largest rivers combined.",
+    "category": "Geography",
+    "id": "1051",
+    "image": "1051.jpg"
+  },
+  {
+    "title": "A Group of Badgers Is Called a Cete",
+    "fact": "A group of badgers is called a cete. Honey badgers are considered the most fearless animals in the world.",
+    "category": "Animals",
+    "id": "1052",
+    "image": "1052.jpg"
+  },
+  {
+    "title": "The First 1 TB Solid-State Drive Costs $1,500",
+    "fact": "Consumer 1 TB solid-state drives now cost under $100, but early models in 2007 cost around $1,500 for just 32 GB.",
+    "category": "Technology",
+    "id": "1053",
+    "image": "1053.jpg"
+  },
+  {
+    "title": "Forests Cover 4 Billion Hectares",
+    "fact": "Forests cover approximately 4 billion hectares (9.9 billion acres) of Earth's land surface, though this is decreasing due to deforestation.",
+    "category": "Nature",
+    "id": "1054",
+    "image": "1054.jpg"
+  },
+  {
+    "title": "The Panama Canal Took 10 Years to Build",
+    "fact": "The Panama Canal took about 10 years to build (1904-1914), though French attempts began in 1881. It is 50 miles long.",
+    "category": "History",
+    "id": "1055",
+    "image": "1055.jpg"
+  },
+  {
+    "title": "A Group of Wildebeest Is Called a Cracker",
+    "fact": "A group of wildebeest is called a cracker. Each year, about 1.5 million wildebeest migrate across the Serengeti in one of Earth's greatest wildlife spectacles.",
+    "category": "Animals",
+    "id": "1056",
+    "image": "1056.jpg"
+  },
+  {
+    "title": "Black Holes Can Sing in B-Flat",
+    "fact": "In 2003, astronomers detected sound waves from a black hole in the Perseus cluster. The note is B-flat, 57 octaves below middle C.",
+    "category": "Space",
+    "id": "1057",
+    "image": "1057.jpg"
+  },
+  {
+    "title": "Your Brain Is 60% Fat",
+    "fact": "Your brain is about 60% fat, making it one of the fattiest organs in the body. This fat is essential for brain cell structure and function.",
+    "category": "Human Body",
+    "id": "1058",
+    "image": "1058.jpg"
+  },
+  {
+    "title": "The Great Barrier Reef Has 3,000 Individual Reefs",
+    "fact": "The Great Barrier Reef consists of about 3,000 individual reef systems and 900 islands, stretching over 1,400 miles along Australia's coast.",
+    "category": "Geography",
+    "id": "1059",
+    "image": "1059.jpg"
+  },
+  {
+    "title": "A Group of Otters Is Called a Romp",
+    "fact": "A group of otters is called a romp. Sea otters often hold hands while sleeping to avoid drifting apart in the water.",
+    "category": "Animals",
+    "id": "1060",
+    "image": "1060.jpg"
+  },
+  {
+    "title": "The First Computer Mouse Was Invented in 1964",
+    "fact": "Douglas Engelbart invented the computer mouse in 1964 at Stanford Research Institute. It was made of wood with two wheels.",
+    "category": "Technology",
+    "id": "1061",
+    "image": "1061.jpg"
+  },
+  {
+    "title": "Forests Provide 75% of Urban Freshwater",
+    "fact": "Forested watersheds provide approximately 75% of the world's accessible fresh water for domestic, agricultural, and industrial use.",
+    "category": "Nature",
+    "id": "1062",
+    "image": "1062.jpg"
+  },
+  {
+    "title": "The Titanic Had 20 Lifeboats but Needed 48",
+    "fact": "The Titanic carried only 20 lifeboats, enough for about half the passengers. Maritime regulations at the time didn't require more.",
+    "category": "History",
+    "id": "1063",
+    "image": "1063.jpg"
+  },
+  {
+    "title": "A Group of Skunks Is Called a Stench",
+    "fact": "A group of skunks is called a stench. Their spray can be detected by humans from up to 1.5 miles away.",
+    "category": "Animals",
+    "id": "1064",
+    "image": "1064.jpg"
+  },
+  {
+    "title": "The Moon Is Slowly Moving Away",
+    "fact": "The Moon moves about 3.8 cm away from Earth each year. In 600 million years, total solar eclipses will no longer be possible.",
+    "category": "Space",
+    "id": "1065",
+    "image": "1065.jpg"
+  },
+  {
+    "title": "Your Brain Weighs About 3 Pounds",
+    "fact": "An adult brain weighs about 3 pounds (1.4 kg). It contains 86 billion neurons, each connected to thousands of others.",
+    "category": "Human Body",
+    "id": "1066",
+    "image": "1066.jpg"
+  },
+  {
+    "title": "The Amazon Has 2.5 Million Insect Species",
+    "fact": "Scientists estimate the Amazon rainforest contains about 2.5 million insect species, though many remain undiscovered and unnamed.",
+    "category": "Geography",
+    "id": "1067",
+    "image": "1067.jpg"
+  },
+  {
+    "title": "A Group of Crocodiles Is Called a Bask",
+    "fact": "A group of crocodiles is called a bask. Crocodiles have the strongest bite force of any animal, up to 3,700 PSI.",
+    "category": "Animals",
+    "id": "1068",
+    "image": "1068.jpg"
+  },
+  {
+    "title": "The First Digital Camera Had 0.1 Megapixels",
+    "fact": "The first commercial digital camera in 1990 had only 0.14 megapixels and cost $10,000. Modern smartphones have cameras with 100+ megapixels.",
+    "category": "Technology",
+    "id": "1069",
+    "image": "1069.jpg"
+  },
+  {
+    "title": "Forests Can Filter 85% of Particulate Matter",
+    "fact": "Trees and forests can filter up to 85% of particulate matter from the air, significantly improving air quality in urban areas.",
+    "category": "Nature",
+    "id": "1070",
+    "image": "1070.jpg"
+  },
+  {
+    "title": "The Berlin Wall Was 96 Miles Long",
+    "fact": "The Berlin Wall was about 96 miles long and included over 300 watchtowers. Its construction cut West Berlin off from the surrounding East Germany.",
+    "category": "History",
+    "id": "1071",
+    "image": "1071.jpg"
+  },
+  {
+    "title": "A Group of Lizards Is Called a Lounge",
+    "fact": "A group of lizards is called a lounge. Some lizards can detach their tails to escape predators and then regrow them.",
+    "category": "Animals",
+    "id": "1072",
+    "image": "1072.jpg"
+  },
+  {
+    "title": "Saturn Would Float in Water",
+    "fact": "Saturn is the least dense planet; if you could find a bathtub big enough, it would float. Its density is less than that of water.",
+    "category": "Space",
+    "id": "1073",
+    "image": "1073.jpg"
+  },
+  {
+    "title": "Your Body Has 206 Bones",
+    "fact": "Adults have 206 bones, but babies are born with about 300 that fuse together as they grow. The smallest bone is in the ear.",
+    "category": "Human Body",
+    "id": "1074",
+    "image": "1074.jpg"
+  },
+  {
+    "title": "The Amazon Rainforest Has 15,000 Tree Species",
+    "fact": "Scientists have cataloged at least 15,000 tree species in the Amazon, with many more likely undiscovered in this biodiversity hotspot.",
+    "category": "Geography",
+    "id": "1075",
+    "image": "1075.jpg"
+  },
+  {
+    "title": "A Group of Hippos Is Called a Pod",
+    "fact": "A group of hippos is called a pod. Despite their cute appearance, hippos are among Africa's most dangerous animals.",
+    "category": "Animals",
+    "id": "1076",
+    "image": "1076.jpg"
+  },
+  {
+    "title": "The First Computer Program Was Written in 1843",
+    "fact": "Ada Lovelace wrote the first computer program in 1843 for Charles Babbage's Analytical Engine. It calculated Bernoulli numbers.",
+    "category": "Technology",
+    "id": "1077",
+    "image": "1077.jpg"
+  },
+  {
+    "title": "Forests Reduce Urban Noise by 50%",
+    "fact": "Trees and vegetation can reduce urban noise pollution by up to 50% by absorbing and scattering sound waves.",
+    "category": "Nature",
+    "id": "1078",
+    "image": "1078.jpg"
+  },
+  {
+    "title": "The First Moon Landing Cost $25.4 Billion",
+    "fact": "The Apollo program cost about $25.4 billion (about $180 billion today), representing about 4% of US GDP at its peak.",
+    "category": "History",
+    "id": "1079",
+    "image": "1079.jpg"
+  },
+  {
+    "title": "A Group of Parrots Is Called a Pandemonium",
+    "fact": "A group of parrots is called a pandemonium. Parrots are among the most intelligent birds and can learn to mimic human speech.",
+    "category": "Animals",
+    "id": "1080",
+    "image": "1080.jpg"
+  },
+  {
+    "title": "The Sun's Light Takes 8 Minutes to Reach Earth",
+    "fact": "Light from the Sun takes about 8 minutes and 20 seconds to reach Earth, traveling at 186,000 miles per second.",
+    "category": "Space",
+    "id": "1081",
+    "image": "1081.jpg"
+  },
+  {
+    "title": "Your Brain Uses 20% of Your Calories",
+    "fact": "Despite being only 2% of body weight, your brain uses about 20% of your caloric intake, making it extremely energy-intensive.",
+    "category": "Human Body",
+    "id": "1082",
+    "image": "1082.jpg"
+  },
+  {
+    "title": "The Atacama Desert Has the Clearest Skies",
+    "fact": "The Atacama Desert in Chile has the clearest skies on Earth, making it ideal for astronomical observatories.",
+    "category": "Geography",
+    "id": "1083",
+    "image": "1083.jpg"
+  },
+  {
+    "title": "A Group of Seals Is Called a Rookery",
+    "fact": "A group of seals is called a rookery. Seals can hold their breath for up to 2 hours while diving for food.",
+    "category": "Animals",
+    "id": "1084",
+    "image": "1084.jpg"
+  },
+  {
+    "title": "The First WiFi Network Operated in 1997",
+    "fact": "The first WiFi standard (802.11) was released in 1997, enabling wireless data transfer at 2 Mbps. Modern WiFi can reach 10+ Gbps.",
+    "category": "Technology",
+    "id": "1085",
+    "image": "1085.jpg"
+  },
+  {
+    "title": "Forests Produce 50% of Earth's Oxygen",
+    "fact": "Forests and phytoplankton together produce about 50% of Earth's oxygen through photosynthesis.",
+    "category": "Nature",
+    "id": "1086",
+    "image": "1086.jpg"
+  },
+  {
+    "title": "The Suez Canal Opened in 1869",
+    "fact": "The Suez Canal opened on November 17, 1869, after 10 years of construction. It revolutionized global trade by connecting Europe and Asia.",
+    "category": "History",
+    "id": "1087",
+    "image": "1087.jpg"
+  },
+  {
+    "title": "A Group of Leopards Is Called a Leap",
+    "fact": "A group of leopards is called a leap. Leopards are the most widespread of all big cats, found across Africa and Asia.",
+    "category": "Animals",
+    "id": "1088",
+    "image": "1088.jpg"
+  },
+  {
+    "title": "The Sun's Diameter Is 109 Times Earth's",
+    "fact": "The Sun's diameter is about 109 times that of Earth. About 1.3 million Earths could fit inside the Sun.",
+    "category": "Space",
+    "id": "1089",
+    "image": "1089.jpg"
+  },
+  {
+    "title": "Your Heart Beats 100,000 Times Per Day",
+    "fact": "Your heart beats about 100,000 times per day, pumping about 2,000 gallons of blood. This adds up to about 3 billion beats in a lifetime.",
+    "category": "Human Body",
+    "id": "1090",
+    "image": "1090.jpg"
+  },
+  {
+    "title": "The Amazon Rainforest Gets 9 Feet of Rain Annually",
+    "fact": "The Amazon rainforest receives about 9 feet (2.7 meters) of rainfall per year, making it one of the wettest places on Earth.",
+    "category": "Geography",
+    "id": "1091",
+    "image": "1091.jpg"
+  },
+  {
+    "title": "A Group of Baboons Is Called a Troop",
+    "fact": "A group of baboons is called a troop. Baboons live in complex social hierarchies with clear dominance structures.",
+    "category": "Animals",
+    "id": "1092",
+    "image": "1092.jpg"
+  },
+  {
+    "title": "The First Bitcoin Transaction Was in 2009",
+    "fact": "The first Bitcoin transaction occurred on January 12, 2009, when Satoshi Nakamoto sent 10 BTC to Hal Finney.",
+    "category": "Technology",
+    "id": "1093",
+    "image": "1093.jpg"
+  },
+  {
+    "title": "Trees Can Absorb 48 Pounds of CO2 Per Year",
+    "fact": "A single mature tree can absorb about 48 pounds of carbon dioxide per year and release enough oxygen for two people to breathe.",
+    "category": "Nature",
+    "id": "1094",
+    "image": "1094.jpg"
+  },
+  {
+    "title": "The Panama Canal Opened in 1914",
+    "fact": "The Panama Canal opened on August 15, 1914, after a decade of construction. It handles over 12,000 ships annually.",
+    "category": "History",
+    "id": "1095",
+    "image": "1095.jpg"
+  },
+  {
+    "title": "A Group of Foxes Is Called a Skulk",
+    "fact": "A group of foxes is called a skulk. Red foxes can hear a mouse squeak from 100 feet away.",
+    "category": "Animals",
+    "id": "1096",
+    "image": "1096.jpg"
+  },
+  {
+    "title": "The Moon Has 181 Giant Craters",
+    "fact": "The Moon has at least 181 giant craters over 12 miles wide. The largest is the South Pole-Aitken basin, 1,600 miles across.",
+    "category": "Space",
+    "id": "1097",
+    "image": "1097.jpg"
+  },
+  {
+    "title": "Your Lungs Have 300 Million Alveoli",
+    "fact": "Your lungs contain about 300 million tiny air sacs called alveoli. If spread flat, they'd cover about 70 square meters.",
+    "category": "Human Body",
+    "id": "1098",
+    "image": "1098.jpg"
+  },
+  {
+    "title": "Lake Superior Has 78.6 Trillion Gallons of Water",
+    "fact": "Lake Superior contains about 78.6 trillion gallons of water, enough to cover North and South America in 1 foot of water.",
+    "category": "Geography",
+    "id": "1099",
+    "image": "1099.jpg"
+  },
+  {
+    "title": "A Group of Iguanas Is Called a Massacre",
+    "fact": "A group of iguanas is called a massacre. Marine iguanas from the Galapagos are the only seagoing lizards.",
+    "category": "Animals",
+    "id": "1100",
+    "image": "1100.jpg"
+  }
+]
