@@ -782,7 +782,8 @@
         : allFacts.filter(f => f.category === activeCategory);
       currentIndex = 0;
       buildSlides();
-      goTo(0, false);
+      const randomIndex = Math.floor(Math.random() * filteredFacts.length);
+      goTo(randomIndex, false);
       buildDots();
     }
 
@@ -799,7 +800,7 @@
     };
 
 function roundToNearest(value, step) {
-    return Math.round(value / step) * step;
+    return Math.floor(value / step) * step;
 }
 
     function buildSlides() {
@@ -823,7 +824,7 @@ function roundToNearest(value, step) {
              onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22800%22 height=%22600%22><rect fill=%22%230d1b2a%22 width=%22800%22 height=%22600%22/><text x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-size=%2280%22>${icon}</text></svg>'">
       </div>
       <div class="fact-pane">
-        <div>🧠 ${roundToNearest(filteredFacts.length, 1000)}+ Mind-Blowing Facts</div>
+        <div>🧠 ${roundToNearest(filteredFacts.length, 100)}+ Mind-Blowing Facts</div>
         <br />
         <div class="fact-number">Fact ${i + 1} of ${filteredFacts.length}</div>
         <h2 class="fact-title">${escHtml(title)}</h2>
