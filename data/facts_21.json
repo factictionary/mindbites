@@ -1,0 +1,702 @@
+[
+  {
+    "id": "1907",
+    "title": "Egypt Built the Pyramids Before the Introduction of Wheeled Vehicles",
+    "fact": "The Great Pyramid of Giza was built around 2560 BCE, but wheeled vehicles weren't introduced to Egypt until around 600 BCE, approximately 2,000 years later.",
+    "category": "History",
+    "image": "1907.jpg"
+  },
+  {
+    "id": "1908",
+    "title": "The Human Stomach Gets a New Lining Every 3-4 Days",
+    "fact": "The acidic environment of the stomach would damage the organ itself, so the stomach lining is completely replaced every 3-4 days to prevent self-digestion.",
+    "category": "Human Body",
+    "image": "1908.jpg"
+  },
+  {
+    "id": "1909",
+    "title": "Trees Communicate Through Underground Fungal Networks",
+    "fact": "Trees in forests are connected by underground fungal networks called mycorrhizal networks, through which they share nutrients and chemical signals with each other.",
+    "category": "Nature",
+    "image": "1909.jpg"
+  },
+  {
+    "id": "1911",
+    "title": "Octopus Blood Is Blue Due to Copper-Based Hemocyanin",
+    "fact": "Octopuses use copper-based hemocyanin instead of iron-based hemoglobin to transport oxygen, giving their blood a blue color that is more efficient in cold, low-oxygen environments.",
+    "category": "Animals",
+    "image": "1911.jpg"
+  },
+  {
+    "id": "1912",
+    "title": "Light From the Sun Takes 8 Minutes to Reach Earth",
+    "fact": "The sun's light takes approximately 8 minutes and 20 seconds to travel the 93 million miles to Earth, meaning we always see the sun as it was 8 minutes ago.",
+    "category": "Space",
+    "image": "1912.jpg"
+  },
+  {
+    "id": "1914",
+    "title": "The Human Brain Uses 20% of the Body's Energy",
+    "fact": "The human brain, which weighs only 2% of body weight, consumes approximately 20% of the body's total energy and oxygen intake.",
+    "category": "Human Body",
+    "image": "1914.jpg"
+  },
+  {
+    "id": "1915",
+    "title": "Glass Is Technically a Liquid With Extreme Viscosity",
+    "fact": "Glass is technically a liquid with an extremely high viscosity that flows so slowly it appears solid. Old glass windows are sometimes thicker at the bottom due to this flow.",
+    "category": "Science",
+    "image": "1915.jpg"
+  },
+  {
+    "id": "1916",
+    "title": "Napoleon Bonaparte Was Once Attacked by Rabbits",
+    "fact": "King Francis I of France once released thousands of rabbits during a hunt for Napoleon Bonaparte, who reportedly had to flee up a tree to escape the charging horde.",
+    "category": "History",
+    "image": "1916.jpg"
+  },
+  {
+    "id": "1917",
+    "title": "WiFi Technology Was Invented by Australian Scientists",
+    "fact": "WiFi technology was developed in the 1990s by a team led by Dr. John O'Sullivan at CSIRO in Australia, with the patent filed in 1992.",
+    "category": "Technology",
+    "image": "1917.jpg"
+  },
+  {
+    "id": "1918",
+    "title": "Frogs Do Not Drink Water - They Absorb It Through Their Skin",
+    "fact": "Frogs absorb water through their skin rather than drinking it. They have a special patch of skin called the 'drinking patch' on their belly for this purpose.",
+    "category": "Animals",
+    "image": "1918.jpg"
+  },
+  {
+    "id": "1919",
+    "title": "Lightning Strikes Earth Approximately 100 Times Per Second",
+    "fact": "At any given moment, there are approximately 1,800 thunderstorms occurring worldwide, resulting in about 100 lightning strikes every second.",
+    "category": "Nature",
+    "image": "1919.jpg"
+  },
+  {
+    "id": "1920",
+    "title": "Antarctica Is Technically a Desert",
+    "fact": "Antarctica is the driest continent on Earth, with some regions receiving less than 2 inches of precipitation per year, making it technically classified as a desert.",
+    "category": "Geography",
+    "image": "1920.jpg"
+  },
+  {
+    "id": "1921",
+    "title": "DNA Data Storage Could理论上 Store 215 Petabytes Per Gram",
+    "fact": "DNA data storage could theoretically store 215 petabytes (215 million gigabytes) per gram of DNA, more than all digital data currently stored worldwide.",
+    "category": "Technology",
+    "image": "1921.jpg"
+  },
+  {
+    "id": "1922",
+    "title": "Mount Everest Is Still Growing Each Year",
+    "fact": "Mount Everest continues to grow approximately 4mm per year as the Indian tectonic plate pushes into the Eurasian plate, pushing the Himalayas higher.",
+    "category": "Geography",
+    "image": "1922.jpg"
+  },
+  {
+    "id": "1924",
+    "title": "Sound Travels 4.3 Times Faster in Water Than in Air",
+    "fact": "Sound travels at about 1,500 meters per second in water, compared to 343 meters per second in air, making whale songs audible hundreds of miles away.",
+    "category": "Science",
+    "image": "1924.jpg"
+  },
+  {
+    "id": "1925",
+    "title": "The Great Wall of China Is Not Visible From Space",
+    "fact": "Despite the popular myth, the Great Wall of China is not visible to the naked eye from space, even from low Earth orbit. It's too narrow and follows the terrain too closely.",
+    "category": "History",
+    "image": "1925.jpg"
+  },
+  {
+    "id": "1926",
+    "title": "The Human Body Contains More Bacteria Than Human Cells",
+    "fact": "The human body contains approximately 38 trillion bacteria compared to about 30 trillion human cells, though bacteria are much smaller in size.",
+    "category": "Human Body",
+    "image": "1926.jpg"
+  },
+  {
+    "id": "1928",
+    "title": "A Single Large Tree Can Have Cooling Effects Like Air Conditioners",
+    "fact": "A single large tree can have the cooling effect of 10 room-sized air conditioners running 20 hours a day, releasing thousands of gallons of water into the air through transpiration.",
+    "category": "Nature",
+    "image": "1928.jpg"
+  },
+  {
+    "id": "1929",
+    "title": "The Shortest War in History Lasted 38-45 Minutes",
+    "fact": "The Anglo-Zanzibar War on August 27, 1896, lasted between 38 to 45 minutes, making it the shortest war in recorded history.",
+    "category": "History",
+    "image": "1929.jpg"
+  },
+  {
+    "id": "1930",
+    "title": "Sharks Existed on Earth Before Trees",
+    "fact": "Sharks have been around for about 400 million years, while trees only evolved around 350 million years ago. Sharks predate trees by approximately 50 million years.",
+    "category": "Animals",
+    "image": "1930.jpg"
+  },
+  {
+    "id": "1932",
+    "title": "The Pacific Ocean Is Currently Shrinking",
+    "fact": "The Pacific Ocean is slowly shrinking by about 0.5 inches per year as tectonic plates converge, while the Atlantic Ocean is expanding at a similar rate.",
+    "category": "Geography",
+    "image": "1932.jpg"
+  },
+  {
+    "id": "1933",
+    "title": "Humans Cannot Tickle Themselves",
+    "fact": "The cerebellum predicts the sensation of self-touch and essentially cancels it out, which is why you cannot tickle yourself.",
+    "category": "Human Body",
+    "image": "1933.jpg"
+  },
+  {
+    "id": "1934",
+    "title": "Hot Water Can Freeze Faster Than Cold Water Under Certain Conditions",
+    "fact": "The Mpemba effect demonstrates that under certain conditions, hot water can freeze faster than cold water, though scientists still debate the exact mechanism.",
+    "category": "Science",
+    "image": "1934.jpg"
+  },
+  {
+    "id": "1935",
+    "title": "The Moon Is Slowly Drifting Away From Earth",
+    "fact": "The Moon is slowly drifting away from Earth at a rate of about 3.8 centimeters per year, which will eventually affect our planet's rotation and tides.",
+    "category": "Space",
+    "image": "1935.jpg"
+  },
+  {
+    "id": "1937",
+    "title": "The Amazon Rainforest Produces 20% of Earth's Oxygen",
+    "fact": "The Amazon rainforest, often called the 'lungs of the Earth,' produces approximately 20% of the world's oxygen through photosynthesis.",
+    "category": "Nature",
+    "image": "1937.jpg"
+  },
+  {
+    "id": "1938",
+    "title": "Cleopatra Lived Closer to the Moon Landing Than to the Pyramids",
+    "fact": "Cleopatra lived around 30 BCE, while the Great Pyramid was built around 2560 BCE. The Moon landing occurred in 1969 CE. She was closer to modern times than to the pyramids.",
+    "category": "History",
+    "image": "1938.jpg"
+  },
+  {
+    "id": "1939",
+    "title": "The Human Nose Can Detect Approximately 1 Trillion Different Scents",
+    "fact": "The human nose can distinguish approximately 1 trillion different odors, contrary to the old estimate of just 10,000 scents.",
+    "category": "Human Body",
+    "image": "1939.jpg"
+  },
+  {
+    "id": "1940",
+    "title": "The Internet Weighs Approximately 50 Grams",
+    "fact": "If you could weigh all the electrons moving through the internet at any given moment, the total would weigh approximately 50 grams, about the weight of a strawberry.",
+    "category": "Technology",
+    "image": "1940.jpg"
+  },
+  {
+    "id": "1941",
+    "title": "The McMurdo Dry Valleys in Antarctica Are the Driest Place on Earth",
+    "fact": "The McMurdo Dry Valleys in Antarctica have had no rain for nearly 2 million years, making them the driest place on Earth, even more arid than the Sahara Desert.",
+    "category": "Geography",
+    "image": "1941.jpg"
+  },
+  {
+    "id": "1942",
+    "title": "Crows Can Recognize Human Faces for Years",
+    "fact": "Crows have remarkable facial recognition capabilities and can remember human faces for years. They can also teach other crows to identify threatening humans.",
+    "category": "Animals",
+    "image": "1942.jpg"
+  },
+  {
+    "id": "1943",
+    "title": "Blood Type Affects Susceptibility to Certain Diseases",
+    "fact": "People with different blood types have varying susceptibilities to certain diseases. Type O individuals have lower risk of heart disease but may be more susceptible to norovirus.",
+    "category": "Human Body",
+    "image": "1943.jpg"
+  },
+  {
+    "id": "1945",
+    "title": "A Single Tree Can Absorb Approximately 48 Pounds of CO2 Per Year",
+    "fact": "A single mature tree can absorb approximately 48 pounds of carbon dioxide per year and release enough oxygen for two people to breathe.",
+    "category": "Nature",
+    "image": "1945.jpg"
+  },
+  {
+    "id": "1946",
+    "title": "Silk Was Once Worth More Than Its Weight in Gold",
+    "fact": "During the Roman Empire, silk was so valuable that it was sold for its weight in gold. The secret of silk production remained a Chinese state secret for centuries.",
+    "category": "History",
+    "image": "1946.jpg"
+  },
+  {
+    "id": "1947",
+    "title": "Humans Are Actually Bioluminescent and Glow in the Dark",
+    "fact": "Humans actually emit visible light, but the light we emit is 1,000 times weaker than our eyes can detect. This glow is thought to be related to metabolic processes.",
+    "category": "Science",
+    "image": "1947.jpg"
+  },
+  {
+    "id": "1950",
+    "title": "Lake Baikal Contains 20% of the World's Unfrozen Freshwater",
+    "fact": "Lake Baikal in Siberia holds about 20% of the world's unfrozen surface fresh water, containing more water than all the Great Lakes combined.",
+    "category": "Geography",
+    "image": "1950.jpg"
+  },
+  {
+    "id": "1951",
+    "title": "Babies Are Born With More Bones Than Adults",
+    "fact": "Babies are born with approximately 300 bones, which gradually fuse together to form 206 bones in adulthood. The skull alone has multiple plates that fuse over time.",
+    "category": "Human Body",
+    "image": "1951.jpg"
+  },
+  {
+    "id": "1952",
+    "title": "Uranus Rotates on Its Side Due to a Ancient Collision",
+    "fact": "Uranus has an axial tilt of 98 degrees, essentially rotating on its side. Scientists believe this was likely caused by a collision with an Earth-sized object long ago.",
+    "category": "Space",
+    "image": "1952.jpg"
+  },
+  {
+    "id": "1953",
+    "title": "The First Successful Photograph Took 8 Hours to Expose",
+    "fact": "The first successful photograph, taken by Nicéphore Niépce in 1826, required an exposure time of approximately 8 hours, capturing a view from his window.",
+    "category": "History",
+    "image": "1953.jpg"
+  },
+  {
+    "id": "1954",
+    "title": "Coral Reefs Support 25% of All Marine Species",
+    "fact": "Despite covering less than 1% of the ocean floor, coral reefs support approximately 25% of all marine species, making them the ocean's most diverse ecosystems.",
+    "category": "Nature",
+    "image": "1954.jpg"
+  },
+  {
+    "id": "1955",
+    "title": "The Myth That Goldfish Have 3-Second Memory Is False",
+    "fact": "This is a myth. Goldfish can actually remember things for months, not seconds. They can be trained to respond to certain colors and sounds for food rewards.",
+    "category": "Animals",
+    "image": "1955.jpg"
+  },
+  {
+    "id": "1956",
+    "title": "Most Human Heart Cells Stop Dividing Shortly After Birth",
+    "fact": "Most human heart cells (cardiomyocytes) stop dividing shortly after birth. This is why the heart cannot regenerate after damage, unlike the liver.",
+    "category": "Human Body",
+    "image": "1956.jpg"
+  },
+  {
+    "id": "1957",
+    "title": "Quantum Tunneling Occurs Inside Your Body Constantly",
+    "fact": "Quantum tunneling occurs constantly in your body, particularly in enzyme reactions where protons tunnel through energy barriers, enabling biochemical processes.",
+    "category": "Science",
+    "image": "1957.jpg"
+  },
+  {
+    "id": "1958",
+    "title": "The First Email Was Sent by Ray Tomlinson in 1971",
+    "fact": "Ray Tomlinson sent the first email in 1971, choosing the @ symbol to separate user names from computer names, creating the format we still use today.",
+    "category": "Technology",
+    "image": "1958.jpg"
+  },
+  {
+    "id": "1959",
+    "title": "Africa Is Located in All Four Hemispheres",
+    "fact": "The continent of Africa straddles the Equator and Prime Meridian, making it the only continent located in all four hemispheres: North, South, East, and West.",
+    "category": "Geography",
+    "image": "1959.jpg"
+  },
+  {
+    "id": "1961",
+    "title": "The Moon Experiences Moonquakes Caused by Earth's Gravity",
+    "fact": "The Moon experiences 'moonquakes' caused by tidal forces from Earth. These vibrations can last up to 10 minutes, compared to Earthquakes which typically last seconds.",
+    "category": "Space",
+    "image": "1961.jpg"
+  },
+  {
+    "id": "1962",
+    "title": "Vikings Used Crystal Sunstones to Navigate",
+    "fact": "Vikings used sunstones (calcite crystals) to navigate on cloudy days. The crystals could locate the sun even through cloud cover by analyzing polarized light.",
+    "category": "History",
+    "image": "1962.jpg"
+  },
+  {
+    "id": "1963",
+    "title": "Red Blood Cells Are the Most Common Cell Type in the Human Body",
+    "fact": "Red blood cells make up about 25% of all human cells, with approximately 25 trillion cells circulating in the average adult body at any given time.",
+    "category": "Human Body",
+    "image": "1963.jpg"
+  },
+  {
+    "id": "1964",
+    "title": "Mushrooms Are Genetically Closer to Animals Than to Plants",
+    "fact": "Genetically, fungi are more closely related to animals than to plants. Both fungi and animals are heterotrophs, while plants are autotrophs.",
+    "category": "Nature",
+    "image": "1964.jpg"
+  },
+  {
+    "id": "1965",
+    "title": "3D Printing Can Build a Basic House in 24 Hours",
+    "fact": "Large-scale 3D printers can now construct a basic house in as little as 24 hours, using concrete mixtures that are extruded layer by layer.",
+    "category": "Technology",
+    "image": "1965.jpg"
+  },
+  {
+    "id": "1966",
+    "title": "Canada Has More Lakes Than the Rest of the World Combined",
+    "fact": "Canada contains about 60% of all the lakes in the world, with over 2 million lakes. About 9% of Canada's territory is covered by freshwater.",
+    "category": "Geography",
+    "image": "1966.jpg"
+  },
+  {
+    "id": "1967",
+    "title": "Electric Eels Can Leap Out of Water to Deliver Shocks",
+    "fact": "Electric eels can leap out of the water to deliver shocks directly to threats, increasing the voltage delivered by bypassing the water's resistance.",
+    "category": "Animals",
+    "image": "1967.jpg"
+  },
+  {
+    "id": "1968",
+    "title": "Saturn Would Float if You Could Put It in a Giant Bathtub",
+    "fact": "Saturn's density is only 0.687 g/cm³, which is less than water's density of 1 g/cm³. If you could find a bathtub big enough, Saturn would float.",
+    "category": "Space",
+    "image": "1968.jpg"
+  },
+  {
+    "id": "1969",
+    "title": "The Average Human Can Distinguish 10 Million Different Colors",
+    "fact": "The average human can distinguish approximately 10 million different colors, thanks to the combination of three types of cone cells in the retina.",
+    "category": "Human Body",
+    "image": "1969.jpg"
+  },
+  {
+    "id": "1970",
+    "title": "The Ancient Olympics Awarded Victory to Cities, Not Individuals",
+    "fact": "The ancient Olympic Games awarded victory to cities, not individuals. Athletes competed as representatives of their city-states, and winners received olive wreaths.",
+    "category": "History",
+    "image": "1970.jpg"
+  },
+  {
+    "id": "1971",
+    "title": "Bananas Are Slightly Radioactive Due to Potassium-40",
+    "fact": "Bananas contain potassium-40, a radioactive isotope. You'd need to eat 10 million bananas at once to die from radiation poisoning, earning them the nickname 'banana equivalent dose.'",
+    "category": "Science",
+    "image": "1971.jpg"
+  },
+  {
+    "id": "1972",
+    "title": "Data Centers Worldwide Use About 1% of Global Electricity",
+    "fact": "Data centers worldwide consume about 1% of global electricity, less than the 10% used by air conditioning systems in the United States alone.",
+    "category": "Technology",
+    "image": "1972.jpg"
+  },
+  {
+    "id": "1973",
+    "title": "The Nile Is the Longest River in Africa",
+    "fact": "The Nile River stretches approximately 6,650 kilometers, making it the longest river in Africa and the world, flowing through 11 countries before emptying into the Mediterranean Sea.",
+    "category": "Geography",
+    "image": "1973.jpg"
+  },
+  {
+    "id": "1974",
+    "title": "Dragonflies Have a 95% Hunting Success Rate",
+    "fact": "Dragonflies are among the most efficient hunters in the animal kingdom, successfully catching prey in 95% of their attempts, earning them the nickname 'living helicopters.'",
+    "category": "Animals",
+    "image": "1974.jpg"
+  },
+  {
+    "id": "1975",
+    "title": "Space Has a Distinct Smell That Astronauts Report",
+    "fact": "Astronauts report that space has a distinct smell, often described as a mix of seared steak, hot metal, and raspberries. This comes from dying stars.",
+    "category": "Space",
+    "image": "1975.jpg"
+  },
+  {
+    "id": "1976",
+    "title": "The Human Brain Contains More Synapses Than Stars in the Milky Way",
+    "fact": "The human brain contains approximately 100 trillion synapses, far more than there are stars in the Milky Way, estimated at 200-400 billion.",
+    "category": "Human Body",
+    "image": "1976.jpg"
+  },
+  {
+    "id": "1977",
+    "title": "The Oldest Known Living Tree Is Over 5,000 Years Old",
+    "fact": "A bristlecone pine named 'Methuselah' in California's White Mountains is over 4,850 years old, making it the oldest known living non-clonal organism on Earth.",
+    "category": "Nature",
+    "image": "1977.jpg"
+  },
+  {
+    "id": "1978",
+    "title": "Paper Money Was First Invented in China During the Tang Dynasty",
+    "fact": "China invented paper money during the Tang Dynasty around 618 CE, but it became widespread during the Song Dynasty, about 800 years before the West.",
+    "category": "History",
+    "image": "1978.jpg"
+  },
+  {
+    "id": "1979",
+    "title": "WiFi Signals Can Penetrate Walls and Be Intercepted by Hackers",
+    "fact": "WiFi signals can penetrate walls and be intercepted by hackers. WPA3 security protocol was designed to make such attacks more difficult.",
+    "category": "Technology",
+    "image": "1979.jpg"
+  },
+  {
+    "id": "1980",
+    "title": "Lightning Can Be 5 Times Hotter Than the Surface of the Sun",
+    "fact": "A lightning bolt can reach temperatures of 30,000 Kelvin (53,540°F), about five times hotter than the surface of the Sun at 5,778 Kelvin.",
+    "category": "Nature",
+    "image": "1980.jpg"
+  },
+  {
+    "id": "1981",
+    "title": "Elephants Are the Only Land Mammals That Cannot Jump",
+    "fact": "Adult elephants are the only land mammals that cannot jump, though they can run at speeds up to 25 mph. They always keep at least one foot on the ground.",
+    "category": "Animals",
+    "image": "1981.jpg"
+  },
+  {
+    "id": "1982",
+    "title": "Mount Chimborazo in Ecuador Is the Closest Point to Space",
+    "fact": "Due to Earth's equatorial bulge, Mount Chimborazo in Ecuador is the farthest point from Earth's center and closest to space, though it's not the tallest mountain.",
+    "category": "Geography",
+    "image": "1982.jpg"
+  },
+  {
+    "id": "1983",
+    "title": "The Human Body Actually Emits Visible Light",
+    "fact": "Using extremely sensitive cameras, scientists have discovered that humans actually emit visible light, with the brightest emissions occurring in late afternoon.",
+    "category": "Science",
+    "image": "1983.jpg"
+  },
+  {
+    "id": "1984",
+    "title": "The First Camera Phone Was Released in 1999",
+    "fact": "The Kyocera VP-210 was the first camera phone, released in Japan in 1999, capable of capturing 20 images and transmitting them at 10 frames per second.",
+    "category": "Technology",
+    "image": "1984.jpg"
+  },
+  {
+    "id": "1985",
+    "title": "Cleopatra's Needle Is Older Than the City of Rome",
+    "fact": "Cleopatra's Needle (an Egyptian obelisk) in Central Park was erected around 1450 BCE, about 2,500 years before Rome was founded.",
+    "category": "History",
+    "image": "1985.jpg"
+  },
+  {
+    "id": "1986",
+    "title": "The Human Brain Receives 15-20% of the Heart's Blood Output",
+    "fact": "Despite being only 2% of body weight, the brain receives about 15-20% of the heart's blood output, using 20% of the body's oxygen and energy.",
+    "category": "Human Body",
+    "image": "1986.jpg"
+  },
+  {
+    "id": "1987",
+    "title": "Tardigrades Are the Only Animals Known to Survive in Space",
+    "fact": "Tardigrades (water bears) are the only animals known to survive the vacuum and radiation of outer space. They can enter a state of suspended animation for years.",
+    "category": "Animals",
+    "image": "1987.jpg"
+  },
+  {
+    "id": "1988",
+    "title": "The Sun Contains 99.86% of All Mass in Our Solar System",
+    "fact": "The Sun makes up 99.86% of all the mass in our solar system. Jupiter accounts for most of the remaining mass, and all other planets combined are less than 1% of the total.",
+    "category": "Space",
+    "image": "1988.jpg"
+  },
+  {
+    "id": "1989",
+    "title": "The Dead Sea Is Shrinking at a Rate of About 1 Meter Per Year",
+    "fact": "The Dead Sea is shrinking at a rate of about 1 meter per year due to water being diverted from the Jordan River, having lost about a third of its surface area since 1930.",
+    "category": "Geography",
+    "image": "1989.jpg"
+  },
+  {
+    "id": "1990",
+    "title": "Some Worm Species Can Survive 24 Years Without Food",
+    "fact": "Some species of nematodes and other worms can enter a state of suspended animation and survive without food for up to 24 years, waiting for favorable conditions.",
+    "category": "Animals",
+    "image": "1990.jpg"
+  },
+  {
+    "id": "1991",
+    "title": "GPS Satellites Experience Time Dilation and Require Daily Corrections",
+    "fact": "GPS satellites experience time dilation due to both their velocity and distance from Earth's gravity, requiring atomic clocks to be synchronized daily to maintain accuracy.",
+    "category": "Technology",
+    "image": "1991.jpg"
+  },
+  {
+    "id": "1992",
+    "title": "Some Rivers Are Geologically Older Than the Mountains They Flow Through",
+    "fact": "Some rivers, like the Finke River in Australia, are over 300 million years old and predate the mountain ranges they flow through, which are much younger geologically.",
+    "category": "Geography",
+    "image": "1992.jpg"
+  },
+  {
+    "id": "1993",
+    "title": "A Single Mature Tree Can Have Between 200,000 to 2 Million Leaves",
+    "fact": "A mature tree can have between 200,000 to 2 million leaves, depending on the species. A single large oak tree may have 200,000 leaves.",
+    "category": "Nature",
+    "image": "1993.jpg"
+  },
+  {
+    "id": "1994",
+    "title": "The Moon Is Considered the Quietest Place in the Solar System",
+    "fact": "With no atmosphere to transmit sound waves, the Moon is completely silent. Even the quietest place on Earth, an anechoic chamber, measures about -9.4 decibels.",
+    "category": "Space",
+    "image": "1994.jpg"
+  },
+  {
+    "id": "1995",
+    "title": "Human Tooth Enamel Is the Hardest Substance in the Human Body",
+    "fact": "Human tooth enamel is the hardest substance in the human body, made of calcium phosphate, and can withstand forces of 30-100 kilograms. It ranks 5 on the Mohs hardness scale.",
+    "category": "Human Body",
+    "image": "1995.jpg"
+  },
+  {
+    "id": "1996",
+    "title": "The Printing Press Revolutionized Knowledge Distribution in Europe",
+    "fact": "Johannes Gutenberg's printing press (1450) made books affordable and spread literacy. By 1500, over 20 million volumes had been printed in Europe.",
+    "category": "History",
+    "image": "1996.jpg"
+  },
+  {
+    "id": "1997",
+    "title": "Atypical Pneumonia Means a Milder Form of Lung Infection",
+    "fact": "The term 'walking pneumonia' comes from 'atypical pneumonia,' which refers to a milder form of lung infection that doesn't require bed rest.",
+    "category": "Human Body",
+    "image": "1997.jpg"
+  },
+  {
+    "id": "1998",
+    "title": "Blue Whale Songs Can Travel Over 1,000 Miles",
+    "fact": "Blue whale calls can be detected over 1,000 miles away. These low-frequency sounds can penetrate deep into the ocean, traveling further than any other animal vocalization.",
+    "category": "Animals",
+    "image": "1998.jpg"
+  },
+  {
+    "id": "fact_40001",
+    "title": "Solid-State Drives Use Wear-Leveling Controller Algorithms",
+    "fact": "Flash memory blocks can endure roughly 3,000 to 10,000 write-erase cycles before wearing out; controllers balance writes across all blocks.",
+    "category": "Technology",
+    "image": "fact_40001.jpg"
+  },
+  {
+    "id": "fact_40002",
+    "title": "Quantum Dots Are Semiconductor Nanocrystals That Emit Specific Colors",
+    "fact": "Quantum dot displays vary crystal particle size (2 to 10 nanometers) to tune exact red, green, and blue light wavelength emissions.",
+    "category": "Technology",
+    "image": "fact_40002.jpg"
+  },
+  {
+    "id": "fact_40003",
+    "title": "First Computer Virus Was Created in 1971 as an Experiment",
+    "fact": "Bob Thomas created the Creeper program to test self-replicating code on ARPANET, printing 'I'm the creeper, catch me if you can!'.",
+    "category": "Technology",
+    "image": "fact_40003.jpg"
+  },
+  {
+    "id": "fact_40004",
+    "title": "Fiber Optic Cables Can Bend Light Around Curves",
+    "fact": "Total internal reflection inside high-refractive glass core causes laser light to bounce down bent fiber lines without leaking energy.",
+    "category": "Technology",
+    "image": "fact_40004.jpg"
+  },
+  {
+    "id": "fact_40005",
+    "title": "GPS Atomic Clocks Gain Time Relative to Earth Clocks",
+    "fact": "Because GPS satellites orbit in lower gravitational fields, general relativity causes satellite clocks to tick faster than clocks on Earth.",
+    "category": "Technology",
+    "image": "fact_40005.jpg"
+  },
+  {
+    "id": "fact_40006",
+    "title": "Modern Microprocessors Contain Hundreds of Billions of Transistors",
+    "fact": "Advanced AI accelerator chips like Nvidia's Blackwell B200 pack over 208 billion transistors on a single dual-chip package.",
+    "category": "Technology",
+    "image": "fact_40006.jpg"
+  },
+  {
+    "id": "fact_40007",
+    "title": "First Computer Disk Drive Stored 5 MB and Used 50 Platters",
+    "fact": "IBM 305 RAMAC released in 1956 used fifty 24-inch magnetic disks spinning at 1,200 RPM to store 5 megabytes of data.",
+    "category": "Technology",
+    "image": "fact_40007.jpg"
+  },
+  {
+    "id": "fact_40008",
+    "title": "Bluetooth Technology Uses Frequency Hopping Across 79 Channels",
+    "fact": "Bluetooth constantly switches radio frequencies 1,600 times a second to prevent signal collisions with Wi-Fi and cordless phones.",
+    "category": "Technology",
+    "image": "fact_40008.jpg"
+  },
+  {
+    "id": "fact_40009",
+    "title": "Open-Source Software License GPL Requires Derived Code to Remain Free",
+    "fact": "The GNU General Public License enforces copyleft rules, requiring modified code derivatives to be published under the same open terms.",
+    "category": "Technology",
+    "image": "fact_40009.jpg"
+  },
+  {
+    "id": "fact_40010",
+    "title": "The First Smartphone Screen Used Resistive Touch Technology",
+    "fact": "Early 1990s touchscreens relied on physical pressure bending two conductive layers together, unlike modern capacitive multi-touch glass.",
+    "category": "Technology",
+    "image": "fact_40010.jpg"
+  },
+  {
+    "id": "fact_40011",
+    "title": "Milky Way Center Contains a Supermassive Black Hole 4 Million Times Mass of Sun",
+    "fact": "Sagittarius A* exerts immense gravitational control, causing surrounding stars like S2 to orbit at speeds exceeding 7,000 km/s.",
+    "category": "Space",
+    "image": "fact_40011.jpg"
+  },
+  {
+    "id": "fact_40012",
+    "title": "Jupiter's Great Red Spot Has Been Raging for at Least 350 Years",
+    "fact": "First observed by astronomers in the 17th century, Jupiter's high-pressure anticyclonic storm is wider than planet Earth.",
+    "category": "Space",
+    "image": "fact_40012.jpg"
+  },
+  {
+    "id": "fact_40013",
+    "title": "Saturn's Moon Enceladus Shoots Water Ice Plumes into Space",
+    "fact": "Cryovolcanoes on Enceladus spew icy geysers containing organic molecules from a global subsurface ocean into Saturn's E ring.",
+    "category": "Space",
+    "image": "fact_40013.jpg"
+  },
+  {
+    "id": "fact_40014",
+    "title": "Neutron Stars Rotate Hundreds of Times Per Second",
+    "fact": "Millisecond pulsars are ultra-dense stellar remnants spinning up to 716 revolutions per second, emitting targeted beams of radio waves.",
+    "category": "Space",
+    "image": "fact_40014.jpg"
+  },
+  {
+    "id": "fact_40015",
+    "title": "The Sun Contains 99.86% of All Mass in the Solar System",
+    "fact": "Jupiter and Saturn make up most of the remaining 0.14%, while Earth accounts for a microscopic fraction of solar system mass.",
+    "category": "Space",
+    "image": "fact_40015.jpg"
+  },
+  {
+    "id": "fact_40016",
+    "title": "Venus Takes 243 Days to Rotate But Only 225 Days to Orbit the Sun",
+    "fact": "Venus rotates extraordinarily slowly on its axis in retrograde direction, making a Venusian day longer than its solar year.",
+    "category": "Space",
+    "image": "fact_40016.jpg"
+  },
+  {
+    "id": "fact_40017",
+    "title": "Cosmic Microwave Background Is Radiation Left Over from Big Bang",
+    "fact": "Faint microwave glow filling outer space is thermal relic radiation emitted 380,000 years after the origin of the universe.",
+    "category": "Space",
+    "image": "fact_40017.jpg"
+  },
+  {
+    "id": "fact_40018",
+    "title": "Mars Has Blue Sunsets Due to Atmospheric Dust Scattering",
+    "fact": "Fine Martian airborne dust scatters forward red light, allowing shorter blue light wavelengths to pass through near the solar disk.",
+    "category": "Space",
+    "image": "fact_40018.jpg"
+  }
+]

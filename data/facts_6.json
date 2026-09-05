@@ -1,702 +1,702 @@
 [
   {
-    "id": "1701",
-    "title": "Sloths Can Hold Breath Longer Than Dolphins",
-    "fact": "Sloths can hold their breath for up to 40 minutes underwater, longer than dolphins which surface every 8-10 minutes. Their slow metabolism allows this.",
-    "category": "Animals",
-    "image": "1701.jpg"
+    "id": "fact_10134",
+    "title": "Cranberries Bounce Like Rubber Balls When Ripe",
+    "fact": "Ripe cranberries contain tiny internal air pockets; fresh quality berries bounce off hard surfaces while soft spoiled berries thud.",
+    "category": "Food",
+    "image": "fact_10134.jpg"
   },
   {
-    "id": "1703",
-    "title": "The Pacific Ocean Covers 60% of Earth",
-    "fact": "The Pacific Ocean covers about 63 million square miles, larger than all of Earth's land combined, and contains more than half of the world's open water.",
+    "id": "fact_10135",
+    "title": "Pomegranates Contain Over 600 Edible Arils",
+    "fact": "Every pomegranate fruit houses hundreds of jewel-like seed casings called arils, rich in punicalagins and vitamin C.",
+    "category": "Food",
+    "image": "fact_10135.jpg"
+  },
+  {
+    "id": "fact_10136",
+    "title": "Truffles Rely on Pigs and Dogs to Be Found Underground",
+    "fact": "Ascomycete subterranean fungi produce 5-alpha-androstenol chemical compounds that mimic animal hormones, allowing trained dogs to sniff them out.",
+    "category": "Food",
+    "image": "fact_10136.jpg"
+  },
+  {
+    "id": "fact_10137",
+    "title": "Epsom Salt Is Magnesium Sulfate, Not Sodium Chloride",
+    "fact": "Named after mineral springs in Epsom, England, Epsom salt is pure magnesium sulfate heptahydrate used in bath soaks.",
+    "category": "Food",
+    "image": "fact_10137.jpg"
+  },
+  {
+    "id": "fact_10138",
+    "title": "Nutmeg Can Be Hallucinogenic in Extremely High Doses",
+    "fact": "Nutmeg contains myristicin, a psychoactive compound that can cause nausea, hallucinations, and convulsions if consumed in large quantities.",
+    "category": "Food",
+    "image": "fact_10138.jpg"
+  },
+  {
+    "id": "fact_10139",
+    "title": "Bananas Are Technically Berries, But Strawberries Are Not",
+    "fact": "Botanically, berries derive from a single ovary with fleshy pericarp and seeds inside (bananas, tomatoes); strawberries are aggregate fruits.",
+    "category": "Food",
+    "image": "fact_10139.jpg"
+  },
+  {
+    "id": "fact_10140",
+    "title": "Hot Honey Combines Chili Peppers with Raw Honey",
+    "fact": "Infusing warm floral honey with crushed habanero or chili peppers creates a sweet-spicy condiment popularized on artisan pizzas.",
+    "category": "Food",
+    "image": "fact_10140.jpg"
+  },
+  {
+    "id": "fact_10141",
+    "title": "Olive Oil Was Used as Fuel in Ancient Lamps",
+    "fact": "Before electricity or kerosene, lampante grade virgin olive oil burned cleanly in ceramic lamps to illuminate ancient Mediterranean homes.",
+    "category": "Food",
+    "image": "fact_10141.jpg"
+  },
+  {
+    "id": "314",
+    "title": "Your Brain Contains 86 Billion Neurons",
+    "fact": "The human brain contains about 86 billion neurons, each connected to thousands of others via synapses, creating a network of about 100 trillion connections.",
+    "category": "Human Body",
+    "image": "314.jpg"
+  },
+  {
+    "id": "315",
+    "title": "Antarctica Contains 70% of Earth's Freshwater",
+    "fact": "Antarctica contains about 70% of Earth's fresh water, stored as ice. If all this ice melted, global sea levels would rise about 200 feet.",
     "category": "Geography",
-    "image": "1703.jpg"
+    "image": "315.jpg"
   },
   {
-    "id": "1704",
-    "title": "The Moon Is Moving Away Yearly",
-    "fact": "The Moon recedes from Earth at 3.78 cm per year. In 600 million years, it will be too far to completely cover the Sun during eclipses.",
-    "category": "Space",
-    "image": "1704.jpg"
+    "id": "316",
+    "title": "Sharks Have Been on Earth for 450 Million Years",
+    "fact": "Sharks have existed for 450 million years, predating dinosaurs by 200 million years. They survived all five mass extinctions.",
+    "category": "Animals",
+    "image": "316.jpg"
   },
   {
-    "id": "1705",
-    "title": "Trees Lower Air Temperature Like ACs",
-    "fact": "A single large tree has the cooling effect of 10 room-sized air conditioners running 20 hours a day by releasing thousands of gallons of water.",
+    "id": "318",
+    "title": "Forests Provide Habitat for 80% of Land Species",
+    "fact": "Forests are home to about 80% of terrestrial biodiversity, including 80% of amphibians, 75% of birds, and 65% of mammals.",
     "category": "Nature",
-    "image": "1705.jpg"
+    "image": "318.jpg"
   },
   {
-    "id": "1706",
-    "title": "The Viking Sunstone Was Iceland Spar",
-    "fact": "Viking navigators used sunstones (transparent calcite crystals) to locate the sun through clouds by detecting polarized light patterns in the sky.",
+    "id": "319",
+    "title": "The Black Death Occurred 1346-1353",
+    "fact": "The Black Death killed an estimated 75-200 million people in Eurasia, wiping out 30-60% of Europe's population in just a few years.",
     "category": "History",
-    "image": "1706.jpg"
+    "image": "319.jpg"
   },
   {
-    "id": "1708",
-    "title": "Venus Has 1,600 Volcanoes",
-    "fact": "Venus has approximately 1,600 major volcanoes and many more smaller ones, more than any other planet in our solar system.",
+    "id": "320",
+    "title": "Crocodiles Can Hold Their Breath for Over an Hour",
+    "fact": "Crocodiles can hold their breath for over an hour underwater. They slow their heart rate to conserve oxygen during dives.",
+    "category": "Animals",
+    "image": "320.jpg"
+  },
+  {
+    "id": "324",
+    "title": "Bees Communicate Through Dance",
+    "fact": "Bees use the waggle dance to communicate the location of food sources to other bees. The dance angle indicates direction relative to the Sun.",
+    "category": "Animals",
+    "image": "324.jpg"
+  },
+  {
+    "id": "329",
+    "title": "The Sun Makes Up 99.86% of Solar System Mass",
+    "fact": "The Sun contains 99.86% of all mass in the solar system. Jupiter alone accounts for most of the remaining mass.",
     "category": "Space",
-    "image": "1708.jpg"
+    "image": "329.jpg"
   },
   {
-    "id": "1709",
-    "title": "Crows Recognize Faces and Hold Grudges",
-    "fact": "Crows can recognize and remember human faces for years, sharing this information with their offspring and teaching other crows to avoid threatening individuals.",
+    "id": "332",
+    "title": "Parrots Can Live to Be Over 80 Years Old",
+    "fact": "Large parrots like macaws and cockatoos can live 60-80+ years. Some African grey parrots have been documented living over 60 years in captivity.",
     "category": "Animals",
-    "image": "1709.jpg"
+    "image": "332.jpg"
   },
   {
-    "id": "1711",
-    "title": "The McMurdo Dry Valleys Have No Rain",
-    "fact": "The McMurdo Dry Valleys in Antarctica haven't had rain in nearly 2 million years, making them the driest place on Earth.",
-    "category": "Geography",
-    "image": "1711.jpg"
+    "id": "337",
+    "title": "The Longest Daylight Period Is 24 Hours at the Poles",
+    "fact": "At the poles, the Sun doesn't set for about 6 months during summer. This creates periods of 24-hour daylight alternating with 24-hour darkness.",
+    "category": "Space",
+    "image": "337.jpg"
   },
   {
-    "id": "1712",
-    "title": "Goldfish Can Distinguish Music Styles",
-    "fact": "Goldfish can distinguish between different classical music composers, showing they can perceive differences in sound patterns and frequencies.",
-    "category": "Animals",
-    "image": "1712.jpg"
-  },
-  {
-    "id": "1713",
-    "title": "Blood Type Affects Disease Susceptibility",
-    "fact": "Different blood types have varying risks for certain diseases. Type O has lower heart disease risk but higher norovirus susceptibility; Type A has higher cancer risk.",
+    "id": "338",
+    "title": "Your Blood Vessels Would Circle Earth Twice",
+    "fact": "If all blood vessels were laid end to end, they would stretch about 60,000 miles—enough to circle the Earth more than twice.",
     "category": "Human Body",
-    "image": "1713.jpg"
+    "image": "338.jpg"
   },
   {
-    "id": "1715",
-    "title": "Silk Was Worth More Than Gold",
-    "fact": "In ancient Rome, silk cost its weight in gold. The secret of silk production remained a Chinese state secret for over 2,000 years.",
-    "category": "History",
-    "image": "1715.jpg"
+    "id": "340",
+    "title": "Dolphins Sleep With One Eye Open",
+    "fact": "Dolphins practice unihemispheric sleep, keeping one eye open and half their brain awake to watch for predators and remember to breathe.",
+    "category": "Animals",
+    "image": "340.jpg"
   },
   {
-    "id": "1718",
-    "title": "The First Email Contained 'LO'",
-    "fact": "The first message sent over ARPANET in 1971 was 'LO' from UCLA to Stanford. It crashed trying to send 'LOGIN' before the full word could be transmitted.",
+    "id": "344",
+    "title": "Tardigrades Survive in Space",
+    "fact": "Tardigrades (water bears) are the only animals that can survive in outer space. They can withstand extreme radiation, temperatures, and vacuum.",
+    "category": "Animals",
+    "image": "344.jpg"
+  },
+  {
+    "id": "349",
+    "title": "The First Camera Took 8 Hours to Expose an Image",
+    "fact": "The first photograph (1826-1827) by Nicéphore Niépce took about 8 hours to expose. Modern cameras capture images in fractions of a second.",
     "category": "Technology",
-    "image": "1718.jpg"
+    "image": "349.jpg"
   },
   {
-    "id": "1719",
-    "title": "Africa Straddles Four Hemispheres",
-    "fact": "Africa is the only continent located in all four hemispheres (North, South, East, West) because it straddles both the Equator and Prime Meridian.",
+    "id": "351",
+    "title": "The Pyramids of Giza Were Built Around 2560 BCE",
+    "fact": "The Great Pyramid of Giza was built around 2560 BCE for Pharaoh Khufu. It was the tallest structure in the world for over 3,800 years.",
+    "category": "History",
+    "image": "351.jpg"
+  },
+  {
+    "id": "352",
+    "title": "Owls Can Turn Their Heads 270 Degrees",
+    "fact": "Owls have 14 neck vertebrae (humans have 7) and can rotate their heads up to 270 degrees. This compensates for their fixed eyeballs.",
+    "category": "Animals",
+    "image": "352.jpg"
+  },
+  {
+    "id": "355",
+    "title": "The Amazon Contains 20% of World Rivers",
+    "fact": "The Amazon River system carries more water than any other river system, discharging about 7.2 million cubic feet per second into the Atlantic.",
     "category": "Geography",
-    "image": "1719.jpg"
+    "image": "355.jpg"
   },
   {
-    "id": "1720",
-    "title": "The Deepest Lake Has 25% Earth's Freshwater",
-    "fact": "Lake Baikal holds 23% of Earth's surface fresh water, not 25%. This ancient lake formed 25-30 million years ago and contains 20% of world freshwater.",
-    "category": "Geography",
-    "image": "1720.jpg"
+    "id": "356",
+    "title": "Sharks Can Detect Electrical Fields",
+    "fact": "Sharks can detect electrical fields as small as a billionth of a volt using special organs called ampullae of Lorenzini. This helps them find prey.",
+    "category": "Animals",
+    "image": "356.jpg"
   },
   {
-    "id": "1721",
-    "title": "The Human Brain Is 73% Water",
-    "fact": "The human brain is approximately 73% water, with fat making up about 60% of its dry weight. Even 2% dehydration affects attention and memory.",
+    "id": "360",
+    "title": "Crows Recognize Human Faces",
+    "fact": "Crows can recognize and remember human faces for years. They can teach other crows which people are dangerous, passing this knowledge through generations.",
+    "category": "Animals",
+    "image": "360.jpg"
+  },
+  {
+    "id": "362",
+    "title": "Your Small Intestine Has a Surface Area of 2,700 sq ft",
+    "fact": "If unfolded, the small intestine's surface area would cover about 2,700 square feet—roughly the size of a tennis court.",
     "category": "Human Body",
-    "image": "1721.jpg"
+    "image": "362.jpg"
   },
   {
-    "id": "1722",
-    "title": "Mars Has Blue Sunsets",
-    "fact": "Sunsets on Mars appear blue because fine dust particles in the atmosphere scatter blue light while allowing red light to pass through directly.",
+    "id": "364",
+    "title": "Flamingos Are Born Grey, Not Pink",
+    "fact": "Flamingos are born with grey/white feathers. They turn pink from eating shrimp and blue-green algae that contain carotenoid pigments.",
+    "category": "Animals",
+    "image": "364.jpg"
+  },
+  {
+    "id": "367",
+    "title": "The First Human Spaceflight Was in 1961",
+    "fact": "Soviet cosmonaut Yuri Gagarin became the first human in space on April 12, 1961, completing one orbit of Earth in 108 minutes.",
+    "category": "History",
+    "image": "367.jpg"
+  },
+  {
+    "id": "368",
+    "title": "Sloths Are Excellent Swimmers",
+    "fact": "Despite being slow on land, sloths can swim three times faster using a breaststroke technique. They can hold their breath for 40 minutes.",
+    "category": "Animals",
+    "image": "368.jpg"
+  },
+  {
+    "id": "369",
+    "title": "The Nearest Galaxy to Milky Way Is 25,000 Light-Years Away",
+    "fact": "The Canis Major Dwarf Galaxy, at 25,000 light-years away, is the nearest galaxy to the Milky Way, though it's being absorbed by our galaxy.",
     "category": "Space",
-    "image": "1722.jpg"
+    "image": "369.jpg"
   },
   {
-    "id": "1728",
-    "title": "The Eiffel Tower Grows 6 Inches in Summer",
-    "fact": "The Eiffel Tower can grow up to 6 inches (15 cm) taller during hot summer days due to thermal expansion of its iron structure.",
+    "id": "372",
+    "title": "Dragonflies Have 30,000 Eyes",
+    "fact": "Dragonflies have compound eyes with about 30,000 facets, giving them nearly 360-degree vision. They can see ultraviolet light.",
+    "category": "Animals",
+    "image": "372.jpg"
+  },
+  {
+    "id": "376",
+    "title": "A Whale's Throat Is Only 4 Inches Wide",
+    "fact": "A blue whale, the largest animal ever, has a throat only about 4 inches wide. It eats mainly tiny krill, not large fish or people.",
+    "category": "Animals",
+    "image": "376.jpg"
+  },
+  {
+    "id": "379",
+    "title": "The Amazon Rainforest Has 15% of World Biodiversity",
+    "fact": "The Amazon contains about 10% of all species on Earth, despite covering less than 1% of Earth's surface. Many species remain undiscovered.",
+    "category": "Geography",
+    "image": "379.jpg"
+  },
+  {
+    "id": "380",
+    "title": "Wombats Produce Cube-Shaped Poop",
+    "fact": "Wombats produce cube-shaped feces to prevent rolling away and mark territory more effectively. They can produce up to 100 cubes per night.",
+    "category": "Animals",
+    "image": "380.jpg"
+  },
+  {
+    "id": "381",
+    "title": "USB Standards Have Evolved Since 1996",
+    "fact": "USB 1.0 (1996) transferred at 12 Mbps, USB 2.0 (2000) at 480 Mbps, USB 3.0 (2008) at 5 Gbps, and USB 4.0 (2019) at 40 Gbps.",
+    "category": "Technology",
+    "image": "381.jpg"
+  },
+  {
+    "id": "382",
+    "title": "Trees Can Absorb Sound and Create Quiet Spaces",
+    "fact": "A 100-foot-wide belt of trees can reduce noise by 50%, absorbing and blocking sound waves. This is why forests feel so peaceful.",
+    "category": "Nature",
+    "image": "382.jpg"
+  },
+  {
+    "id": "384",
+    "title": "Frogs Don't Drink Through Their Mouth",
+    "fact": "Frogs absorb water through a 'drinking patch' on their belly called the ventral skin. They also breathe and absorb moisture through their skin.",
+    "category": "Animals",
+    "image": "384.jpg"
+  },
+  {
+    "id": "388",
+    "title": "Pandas Spend 12 Hours a Day Eating",
+    "fact": "Giant pandas spend 10-16 hours per day eating bamboo because it is low in nutrients and hard to digest. They consume 26-84 pounds daily.",
+    "category": "Animals",
+    "image": "388.jpg"
+  },
+  {
+    "id": "390",
+    "title": "Forests Generate 50% of Earth's Oxygen",
+    "fact": "Forests and oceans together produce about 50% of Earth's oxygen through photosynthesis. Forests alone contribute significantly to this total.",
+    "category": "Nature",
+    "image": "390.jpg"
+  },
+  {
+    "id": "391",
+    "title": "The Berlin Wall Was Built in 1961",
+    "fact": "The Berlin Wall was erected by East Germany on August 13, 1961, dividing East and West Berlin until its fall in 1989.",
+    "category": "History",
+    "image": "391.jpg"
+  },
+  {
+    "id": "392",
+    "title": "Seahorses Are Monogamous",
+    "fact": "Seahorses mate for life and perform daily 'dances' to reinforce their bond. The male carries and births the offspring in a specialized pouch.",
+    "category": "Animals",
+    "image": "392.jpg"
+  },
+  {
+    "id": "394",
+    "title": "Your Hair Grows 0.5mm Per Day",
+    "fact": "Hair grows about 0.3-0.5 mm per day, roughly 6 inches per year. Growth is faster in summer than winter and during sleep.",
+    "category": "Human Body",
+    "image": "394.jpg"
+  },
+  {
+    "id": "398",
+    "title": "Trees Can Detect Forest Fires Early",
+    "fact": "Trees can detect smoke and chemical signals from damaged neighboring trees, triggering their own defense mechanisms before flames arrive.",
+    "category": "Nature",
+    "image": "398.jpg"
+  },
+  {
+    "id": "399",
+    "title": "The American Revolution Occurred 1775-1783",
+    "fact": "The American Revolutionary War lasted from 1775 to 1783, resulting in American independence from Great Britain.",
+    "category": "History",
+    "image": "399.jpg"
+  },
+  {
+    "id": "400",
+    "title": "A Cockroach Can Live Weeks Without Its Head",
+    "fact": "A cockroach can survive for weeks without its head because its brain is not in its head and it breathes through spiracles on its body.",
+    "category": "Animals",
+    "image": "400.jpg"
+  },
+  {
+    "id": "5001",
+    "title": "The First Stock Ticker Was Invented for Gold Prices",
+    "fact": "Edward Calahan's 1867 stock ticker wasn't first used for stocks—it transmitted gold prices from the New York Gold Exchange, helping traders react to Civil War-era fluctuations.",
+    "category": "Finance",
+    "image": "5001.jpg"
+  },
+  {
+    "id": "5002",
+    "title": "Bitcoin's First Real-World Purchase Was Two Pizzas for 10,000 BTC",
+    "fact": "On May 22, 2010, programmer Laszlo Hanyecz paid 10,000 Bitcoin for two Papa John's pizzas—worth about $600 million at Bitcoin's peak. That day is now celebrated as 'Bitcoin Pizza Day.'",
+    "category": "Finance",
+    "image": "5002.jpg"
+  },
+  {
+    "id": "5003",
+    "title": "The Dutch Tulip Mania of 1637 Wasn't As Crazy As You Think",
+    "fact": "Despite being a cautionary tale, most tulip contracts were options that never executed. Only a few bulbs reached insane prices, and the crash didn't ruin the Dutch economy.",
+    "category": "Finance",
+    "image": "5003.jpg"
+  },
+  {
+    "id": "5004",
+    "title": "The New York Stock Exchange Once Traded in a Coffee Shop",
+    "fact": "In 1792, the NYSE's predecessor was essentially a group of 24 brokers meeting under a buttonwood tree—and later in a coffee house on Wall Street—to trade securities.",
+    "category": "Finance",
+    "image": "5004.jpg"
+  },
+  {
+    "id": "5006",
+    "title": "The First Vending Machine Sold Holy Water",
+    "fact": "Ancient Greek engineer Hero of Alexandria invented a coin-operated device in the 1st century AD that dispensed holy water—complete with a lever and valve mechanism.",
+    "category": "History",
+    "image": "5006.jpg"
+  },
+  {
+    "id": "5007",
+    "title": "The Library of Alexandria Wasn't Burned in One Catastrophic Fire",
+    "fact": "The Great Library likely declined slowly over centuries due to budget cuts, civil wars, and neglect—not a single fire. Multiple fires and political shifts caused its gradual demise.",
+    "category": "History",
+    "image": "5007.jpg"
+  },
+  {
+    "id": "5010",
+    "title": "Glass Is Actually a Slow-Moving Liquid? (False but Persistent)",
+    "fact": "Despite a popular myth, glass is an amorphous solid, not a liquid. Medieval cathedral windows are thicker at the bottom due to manufacturing imperfections, not centuries of flow.",
     "category": "Science",
-    "image": "1728.jpg"
+    "image": "5010.jpg"
   },
   {
-    "id": "1729",
-    "title": "The First Photograph Took 8 Hours",
-    "fact": "The first successful photograph, 'View from the Window at Le Gras,' was taken in 1826 by Nicéphore Niépce and required an 8-hour exposure.",
-    "category": "History",
-    "image": "1729.jpg"
-  },
-  {
-    "id": "1731",
-    "title": "Octopuses Have 9 Brains",
-    "fact": "Octopuses have a central brain and eight mini-brains in each arm, each capable of independent decision-making and problem-solving.",
-    "category": "Animals",
-    "image": "1731.jpg"
-  },
-  {
-    "id": "1733",
-    "title": "The Titanic Sank in 1912, Before Radar",
-    "fact": "The Titanic sank in 1912, 30 years before radar was widely used. If radar had existed, the iceberg might have been detected in time.",
-    "category": "History",
-    "image": "1733.jpg"
-  },
-  {
-    "id": "1734",
-    "title": "Your Heart Beats 100,000 Times Daily",
-    "fact": "The human heart beats approximately 100,000 times per day, pumping about 2,000 gallons (7,500 liters) of blood through 60,000 miles of vessels.",
-    "category": "Human Body",
-    "image": "1734.jpg"
-  },
-  {
-    "id": "1736",
-    "title": "LED Lights Last 50,000 Hours",
-    "fact": "LED bulbs can last up to 50,000 hours, about 50 times longer than incandescent bulbs and 10 times longer than CFLs.",
-    "category": "Technology",
-    "image": "1736.jpg"
-  },
-  {
-    "id": "1742",
-    "title": "Mount Everest Was Once Ocean Floor",
-    "fact": "Limestone found at the top of Mount Everest was once part of an ancient seabed, compressed and thrust upward by tectonic collisions.",
-    "category": "Geography",
-    "image": "1742.jpg"
-  },
-  {
-    "id": "1747",
-    "title": "Humans Share 60% DNA With Bananas",
-    "fact": "Humans and bananas share about 60% of their DNA due to common evolutionary ancestry. All life on Earth shares some genetic similarity.",
+    "id": "5011",
+    "title": "Your Body Produces Enough Saliva to Fill Two Bathtubs Per Year",
+    "fact": "The average human produces 1 to 1.5 liters of saliva daily—adding up to about 500 liters annually, enough to fill two standard bathtubs.",
     "category": "Science",
-    "image": "1747.jpg"
+    "image": "5011.jpg"
   },
   {
-    "id": "1748",
-    "title": "The Human Brain Uses 25 Watts",
-    "fact": "The brain generates about 25 watts of electrical power while awake, enough to power a dim LED light bulb.",
-    "category": "Human Body",
-    "image": "1748.jpg"
-  },
-  {
-    "id": "1750",
-    "title": "Trees Can Communicate Through Roots",
-    "fact": "Trees share nutrients and chemical signals through mycorrhizal fungal networks, supporting young seedlings and warning each other of threats.",
-    "category": "Nature",
-    "image": "1750.jpg"
-  },
-  {
-    "id": "1752",
-    "title": "The First Computer Programmer Was Female",
-    "fact": "Ada Lovelace, born in 1815, wrote the first algorithm intended for machine processing, earning her the title of first computer programmer.",
-    "category": "Technology",
-    "image": "1752.jpg"
-  },
-  {
-    "id": "1755",
-    "title": "The Human Eye Can Detect a Candle 30 Miles Away",
-    "fact": "Under perfect conditions, a single photon can be detected by the human eye, and a candle flame can be seen up to 30 miles away on a clear night.",
-    "category": "Human Body",
-    "image": "1755.jpg"
-  },
-  {
-    "id": "1758",
-    "title": "WiFi Signals Can Penetrate Walls",
-    "fact": "WiFi signals at 2.4GHz can penetrate walls and floors, though 5GHz signals offer faster speeds but less wall penetration.",
-    "category": "Technology",
-    "image": "1758.jpg"
-  },
-  {
-    "id": "1759",
-    "title": "The Human Body Has 206 Bones",
-    "fact": "Adults have 206 bones, reduced from about 300 at birth as cartilage fuses. The smallest bone is the stapes in the ear, about the size of a grain of rice.",
-    "category": "Human Body",
-    "image": "1759.jpg"
-  },
-  {
-    "id": "1762",
-    "title": "The Great Sphinx Lost Its Nose",
-    "fact": "The Great Sphinx lost its nose sometime between the 3rd and 10th century CE. The myth that Napoleon shot it off is historically inaccurate.",
-    "category": "History",
-    "image": "1762.jpg"
-  },
-  {
-    "id": "1763",
-    "title": "Atypical Pneumonia Often Requires No Hospitalization",
-    "fact": "Atypical pneumonia is usually milder than typical pneumonia, often allowing patients to remain active ('walking pneumonia'), though antibiotics are still needed.",
-    "category": "Human Body",
-    "image": "1763.jpg"
-  },
-  {
-    "id": "1764",
-    "title": "The Amazon Produces 20% of Oxygen",
-    "fact": "The Amazon rainforest produces about 20% of Earth's oxygen through photosynthesis, earning it the nickname 'lungs of the Earth.'",
-    "category": "Nature",
-    "image": "1764.jpg"
-  },
-  {
-    "id": "1766",
-    "title": "The Moon Is Drifting Away",
-    "fact": "The Moon moves about 3.78 cm away from Earth annually, causing Earth's rotation to slow and days to lengthen over geological time.",
-    "category": "Space",
-    "image": "1766.jpg"
-  },
-  {
-    "id": "1771",
-    "title": "Mushrooms Are Closer to Animals",
-    "fact": "Genetically, fungi are more closely related to animals than plants. Both fungi and animals are heterotrophs, unlike photosynthetic plants.",
-    "category": "Nature",
-    "image": "1771.jpg"
-  },
-  {
-    "id": "1773",
-    "title": "The Sun Produces Energy Like Nuclear Bombs",
-    "fact": "The Sun converts 4 million tons of matter into energy every second through nuclear fusion, producing as much energy as billions of nuclear bombs.",
-    "category": "Space",
-    "image": "1773.jpg"
-  },
-  {
-    "id": "1774",
-    "title": "Your Brain Has 100 Trillion Synapses",
-    "fact": "The human brain contains approximately 100 trillion synaptic connections, far more than the number of stars in the Milky Way.",
-    "category": "Human Body",
-    "image": "1774.jpg"
-  },
-  {
-    "id": "1776",
-    "title": "GPS Satellites Carry Atomic Clocks",
-    "fact": "GPS satellites carry atomic clocks accurate to within a billionth of a second. Without relativistic corrections, GPS would be useless within minutes.",
-    "category": "Technology",
-    "image": "1776.jpg"
-  },
-  {
-    "id": "1779",
-    "title": "The Moon Has No Atmosphere",
-    "fact": "The Moon has an exosphere so thin it's considered an almost perfect vacuum, meaning sound cannot travel and temperatures extreme from -280°F to 260°F.",
-    "category": "Space",
-    "image": "1779.jpg"
-  },
-  {
-    "id": "1780",
-    "title": "Neptune Has Winds Faster Than Sound",
-    "fact": "Neptune has the fastest winds in the solar system, reaching speeds of 1,200 mph (2,000 km/h), faster than the speed of sound at Earth's sea level.",
-    "category": "Space",
-    "image": "1780.jpg"
-  },
-  {
-    "id": "1783",
-    "title": "Russia Is Larger Than Pluto",
-    "fact": "Russia has an area of about 17.1 million km², while Pluto's surface area is about 16.7 million km², making Russia slightly larger than the dwarf planet.",
+    "id": "5012",
+    "title": "The Smallest Country in the World Has No Permanent Residents",
+    "fact": "Vatican City, at 0.44 sq km, has no permanent citizens—its residents are clergy, diplomats, and Swiss Guards, all on assignment. Citizenship is tied to office, not birth.",
     "category": "Geography",
-    "image": "1783.jpg"
+    "image": "5012.jpg"
   },
   {
-    "id": "1784",
-    "title": "Elephants Are the Only Land Animal That Can't Jump",
-    "fact": "Adult elephants are the only land mammals that cannot jump, though they can run at speeds up to 25 mph and swim excellently.",
+    "id": "5015",
+    "title": "Ketchup Was Originally Sold as Medicine",
+    "fact": "In the 1830s, tomatoes were believed to have curative properties, and ketchup was sold as a remedy for digestive issues, jaundice, and even diarrhea.",
+    "category": "Food",
+    "image": "5015.jpg"
+  },
+  {
+    "id": "5016",
+    "title": "Coffee Was Once Banned in Europe for Being 'Satanic'",
+    "fact": "In the 17th century, some Catholic clergy called coffee 'the bitter invention of Satan.' Pope Clement VIII allegedly tasted it, declared it delicious, and blessed it—ending the ban.",
+    "category": "Food",
+    "image": "5016.jpg"
+  },
+  {
+    "id": "5017",
+    "title": "Chocolate Was Used as Currency by the Aztecs",
+    "fact": "Aztec and Maya cultures used cacao beans as money—a rabbit cost 10 beans, a slave cost 100, and counterfeiting involved making fake beans from clay.",
+    "category": "Food",
+    "image": "5017.jpg"
+  },
+  {
+    "id": "5018",
+    "title": "Lobsters Used to Be Fed to Prisoners and Servants",
+    "fact": "In 17th-century North America, lobsters were so abundant they washed ashore in piles. They were considered poverty food and served to servants, prisoners, and even pigs.",
+    "category": "Food",
+    "image": "5018.jpg"
+  },
+  {
+    "id": "5020",
+    "title": "Pigeons Can Recognize Human Faces",
+    "fact": "Studies show that wild urban pigeons can distinguish between familiar and unfamiliar humans, using facial recognition—even without being trained.",
     "category": "Animals",
-    "image": "1784.jpg"
+    "image": "5020.jpg"
   },
   {
-    "id": "1785",
-    "title": "The Sun Is Made Mostly of Hydrogen",
-    "fact": "The Sun is about 73% hydrogen and 25% helium by mass, with all other elements making up less than 2% of its composition.",
+    "id": "5021",
+    "title": "Cows Have Regional Accents",
+    "fact": "Farmers have noted that cows in different regions moo with distinct local accents—just like humans—based on their herd's vocal patterns.",
+    "category": "Animals",
+    "image": "5021.jpg"
+  },
+  {
+    "id": "5023",
+    "title": "The Sun Loses 4 Million Tons of Mass Every Second",
+    "fact": "Through nuclear fusion converting mass into energy (E=mc²), the Sun loses about 4 million tons per second—but it's so massive it's barely changed in 4.5 billion years.",
     "category": "Space",
-    "image": "1785.jpg"
+    "image": "5023.jpg"
   },
   {
-    "id": "1788",
-    "title": "The Printing Press Changed History",
-    "fact": "Gutenberg's printing press (1450) made books affordable and spread literacy, with over 20 million volumes printed in Europe by 1500.",
+    "id": "5024",
+    "title": "There's a Planet Made of Diamond",
+    "fact": "55 Cancri e, a super-Earth 40 light-years away, is thought to be composed largely of carbon in the form of diamond and graphite—with an estimated value of $26.9 nonillion.",
+    "category": "Space",
+    "image": "5024.jpg"
+  },
+  {
+    "id": "5025",
+    "title": "Jupiter's Great Red Spot Is Shrinking",
+    "fact": "The iconic storm, twice the size of Earth a century ago, has been shrinking—currently about 1.3 Earth diameters wide. Scientists aren't sure if it will eventually disappear.",
+    "category": "Space",
+    "image": "5025.jpg"
+  },
+  {
+    "id": "5027",
+    "title": "The Dead Sea Isn't the Saltiest Lake—Don Juan Pond Is",
+    "fact": "Antarctica's Don Juan Pond has 40% salinity—10 times saltier than seawater and nearly 2 times saltier than the Dead Sea, remaining liquid at -50°C due to calcium chloride.",
+    "category": "Geography",
+    "image": "5027.jpg"
+  },
+  {
+    "id": "5029",
+    "title": "Japan Has Over 5.5 Million Vending Machines",
+    "fact": "That's one for every 23 people—the highest density globally. They sell everything from hot ramen to fresh eggs, and some even include charitable donation functions.",
+    "category": "Culture",
+    "image": "5029.jpg"
+  },
+  {
+    "id": "5030",
+    "title": "In Finland, Speeding Tickets Are Based on Income",
+    "fact": "Fines for speeding are calculated as a percentage of the offender's daily income—a Finnish executive once received a €121,000 ticket for going 18 mph over the limit.",
+    "category": "Culture",
+    "image": "5030.jpg"
+  },
+  {
+    "id": "5031",
+    "title": "The Oxford English Dictionary Adds a New Word Every 2 Hours",
+    "fact": "With roughly 4,000 new entries annually, the OED updates every three months—adding words like 'selfie,' 'emoji,' and even 'cancel culture' in recent years.",
+    "category": "Culture",
+    "image": "5031.jpg"
+  },
+  {
+    "id": "5032",
+    "title": "The Average American Checks Their Phone 96 Times Per Day",
+    "fact": "That's once every 10 minutes over a 16-hour waking day. Many people underestimate their usage—actual figures from screen-time studies are consistently higher than self-reported.",
+    "category": "Culture",
+    "image": "5032.jpg"
+  },
+  {
+    "id": "5033",
+    "title": "Beethoven Counted Exactly 60 Beans Per Cup of Coffee",
+    "fact": "The composer was famously particular—he insisted on counting 60 coffee beans per cup, believing this was the perfect ratio for his daily morning brew.",
     "category": "History",
-    "image": "1788.jpg"
+    "image": "5033.jpg"
   },
   {
-    "id": "1789",
-    "title": "WiFi Uses Radio Waves",
-    "fact": "WiFi uses radio waves at 2.4GHz or 5GHz frequencies, similar to FM radio and microwave ovens, transmitting data through modulated electromagnetic signals.",
-    "category": "Technology",
-    "image": "1789.jpg"
+    "id": "5035",
+    "title": "The Leaning Tower of Pisa Was Never Straight—It Started Tilting During Construction",
+    "fact": "The tower began leaning in 1173 during the second floor's construction due to soft subsoil. Builders attempted to compensate by curving later floors, giving it a slight banana shape.",
+    "category": "History",
+    "image": "5035.jpg"
   },
   {
-    "id": "1790",
-    "title": "The Moon Reflects Only 12% of Sunlight",
-    "fact": "The Moon's albedo (reflectivity) is only about 0.12, meaning it reflects only 12% of sunlight that hits it, appearing bright due to proximity.",
-    "category": "Space",
-    "image": "1790.jpg"
+    "id": "5036",
+    "title": "The Modern Toilet Was Invented by a Poet",
+    "fact": "Sir John Harrington, a godson of Queen Elizabeth I, invented the first flush toilet in 1596—and wrote a satirical book about it. The queen refused to use it, fearing it was too loud.",
+    "category": "History",
+    "image": "5036.jpg"
   },
   {
-    "id": "1791",
-    "title": "Coral Reefs Are Ancient",
-    "fact": "Coral reefs have existed for over 25 million years, with some ancient reef systems dating back 50 million years, supporting incredible biodiversity.",
-    "category": "Nature",
-    "image": "1791.jpg"
-  },
-  {
-    "id": "1792",
-    "title": "DNA Can Survive Space Travel",
-    "fact": "Scientists have found that DNA can survive re-entry from space, suggesting it could potentially travel between planets on meteorites.",
+    "id": "5038",
+    "title": "You Have 2.5 Million Sweat Glands—But They're Not All Active",
+    "fact": "The average human has 2.5 million sweat glands, but only some are eccrine (cooling). The rest are apocrine, which activate during stress and puberty, producing odor-rich sweat.",
     "category": "Science",
-    "image": "1792.jpg"
+    "image": "5038.jpg"
   },
   {
-    "id": "1793",
-    "title": "The Human Body Contains Enough Carbon for 9,000 Pencils",
-    "fact": "The human body contains about 16% carbon, roughly 35 pounds (16 kg) in an average adult, enough to make about 9,000 pencil leads.",
-    "category": "Human Body",
-    "image": "1793.jpg"
-  },
-  {
-    "id": "1794",
-    "title": "The Eiffel Tower Was a Temporary Structure",
-    "fact": "The Eiffel Tower was built for the 1889 World's Fair and was scheduled for demolition in 1909, but was saved because it proved useful for radio transmission.",
-    "category": "History",
-    "image": "1794.jpg"
-  },
-  {
-    "id": "1797",
-    "title": "The Moon Is Slowly Leaving Earth's Orbit",
-    "fact": "The Moon recedes from Earth at 3.78 cm per year due to tidal interactions, and Earth's rotation is slowing correspondingly.",
-    "category": "Space",
-    "image": "1797.jpg"
-  },
-  {
-    "id": "1801",
-    "title": "Earth's Core Is as Hot as the Sun",
-    "fact": "The inner core of Earth reaches temperatures of about 9,000°F (5,000°C), comparable to the Sun's surface temperature of about 10,000°F (5,500°C).",
+    "id": "5039",
+    "title": "Oxygen Makes Up 21% of Earth's Air—But It Used to Be 0%",
+    "fact": "For the first 2 billion years, Earth had almost no free oxygen. The Great Oxidation Event (~2.4 billion years ago) was caused by cyanobacteria, poisoning most anaerobic life.",
     "category": "Science",
-    "image": "1801.jpg"
+    "image": "5039.jpg"
   },
   {
-    "id": "1802",
-    "title": "Ants Outnumber Humans 1.5 Million to 1",
-    "fact": "There are approximately 1.5 million ants for every human on Earth, with an estimated 20 quadrillion ants alive at any given time.",
+    "id": "5041",
+    "title": "The World's Largest Gold Bar Weighs 551 Pounds",
+    "fact": "The Mitsubishi Corporation produced a gold bar measuring 17.9 x 8.9 x 6.7 inches, weighing 551.15 lbs (250 kg). It's valued at over $15 million and displayed in Japan.",
+    "category": "Finance",
+    "image": "5041.jpg"
+  },
+  {
+    "id": "5042",
+    "title": "The $100 Bill Is the Most Common US Currency in Circulation",
+    "fact": "Over 80% of all US paper currency in value is in $100 bills—with an estimated 18.5 billion notes in global circulation, more than half held overseas.",
+    "category": "Finance",
+    "image": "5042.jpg"
+  },
+  {
+    "id": "5043",
+    "title": "The First Credit Card Was Made of Cardboard",
+    "fact": "In 1950, the Diners Club card was issued on thick cardboard to 200 customers. It wasn't plastic until the 1960s when American Express introduced the first plastic embossed card.",
+    "category": "Finance",
+    "image": "5043.jpg"
+  },
+  {
+    "id": "5044",
+    "title": "In Switzerland, It's Illegal to Own Just One Guinea Pig",
+    "fact": "Guinea pigs are highly social—Swiss law requires them to have a companion, making it illegal to own a single one. Violators can be fined and have the pet confiscated.",
     "category": "Animals",
-    "image": "1802.jpg"
+    "image": "5044.jpg"
   },
   {
-    "id": "1806",
-    "title": "The Sahara Is Expanding Southward",
-    "fact": "The Sahara Desert is growing by about 30 miles per decade due to climate change, having expanded significantly since the 1920s.",
+    "id": "5045",
+    "title": "The Immortal Jellyfish Can Reverse Its Own Aging",
+    "fact": "Turritopsis dohrnii can revert to its juvenile polyp stage after reaching maturity—making it biologically immortal, as long as it isn't eaten or diseased.",
+    "category": "Animals",
+    "image": "5045.jpg"
+  },
+  {
+    "id": "5047",
+    "title": "An Elephant's Trunk Has Over 40,000 Muscles",
+    "fact": "In comparison, the entire human body has roughly 600 muscles. This gives elephants incredible control—they can uproot trees or delicately pick a single blade of grass.",
+    "category": "Animals",
+    "image": "5047.jpg"
+  },
+  {
+    "id": "5048",
+    "title": "The Arctic Has 24 Hours of Darkness—and 24 Hours of Sunlight",
+    "fact": "Above the Arctic Circle, the sun never sets for 2–3 months in summer (Midnight Sun) and never rises for 2–3 months in winter (Polar Night).",
     "category": "Geography",
-    "image": "1806.jpg"
+    "image": "5048.jpg"
   },
   {
-    "id": "1808",
-    "title": "The Moon Is Slowly Leaving Us",
-    "fact": "The Moon moves approximately 3.78 cm away from Earth each year, and in about 600 million years, total solar eclipses will no longer occur.",
-    "category": "Space",
-    "image": "1808.jpg"
+    "id": "5051",
+    "title": "The First Bond Market Was Created in Venice to Fund Wars",
+    "fact": "In the 12th century, the Venetian Republic issued government bonds called 'prestiti' to citizens to fund military campaigns—making Venice the birthplace of modern sovereign debt.",
+    "category": "Finance",
+    "image": "5051.jpg"
   },
   {
-    "id": "1809",
-    "title": "Napoleon Was Attacked by Rabbits",
-    "fact": "During a hunt arranged by King Francis I, thousands of rabbits were released and charged at Napoleon, who reportedly climbed a tree to escape.",
+    "id": "5052",
+    "title": "The World's Oldest Corporation Is Still Operating in Sweden",
+    "fact": "Stora Enso, a Swedish forestry company, traces its origins to a copper mine charter granted in 1288—making it over 730 years old and still publicly traded.",
+    "category": "Finance",
+    "image": "5052.jpg"
+  },
+  {
+    "id": "5053",
+    "title": "The 1929 Stock Market Crash Was Preceded by a 'Great Depression' of Florida Real Estate",
+    "fact": "Before the famous 1929 crash, Florida's land bubble burst in 1926—leaving miles of undeveloped subdivisions and bankrupting banks, foreshadowing the national collapse.",
+    "category": "Finance",
+    "image": "5053.jpg"
+  },
+  {
+    "id": "5054",
+    "title": "Warren Buffett Still Lives in the Same House He Bought for $31,500 in 1958",
+    "fact": "Despite a net worth exceeding $120 billion, Buffett resides in a modest Omaha home purchased for $31,500—which is now worth about $1.4 million but remains his only primary residence.",
+    "category": "Finance",
+    "image": "5054.jpg"
+  },
+  {
+    "id": "5055",
+    "title": "The US Once Printed a $100,000 Bill",
+    "fact": "The $100,000 Gold Certificate was printed in 1934 but never circulated publicly—it was used only for Federal Reserve Bank transactions and features President Woodrow Wilson.",
+    "category": "Finance",
+    "image": "5055.jpg"
+  },
+  {
+    "id": "5056",
+    "title": "The Dow Jones Industrial Average Originally Had Only 12 Stocks—And General Electric Was the Only Original That Survived",
+    "fact": "Launched in 1896 with 12 industrial companies, GE remained until 2018—the sole surviving original member after 122 years, before being replaced.",
+    "category": "Finance",
+    "image": "5056.jpg"
+  },
+  {
+    "id": "5058",
+    "title": "Lloyd's of London Started as a Coffee House for Sailors",
+    "fact": "In 1688, Edward Lloyd's coffee shop became the go-to place for merchants and ship captains to insure cargo. It evolved into the world's leading insurance market, still operating today.",
+    "category": "Finance",
+    "image": "5058.jpg"
+  },
+  {
+    "id": "5060",
+    "title": "The Term 'Bull Market' Comes From How Bulls Attack—Upward, Not Sideways",
+    "fact": "Bulls thrust their horns upward, while bears swipe downward. This 18th-century analogy was popularized by traders to describe rising and falling markets.",
+    "category": "Finance",
+    "image": "5060.jpg"
+  },
+  {
+    "id": "5061",
+    "title": "The First Mutual Fund Was Launched in the Netherlands in 1774",
+    "fact": "Dutch merchant Adriaan van Ketwich created 'Eendragt Maakt Magt' (Unity Creates Strength), allowing small investors to pool funds for diversified investments—over 200 years before modern funds.",
+    "category": "Finance",
+    "image": "5061.jpg"
+  },
+  {
+    "id": "5062",
+    "title": "The Average US Household Carries Over $100,000 in Debt",
+    "fact": "As of 2023, total US household debt exceeded $17 trillion, with the average family owing about $103,000 across mortgages, credit cards, auto loans, and student debt.",
+    "category": "Finance",
+    "image": "5062.jpg"
+  },
+  {
+    "id": "5063",
+    "title": "Half of All Global Wealth Is Held by Just 1% of the Population",
+    "fact": "According to Credit Suisse's Global Wealth Report, the top 1% controls roughly 45-50% of the world's total wealth—a disparity that has widened steadily since the 1980s.",
+    "category": "Finance",
+    "image": "5063.jpg"
+  },
+  {
+    "id": "5064",
+    "title": "Compound Interest Was Called the 'Eighth Wonder of the World' by Einstein (Possibly)",
+    "fact": "Although attribution is debated, Einstein reportedly said: 'Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it.'",
+    "category": "Finance",
+    "image": "5064.jpg"
+  },
+  {
+    "id": "5065",
+    "title": "The 2008 Financial Crisis Was Triggered by Subprime Mortgages—But the First Bank to Fail Was a Small UK Institution",
+    "fact": "Northern Rock, a British mortgage lender, was the first major casualty in September 2007—its collapse triggered the first bank run in the UK in 150 years, predating Lehman Brothers by a year.",
+    "category": "Finance",
+    "image": "5065.jpg"
+  },
+  {
+    "id": "5066",
+    "title": "Bitcoin Has a Hard Cap of 21 Million Coins—And Over 19 Million Have Already Been Mined",
+    "fact": "As of 2025, over 19.6 million BTC have been mined, leaving less than 1.4 million to be released over the next century—the last Bitcoin is projected to be mined around 2140.",
+    "category": "Finance",
+    "image": "5066.jpg"
+  },
+  {
+    "id": "5067",
+    "title": "The First-Ever Stock Certificate Was Issued by the Dutch East India Company in 1606",
+    "fact": "The VOC issued paper shares to investors, allowing them to trade ownership—making it the world's first publicly traded company and kickstarting modern equity markets.",
+    "category": "Finance",
+    "image": "5067.jpg"
+  },
+  {
+    "id": "5068",
+    "title": "During the California Gold Rush, A Pound of Flour Cost More Than Gold Dust",
+    "fact": "In 1849, supplies were so scarce that a sack of flour sold for $36—while an ounce of gold was only $16. Merchants became richer than many miners.",
     "category": "History",
-    "image": "1809.jpg"
+    "image": "5068.jpg"
   },
   {
-    "id": "1810",
-    "title": "Your Brain Uses 20% of Blood Oxygen",
-    "fact": "Despite being only 2% of body weight, the brain consumes 20% of the body's oxygen and 20% of its glucose energy.",
-    "category": "Human Body",
-    "image": "1810.jpg"
+    "id": "5069",
+    "title": "Julius Caesar Was Kidnapped by Pirates—And He Demanded They Increase the Ransom",
+    "fact": "Captured in 75 BC, Caesar insisted the pirates raise their ransom from 20 talents to 50, promising to return and execute them. He did exactly that after being freed.",
+    "category": "History",
+    "image": "5069.jpg"
   },
   {
-    "id": "1812",
-    "title": "The Sun's Core Is 27 Million Degrees",
-    "fact": "The core of the Sun reaches temperatures of about 27 million degrees Fahrenheit (15 million°C), where nuclear fusion occurs.",
-    "category": "Space",
-    "image": "1812.jpg"
-  },
-  {
-    "id": "1813",
-    "title": "Crows Can Recognize Faces Years Later",
-    "fact": "Crows can recognize and remember human faces for up to 5 years, sharing information about threatening humans with their offspring.",
-    "category": "Animals",
-    "image": "1813.jpg"
-  },
-  {
-    "id": "1814",
-    "title": "The Internet Started With Two Computers",
-    "fact": "ARPANET, the precursor to the internet, connected its first two computers in 1969, with the first message sent from UCLA to Stanford.",
+    "id": "5070",
+    "title": "The Inventor of the Microwave Oven Got the Idea From a Melted Chocolate Bar",
+    "fact": "Percy Spencer, an engineer at Raytheon, noticed a candy bar melted in his pocket while testing a magnetron in 1945. The first commercial microwave weighed 750 pounds.",
     "category": "Technology",
-    "image": "1814.jpg"
-  },
-  {
-    "id": "1815",
-    "title": "The Great Wall Is Not Visible From Space",
-    "fact": "The Great Wall of China cannot be seen with the naked eye from space, despite the common myth. It's too narrow and follows terrain contours.",
-    "category": "History",
-    "image": "1815.jpg"
-  },
-  {
-    "id": "1816",
-    "title": "Mount Everest Grows 4mm Per Year",
-    "fact": "Mount Everest grows approximately 4mm per year as the Indian tectonic plate continues to push into the Eurasian plate.",
-    "category": "Geography",
-    "image": "1816.jpg"
-  },
-  {
-    "id": "1819",
-    "title": "Your Heartbeats 3 Billion Times in a Lifetime",
-    "fact": "The average human heart beats about 3 billion times over an 80-year lifetime, pumping enough blood to fill 200 train tank cars.",
-    "category": "Human Body",
-    "image": "1819.jpg"
-  },
-  {
-    "id": "1820",
-    "title": "The Roman Empire Had 900 Years of Roads",
-    "fact": "At its peak, the Roman Empire maintained about 250,000 miles (400,000 km) of roads, with 50,000 miles being stone-paved highways.",
-    "category": "History",
-    "image": "1820.jpg"
-  },
-  {
-    "id": "1821",
-    "title": "Atypical Pneumonia Was First Described in 1930s",
-    "fact": "Atypical pneumonia was distinguished from typical bacterial pneumonia in the 1930s, though the term became common in the 1960s with Mycoplasma pneumoniae identification.",
-    "category": "Human Body",
-    "image": "1821.jpg"
-  },
-  {
-    "id": "1824",
-    "title": "Horses Can't Breathe Through Their Mouths",
-    "fact": "Horses are obligate nose breathers and cannot breathe through their mouths while exercising, which is why respiratory issues are serious for them.",
-    "category": "Animals",
-    "image": "1824.jpg"
-  },
-  {
-    "id": "1826",
-    "title": "Glass Is a Liquid That Flows Very Slowly",
-    "fact": "Glass is technically an amorphous solid that flows extremely slowly over centuries, which is why old glass window panes are often slightly thicker at the bottom.",
-    "category": "Science",
-    "image": "1826.jpg"
-  },
-  {
-    "id": "1828",
-    "title": "Your Brain Makes You See Stars on Impact",
-    "fact": "When you sneeze hard or get hit, pressure changes in your eyes create the sensation of 'seeing stars' as the retina responds to mechanical stimulation.",
-    "category": "Human Body",
-    "image": "1828.jpg"
-  },
-  {
-    "id": "1829",
-    "title": "GPS Satellites Have to Correct for Relativity",
-    "fact": "GPS satellites experience time dilation due to both their speed and distance from Earth, requiring 38 microsecond corrections daily.",
-    "category": "Technology",
-    "image": "1829.jpg"
-  },
-  {
-    "id": "1830",
-    "title": "The Oldest Living Tree Is 5,000 Years Old",
-    "fact": "Methuselah, a bristlecone pine in California, is 4,851 years old, making it the oldest known living non-clonal organism on Earth.",
-    "category": "Nature",
-    "image": "1830.jpg"
-  },
-  {
-    "id": "1832",
-    "title": "Egypt Built Pyramids Before the Wheel",
-    "fact": "The pyramids were built around 2560 BCE, but wheeled vehicles weren't introduced to Egypt until around 600 BCE, about 2,000 years later.",
-    "category": "History",
-    "image": "1832.jpg"
-  },
-  {
-    "id": "1833",
-    "title": "Humans Share DNA With All Life",
-    "fact": "All life on Earth shares common ancestry. Humans share about 60% of DNA with bananas, 85% with mice, and 98.8% with chimpanzees.",
-    "category": "Science",
-    "image": "1833.jpg"
-  },
-  {
-    "id": "1834",
-    "title": "Lightning Heats Air to 30,000°F",
-    "fact": "Lightning heats surrounding air to about 30,000 Kelvin (53,540°F), five times hotter than the surface of the Sun (10,000°F).",
-    "category": "Nature",
-    "image": "1834.jpg"
-  },
-  {
-    "id": "1835",
-    "title": "Electric Eels Can Leap From Water",
-    "fact": "Electric eels can launch themselves from water to deliver electric shocks directly to threats, using their chin as an electrode to bypass water resistance.",
-    "category": "Animals",
-    "image": "1835.jpg"
-  },
-  {
-    "id": "1837",
-    "title": "Your Nose Can Detect 1 Trillion Smells",
-    "fact": "The human nose can distinguish approximately 1 trillion different odors, far exceeding the old estimate of just 10,000 scents.",
-    "category": "Human Body",
-    "image": "1837.jpg"
-  },
-  {
-    "id": "1841",
-    "title": "Sharks Existed Before the Dinosaurs",
-    "fact": "Sharks have been around for about 450 million years, predating dinosaurs by 200 million years and trees by 50 million years.",
-    "category": "Animals",
-    "image": "1841.jpg"
-  },
-  {
-    "id": "1842",
-    "title": "The Human Body Has 37 Trillion Cells",
-    "fact": "The average human body contains approximately 37.2 trillion cells, though this number varies based on body size and how cells are counted.",
-    "category": "Human Body",
-    "image": "1842.jpg"
-  },
-  {
-    "id": "1844",
-    "title": "The Pyramids Align With Constellations",
-    "fact": "The three pyramids of Giza are aligned to mirror Orion's Belt, which ancient Egyptians associated with their god of the underworld.",
-    "category": "History",
-    "image": "1844.jpg"
-  },
-  {
-    "id": "1845",
-    "title": "DNA Data Storage Could Last Thousands of Years",
-    "fact": "DNA can store data for thousands of years under proper conditions, with theoretical capacity of 215 petabytes per gram.",
-    "category": "Technology",
-    "image": "1845.jpg"
-  },
-  {
-    "id": "1850",
-    "title": "The Printing Press Enabled the Reformation",
-    "fact": "Gutenberg's printing press (1450) enabled Martin Luther's 95 Theses to spread across Europe in weeks, catalyzing the Protestant Reformation.",
-    "category": "History",
-    "image": "1850.jpg"
-  },
-  {
-    "id": "1851",
-    "title": "Saturn's Rings Are 90% Ice",
-    "fact": "Saturn's rings are about 90-95% water ice particles, ranging from microscopic dust to chunks as large as houses.",
-    "category": "Space",
-    "image": "1851.jpg"
-  },
-  {
-    "id": "1853",
-    "title": "The Coldest Natural Place Is in Space",
-    "fact": "The cosmic microwave background radiation gives space an average temperature of -454°F (-270°C), the coldest natural temperature known.",
-    "category": "Space",
-    "image": "1853.jpg"
-  },
-  {
-    "id": "1854",
-    "title": "The Titanic Sank Before TVs Existed",
-    "fact": "The Titanic sank in 1912, but television wasn't commercially available until 1928, about 16 years later.",
-    "category": "History",
-    "image": "1854.jpg"
-  },
-  {
-    "id": "1856",
-    "title": "The Amazon Contains 20% of Freshwater",
-    "fact": "The Amazon basin contains about 20% of Earth's surface freshwater, with the river alone discharging more water than the next seven largest rivers combined.",
-    "category": "Geography",
-    "image": "1856.jpg"
-  },
-  {
-    "id": "1858",
-    "title": "Your Eyes Have a Blind Spot",
-    "fact": "Each eye has a blind spot where the optic nerve exits the retina, but the brain fills in this gap using information from the other eye.",
-    "category": "Human Body",
-    "image": "1858.jpg"
-  },
-  {
-    "id": "1861",
-    "title": "Your Brain Generates 25 Watts of Power",
-    "fact": "The human brain generates about 25 watts of electrical power while awake, enough to power a small LED light bulb.",
-    "category": "Human Body",
-    "image": "1861.jpg"
-  },
-  {
-    "id": "1862",
-    "title": "Trees Can Lower Air Temperature Significantly",
-    "fact": "A single large tree has the cooling effect of 10 room-sized air conditioners running 20 hours a day through evapotranspiration.",
-    "category": "Nature",
-    "image": "1862.jpg"
-  },
-  {
-    "id": "1863",
-    "title": "GPS Constellation Orbits at 12,550 Miles",
-    "fact": "GPS satellites orbit at about 12,550 miles (20,200 km) above Earth, completing two orbits per day at about 8,700 mph.",
-    "category": "Technology",
-    "image": "1863.jpg"
-  },
-  {
-    "id": "1864",
-    "title": "Antarctica Is the Windiest Continent",
-    "fact": "Antarctica experiences katabatic winds reaching speeds of 200 mph (320 km/h), making it the windiest continent on Earth.",
-    "category": "Geography",
-    "image": "1864.jpg"
-  },
-  {
-    "id": "1866",
-    "title": "The Moon Is Getting Hotter",
-    "fact": "Due to reflected heat from Earth (Earthshine), the Moon's temperature has increased by about 0.04°C since the 1970s.",
-    "category": "Space",
-    "image": "1866.jpg"
-  },
-  {
-    "id": "1868",
-    "title": "Cleopatra Lived Closer to Today Than Pyramids",
-    "fact": "Cleopatra lived in 30 BCE, while the Great Pyramid was built around 2560 BCE. She was closer to us in time than to the pyramids.",
-    "category": "History",
-    "image": "1868.jpg"
-  },
-  {
-    "id": "1869",
-    "title": "The Human Body Contains 60,000 Miles of Vessels",
-    "fact": "Blood vessels in the human body, if stretched end to end, would circle Earth 2.5 times, covering approximately 60,000 miles.",
-    "category": "Human Body",
-    "image": "1869.jpg"
-  },
-  {
-    "id": "1870",
-    "title": "The Sun Will Eventually Become a White Dwarf",
-    "fact": "In about 5 billion years, the Sun will exhaust its hydrogen fuel, expand into a red giant, and eventually collapse into a white dwarf.",
-    "category": "Space",
-    "image": "1870.jpg"
-  },
-  {
-    "id": "1871",
-    "title": "The Eiffel Tower Was to Be Dismantled",
-    "fact": "The Eiffel Tower was only intended to stand for 20 years for the 1889 World's Fair, but was saved because it proved useful for radio communications.",
-    "category": "History",
-    "image": "1871.jpg"
-  },
-  {
-    "id": "1872",
-    "title": "WiFi Uses the Same Frequency as Microwaves",
-    "fact": "WiFi operates at 2.4GHz or 5GHz, the same frequency band as microwave ovens (2.45GHz), which can cause occasional interference.",
-    "category": "Technology",
-    "image": "1872.jpg"
-  },
-  {
-    "id": "1873",
-    "title": "The Mariana Trench Is 7 Miles Deep",
-    "fact": "The Challenger Deep in the Mariana Trench is the deepest point in the ocean at 36,070 feet (10,994 meters), deeper than Mount Everest is tall.",
-    "category": "Geography",
-    "image": "1873.jpg"
-  },
-  {
-    "id": "1874",
-    "title": "Honeybees Can Count to Four",
-    "fact": "Honeybees can count up to four objects and understand the concept of zero, using small numbers of landmarks for navigation.",
-    "category": "Animals",
-    "image": "1874.jpg"
-  },
-  {
-    "id": "1875",
-    "title": "The Sun Contains 99.86% of System Mass",
-    "fact": "The Sun contains 99.86% of all mass in our solar system, with Jupiter accounting for most of the remaining 0.14%.",
-    "category": "Space",
-    "image": "1875.jpg"
-  },
-  {
-    "id": "1877",
-    "title": "Coral Reefs Are Ancient Ecosystems",
-    "fact": "Coral reefs have existed for over 25 million years, with some ancient reef systems dating back 50 million years.",
-    "category": "Nature",
-    "image": "1877.jpg"
-  },
-  {
-    "id": "1879",
-    "title": "Smartphones Have CPUs as Fast as 1990s Supercomputers",
-    "fact": "Modern smartphone processors are more powerful than the supercomputers of the 1990s that filled entire rooms.",
-    "category": "Technology",
-    "image": "1879.jpg"
+    "image": "5070.jpg"
   }
 ]

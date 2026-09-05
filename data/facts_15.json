@@ -1,702 +1,702 @@
 [
   {
-    "id": "19",
-    "title": "Axolotls Can Regenerate Their Brain",
-    "fact": "Axolotls can regenerate their heart, lungs, limbs, and even portions of their brain. Scientists are studying them to understand how their cells retain the ability to de-differentiate and rebuild complex tissues.",
-    "category": "Animals",
-    "image": "19.jpg"
-  },
-  {
-    "id": "20",
-    "title": "Goats Have Rectangular Pupils",
-    "fact": "Goats have horizontal rectangular pupils that give them a 320° field of vision — almost panoramic. This lets them spot predators from nearly all directions without moving their head.",
-    "category": "Animals",
-    "image": "20.jpg"
-  },
-  {
-    "id": "21",
-    "title": "Hippos Sweat Sunscreen",
-    "fact": "Hippos secrete a reddish oily fluid that acts as a natural sunscreen and antibiotic. Scientists call it 'blood sweat' — it's neither blood nor sweat, but a unique skin moisturiser.",
-    "category": "Animals",
-    "image": "21.jpg"
-  },
-  {
-    "id": "22",
-    "title": "Ravens Are as Smart as Apes",
-    "fact": "Ravens demonstrate planning, tool use, and deception — cognitive abilities once thought exclusive to great apes. They can solve multi-step problems and understand the concept of hidden objects.",
-    "category": "Animals",
-    "image": "22.jpg"
-  },
-  {
-    "id": "23",
-    "title": "A Snail Can Sleep 3 Years",
-    "fact": "Snails can hibernate (called estivation in warm climates) for up to 3 years when conditions are too dry or cold. During this time, they seal their shell opening with a membrane called an epiphragm.",
-    "category": "Animals",
-    "image": "23.jpg"
-  },
-  {
-    "id": "24",
-    "title": "Cats Can Make 100 Sounds",
-    "fact": "Cats can produce approximately 100 different vocalizations, while dogs manage around 10. Cats developed the ability to 'meow' specifically to communicate with humans — adult cats rarely meow at each other.",
-    "category": "Animals",
-    "image": "24.jpg"
-  },
-  {
-    "id": "25",
-    "title": "Whale Songs Are Evolving",
-    "fact": "Humpback whale songs change every year and spread across oceans like cultural waves. A new song heard in the Pacific is often singing in the Atlantic within two years — the largest cultural transmission in the animal kingdom.",
-    "category": "Animals",
-    "image": "25.jpg"
-  },
-  {
-    "id": "27",
-    "title": "Starfish Have No Blood",
-    "fact": "Starfish (sea stars) have no blood. Instead, they use seawater to pump nutrients through their vascular system. If you remove them from the ocean, they die from suffocation within minutes.",
-    "category": "Animals",
-    "image": "27.jpg"
-  },
-  {
-    "id": "29",
-    "title": "Crocodiles Haven't Changed in 200M Years",
-    "fact": "Modern crocodiles are almost identical to their Triassic ancestors from 200 million years ago. They survived the mass extinction that killed the dinosaurs and have remained virtually unchanged.",
-    "category": "Animals",
-    "image": "29.jpg"
-  },
-  {
-    "id": "30",
-    "title": "Moths Navigate by Moonlight",
-    "fact": "Moths use the moon as a navigational compass, keeping it at a fixed angle to fly in a straight line. Artificial lights confuse this system, causing them to spiral inward — that's why moths circle light bulbs.",
-    "category": "Animals",
-    "image": "30.jpg"
-  },
-  {
-    "id": "33",
-    "title": "The Sun Is a Middle-Aged Star",
-    "fact": "Our sun is approximately 4.6 billion years old and is about halfway through its lifespan. In roughly 5 billion years, it will expand into a red giant, engulfing Mercury, Venus, and possibly Earth.",
+    "id": "1033",
+    "title": "A Photon Takes 100,000 Years to Travel from Sun's Core to Surface",
+    "fact": "It takes a photon about 100,000 years to travel from the Sun's core to its surface, but only 8 minutes to travel from there to Earth.",
     "category": "Space",
-    "image": "33.jpg"
+    "image": "1033.jpg"
   },
   {
-    "id": "34",
-    "title": "Light From Distant Stars Is Ancient",
-    "fact": "When you look at the Andromeda galaxy with the naked eye, you're seeing light that left it 2.5 million years ago. The star might not even exist anymore — you're looking back in time.",
-    "category": "Space",
-    "image": "34.jpg"
-  },
-  {
-    "id": "36",
-    "title": "Saturn Would Float on Water",
-    "fact": "Saturn is so large and has such low density (mostly hydrogen and helium) that if you could find a body of water large enough, the entire planet would float on it like a balloon.",
-    "category": "Space",
-    "image": "36.jpg"
-  },
-  {
-    "id": "38",
-    "title": "Jupiter's Storm Has Lasted 350 Years",
-    "fact": "The Great Red Spot on Jupiter is a storm that has been raging for at least 350 years. It's larger than Earth, with wind speeds exceeding 430 km/h, though it has been slowly shrinking in recent decades.",
-    "category": "Space",
-    "image": "38.jpg"
-  },
-  {
-    "id": "39",
-    "title": "Space Is Completely Silent",
-    "fact": "Space is an almost perfect vacuum — there are no air molecules to carry sound waves. Explosions, spacecraft engines, and even the Big Bang itself would be completely inaudible if you were floating nearby in space.",
-    "category": "Space",
-    "image": "39.jpg"
-  },
-  {
-    "id": "40",
-    "title": "Black Holes Slow Down Time",
-    "fact": "Near a black hole, gravity is so extreme that time itself slows down compared to a distant observer — a phenomenon called gravitational time dilation, predicted by Einstein and confirmed by atomic clocks on satellites.",
-    "category": "Space",
-    "image": "40.jpg"
-  },
-  {
-    "id": "41",
-    "title": "There Are Diamonds Raining on Neptune",
-    "fact": "Scientists believe it rains diamonds on Neptune and Uranus. The extreme pressure converts carbon in their atmospheres into diamond crystals that fall like hailstones toward the planet's core.",
-    "category": "Space",
-    "image": "41.jpg"
-  },
-  {
-    "id": "43",
-    "title": "Pluto Has a Heart",
-    "fact": "Pluto has a massive heart-shaped region called Tombaugh Regio — a 1,600 km wide nitrogen ice plain. Images captured by NASA's New Horizons probe in 2015 revealed this feature with remarkable clarity.",
-    "category": "Space",
-    "image": "43.jpg"
-  },
-  {
-    "id": "44",
-    "title": "Sunlight Is 170,000 Years Old When It Reaches You",
-    "fact": "A photon takes about 170,000 years to travel from the sun's core to its surface — because the interior is so dense it keeps bouncing around. Then it takes only 8 minutes to reach Earth from the surface.",
-    "category": "Space",
-    "image": "44.jpg"
-  },
-  {
-    "id": "45",
-    "title": "There May Be a 9th Planet",
-    "fact": "Astronomers have found evidence for a 9th planet far beyond Neptune — dubbed Planet Nine — based on the clustered orbits of distant trans-Neptunian objects. If it exists, it's 10× Earth's mass and takes 10,000–20,000 years to orbit the sun.",
-    "category": "Space",
-    "image": "45.jpg"
-  },
-  {
-    "id": "46",
-    "title": "Stars Are Born in Nebulae",
-    "fact": "Stars are born inside giant clouds of gas and dust called nebulae. Over millions of years, gravity causes parts of the cloud to collapse and heat up until nuclear fusion ignites — a new star is born.",
-    "category": "Space",
-    "image": "46.jpg"
-  },
-  {
-    "id": "47",
-    "title": "The ISS Travels at 28,000 km/h",
-    "fact": "The International Space Station orbits Earth at 28,000 km/h — so fast it completes a full orbit every 90 minutes, meaning astronauts aboard see 16 sunrises and sunsets every single day.",
-    "category": "Space",
-    "image": "47.jpg"
-  },
-  {
-    "id": "48",
-    "title": "Galaxies Are Mostly Empty Space",
-    "fact": "Despite containing hundreds of billions of stars, galaxies are almost entirely empty space. If our solar system were scaled to the size of a pea, the nearest star would be 300 km away.",
-    "category": "Space",
-    "image": "48.jpg"
-  },
-  {
-    "id": "49",
-    "title": "Time Passes Faster at Higher Altitude",
-    "fact": "Due to gravitational time dilation, clocks at higher altitudes — further from Earth's gravity — run slightly faster. GPS satellites must correct for this effect or navigational errors would accumulate at 10 km/day.",
-    "category": "Space",
-    "image": "49.jpg"
-  },
-  {
-    "id": "50",
-    "title": "The Universe Is Flat",
-    "fact": "Measurements of the cosmic microwave background radiation show the universe is geometrically flat to within 0.4% margin of error. This means parallel lines will never meet — even across billions of light-years.",
-    "category": "Space",
-    "image": "50.jpg"
-  },
-  {
-    "id": "51",
-    "title": "Europa May Have Alien Life",
-    "fact": "Jupiter's moon Europa has a liquid water ocean twice the size of all Earth's oceans combined, kept warm by tidal heating. NASA considers it one of the best candidates for finding extraterrestrial life in our solar system.",
-    "category": "Space",
-    "image": "51.jpg"
-  },
-  {
-    "id": "52",
-    "title": "Stars Come in Rainbow Colors",
-    "fact": "Stars range from deep red (the coolest, ~3,000K) through orange, yellow, white, blue-white, to brilliant blue (the hottest, ~50,000K). The sun appears yellow from Earth but is actually white from space.",
-    "category": "Space",
-    "image": "52.jpg"
-  },
-  {
-    "id": "53",
-    "title": "The Voyager 1 Probe Has Left the Solar System",
-    "fact": "Launched in 1977, Voyager 1 crossed into interstellar space in 2012 and is now the most distant human-made object — over 23 billion km from Earth. It still communicates with NASA at the speed of light, with a 22-hour delay each way.",
-    "category": "Space",
-    "image": "53.jpg"
-  },
-  {
-    "id": "54",
-    "title": "Titan Has Methane Seas",
-    "fact": "Saturn's moon Titan has lakes and seas of liquid methane instead of water, with methane rain and rivers. It has a thicker atmosphere than Earth and is the only other world with stable surface liquids.",
-    "category": "Space",
-    "image": "54.jpg"
-  },
-  {
-    "id": "55",
-    "title": "There Are Rogue Planets Without Stars",
-    "fact": "Rogue planets drift through interstellar space with no host star — ejected from solar systems during formation. Some may have subsurface oceans heated by radioactive decay, potentially supporting life despite being in total darkness.",
-    "category": "Space",
-    "image": "55.jpg"
-  },
-  {
-    "id": "56",
-    "title": "Hot Water Can Freeze Faster Than Cold",
-    "fact": "Under certain conditions, hot water freezes faster than cold — called the Mpemba effect. Discovered by Tanzanian student Erasto Mpemba in 1963, it's still debated why this happens.",
-    "category": "Science",
-    "image": "56.jpg"
-  },
-  {
-    "id": "57",
-    "title": "You Are Mostly Empty Space",
-    "fact": "Atoms are 99.9999999999996% empty space. If you removed all the empty space from every atom in every human on Earth, all 8 billion of us would fit into a sugar cube.",
-    "category": "Science",
-    "image": "57.jpg"
-  },
-  {
-    "id": "59",
-    "title": "Glass Is Actually a Liquid",
-    "fact": "Glass is technically an amorphous solid — its molecules are arranged like a liquid but move so slowly it behaves as a solid. Old window glass is thicker at the bottom because it very slowly flows downward over centuries.",
-    "category": "Science",
-    "image": "59.jpg"
-  },
-  {
-    "id": "60",
-    "title": "Helium Makes Your Voice High",
-    "fact": "Breathing helium raises the pitch of your voice because sound travels faster through helium than air, increasing the resonant frequency of your vocal tract. Sulfur hexafluoride works the opposite way, making your voice extremely deep.",
-    "category": "Science",
-    "image": "60.jpg"
-  },
-  {
-    "id": "61",
-    "title": "Diamonds Are Basically Pencil Lead",
-    "fact": "Diamonds and graphite (pencil lead) are both made entirely of carbon atoms. The only difference is how those atoms are arranged — diamond's tetrahedral structure makes it the hardest natural material.",
-    "category": "Science",
-    "image": "61.jpg"
-  },
-  {
-    "id": "62",
-    "title": "Quantum Particles Can Be in Two Places at Once",
-    "fact": "Quantum superposition allows particles to exist in multiple states simultaneously until observed. This isn't theoretical — it's the physical principle behind lasers, MRI machines, and all modern electronics.",
-    "category": "Science",
-    "image": "62.jpg"
-  },
-  {
-    "id": "63",
-    "title": "Fire Is Not a Solid, Liquid, or Gas",
-    "fact": "Fire (or flame) is a plasma — the fourth state of matter — a rapid oxidation reaction producing heat and light. Unlike solids, liquids, or gases, plasma consists of ionized particles and emits electromagnetic radiation.",
-    "category": "Science",
-    "image": "63.jpg"
-  },
-  {
-    "id": "64",
-    "title": "Sound Can Kill",
-    "fact": "Infrasound below 18 Hz and extremely loud sounds above 155 decibels can cause internal organ damage, paralysis, or death. The threshold of pain is 130 dB — a military acoustic weapon can reach 162 dB.",
-    "category": "Science",
-    "image": "64.jpg"
-  },
-  {
-    "id": "65",
-    "title": "We Don't Fully Understand Gravity",
-    "fact": "Despite predicting it with extraordinary precision, physicists have no explanation for why gravity exists or how it works at the quantum level. It cannot be reconciled with quantum mechanics — one of the greatest unsolved problems in physics.",
-    "category": "Science",
-    "image": "65.jpg"
-  },
-  {
-    "id": "66",
-    "title": "The Human Body Has More Bacteria Than Cells",
-    "fact": "Your body contains about 38 trillion bacteria versus 30 trillion human cells. Most live in your gut and are essential for digestion, immunity, and even mental health — a community called the microbiome.",
-    "category": "Science",
-    "image": "66.jpg"
-  },
-  {
-    "id": "67",
-    "title": "Oxygen Was Once Poisonous",
-    "fact": "When photosynthetic bacteria first produced oxygen 2.4 billion years ago, it was toxic to most life on Earth and caused the 'Great Oxygenation Event' — the largest extinction in history. Life had to evolve to use it.",
-    "category": "Science",
-    "image": "67.jpg"
-  },
-  {
-    "id": "68",
-    "title": "Lightning Strikes 100 Times per Second",
-    "fact": "The Earth is struck by lightning approximately 100 times every second — about 8.6 million strikes per day. Each bolt is hotter than the surface of the sun, reaching around 30,000 Kelvin.",
-    "category": "Science",
-    "image": "68.jpg"
-  },
-  {
-    "id": "69",
-    "title": "The Speed of Light Is a Speed Limit",
-    "fact": "Nothing with mass can reach the speed of light. As an object accelerates toward it, its mass effectively increases infinitely, requiring infinite energy to go further. This is why light speed is the ultimate cosmic speed limit.",
-    "category": "Science",
-    "image": "69.jpg"
-  },
-  {
-    "id": "70",
-    "title": "Water Is Weird",
-    "fact": "Water is one of very few substances that expands when it freezes. This is why ice floats — and why aquatic life survived ice ages. Without this anomaly, ice would sink, freezing lakes and oceans from the bottom up.",
-    "category": "Science",
-    "image": "70.jpg"
-  },
-  {
-    "id": "71",
-    "title": "Every Atom in You Was Once a Star",
-    "fact": "Every heavy element in your body — the carbon, iron, calcium, oxygen — was forged inside massive stars that exploded as supernovae billions of years ago. You are literally made of stardust.",
-    "category": "Science",
-    "image": "71.jpg"
-  },
-  {
-    "id": "72",
-    "title": "Time Flows Differently on Mountains",
-    "fact": "A clock on a mountain summit runs slightly faster than one at sea level due to reduced gravity (gravitational time dilation). This difference is real enough that GPS satellites must compensate for it.",
-    "category": "Science",
-    "image": "72.jpg"
-  },
-  {
-    "id": "73",
-    "title": "Mirrors Don't Show What Others See",
-    "fact": "A mirror shows you a left-right reversed image of yourself. This is why your mirror self looks slightly different from photos — your face is asymmetrical, and photos show how others actually see you.",
-    "category": "Science",
-    "image": "73.jpg"
-  },
-  {
-    "id": "74",
-    "title": "Boiling Water Can Be Room Temperature",
-    "fact": "Water boils at 100°C only at sea-level atmospheric pressure. At high altitude, water boils at lower temperatures. In a perfect vacuum, water boils at room temperature (around 20°C).",
-    "category": "Science",
-    "image": "74.jpg"
-  },
-  {
-    "id": "75",
-    "title": "DNA Is an Incredible Data Drive",
-    "fact": "All of humanity's digital data — every movie, website, and book ever created — could theoretically be stored in less than 9 grams of DNA, which could fit in a spoon. DNA can last 700,000 years under the right conditions.",
-    "category": "Science",
-    "image": "75.jpg"
-  },
-  {
-    "id": "76",
-    "title": "Lasers Were Called 'A Solution in Search of a Problem'",
-    "fact": "When lasers were invented in 1960, scientists had no idea what to use them for. Today they're in surgery, communications, manufacturing, barcode readers, DVDs, telescopes, and weapons — one of the most versatile tools ever created.",
-    "category": "Science",
-    "image": "76.jpg"
-  },
-  {
-    "id": "77",
-    "title": "Humans Glow in the Dark",
-    "fact": "The human body emits a faint bioluminescent glow — visible light produced by chemical reactions in cells. It's about 1,000 times weaker than what the human eye can detect, but sensitive cameras can capture it.",
-    "category": "Science",
-    "image": "77.jpg"
-  },
-  {
-    "id": "78",
-    "title": "Superconductors Levitate",
-    "fact": "When certain materials are cooled below their critical temperature, they become superconductors — expelling all magnetic fields (Meissner effect) and causing magnets to levitate above them indefinitely with zero energy loss.",
-    "category": "Science",
-    "image": "78.jpg"
-  },
-  {
-    "id": "79",
-    "title": "Cleopatra Lived Closer to iPhone Than to Pyramids",
-    "fact": "Cleopatra lived around 30 BC. The iPhone was released in 2007 — about 2,037 years after her death. The Great Pyramid was built around 2560 BC — about 2,530 years before she was born. She was chronologically closer to us.",
-    "category": "History",
-    "image": "79.jpg"
-  },
-  {
-    "id": "80",
-    "title": "Oxford University Is Older Than the Aztec Empire",
-    "fact": "Teaching began at Oxford around 1096–1167 AD. The Aztec Empire was founded in 1428. This means Oxford University had already been educating students for over 200 years before the Aztecs built Tenochtitlan.",
-    "category": "History",
-    "image": "80.jpg"
-  },
-  {
-    "id": "81",
-    "title": "Nintendo Was Founded in 1889",
-    "fact": "Nintendo was originally founded in 1889 in Kyoto, Japan — as a playing card company. They made traditional Japanese hanafuda cards for nearly 80 years before pivoting to toys and eventually video games in the 1970s.",
-    "category": "History",
-    "image": "81.jpg"
-  },
-  {
-    "id": "82",
-    "title": "The Library of Alexandria Was Destroyed Multiple Times",
-    "fact": "Contrary to popular belief, the Library of Alexandria wasn't destroyed in a single fire by Julius Caesar. It declined gradually over centuries through multiple incidents, funding cuts, and neglect — the last recorded use was around 400 AD.",
-    "category": "History",
-    "image": "82.jpg"
-  },
-  {
-    "id": "83",
-    "title": "Napoleon Was Average Height for His Time",
-    "fact": "Napoleon was approximately 5'7\" (170 cm) — average height for a French man of his era. The myth arose from a misunderstanding: English propaganda confused French inches (pouces) with English inches, making him seem 5'2\".",
-    "category": "History",
-    "image": "83.jpg"
-  },
-  {
-    "id": "84",
-    "title": "The Great Wall of China Can't Be Seen From Space",
-    "fact": "The Great Wall of China is NOT visible from space with the naked eye — it's about as wide as a highway. Astronauts have confirmed this repeatedly. The myth was published in a 1932 Ripley's Believe It or Not column.",
-    "category": "History",
-    "image": "84.jpg"
-  },
-  {
-    "id": "85",
-    "title": "Vikings Never Wore Horned Helmets",
-    "fact": "The horned Viking helmet is entirely fictional, popularized by a 19th-century opera costume designer. Real Viking helmets were plain iron or leather. Only two intact Viking helmets have ever been found.",
-    "category": "History",
-    "image": "85.jpg"
-  },
-  {
-    "id": "86",
-    "title": "Einstein Failed Math — Is a Myth",
-    "fact": "Albert Einstein never failed mathematics. He mastered calculus by age 15. The myth arose from a misunderstanding of Swiss school grading — in Swiss schools, 6 is the top grade, not 1, and his '1s' were actually perfect scores.",
-    "category": "History",
-    "image": "86.jpg"
-  },
-  {
-    "id": "87",
-    "title": "Ancient Romans Used Urine as Mouthwash",
-    "fact": "Ancient Romans rinsed their mouths with imported Portuguese urine as toothpaste and mouthwash. The ammonia in urine actually works as a whitening agent. The practice was common enough that the emperor taxed urine sales.",
-    "category": "History",
-    "image": "87.jpg"
-  },
-  {
-    "id": "88",
-    "title": "WWII Ended 56 Years Late for One Soldier",
-    "fact": "Japanese soldier Hiroo Onoda continued fighting in the Philippine jungle until 1974 — 29 years after WWII ended in 1945 — because he never received official orders to surrender and believed it was enemy propaganda.",
-    "category": "History",
-    "image": "88.jpg"
-  },
-  {
-    "id": "89",
-    "title": "The Berlin Wall Fell Without an Order",
-    "fact": "The fall of the Berlin Wall on November 9, 1989 was an accident. A confused East German spokesman announced border crossings would open 'immediately' — he meant the next day, after procedures were in place. Crowds gathered and guards let them through.",
-    "category": "History",
-    "image": "89.jpg"
-  },
-  {
-    "id": "90",
-    "title": "Morse Code Was Never Standardized by Morse",
-    "fact": "Samuel Morse never created a complete Morse code — his assistant Alfred Vail invented most of it. And what we use internationally today (International Morse Code) was entirely redesigned by Friedrich Gerke in 1848.",
-    "category": "History",
-    "image": "90.jpg"
-  },
-  {
-    "id": "91",
-    "title": "The Egyptian Pyramids Were Built by Paid Workers",
-    "fact": "Egyptian pyramids were not built by slaves but by skilled, paid workers who received wages, healthcare, and were buried near the pyramids as an honor. Archaeological evidence of their village was found in the 1990s.",
-    "category": "History",
-    "image": "91.jpg"
-  },
-  {
-    "id": "92",
-    "title": "There Were Female Pharaohs in Egypt",
-    "fact": "Ancient Egypt had multiple female pharaohs, including Hatshepsut — who ruled for over 20 years and built one of the largest temples in Egypt. Her successor Thutmose III tried to erase her from history by defacing her monuments.",
-    "category": "History",
-    "image": "92.jpg"
-  },
-  {
-    "id": "93",
-    "title": "Nikola Tesla Was Erased From History",
-    "fact": "Thomas Edison waged a smear campaign against Nikola Tesla in the 'War of Currents'. After Tesla's death, the US government seized all his papers — and his contribution was largely omitted from history books for decades.",
-    "category": "History",
-    "image": "93.jpg"
-  },
-  {
-    "id": "94",
-    "title": "Roman Concrete Has Lasted 2,000 Years",
-    "fact": "Modern concrete crumbles within decades, but Roman concrete is still standing after 2,000 years. Scientists discovered they used volcanic ash and seawater in a reaction that actually makes it stronger over time.",
-    "category": "History",
-    "image": "94.jpg"
-  },
-  {
-    "id": "95",
-    "title": "The Eiffel Tower Was Supposed to Be Demolished",
-    "fact": "The Eiffel Tower was built in 1889 as a temporary structure for the World's Fair and was scheduled for demolition in 1909. It was saved because its tall antenna proved invaluable as a radio transmission tower.",
-    "category": "History",
-    "image": "95.jpg"
-  },
-  {
-    "id": "96",
-    "title": "Coca-Cola Was Originally Green",
-    "fact": "The original Coca-Cola formula, created in 1886, had a different color due to different processing. The signature caramel color we know today was developed as the formula was refined. The iconic bottle is green for unrelated branding reasons.",
-    "category": "History",
-    "image": "96.jpg"
-  },
-  {
-    "id": "98",
-    "title": "Magellan Didn't Finish the First Circumnavigation",
-    "fact": "Ferdinand Magellan is credited with the first circumnavigation of the globe, but he was killed in the Philippines in 1521 and never completed it. His ship and 18 remaining crew members finished the voyage without him.",
-    "category": "History",
-    "image": "98.jpg"
-  },
-  {
-    "id": "99",
-    "title": "Stonehenge Was Built in Stages Over Millennia",
-    "fact": "Stonehenge wasn't built all at once — construction took place in multiple phases from around 3000 BC to 1500 BC, spanning 1,500 years. The earliest part was a circular earthwork built 500 years before the famous stone circle.",
-    "category": "History",
-    "image": "99.jpg"
-  },
-  {
-    "id": "101c",
-    "title": "The Colosseum Once Had a Retractable Roof",
-    "fact": "The Roman Colosseum had an awning system called the velarium — operated by 1,000 Roman sailors — that could be extended to provide shade for the 50,000–80,000 spectators in under an hour.",
-    "category": "History",
-    "image": "101c.jpg"
-  },
-  {
-    "id": "102c",
-    "title": "Genghis Khan Killed 40 Million People",
-    "fact": "The Mongol conquests led by Genghis Khan killed an estimated 40 million people — about 10% of the world's population at the time. Some regions of Central Asia still haven't recovered the population levels they had before the conquest.",
-    "category": "History",
-    "image": "102c.jpg"
-  },
-  {
-    "id": "103c",
-    "title": "The Titanic's Lookout Had No Binoculars",
-    "fact": "The Titanic's crow's nest binoculars were accidentally left behind in Southampton. The lookouts had to spot the iceberg with the naked eye. Had they had binoculars, they might have seen it in time to avoid the collision.",
-    "category": "History",
-    "image": "103c.jpg"
-  },
-  {
-    "id": "105c",
-    "title": "You Shed Your Skin Every Month",
-    "fact": "Humans shed their entire outer layer of skin every 2–4 weeks — about 30,000–40,000 dead skin cells per hour. The dust in your home is largely composed of shed human skin cells.",
+    "id": "1034",
+    "title": "Your Brain Has a Storage Capacity of 2.5 Petabytes",
+    "fact": "Your brain's memory storage capacity is estimated at about 2.5 petabytes (2.5 million gigabytes), equivalent to 3 million hours of TV shows.",
     "category": "Human Body",
-    "image": "105c.jpg"
+    "image": "1034.jpg"
   },
   {
-    "id": "106",
-    "title": "Your Eyes Can Distinguish 10 Million Colors",
-    "fact": "The human eye can distinguish up to 10 million different colors, and women statistically identify more shades than men. However, color perception is largely constructed by the brain — not purely measured by the eye.",
-    "category": "Human Body",
-    "image": "106.jpg"
-  },
-  {
-    "id": "107",
-    "title": "Bones Are Stronger Than Steel by Weight",
-    "fact": "Bone is stronger than reinforced concrete and comparable to steel in tensile strength — but at a fraction of the weight. The femur can support 30× your body weight. Its hollow structure and collagen matrix make it remarkably resilient.",
-    "category": "Human Body",
-    "image": "107.jpg"
-  },
-  {
-    "id": "108",
-    "title": "Your Heart Beats 100,000 Times a Day",
-    "fact": "The human heart beats approximately 100,000 times per day, pumping 7,570 liters of blood — enough to fill about 50 bathtubs. Over a 70-year lifetime, it beats 2.5 billion times without stopping for a rest.",
-    "category": "Human Body",
-    "image": "108.jpg"
-  },
-  {
-    "id": "109",
-    "title": "You Are Taller in the Morning",
-    "fact": "You are approximately 1 cm taller when you wake up than when you go to bed. During the day, the cartilage discs in your spine compress under the weight of your body, shrinking you slightly.",
-    "category": "Human Body",
-    "image": "109.jpg"
-  },
-  {
-    "id": "110",
-    "title": "Your Gut Has Its Own Nervous System",
-    "fact": "The enteric nervous system in your gut contains 500 million neurons — more than your spinal cord. It can function completely independently from your brain, which is why it's called 'the second brain'.",
-    "category": "Human Body",
-    "image": "110.jpg"
-  },
-  {
-    "id": "111",
-    "title": "Stomach Acid Can Dissolve Metal",
-    "fact": "Hydrochloric acid in the human stomach has a pH of 1.5–2.0 — strong enough to dissolve metal and irritate the skin. Your stomach lining replaces itself completely every 3–4 days to avoid self-digestion.",
-    "category": "Human Body",
-    "image": "111.jpg"
-  },
-  {
-    "id": "112",
-    "title": "Your Nose Remembers 50,000 Scents",
-    "fact": "The human nose can distinguish up to 50,000 different smells. Scent is the only sense that connects directly to the limbic system (memory and emotion) — which is why smells so powerfully trigger memories.",
-    "category": "Human Body",
-    "image": "112.jpg"
-  },
-  {
-    "id": "113",
-    "title": "You're Born With 270 Bones",
-    "fact": "Babies are born with approximately 270 bones, but adults have only 206. As you grow, many bones fuse together. The last bones to fuse are usually the collarbones, around age 25.",
-    "category": "Human Body",
-    "image": "113.jpg"
-  },
-  {
-    "id": "114",
-    "title": "Your Blood Vessels Could Circle Earth 2.5 Times",
-    "fact": "If you stretched out all the blood vessels in an adult human body end-to-end, they would extend approximately 100,000 km — enough to circle the Earth roughly 2.5 times.",
-    "category": "Human Body",
-    "image": "114.jpg"
-  },
-  {
-    "id": "115",
-    "title": "The Brain Has No Pain Receptors",
-    "fact": "The brain itself cannot feel pain — it has no nociceptors. Brain surgery can be performed on conscious patients because only the scalp and skull are sensitive. Headaches are caused by surrounding tissues, not the brain tissue.",
-    "category": "Human Body",
-    "image": "115.jpg"
-  },
-  {
-    "id": "116",
-    "title": "Hair Is Basically Dead",
-    "fact": "Hair is composed of dead keratin cells pushed upward from hair follicles. Only the follicle itself is alive — the hair shaft you see and style is entirely dead material. This is why cutting hair doesn't hurt.",
-    "category": "Human Body",
-    "image": "116.jpg"
-  },
-  {
-    "id": "117",
-    "title": "Humans Are the Only Animals to Have Chins",
-    "fact": "The chin is a uniquely human anatomical feature — no other primate has one. Scientists believe it evolved not for structural support (it isn't needed for chewing) but possibly as a byproduct of reduced jaw size during evolution.",
-    "category": "Human Body",
-    "image": "117.jpg"
-  },
-  {
-    "id": "118",
-    "title": "Your Appendix Is Not Useless",
-    "fact": "The appendix was considered vestigial for decades, but research shows it acts as a 'safe house' for good gut bacteria after illness. It repopulates the gut with healthy microbiomes after diarrheal disease wipes them out.",
-    "category": "Human Body",
-    "image": "118.jpg"
-  },
-  {
-    "id": "120",
-    "title": "You Have a Blind Spot in Each Eye",
-    "fact": "Each eye has a blind spot where the optic nerve connects — roughly the size of a coin at arm's length. Your brain fills in this gap using context from the surrounding image, which is why you never notice it.",
-    "category": "Human Body",
-    "image": "120.jpg"
-  },
-  {
-    "id": "121",
-    "title": "Goosebumps Are an Evolutionary Leftover",
-    "fact": "Goosebumps (piloerection) is the reflex that causes body hair to stand up — in hairy mammals, it creates an insulating layer or makes them appear bigger to threats. In humans, who have little body hair, it serves no useful purpose.",
-    "category": "Human Body",
-    "image": "121.jpg"
-  },
-  {
-    "id": "122",
-    "title": "Sneezes Exit at Over 160 km/h",
-    "fact": "A human sneeze expels air at speeds between 160–200 km/h and can project over 100,000 infectious droplets up to 8 meters. A cough expels about 3,000 droplets at 80 km/h.",
-    "category": "Human Body",
-    "image": "122.jpg"
-  },
-  {
-    "id": "123",
-    "title": "The Liver Can Regenerate Itself",
-    "fact": "The liver is the only internal organ capable of complete regeneration. If 75% is surgically removed, it can regrow to full size within months. Ancient Greeks knew about this — the myth of Prometheus being eaten daily by an eagle reflects real liver regeneration.",
-    "category": "Human Body",
-    "image": "123.jpg"
-  },
-  {
-    "id": "125",
-    "title": "Australia Is Wider Than the Moon",
-    "fact": "Australia's diameter from east to west is approximately 4,000 km. The Moon's diameter is only 3,474 km. Australia is literally wider than the Moon.",
+    "id": "1035",
+    "title": "Mount Kilimanjaro Has Three Volcanic Cones",
+    "fact": "Mount Kilimanjaro has three volcanic cones: Kibo, Mawenzi, and Shira. Kibo is the highest and could erupt again despite being dormant.",
     "category": "Geography",
-    "image": "125.jpg"
+    "image": "1035.jpg"
   },
   {
-    "id": "127",
-    "title": "There Are More Trees Than Stars in the Milky Way",
-    "fact": "Earth has approximately 3 trillion trees — 46× more than previously estimated. The Milky Way has an estimated 100–400 billion stars. Earth's forests have 7.5× more trees than the Milky Way has stars.",
-    "category": "Geography",
-    "image": "127.jpg"
+    "id": "1036",
+    "title": "A Group of Cheetahs Is Called a Coalition",
+    "fact": "A group of cheetahs is called a coalition. Male cheetahs often form coalitions to protect their territory and hunting grounds.",
+    "category": "Animals",
+    "image": "1036.jpg"
   },
   {
-    "id": "128",
-    "title": "Africa Is Much Larger Than Maps Show",
-    "fact": "Standard Mercator map projections dramatically distort size. Africa is actually 14× bigger than Greenland, can fit the US, China, India, and most of Europe inside it, and covers 20% of Earth's land area.",
-    "category": "Geography",
-    "image": "128.jpg"
+    "id": "1037",
+    "title": "The First 1 GB Hard Drive Cost $40,000",
+    "fact": "IBM introduced the first gigabyte-capacity hard drive in 1980. It weighed about 550 pounds and cost $40,000. Today, 1 TB drives cost under $50.",
+    "category": "Technology",
+    "image": "1037.jpg"
   },
   {
-    "id": "129",
-    "title": "There Are 195 Countries But 6,500 Languages",
-    "fact": "Earth has 195 countries but an estimated 6,500–7,000 living languages. Papua New Guinea alone has over 800 languages among its 8 million people — the highest linguistic density of any country on Earth.",
-    "category": "Geography",
-    "image": "129.jpg"
+    "id": "1038",
+    "title": "Forests Store 45% of All Terrestrial Carbon",
+    "fact": "Forests store approximately 45% of all carbon stored on land, making them crucial for regulating Earth's climate.",
+    "category": "Nature",
+    "image": "1038.jpg"
   },
   {
-    "id": "130",
-    "title": "The Dead Sea Is Getting Deader",
-    "fact": "The Dead Sea is shrinking at about 1 meter per year due to water diversion from the Jordan River. It's already 40% smaller than in the 1930s. A canal project called the 'Red-Dead Canal' has been proposed but remains controversial.",
-    "category": "Geography",
-    "image": "130.jpg"
+    "id": "1039",
+    "title": "The Napoleonic Wars Lasted 12 Years",
+    "fact": "The Napoleonic Wars (1803-1815) lasted about 12 years and involved most of Europe. Napoleon commanded forces across multiple continents.",
+    "category": "History",
+    "image": "1039.jpg"
   },
   {
-    "id": "131",
-    "title": "Greenland Is Not Green",
-    "fact": "Greenland is 80% covered by an ice sheet, while Iceland is covered in farmland and vegetation. Viking explorer Erik the Red gave Greenland its attractive name to lure settlers — and Iceland its unappealing one to keep it for himself.",
-    "category": "Geography",
-    "image": "131.jpg"
+    "id": "1040",
+    "title": "A Group of Eagles Is Called a Convocation",
+    "fact": "A group of eagles is called a convocation. Bald eagles mate for life and return to the same nest year after year.",
+    "category": "Animals",
+    "image": "1040.jpg"
   },
   {
-    "id": "132",
-    "title": "The Pacific Ocean Is Bigger Than All Land",
-    "fact": "The Pacific Ocean covers about 165 million square kilometers — larger than the total land area of all seven continents combined. You could fit all of Earth's continents inside it with room to spare.",
+    "id": "1041",
+    "title": "The Milky Way Will Collide with Andromeda",
+    "fact": "The Milky Way and Andromeda galaxies are approaching each other at 250,000 mph and will merge in about 4.5 billion years.",
+    "category": "Space",
+    "image": "1041.jpg"
+  },
+  {
+    "id": "1042",
+    "title": "Your Stomach Has a pH of 1-3",
+    "fact": "Your stomach acid has a pH between 1 and 3, making it strong enough to dissolve metal. It protects against pathogens in food.",
+    "category": "Human Body",
+    "image": "1042.jpg"
+  },
+  {
+    "id": "1043",
+    "title": "The Driest Place Is in Antarctica",
+    "fact": "The McMurdo Dry Valleys in Antarctica are the driest places on Earth, with virtually no ice or snow and extremely low humidity.",
     "category": "Geography",
-    "image": "132.jpg"
+    "image": "1043.jpg"
+  },
+  {
+    "id": "1044",
+    "title": "A Group of Jellyfish Is Called a Smack",
+    "fact": "A group of jellyfish is called a smack. Jellyfish have been floating in Earth's oceans for over 500 million years.",
+    "category": "Animals",
+    "image": "1044.jpg"
+  },
+  {
+    "id": "1045",
+    "title": "Cloud Computing Was Coined in 1996",
+    "fact": "The term 'cloud computing' was coined in 1996 by Compaq executives. The first widely available cloud services appeared around 2006.",
+    "category": "Technology",
+    "image": "1045.jpg"
+  },
+  {
+    "id": "1047",
+    "title": "The Suez Canal Took 10 Years to Build",
+    "fact": "The Suez Canal took 10 years to build (1859-1869) and is 120 miles long. It connects the Mediterranean Sea to the Red Sea.",
+    "category": "History",
+    "image": "1047.jpg"
+  },
+  {
+    "id": "1048",
+    "title": "A Group of Kangaroos Is Called a Mob",
+    "fact": "A group of kangaroos is called a mob. They use their strong tails for balance when hopping and as a fifth leg when standing.",
+    "category": "Animals",
+    "image": "1048.jpg"
+  },
+  {
+    "id": "1049",
+    "title": "The Universe Contains 2 Trillion Galaxies",
+    "fact": "The observable universe contains about 2 trillion galaxies, each containing hundreds of billions of stars. Most galaxies are dwarf galaxies.",
+    "category": "Space",
+    "image": "1049.jpg"
+  },
+  {
+    "id": "1050",
+    "title": "Your Body Has 12 Systems Working Together",
+    "fact": "The human body has 12 major organ systems: skeletal, muscular, nervous, endocrine, cardiovascular, respiratory, digestive, urinary, immune, and others.",
+    "category": "Human Body",
+    "image": "1050.jpg"
+  },
+  {
+    "id": "1051",
+    "title": "The Amazon Contains 16% of World's Freshwater",
+    "fact": "The Amazon basin contains about 16% of the world's freshwater. The river alone holds more water than the next 10 largest rivers combined.",
+    "category": "Geography",
+    "image": "1051.jpg"
+  },
+  {
+    "id": "1052",
+    "title": "A Group of Badgers Is Called a Cete",
+    "fact": "A group of badgers is called a cete. Honey badgers are considered the most fearless animals in the world.",
+    "category": "Animals",
+    "image": "1052.jpg"
+  },
+  {
+    "id": "1053",
+    "title": "The First 1 TB Solid-State Drive Costs $1,500",
+    "fact": "Consumer 1 TB solid-state drives now cost under $100, but early models in 2007 cost around $1,500 for just 32 GB.",
+    "category": "Technology",
+    "image": "1053.jpg"
+  },
+  {
+    "id": "1054",
+    "title": "Forests Cover 4 Billion Hectares",
+    "fact": "Forests cover approximately 4 billion hectares (9.9 billion acres) of Earth's land surface, though this is decreasing due to deforestation.",
+    "category": "Nature",
+    "image": "1054.jpg"
+  },
+  {
+    "id": "1055",
+    "title": "The Panama Canal Took 10 Years to Build",
+    "fact": "The Panama Canal took about 10 years to build (1904-1914), though French attempts began in 1881. It is 50 miles long.",
+    "category": "History",
+    "image": "1055.jpg"
+  },
+  {
+    "id": "1056",
+    "title": "A Group of Wildebeest Is Called a Cracker",
+    "fact": "A group of wildebeest is called a cracker. Each year, about 1.5 million wildebeest migrate across the Serengeti in one of Earth's greatest wildlife spectacles.",
+    "category": "Animals",
+    "image": "1056.jpg"
+  },
+  {
+    "id": "1057",
+    "title": "Black Holes Can Sing in B-Flat",
+    "fact": "In 2003, astronomers detected sound waves from a black hole in the Perseus cluster. The note is B-flat, 57 octaves below middle C.",
+    "category": "Space",
+    "image": "1057.jpg"
+  },
+  {
+    "id": "1058",
+    "title": "Your Brain Is 60% Fat",
+    "fact": "Your brain is about 60% fat, making it one of the fattiest organs in the body. This fat is essential for brain cell structure and function.",
+    "category": "Human Body",
+    "image": "1058.jpg"
+  },
+  {
+    "id": "1059",
+    "title": "The Great Barrier Reef Has 3,000 Individual Reefs",
+    "fact": "The Great Barrier Reef consists of about 3,000 individual reef systems and 900 islands, stretching over 1,400 miles along Australia's coast.",
+    "category": "Geography",
+    "image": "1059.jpg"
+  },
+  {
+    "id": "1060",
+    "title": "A Group of Otters Is Called a Romp",
+    "fact": "A group of otters is called a romp. Sea otters often hold hands while sleeping to avoid drifting apart in the water.",
+    "category": "Animals",
+    "image": "1060.jpg"
+  },
+  {
+    "id": "1061",
+    "title": "The First Computer Mouse Was Invented in 1964",
+    "fact": "Douglas Engelbart invented the computer mouse in 1964 at Stanford Research Institute. It was made of wood with two wheels.",
+    "category": "Technology",
+    "image": "1061.jpg"
+  },
+  {
+    "id": "1062",
+    "title": "Forests Provide 75% of Urban Freshwater",
+    "fact": "Forested watersheds provide approximately 75% of the world's accessible fresh water for domestic, agricultural, and industrial use.",
+    "category": "Nature",
+    "image": "1062.jpg"
+  },
+  {
+    "id": "1063",
+    "title": "The Titanic Had 20 Lifeboats but Needed 48",
+    "fact": "The Titanic carried only 20 lifeboats, enough for about half the passengers. Maritime regulations at the time didn't require more.",
+    "category": "History",
+    "image": "1063.jpg"
+  },
+  {
+    "id": "1064",
+    "title": "A Group of Skunks Is Called a Stench",
+    "fact": "A group of skunks is called a stench. Their spray can be detected by humans from up to 1.5 miles away.",
+    "category": "Animals",
+    "image": "1064.jpg"
+  },
+  {
+    "id": "1065",
+    "title": "The Moon Is Slowly Moving Away",
+    "fact": "The Moon moves about 3.8 cm away from Earth each year. In 600 million years, total solar eclipses will no longer be possible.",
+    "category": "Space",
+    "image": "1065.jpg"
+  },
+  {
+    "id": "1066",
+    "title": "Your Brain Weighs About 3 Pounds",
+    "fact": "An adult brain weighs about 3 pounds (1.4 kg). It contains 86 billion neurons, each connected to thousands of others.",
+    "category": "Human Body",
+    "image": "1066.jpg"
+  },
+  {
+    "id": "1067",
+    "title": "The Amazon Has 2.5 Million Insect Species",
+    "fact": "Scientists estimate the Amazon rainforest contains about 2.5 million insect species, though many remain undiscovered and unnamed.",
+    "category": "Geography",
+    "image": "1067.jpg"
+  },
+  {
+    "id": "1068",
+    "title": "A Group of Crocodiles Is Called a Bask",
+    "fact": "A group of crocodiles is called a bask. Crocodiles have the strongest bite force of any animal, up to 3,700 PSI.",
+    "category": "Animals",
+    "image": "1068.jpg"
+  },
+  {
+    "id": "1069",
+    "title": "The First Digital Camera Had 0.1 Megapixels",
+    "fact": "The first commercial digital camera in 1990 had only 0.14 megapixels and cost $10,000. Modern smartphones have cameras with 100+ megapixels.",
+    "category": "Technology",
+    "image": "1069.jpg"
+  },
+  {
+    "id": "1070",
+    "title": "Forests Can Filter 85% of Particulate Matter",
+    "fact": "Trees and forests can filter up to 85% of particulate matter from the air, significantly improving air quality in urban areas.",
+    "category": "Nature",
+    "image": "1070.jpg"
+  },
+  {
+    "id": "1071",
+    "title": "The Berlin Wall Was 96 Miles Long",
+    "fact": "The Berlin Wall was about 96 miles long and included over 300 watchtowers. Its construction cut West Berlin off from the surrounding East Germany.",
+    "category": "History",
+    "image": "1071.jpg"
+  },
+  {
+    "id": "1072",
+    "title": "A Group of Lizards Is Called a Lounge",
+    "fact": "A group of lizards is called a lounge. Some lizards can detach their tails to escape predators and then regrow them.",
+    "category": "Animals",
+    "image": "1072.jpg"
+  },
+  {
+    "id": "1073",
+    "title": "Saturn Would Float in Water",
+    "fact": "Saturn is the least dense planet; if you could find a bathtub big enough, it would float. Its density is less than that of water.",
+    "category": "Space",
+    "image": "1073.jpg"
+  },
+  {
+    "id": "1074",
+    "title": "Your Body Has 206 Bones",
+    "fact": "Adults have 206 bones, but babies are born with about 300 that fuse together as they grow. The smallest bone is in the ear.",
+    "category": "Human Body",
+    "image": "1074.jpg"
+  },
+  {
+    "id": "1075",
+    "title": "The Amazon Rainforest Has 15,000 Tree Species",
+    "fact": "Scientists have cataloged at least 15,000 tree species in the Amazon, with many more likely undiscovered in this biodiversity hotspot.",
+    "category": "Geography",
+    "image": "1075.jpg"
+  },
+  {
+    "id": "1076",
+    "title": "A Group of Hippos Is Called a Pod",
+    "fact": "A group of hippos is called a pod. Despite their cute appearance, hippos are among Africa's most dangerous animals.",
+    "category": "Animals",
+    "image": "1076.jpg"
+  },
+  {
+    "id": "1077",
+    "title": "The First Computer Program Was Written in 1843",
+    "fact": "Ada Lovelace wrote the first computer program in 1843 for Charles Babbage's Analytical Engine. It calculated Bernoulli numbers.",
+    "category": "Technology",
+    "image": "1077.jpg"
+  },
+  {
+    "id": "1078",
+    "title": "Forests Reduce Urban Noise by 50%",
+    "fact": "Trees and vegetation can reduce urban noise pollution by up to 50% by absorbing and scattering sound waves.",
+    "category": "Nature",
+    "image": "1078.jpg"
+  },
+  {
+    "id": "1079",
+    "title": "The First Moon Landing Cost $25.4 Billion",
+    "fact": "The Apollo program cost about $25.4 billion (about $180 billion today), representing about 4% of US GDP at its peak.",
+    "category": "History",
+    "image": "1079.jpg"
+  },
+  {
+    "id": "1080",
+    "title": "A Group of Parrots Is Called a Pandemonium",
+    "fact": "A group of parrots is called a pandemonium. Parrots are among the most intelligent birds and can learn to mimic human speech.",
+    "category": "Animals",
+    "image": "1080.jpg"
+  },
+  {
+    "id": "1081",
+    "title": "The Sun's Light Takes 8 Minutes to Reach Earth",
+    "fact": "Light from the Sun takes about 8 minutes and 20 seconds to reach Earth, traveling at 186,000 miles per second.",
+    "category": "Space",
+    "image": "1081.jpg"
+  },
+  {
+    "id": "1082",
+    "title": "Your Brain Uses 20% of Your Calories",
+    "fact": "Despite being only 2% of body weight, your brain uses about 20% of your caloric intake, making it extremely energy-intensive.",
+    "category": "Human Body",
+    "image": "1082.jpg"
+  },
+  {
+    "id": "1083",
+    "title": "The Atacama Desert Has the Clearest Skies",
+    "fact": "The Atacama Desert in Chile has the clearest skies on Earth, making it ideal for astronomical observatories.",
+    "category": "Geography",
+    "image": "1083.jpg"
+  },
+  {
+    "id": "1084",
+    "title": "A Group of Seals Is Called a Rookery",
+    "fact": "A group of seals is called a rookery. Seals can hold their breath for up to 2 hours while diving for food.",
+    "category": "Animals",
+    "image": "1084.jpg"
+  },
+  {
+    "id": "1085",
+    "title": "The First WiFi Network Operated in 1997",
+    "fact": "The first WiFi standard (802.11) was released in 1997, enabling wireless data transfer at 2 Mbps. Modern WiFi can reach 10+ Gbps.",
+    "category": "Technology",
+    "image": "1085.jpg"
+  },
+  {
+    "id": "1086",
+    "title": "Forests Produce 50% of Earth's Oxygen",
+    "fact": "Forests and phytoplankton together produce about 50% of Earth's oxygen through photosynthesis.",
+    "category": "Nature",
+    "image": "1086.jpg"
+  },
+  {
+    "id": "1087",
+    "title": "The Suez Canal Opened in 1869",
+    "fact": "The Suez Canal opened on November 17, 1869, after 10 years of construction. It revolutionized global trade by connecting Europe and Asia.",
+    "category": "History",
+    "image": "1087.jpg"
+  },
+  {
+    "id": "1088",
+    "title": "A Group of Leopards Is Called a Leap",
+    "fact": "A group of leopards is called a leap. Leopards are the most widespread of all big cats, found across Africa and Asia.",
+    "category": "Animals",
+    "image": "1088.jpg"
+  },
+  {
+    "id": "1089",
+    "title": "The Sun's Diameter Is 109 Times Earth's",
+    "fact": "The Sun's diameter is about 109 times that of Earth. About 1.3 million Earths could fit inside the Sun.",
+    "category": "Space",
+    "image": "1089.jpg"
+  },
+  {
+    "id": "1090",
+    "title": "Your Heart Beats 100,000 Times Per Day",
+    "fact": "Your heart beats about 100,000 times per day, pumping about 2,000 gallons of blood. This adds up to about 3 billion beats in a lifetime.",
+    "category": "Human Body",
+    "image": "1090.jpg"
+  },
+  {
+    "id": "1091",
+    "title": "The Amazon Rainforest Gets 9 Feet of Rain Annually",
+    "fact": "The Amazon rainforest receives about 9 feet (2.7 meters) of rainfall per year, making it one of the wettest places on Earth.",
+    "category": "Geography",
+    "image": "1091.jpg"
+  },
+  {
+    "id": "1092",
+    "title": "A Group of Baboons Is Called a Troop",
+    "fact": "A group of baboons is called a troop. Baboons live in complex social hierarchies with clear dominance structures.",
+    "category": "Animals",
+    "image": "1092.jpg"
+  },
+  {
+    "id": "1093",
+    "title": "The First Bitcoin Transaction Was in 2009",
+    "fact": "The first Bitcoin transaction occurred on January 12, 2009, when Satoshi Nakamoto sent 10 BTC to Hal Finney.",
+    "category": "Technology",
+    "image": "1093.jpg"
+  },
+  {
+    "id": "1094",
+    "title": "Trees Can Absorb 48 Pounds of CO2 Per Year",
+    "fact": "A single mature tree can absorb about 48 pounds of carbon dioxide per year and release enough oxygen for two people to breathe.",
+    "category": "Nature",
+    "image": "1094.jpg"
+  },
+  {
+    "id": "1095",
+    "title": "The Panama Canal Opened in 1914",
+    "fact": "The Panama Canal opened on August 15, 1914, after a decade of construction. It handles over 12,000 ships annually.",
+    "category": "History",
+    "image": "1095.jpg"
+  },
+  {
+    "id": "1096",
+    "title": "A Group of Foxes Is Called a Skulk",
+    "fact": "A group of foxes is called a skulk. Red foxes can hear a mouse squeak from 100 feet away.",
+    "category": "Animals",
+    "image": "1096.jpg"
+  },
+  {
+    "id": "1097",
+    "title": "The Moon Has 181 Giant Craters",
+    "fact": "The Moon has at least 181 giant craters over 12 miles wide. The largest is the South Pole-Aitken basin, 1,600 miles across.",
+    "category": "Space",
+    "image": "1097.jpg"
+  },
+  {
+    "id": "1098",
+    "title": "Your Lungs Have 300 Million Alveoli",
+    "fact": "Your lungs contain about 300 million tiny air sacs called alveoli. If spread flat, they'd cover about 70 square meters.",
+    "category": "Human Body",
+    "image": "1098.jpg"
+  },
+  {
+    "id": "1099",
+    "title": "Lake Superior Has 78.6 Trillion Gallons of Water",
+    "fact": "Lake Superior contains about 78.6 trillion gallons of water, enough to cover North and South America in 1 foot of water.",
+    "category": "Geography",
+    "image": "1099.jpg"
+  },
+  {
+    "id": "1100",
+    "title": "A Group of Iguanas Is Called a Massacre",
+    "fact": "A group of iguanas is called a massacre. Marine iguanas from the Galapagos are the only seagoing lizards.",
+    "category": "Animals",
+    "image": "1100.jpg"
+  },
+  {
+    "id": "1101",
+    "title": "JavaScript Runs on 97% of Websites",
+    "fact": "JavaScript is used on approximately 97% of all websites as the primary client-side scripting language, making it the most widely used programming language for web development.",
+    "category": "Technology",
+    "image": "1101.jpg"
+  },
+  {
+    "id": "1102",
+    "title": "Forests Support 80% of Land Biodiversity",
+    "fact": "Forests are home to about 80% of terrestrial animal and plant species, making them crucial for global biodiversity conservation.",
+    "category": "Nature",
+    "image": "1102.jpg"
+  },
+  {
+    "id": "1103",
+    "title": "The Suez Canal Was Built by 1.5 Million Workers",
+    "fact": "The construction of the Suez Canal involved approximately 1.5 million workers from various countries, including Egypt, France, and Britain.",
+    "category": "History",
+    "image": "1103.jpg"
+  },
+  {
+    "id": "1104",
+    "title": "A Group of Finches Is Called a Charm",
+    "fact": "A group of finches is called a charm. Darwin's finches from the Galapagos Islands helped shape his theory of evolution.",
+    "category": "Animals",
+    "image": "1104.jpg"
+  },
+  {
+    "id": "1105",
+    "title": "The Moon's Gravity Creates Earth's Tides",
+    "fact": "The Moon's gravitational pull creates Earth's ocean tides. The Sun also contributes to tides, but the Moon has twice the effect.",
+    "category": "Space",
+    "image": "1105.jpg"
+  },
+  {
+    "id": "1106",
+    "title": "Your Stomach Acid Can Dissolve Some Metals",
+    "fact": "Gastric acid (stomach acid) has a pH of 1-2, strong enough to dissolve some metals. It kills bacteria in food and aids digestion.",
+    "category": "Human Body",
+    "image": "1106.jpg"
+  },
+  {
+    "id": "1107",
+    "title": "The Amazon River Is Wider Than the Next 10 Rivers Combined",
+    "fact": "The Amazon River's width varies from 1 to 30 miles, making it wider than the next 10 largest rivers combined at their mouths.",
+    "category": "Geography",
+    "image": "1107.jpg"
+  },
+  {
+    "id": "1108",
+    "title": "A Group of Moles Is Called a Labor",
+    "fact": "A group of moles is called a labor. Moles can dig up to 18 feet per hour through soil searching for insects.",
+    "category": "Animals",
+    "image": "1108.jpg"
+  },
+  {
+    "id": "1109",
+    "title": "The Term 'Bug' Was First Used in 1947",
+    "fact": "The term 'computer bug' was first used in 1947 when Grace Hopper found a moth stuck in the Harvard Mark II computer.",
+    "category": "Technology",
+    "image": "1109.jpg"
+  },
+  {
+    "id": "1110",
+    "title": "Forests Reduce Hospital Visits",
+    "fact": "Studies show that living near forests and green spaces reduces the number of hospital visits and improves recovery rates.",
+    "category": "Nature",
+    "image": "1110.jpg"
+  },
+  {
+    "id": "1111",
+    "title": "The First Written Language Was Sumerian Cuneiform",
+    "fact": "Sumerian cuneiform, developed around 3400 BCE in Mesopotamia, is considered the first written language in human history.",
+    "category": "History",
+    "image": "1111.jpg"
+  },
+  {
+    "id": "1112",
+    "title": "A Group of Shrimp Is Called an Army",
+    "fact": "A group of shrimp is called an army. Mantis shrimp have the most complex eyes in the animal kingdom, with 16 color receptors.",
+    "category": "Animals",
+    "image": "1112.jpg"
+  },
+  {
+    "id": "1113",
+    "title": "There Are More Trees on Earth Than Stars in the Milky Way",
+    "fact": "Scientists estimate there are about 3 trillion trees on Earth, while the Milky Way has only 100-400 billion stars.",
+    "category": "Space",
+    "image": "1113.jpg"
+  },
+  {
+    "id": "1114",
+    "title": "Your Brain Generates 20 Watts of Electricity",
+    "fact": "Your brain generates about 20 watts of electricity—enough to power a small light bulb—through the electrical activity of neurons.",
+    "category": "Human Body",
+    "image": "1114.jpg"
+  },
+  {
+    "id": "1115",
+    "title": "Mount Everest Gains 4mm in Height Annually",
+    "fact": "Mount Everest grows approximately 4 millimeters per year due to the ongoing collision between the Indian and Asian tectonic plates.",
+    "category": "Geography",
+    "image": "1115.jpg"
+  },
+  {
+    "id": "1116",
+    "title": "A Group of Turtles Is Called a Bale",
+    "fact": "A group of sea turtles is called a bale. Some sea turtle species can hold their breath for up to 7 hours while sleeping underwater.",
+    "category": "Animals",
+    "image": "1116.jpg"
+  },
+  {
+    "id": "1117",
+    "title": "The First Ethernet Network Operated at 2.94 Mbps",
+    "fact": "Robert Metcalfe invented Ethernet in 1973, which operated at 2.94 Mbps. Modern Ethernet can reach speeds of 100 Gbps.",
+    "category": "Technology",
+    "image": "1117.jpg"
+  },
+  {
+    "id": "1118",
+    "title": "Trees Can Detect Chemical Signals From Damaged Neighbors",
+    "fact": "Trees can detect chemical signals released by damaged or attacked neighboring trees, triggering their own defense mechanisms.",
+    "category": "Nature",
+    "image": "1118.jpg"
+  },
+  {
+    "id": "1119",
+    "title": "The Gutenberg Press Could Produce 3,600 Pages Per Day",
+    "fact": "Johannes Gutenberg's printing press, invented around 1440, could produce about 3,600 pages per day compared to 40 by hand.",
+    "category": "History",
+    "image": "1119.jpg"
+  },
+  {
+    "id": "1120",
+    "title": "A Group of Barracudas Is Called a Battery",
+    "fact": "A group of barracudas is called a battery. These fearsome predators can accelerate up to 36 mph in short bursts.",
+    "category": "Animals",
+    "image": "1120.jpg"
+  },
+  {
+    "id": "1121",
+    "title": "The Moon Orbits Earth at 2,288 mph",
+    "fact": "The Moon orbits Earth at about 2,288 miles per hour, completing one orbit every 27.3 days. This is why the Moon always shows the same face to Earth.",
+    "category": "Space",
+    "image": "1121.jpg"
+  },
+  {
+    "id": "1123",
+    "title": "The Amazon Produces 20% of World Oxygen",
+    "fact": "The Amazon rainforest produces about 20% of the world's oxygen, earning it the nickname 'the lungs of the Earth.'",
+    "category": "Geography",
+    "image": "1123.jpg"
+  },
+  {
+    "id": "1124",
+    "title": "A Group of Barracudas Is Called a Squadron",
+    "fact": "A group of pelicans is called a squadron. Brown pelicans can plunge dive from 60 feet to catch fish.",
+    "category": "Animals",
+    "image": "1124.jpg"
+  },
+  {
+    "id": "1125",
+    "title": "The First Mobile Phone Call Was Made in 1973",
+    "fact": "Martin Cooper of Motorola made the first mobile phone call on April 3, 1973, to his rival at Bell Labs.",
+    "category": "Technology",
+    "image": "1125.jpg"
+  },
+  {
+    "id": "1127",
+    "title": "The Rosetta Stone Was Created in 196 BCE",
+    "fact": "The Rosetta Stone, created in 196 BCE, bears the same text in three scripts and was key to deciphering Egyptian hieroglyphs.",
+    "category": "History",
+    "image": "1127.jpg"
+  },
+  {
+    "id": "1128",
+    "title": "A Group of Pelicans Is Called a Squadron",
+    "fact": "A group of pelicans is called a squadron. Brown pelicans can plunge dive from 60 feet to catch fish.",
+    "category": "Animals",
+    "image": "1128.jpg"
+  },
+  {
+    "id": "1129",
+    "title": "The Moon Has 'Moonquakes' Lasting 10 Minutes",
+    "fact": "Moonquakes can last up to 10 minutes, much longer than earthquakes. Some are caused by Earth's gravitational pull.",
+    "category": "Space",
+    "image": "1129.jpg"
+  },
+  {
+    "id": "1130",
+    "title": "Your Nose Can Distinguish 1 Trillion Scents",
+    "fact": "The human nose can distinguish approximately 1 trillion different odors, far more than the 10,000 previously believed.",
+    "category": "Human Body",
+    "image": "1130.jpg"
+  },
+  {
+    "id": "1131",
+    "title": "The Grand Canyon Took 3-6 Million Years to Form",
+    "fact": "The Grand Canyon formed over 3-6 million years through the combined action of the Colorado River and erosion.",
+    "category": "Geography",
+    "image": "1131.jpg"
+  },
+  {
+    "id": "1132",
+    "title": "A Group of Peacocks Is Called a Party",
+    "fact": "A group of peacocks is called a party or ostentation. Only males have the colorful tail feathers used for courtship displays.",
+    "category": "Animals",
+    "image": "1132.jpg"
+  },
+  {
+    "id": "1133",
+    "title": "The First GPS Satellite Was Launched in 1978",
+    "fact": "The first GPS satellite was launched in 1978. The full constellation of 24 satellites became operational in 1995.",
+    "category": "Technology",
+    "image": "1133.jpg"
+  },
+  {
+    "id": "1134",
+    "title": "Forests Cool Cities by 2-8 Degrees",
+    "fact": "Urban trees can reduce air temperatures by 2-8°F through shade and evapotranspiration, significantly reducing energy costs.",
+    "category": "Nature",
+    "image": "1134.jpg"
+  },
+  {
+    "id": "1135",
+    "title": "The Hanging Gardens of Babylon Were Built Around 600 BCE",
+    "fact": "The Hanging Gardens of Babylon were built around 600 BCE by King Nebuchadnezzar II, though their exact location remains debated.",
+    "category": "History",
+    "image": "1135.jpg"
   }
 ]

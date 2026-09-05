@@ -1,702 +1,702 @@
 [
   {
-    "id": "1880",
-    "title": "The Pacific Ocean Is 60% of Earth's Water",
-    "fact": "The Pacific Ocean covers about 63 million square miles, larger than all of Earth's land combined, and contains more water than all other oceans.",
-    "category": "Geography",
-    "image": "1880.jpg"
-  },
-  {
-    "id": "1881",
-    "title": "Wombat Poop Is Cube-Shaped",
-    "fact": "Wombats produce cube-shaped feces to prevent it from rolling away and to mark their territory more effectively.",
-    "category": "Animals",
-    "image": "1881.jpg"
-  },
-  {
-    "id": "1882",
-    "title": "The Moon's Dark Side Isn't Actually Dark",
-    "fact": "The 'dark side' of the Moon refers to the far side we never see from Earth, which receives equal sunlight as the near side.",
-    "category": "Space",
-    "image": "1882.jpg"
-  },
-  {
-    "id": "1884",
-    "title": "Vikings Used Sunstones for Navigation",
-    "fact": "Norse sagas describe 'sunstones' used for navigation. Tests confirm calcite crystals can locate the sun through clouds by analyzing polarized light.",
-    "category": "History",
-    "image": "1884.jpg"
-  },
-  {
-    "id": "1885",
-    "title": "3D Printing Can Build a House in 24 Hours",
-    "fact": "Large-scale 3D printers can now construct a basic concrete house in 24 hours using extruded building materials, dramatically reducing construction time.",
+    "id": "5071",
+    "title": "The First Domain Name Ever Registered Was Symbolics.com in 1985",
+    "fact": "On March 15, 1985, a computer manufacturer registered the first .com domain. Today, over 350 million domain names exist worldwide.",
     "category": "Technology",
-    "image": "1885.jpg"
+    "image": "5071.jpg"
   },
   {
-    "id": "1889",
-    "title": "The Human Eye Can Detect a Single Photon",
-    "fact": "Under perfect dark conditions, the human eye can detect a single photon of light, making it one of the most sensitive detectors in nature.",
-    "category": "Human Body",
-    "image": "1889.jpg"
+    "id": "5072",
+    "title": "The Average Smartphone Has More Computing Power Than the Computers Used for the Apollo 11 Moon Landing",
+    "fact": "The Apollo Guidance Computer had 64KB of memory and ran at 0.043 MHz—your iPhone processes over 100,000 times more operations per second.",
+    "category": "Technology",
+    "image": "5072.jpg"
   },
   {
-    "id": "1891",
-    "title": "DNA Can Survive Re-Entry From Space",
-    "fact": "Experiments show that DNA can survive atmospheric re-entry, suggesting it could potentially travel between planets on meteorites.",
+    "id": "5073",
+    "title": "The First Webcam Was Used to Monitor a Coffee Pot",
+    "fact": "In 1991, Cambridge University researchers set up a camera to check if a coffee pot was full—saving them trips to an empty pot. It's considered the first webcam in history.",
+    "category": "Technology",
+    "image": "5073.jpg"
+  },
+  {
+    "id": "5074",
+    "title": "The Word 'Robot' Comes From the Czech Word 'Robota' Meaning Forced Labor",
+    "fact": "Playwright Karel Čapek introduced the term in his 1920 play R.U.R. (Rossum's Universal Robots). His brother Josef originally suggested the word.",
+    "category": "Technology",
+    "image": "5074.jpg"
+  },
+  {
+    "id": "5075",
+    "title": "The World's First Hard Drive Weighed Over a Ton—And Stored Only 5MB",
+    "fact": "IBM's 1956 RAMAC 305 hard drive weighed 2,000+ pounds, cost $50,000 per year to lease, and stored just 5MB—equivalent to a single average smartphone photo today.",
+    "category": "Technology",
+    "image": "5075.jpg"
+  },
+  {
+    "id": "5076",
+    "title": "Antarctica Has a Subglacial Lake That's Been Sealed for 15 Million Years",
+    "fact": "Lake Vostok, buried under 2.5 miles of ice, is one of Earth's largest subglacial lakes. Scientists believe its water may contain ancient microorganisms found nowhere else.",
+    "category": "Geography",
+    "image": "5076.jpg"
+  },
+  {
+    "id": "5077",
+    "title": "Australia Moves 2.7 Inches North Every Year",
+    "fact": "Due to tectonic plate movement, Australia drifts about 2.7 inches (7 cm) annually—so fast that GPS coordinates have to be updated regularly to keep maps accurate.",
+    "category": "Geography",
+    "image": "5077.jpg"
+  },
+  {
+    "id": "5078",
+    "title": "The Sahara Desert Was Once a Green Lush Forest",
+    "fact": "Around 10,000 years ago, the 'Green Sahara' was covered in lakes, rivers, and grasslands—home to elephants, giraffes, and early human civilizations before climate shifts turned it to desert.",
+    "category": "Geography",
+    "image": "5078.jpg"
+  },
+  {
+    "id": "5079",
+    "title": "The Pacific Ocean Is Shrinking by an Inch Per Year",
+    "fact": "Due to plate tectonics, the Atlantic is widening while the Pacific is narrowing. Eventually, the Pacific will close as the Americas collide with Asia—forming a new supercontinent.",
+    "category": "Geography",
+    "image": "5079.jpg"
+  },
+  {
+    "id": "5080",
+    "title": "More People Speak English as a Second Language Than as a First",
+    "fact": "There are ~400 million native English speakers, but over 1.5 billion people speak it as a second or foreign language—making it the world's most-learned language.",
+    "category": "Culture",
+    "image": "5080.jpg"
+  },
+  {
+    "id": "5081",
+    "title": "The Oldest Known Musical Instrument Is 60,000 Years Old",
+    "fact": "A Neanderthal flute made from a bear femur was discovered in Slovenia. It's the oldest evidence of music-making, predating modern humans in Europe.",
+    "category": "Culture",
+    "image": "5081.jpg"
+  },
+  {
+    "id": "5082",
+    "title": "The Country With the Most Nobel Prizes Per Capita Is Not the US—It's Saint Kitts and Nevis",
+    "fact": "This tiny Caribbean nation has 1 Nobel laureate (Sir Dennis Byron) per 47,000 people—giving it the highest per-capita ratio, ahead of Sweden and Switzerland.",
+    "category": "Culture",
+    "image": "5082.jpg"
+  },
+  {
+    "id": "5083",
+    "title": "In 1980, the Soviet Union Sent a Submarine to the Moon (Virtually)",
+    "fact": "Soviet engineers reportedly used a decommissioned nuclear submarine's hull as a structural test model for a lunar landing vehicle—though the project never left Earth.",
+    "category": "Space",
+    "image": "5083.jpg"
+  },
+  {
+    "id": "5084",
+    "title": "The Universe Smells Like Raspberries and Rum",
+    "fact": "Astronomers found that the center of the Milky Way contains ethyl formate—a chemical that gives raspberries their flavor and contributes to the aroma of rum.",
+    "category": "Space",
+    "image": "5084.jpg"
+  },
+  {
+    "id": "5085",
+    "title": "A Year on Pluto Is 248 Earth Years",
+    "fact": "Pluto takes 248 Earth years to complete one orbit around the Sun—meaning no human has ever lived through a full Plutonian year.",
+    "category": "Space",
+    "image": "5085.jpg"
+  },
+  {
+    "id": "5086",
+    "title": "Saturn Is So Light It Would Float on Water",
+    "fact": "Saturn's density is 0.687 g/cm³, lower than water's 1.0 g/cm³. In theory, if you found a giant enough bathtub, Saturn would float—though its rings would sink.",
+    "category": "Space",
+    "image": "5086.jpg"
+  },
+  {
+    "id": "5087",
+    "title": "The Human Eye Can See the Andromeda Galaxy With the Naked Eye",
+    "fact": "On a clear dark night, the Andromeda Galaxy is visible from Earth as a faint smudge—even though it's 2.5 million light-years away, it's the most distant object visible without equipment.",
+    "category": "Space",
+    "image": "5087.jpg"
+  },
+  {
+    "id": "5089",
+    "title": "The Axolotl Can Regenerate Its Own Brain",
+    "fact": "Not just limbs—axolotls can regenerate parts of their brain and spinal cord without scarring, making them the subject of intense regenerative medicine research.",
+    "category": "Animals",
+    "image": "5089.jpg"
+  },
+  {
+    "id": "5092",
+    "title": "Cuttlefish Have Three Hearts and Blue Blood—Like Octopuses",
+    "fact": "As cephalopods, cuttlefish share the three-heart, copper-based blood system. They also have the highest brain-to-body ratio of any invertebrate.",
+    "category": "Animals",
+    "image": "5092.jpg"
+  },
+  {
+    "id": "5093",
+    "title": "Some Fungi Can Eat Plastic—Offering a Solution to Pollution",
+    "fact": "Scientists have discovered fungi like Pestalotiopsis microspora that can digest polyurethane in weeks—even in oxygen-free environments, making them promising for plastic cleanup.",
     "category": "Science",
-    "image": "1891.jpg"
+    "image": "5093.jpg"
   },
   {
-    "id": "1892",
-    "title": "The Printing Press Spread Ideas Globally",
-    "fact": "Within 50 years of Gutenberg's press, over 20 million volumes had been printed in Europe, democratizing knowledge previously controlled by elites.",
-    "category": "History",
-    "image": "1892.jpg"
-  },
-  {
-    "id": "1893",
-    "title": "Atypical Pneumonia Often Has Gradual Onset",
-    "fact": "Atypical pneumonia typically develops more gradually than typical pneumonia, with symptoms including dry cough, low-grade fever, and fatigue lasting weeks.",
-    "category": "Human Body",
-    "image": "1893.jpg"
-  },
-  {
-    "id": "1894",
-    "title": "GPS Works Anywhere With 4 Satellites",
-    "fact": "GPS requires at least 4 satellites visible to calculate position, and works anywhere on Earth with clear sky view.",
-    "category": "Technology",
-    "image": "1894.jpg"
-  },
-  {
-    "id": "1895",
-    "title": "The Moon Has No Magnetic Field Now",
-    "fact": "The Moon currently has no global magnetic field, though ancient lunar rocks show evidence that it had one billions of years ago.",
-    "category": "Space",
-    "image": "1895.jpg"
-  },
-  {
-    "id": "1896",
-    "title": "Elephants Communicate Through Seismic Waves",
-    "fact": "Elephants can communicate through seismic vibrations in the ground, detecting these low-frequency sounds with special cells in their feet.",
-    "category": "Animals",
-    "image": "1896.jpg"
-  },
-  {
-    "id": "1898",
-    "title": "The Roman Colosseum Could Flood",
-    "fact": "The Roman Colosseum could be flooded for naval battles (naumachiae) by diverting water from aqueducts, creating a miniature lake.",
-    "category": "History",
-    "image": "1898.jpg"
-  },
-  {
-    "id": "1899",
-    "title": "Smartphones Have More Computing Power Than Apollo 11",
-    "fact": "The Apollo 11 guidance computer had less processing power than a modern pocket calculator, making smartphones millions of times more powerful.",
-    "category": "Technology",
-    "image": "1899.jpg"
-  },
-  {
-    "id": "1900",
-    "title": "Mount Everest Was First Climbed in 1953",
-    "fact": "Sir Edmund Hillary and Tenzing Norgay first summited Mount Everest on May 29, 1953, just days after Queen Elizabeth II was crowned.",
-    "category": "History",
-    "image": "1900.jpg"
-  },
-  {
-    "id": "102b",
-    "title": "The Sun Is 93 Million Miles Away",
-    "fact": "The Sun is approximately 93 million miles (150 million km) from Earth. Light from the Sun takes about 8 minutes and 20 seconds to reach us.",
-    "category": "Space",
-    "image": "102b.jpg"
-  },
-  {
-    "id": "104b",
-    "title": "The Longest River in Europe Is 3,530 km",
-    "fact": "The Volga River in Russia is the longest river in Europe, stretching 3,530 kilometers. It flows into the Caspian Sea and drains about one-third of European Russia.",
-    "category": "Geography",
-    "image": "104b.jpg"
-  },
-  {
-    "id": "107b",
-    "title": "Paper Was Invented in China Around 100 CE",
-    "fact": "Cai Lun invented paper in China around 100 CE, using bark, hemp, and rags. This invention revolutionized communication and record-keeping worldwide.",
-    "category": "History",
-    "image": "107b.jpg"
-  },
-  {
-    "id": "108b",
-    "title": "Owls Can Rotate Their Heads 270 Degrees",
-    "fact": "Owls have flexible necks that allow them to rotate their heads up to 270 degrees. This compensates for their fixed eyeballs that cannot move in their sockets.",
-    "category": "Animals",
-    "image": "108b.jpg"
-  },
-  {
-    "id": "110b",
-    "title": "Your DNA Would Stretch to Pluto and Back",
-    "fact": "If you uncoiled all the DNA in your body and stretched it out, it would reach about 10 billion miles, enough to go to Pluto and back twice.",
-    "category": "Human Body",
-    "image": "110b.jpg"
-  },
-  {
-    "id": "111b",
-    "title": "Mount Kilimanjaro Is a Volcano",
-    "fact": "Mount Kilimanjaro is a dormant volcano in Tanzania with three volcanic cones: Kibo, Mawenzi, and Shira. It is the highest mountain in Africa at 5,895 meters.",
-    "category": "Geography",
-    "image": "111b.jpg"
-  },
-  {
-    "id": "113b",
-    "title": "The First Web Browser Was Created in 1990",
-    "fact": "Tim Berners-Lee created the first web browser called WorldWideWeb in 1990 at CERN. It was later renamed Nexus to avoid confusion with the web itself.",
-    "category": "Technology",
-    "image": "113b.jpg"
-  },
-  {
-    "id": "114b",
-    "title": "The Amazon River Has 3,000 Species of Fish",
-    "fact": "The Amazon River basin contains approximately 3,000 known species of fish, with many more yet to be discovered. This is more fish species than in the entire Atlantic Ocean.",
-    "category": "Nature",
-    "image": "114b.jpg"
-  },
-  {
-    "id": "116b",
-    "title": "Starfish Have Blue Blood",
-    "fact": "Starfish have pale blue blood due to hemocyanin containing copper, instead of iron-based hemoglobin. This is more efficient in cold, low-oxygen environments.",
-    "category": "Animals",
-    "image": "116b.jpg"
-  },
-  {
-    "id": "119b",
-    "title": "Iceland Has No Mosquitoes",
-    "fact": "Iceland is one of few countries with no native mosquito species. Scientists believe the country's harsh climate cycles of freezing and thawing prevent mosquito larvae from surviving.",
-    "category": "Geography",
-    "image": "119b.jpg"
-  },
-  {
-    "id": "120b",
-    "title": "Elephants Use seismic Communication",
-    "fact": "Elephants can communicate through seismic vibrations that travel through the ground. They use special sensors in their feet and trunk to detect these signals.",
-    "category": "Animals",
-    "image": "120b.jpg"
-  },
-  {
-    "id": "121b",
-    "title": "USB Stands for Universal Serial Bus",
-    "fact": "USB was developed in the mid-1990s by Intel, Microsoft, Compaq, and others to standardize computer connections. The USB 1.0 could transfer data at 12 Mbps.",
-    "category": "Technology",
-    "image": "121b.jpg"
-  },
-  {
-    "id": "123b",
-    "title": "The Great Fire of London Burned 13,200 Houses",
-    "fact": "The Great Fire of London in 1666 destroyed 13,200 houses, 87 churches, and St. Paul's Cathedral. It killed about 70,000 people and burned for 4 days.",
-    "category": "History",
-    "image": "123b.jpg"
-  },
-  {
-    "id": "124b",
-    "title": "Frogs Don't Drink Water Through Their Mouths",
-    "fact": "Frogs absorb water through a 'drinking patch' on their belly called the ventral skin. They also absorb moisture and breathe through their skin.",
-    "category": "Animals",
-    "image": "124b.jpg"
-  },
-  {
-    "id": "126b",
-    "title": "Your Body Has About 60,000 Miles of Blood Vessels",
-    "fact": "If all your blood vessels were laid end to end, they would stretch about 60,000 miles. This is enough to circle the Earth more than twice.",
-    "category": "Human Body",
-    "image": "126b.jpg"
-  },
-  {
-    "id": "127b",
-    "title": "The Pacific Ocean Covers 63 Million Square Miles",
-    "fact": "The Pacific Ocean is the largest and deepest ocean, covering about 63 million square miles. It is larger than all the land on Earth combined.",
-    "category": "Geography",
-    "image": "127b.jpg"
-  },
-  {
-    "id": "128b",
-    "title": "Seahorses Travel Upright",
-    "fact": "Seahorses are the only fish species that swim upright. They use their dorsal fin for propulsion and steer with tiny pectoral fins on their sides.",
-    "category": "Animals",
-    "image": "128b.jpg"
-  },
-  {
-    "id": "130b",
-    "title": "Some Trees Can Live for Thousands of Years",
-    "fact": "Bristlecone pine trees in the USA are among the oldest living organisms, with some individuals exceeding 5,000 years. Their dead wood often remains standing for centuries.",
-    "category": "Nature",
-    "image": "130b.jpg"
-  },
-  {
-    "id": "131b",
-    "title": "The Berlin Wall Stood for 28 Years",
-    "fact": "The Berlin Wall was built in 1961 and fell in 1989, dividing East and West Berlin for 28 years. Over 100 people died trying to cross it.",
-    "category": "History",
-    "image": "131b.jpg"
-  },
-  {
-    "id": "132b",
-    "title": "Snakes Can Feel Love",
-    "fact": "Recent research suggests snakes can form bonds with humans and recognize their owners. They may show preference for familiar people and experience stress when separated.",
-    "category": "Animals",
-    "image": "132b.jpg"
-  },
-  {
-    "id": "134b",
-    "title": "You Blink About 15-20 Times Per Minute",
-    "fact": "On average, you blink 15-20 times per minute, or about 1,200 times per hour. Each blink lasts 0.1-0.4 seconds, totaling about 23 minutes of blinking daily.",
-    "category": "Human Body",
-    "image": "134b.jpg"
-  },
-  {
-    "id": "137b",
-    "title": "The First Programmer Was a Woman",
-    "fact": "Ada Lovelace, writing in the 1840s, created the first algorithm intended for a machine. She is considered the first computer programmer.",
-    "category": "Technology",
-    "image": "137b.jpg"
-  },
-  {
-    "id": "138b",
-    "title": "Forests Can Create Their Own Climate",
-    "fact": "Large forests create their own microclimates through transpiration, releasing massive amounts of water vapor that can form clouds and trigger rainfall.",
-    "category": "Nature",
-    "image": "138b.jpg"
-  },
-  {
-    "id": "139b",
-    "title": "Shakespeare Invented 1,700 Words",
-    "fact": "William Shakespeare is credited with inventing about 1,700 words used in the English language, including 'assassination', 'bedroom', and 'lonely'.",
-    "category": "History",
-    "image": "139b.jpg"
-  },
-  {
-    "id": "140b",
-    "title": "Butterflies Have Compound Eyes",
-    "fact": "A butterfly's compound eye contains thousands of lenses, giving it nearly 360-degree vision. However, they see far fewer colors than humans.",
-    "category": "Animals",
-    "image": "140b.jpg"
-  },
-  {
-    "id": "141b",
-    "title": "The Nearest Star Is 4.24 Light-Years Away",
-    "fact": "Proxima Centauri is the closest star to our Sun at 4.24 light-years distance. At current spacecraft speeds, it would take about 73,000 years to reach it.",
-    "category": "Space",
-    "image": "141b.jpg"
-  },
-  {
-    "id": "144b",
-    "title": "Camels Have Three Eyelids",
-    "fact": "Camels have three eyelids to protect their eyes from sand and dust. Two of the eyelids have lashes, and one is transparent to see through while protecting the eye.",
-    "category": "Animals",
-    "image": "144b.jpg"
-  },
-  {
-    "id": "145b",
-    "title": "The First Camera Weighed 50 Pounds",
-    "fact": "Joseph Nicéphore Niépce created the first camera in 1826, which weighed about 50 pounds and required an 8-hour exposure time to capture an image.",
-    "category": "Technology",
-    "image": "145b.jpg"
-  },
-  {
-    "id": "146b",
-    "title": "Trees Absorb More CO2 Than They Release",
-    "fact": "Trees absorb carbon dioxide during photosynthesis and release oxygen. A mature tree can absorb about 48 pounds of CO2 per year and produce 260 pounds of oxygen.",
-    "category": "Nature",
-    "image": "146b.jpg"
-  },
-  {
-    "id": "147b",
-    "title": "The Titanic Had 20 Lifeboats, Needed 48",
-    "fact": "The Titanic carried only 20 lifeboats, enough for about half the people aboard. Maritime regulations at the time did not require more.",
-    "category": "History",
-    "image": "147b.jpg"
-  },
-  {
-    "id": "148b",
-    "title": "Goldfish Have a Memory Span of 3 Months",
-    "fact": "Goldfish can remember things for at least 3 months, contrary to the popular myth of 3 seconds. They can be trained to respond to colors and sounds.",
-    "category": "Animals",
-    "image": "148b.jpg"
-  },
-  {
-    "id": "149b",
-    "title": "Uranus Orbits the Sun on Its Side",
-    "fact": "Uranus has an axial tilt of 98 degrees, essentially orbiting the Sun on its side. This was likely caused by a collision with an Earth-sized object long ago.",
-    "category": "Space",
-    "image": "149b.jpg"
-  },
-  {
-    "id": "150b",
-    "title": "Your Lungs Contain 300 Million Alveoli",
-    "fact": "Your lungs contain about 300 million tiny air sacs called alveoli. If spread flat, they would cover about 70 square meters, roughly half a tennis court.",
-    "category": "Human Body",
-    "image": "150b.jpg"
-  },
-  {
-    "id": "152b",
-    "title": "Sloths Can Hold Their Breath for 40 Minutes",
-    "fact": "Sloths can hold their breath for up to 40 minutes, which is longer than dolphins. This ability helps them avoid predators and survive underwater.",
-    "category": "Animals",
-    "image": "152b.jpg"
-  },
-  {
-    "id": "153b",
-    "title": "The First Smartphone Was Called Simon",
-    "fact": "IBM's Simon Personal Communicator, released in 1994, is considered the first smartphone. It combined a mobile phone with a PDA and cost $899.",
-    "category": "Technology",
-    "image": "153b.jpg"
-  },
-  {
-    "id": "154b",
-    "title": "The Amazon Emits Less CO2 Than It Absorbs",
-    "fact": "The Amazon rainforest absorbs more carbon dioxide than it emits, acting as a major carbon sink. It stores about 100-150 billion metric tons of carbon.",
-    "category": "Nature",
-    "image": "154b.jpg"
-  },
-  {
-    "id": "156b",
-    "title": "Ostriches Can Run Faster Than Horses",
-    "fact": "Ostriches can run at speeds up to 45 mph (72 km/h), faster than horses which max out at about 30 mph. They are the fastest two-legged animals on land.",
-    "category": "Animals",
-    "image": "156b.jpg"
-  },
-  {
-    "id": "157b",
-    "title": "Neutron Stars Are 12 Miles Wide but Weigh More Than the Sun",
-    "fact": "Neutron stars pack the mass of about 1.4 suns into a sphere only 12 miles (20 km) across. A teaspoon of neutron star material would weigh billions of tons.",
-    "category": "Space",
-    "image": "157b.jpg"
-  },
-  {
-    "id": "158b",
-    "title": "Your Skin Weighs About 8 Pounds",
-    "fact": "The skin is the largest organ in the human body, weighing about 8 pounds (3.6 kg) in adults. It covers about 20 square feet in average adults.",
-    "category": "Human Body",
-    "image": "158b.jpg"
-  },
-  {
-    "id": "159b",
-    "title": "Lake Vostok Has Been Sealed for 15 Million Years",
-    "fact": "Lake Vostok in Antarctica has been isolated from the rest of the world for about 15 million years. It may contain unique forms of life never seen before.",
-    "category": "Geography",
-    "image": "159b.jpg"
-  },
-  {
-    "id": "160b",
-    "title": "Pigeons Can Do Math",
-    "fact": "Research has shown that pigeons can learn to rank objects by abstract numerical concepts, demonstrating mathematical abilities previously thought to be unique to primates.",
-    "category": "Animals",
-    "image": "160b.jpg"
-  },
-  {
-    "id": "162b",
-    "title": "Forests Can Be Named After Colors",
-    "fact": "Some forests are named after their autumn colors, like Japan's 'momiji' (maple) forests that turn brilliant red. Different trees produce different color pigments.",
-    "category": "Nature",
-    "image": "162b.jpg"
-  },
-  {
-    "id": "165b",
-    "title": "There Are More Galaxies Than Stars in the Observable Universe",
-    "fact": "The observable universe contains an estimated 200 billion galaxies, each with 100-400 billion stars. No one knows how many galaxies exist beyond our observable universe.",
-    "category": "Space",
-    "image": "165b.jpg"
-  },
-  {
-    "id": "166b",
-    "title": "Your Brain Stops Feeling Hungry When Full",
-    "fact": "The hormone ghrelin stimulates hunger, while leptin signals fullness. Your stomach produces ghrelin, and fat cells produce leptin to regulate appetite.",
-    "category": "Human Body",
-    "image": "166b.jpg"
-  },
-  {
-    "id": "167b",
-    "title": "There Are 195 Countries in the World",
-    "fact": "There are 195 countries in the world: 193 are member states of the United Nations, plus 2 observer states (Vatican City and Palestine).",
-    "category": "Geography",
-    "image": "167b.jpg"
-  },
-  {
-    "id": "168b",
-    "title": "Parrots Can Learn to Use Tools",
-    "fact": "Some parrots, like the kea of New Zealand, have been observed using tools and solving complex problems. They can also learn to use objects as implements.",
-    "category": "Animals",
-    "image": "168b.jpg"
-  },
-  {
-    "id": "171",
-    "title": "The Industrial Revolution Changed Work Permanently",
-    "fact": "The Industrial Revolution (1760-1840) transformed society from agricultural to industrial, introducing factories, mass production, and wage labor.",
-    "category": "History",
-    "image": "171.jpg"
-  },
-  {
-    "id": "172",
-    "title": "Salamanders Can Regrow Lost Limbs",
-    "fact": "Salamanders can regrow entire limbs, parts of their heart, liver, lungs, brain, and spinal cord. Scientists study them to understand how to trigger similar regeneration in humans.",
-    "category": "Animals",
-    "image": "172.jpg"
-  },
-  {
-    "id": "173",
-    "title": "The Sun Makes Up 99.86% of the Solar System's Mass",
-    "fact": "The Sun contains 99.86% of all the mass in the solar system. Jupiter alone makes up most of the remaining 0.14%.",
-    "category": "Space",
-    "image": "173.jpg"
-  },
-  {
-    "id": "175",
-    "title": "The Mediterranean Sea Is Almost Completely Surrounded by Land",
-    "fact": "The Mediterranean Sea is connected to the Atlantic Ocean only by the 8.9-mile-wide Strait of Gibraltar. It is almost entirely enclosed by Europe, Asia, and Africa.",
-    "category": "Geography",
-    "image": "175.jpg"
-  },
-  {
-    "id": "176",
-    "title": "Some Jellyfish Are Immortal",
-    "fact": "Turritopsis dohrnii, the 'immortal jellyfish,' can revert to its juvenile polyp stage after reaching maturity, theoretically living forever under ideal conditions.",
-    "category": "Animals",
-    "image": "176.jpg"
-  },
-  {
-    "id": "177",
-    "title": "HTTPS Uses Encryption for Security",
-    "fact": "HTTPS (Hypertext Transfer Protocol Secure) uses SSL/TLS encryption to protect data transmitted between browsers and servers, making online transactions safer.",
-    "category": "Technology",
-    "image": "177.jpg"
-  },
-  {
-    "id": "178",
-    "title": "Some Trees Can Communicate Through Root Systems",
-    "fact": "Trees in forests are connected by mycorrhizal fungi networks, allowing them to share nutrients and send chemical signals to warn of insect attacks.",
-    "category": "Nature",
-    "image": "178.jpg"
-  },
-  {
-    "id": "180",
-    "title": "Bats Are the Only Mammals Capable of Sustained Flight",
-    "fact": "While flying squirrels glide, bats are the only mammals that can truly fly. Their wings are made of a membrane stretched over elongated finger bones.",
-    "category": "Animals",
-    "image": "180.jpg"
-  },
-  {
-    "id": "182",
-    "title": "You Produce 25,000 Quarts of Saliva in a Lifetime",
-    "fact": "The average person produces about 0.7 liters of saliva per day, totaling about 25,000 quarts over a lifetime. Saliva contains enzymes that begin digestion.",
-    "category": "Human Body",
-    "image": "182.jpg"
-  },
-  {
-    "id": "183",
-    "title": "Mount Everest Is Getting Taller",
-    "fact": "Mount Everest grows about 4 millimeters taller every year due to the collision of the Indian and Asian tectonic plates, which continues to push the Himalayas upward.",
-    "category": "Geography",
-    "image": "183.jpg"
-  },
-  {
-    "id": "184",
-    "title": "Cows Can Walk Upstairs but Not Down",
-    "fact": "Cows can walk upstairs but struggle to walk downstairs because of the angle of their knees and their heavy front ends. This is why they rarely go down steep slopes.",
-    "category": "Animals",
-    "image": "184.jpg"
-  },
-  {
-    "id": "185",
-    "title": "QR Codes Can Store Up to 2,900 Bytes",
-    "fact": "QR codes can store up to 2,953 bytes of data, which translates to about 4,296 alphanumeric characters. They use error correction to remain readable when partially damaged.",
-    "category": "Technology",
-    "image": "185.jpg"
-  },
-  {
-    "id": "186",
-    "title": "Forests Can Reduce Air Temperature",
-    "fact": "Trees can reduce ambient air temperature by up to 10 degrees Fahrenheit through shade and transpiration. A single tree can have the cooling effect of 10 room-sized air conditioners.",
-    "category": "Nature",
-    "image": "186.jpg"
-  },
-  {
-    "id": "188",
-    "title": "A Whale's Heart Beats Only 4-8 Times Per Minute",
-    "fact": "A blue whale's heart is the size of a small car and beats only 4-8 times per minute. Its heartbeat can be detected from 2 miles away underwater.",
-    "category": "Animals",
-    "image": "188.jpg"
-  },
-  {
-    "id": "189",
-    "title": "Light Takes 8 Minutes to Travel from Sun to Earth",
-    "fact": "Light travels at 186,000 miles per second and takes about 8 minutes and 20 seconds to reach Earth from the Sun. The Sun is 93 million miles away.",
-    "category": "Space",
-    "image": "189.jpg"
-  },
-  {
-    "id": "190",
-    "title": "Your Hair Grows About 6 Inches Per Year",
-    "fact": "On average, human hair grows about 6 inches (15 cm) per year, or about 0.3-0.4 mm per day. Hair grows faster in summer than winter.",
-    "category": "Human Body",
-    "image": "190.jpg"
-  },
-  {
-    "id": "191",
-    "title": "Australia Is Both a Country and a Continent",
-    "fact": "Australia is the smallest continent and largest island, as well as being the only continent that is also a single country. It covers about 7.7 million km².",
-    "category": "Geography",
-    "image": "191.jpg"
-  },
-  {
-    "id": "192",
-    "title": "Sea Otters Hold Hands While Sleeping",
-    "fact": "Sea otters often hold paws while sleeping to prevent drifting apart. They also wrap themselves in kelp to anchor themselves in place.",
-    "category": "Animals",
-    "image": "192.jpg"
-  },
-  {
-    "id": "193",
-    "title": "The Internet Has 4.5 Billion Users",
-    "fact": "As of 2023, about 4.5 billion people use the internet, representing about 59% of the global population. This number continues to grow every year.",
-    "category": "Technology",
-    "image": "193.jpg"
-  },
-  {
-    "id": "196",
-    "title": "Penguins Propose with Pebbles",
-    "fact": "Male Adelie penguins propose to females by presenting them with carefully selected pebbles. If the female accepts, she adds it to their nest.",
-    "category": "Animals",
-    "image": "196.jpg"
-  },
-  {
-    "id": "199",
-    "title": "The Dead Sea Is the Lowest Point on Earth",
-    "fact": "The Dead Sea shoreline is the lowest exposed point on Earth's surface at 430.5 meters below sea level. It is also one of the saltiest bodies of water.",
-    "category": "Geography",
-    "image": "199.jpg"
-  },
-  {
-    "id": "200",
-    "title": "Ants Can Carry 50 Times Their Body Weight",
-    "fact": "Ants can carry objects up to 50 times their own body weight due to their strength-to-weight ratio. This is like a human carrying a car.",
-    "category": "Animals",
-    "image": "200.jpg"
-  },
-  {
-    "id": "1901",
-    "title": "Honey Never Spoils - Archaeologists Found Edible 3,000-Year-Old Honey",
-    "fact": "Archaeologists have discovered 3,000-year-old honey in Egyptian tombs that remains perfectly edible due to honey's low moisture content, acidic pH, and natural preservatives.",
-    "category": "Nature",
-    "image": "1901.jpg"
-  },
-  {
-    "id": "1902",
-    "title": "Diamond Rains Occur on Neptune and Uranus",
-    "fact": "Scientists believe it rains diamonds on Neptune and Uranus. The extreme pressure and heat deep within these ice giants can crush carbon into solid diamonds before they vaporize.",
-    "category": "Space",
-    "image": "1902.jpg"
-  },
-  {
-    "id": "1903",
-    "title": "Humans Share Approximately 60% DNA With Bananas",
-    "fact": "Despite 600 million years of evolutionary distance, humans share approximately 60% of their DNA with bananas due to common ancestral genes conserved over billions of years.",
+    "id": "5094",
+    "title": "Your Gut Microbiome Weighs About 2 to 5 Pounds—More Than Your Brain",
+    "fact": "The average human carries 2–5 pounds of bacteria in their digestive tract—approximately the same weight as the adult human brain (about 3 pounds).",
     "category": "Science",
-    "image": "1903.jpg"
+    "image": "5094.jpg"
   },
   {
-    "id": "1904",
-    "title": "The Dead Sea Has No Life Due to Extreme Salinity",
-    "fact": "The Dead Sea's salinity of around 34% prevents any fish or plants from surviving in it. Its name comes from the fact that nothing can live in its waters.",
-    "category": "Geography",
-    "image": "1904.jpg"
-  },
-  {
-    "id": "1905",
-    "title": "Cows Form Strong Friendships and Experience Stress When Separated",
-    "fact": "Cows are highly social animals that form strong bonds with specific individuals. When separated from their best friends, they show signs of stress similar to humans.",
-    "category": "Animals",
-    "image": "1905.jpg"
-  },
-  {
-    "id": "1906",
-    "title": "The Term 'Computer Bug' Originated From an Actual Moth in 1947",
-    "fact": "The term 'computer bug' originated from an actual moth found trapped in a Harvard Mark II computer relay in 1947, making it the first documented computer bug.",
-    "category": "Technology",
-    "image": "1906.jpg"
-  },
-  {
-    "id": "1907",
-    "title": "Egypt Built the Pyramids Before the Introduction of Wheeled Vehicles",
-    "fact": "The Great Pyramid of Giza was built around 2560 BCE, but wheeled vehicles weren't introduced to Egypt until around 600 BCE, approximately 2,000 years later.",
-    "category": "History",
-    "image": "1907.jpg"
-  },
-  {
-    "id": "1908",
-    "title": "The Human Stomach Gets a New Lining Every 3-4 Days",
-    "fact": "The acidic environment of the stomach would damage the organ itself, so the stomach lining is completely replaced every 3-4 days to prevent self-digestion.",
-    "category": "Human Body",
-    "image": "1908.jpg"
-  },
-  {
-    "id": "1909",
-    "title": "Trees Communicate Through Underground Fungal Networks",
-    "fact": "Trees in forests are connected by underground fungal networks called mycorrhizal networks, through which they share nutrients and chemical signals with each other.",
-    "category": "Nature",
-    "image": "1909.jpg"
-  },
-  {
-    "id": "1911",
-    "title": "Octopus Blood Is Blue Due to Copper-Based Hemocyanin",
-    "fact": "Octopuses use copper-based hemocyanin instead of iron-based hemoglobin to transport oxygen, giving their blood a blue color that is more efficient in cold, low-oxygen environments.",
-    "category": "Animals",
-    "image": "1911.jpg"
-  },
-  {
-    "id": "1912",
-    "title": "Light From the Sun Takes 8 Minutes to Reach Earth",
-    "fact": "The sun's light takes approximately 8 minutes and 20 seconds to travel the 93 million miles to Earth, meaning we always see the sun as it was 8 minutes ago.",
-    "category": "Space",
-    "image": "1912.jpg"
-  },
-  {
-    "id": "1914",
-    "title": "The Human Brain Uses 20% of the Body's Energy",
-    "fact": "The human brain, which weighs only 2% of body weight, consumes approximately 20% of the body's total energy and oxygen intake.",
-    "category": "Human Body",
-    "image": "1914.jpg"
-  },
-  {
-    "id": "1915",
-    "title": "Glass Is Technically a Liquid With Extreme Viscosity",
-    "fact": "Glass is technically a liquid with an extremely high viscosity that flows so slowly it appears solid. Old glass windows are sometimes thicker at the bottom due to this flow.",
+    "id": "5095",
+    "title": "A Lightning Bolt Can Be 5 Times Hotter Than the Sun's Surface",
+    "fact": "Lightning can reach 50,000°F (27,700°C), while the Sun's surface is roughly 10,000°F (5,500°C). The core of the Sun is far hotter, however—at 27 million°F.",
     "category": "Science",
-    "image": "1915.jpg"
+    "image": "5095.jpg"
   },
   {
-    "id": "1916",
-    "title": "Napoleon Bonaparte Was Once Attacked by Rabbits",
-    "fact": "King Francis I of France once released thousands of rabbits during a hunt for Napoleon Bonaparte, who reportedly had to flee up a tree to escape the charging horde.",
+    "id": "5096",
+    "title": "Water Expands When It Freezes—But Only Below 4°C",
+    "fact": "Water is densest at 4°C. As it cools further, hydrogen bonds stretch, causing it to expand—which is why ice floats and pipes can burst in winter.",
+    "category": "Science",
+    "image": "5096.jpg"
+  },
+  {
+    "id": "5097",
+    "title": "The Average Person Sheds 1.5 Pounds of Skin Per Year",
+    "fact": "Humans shed 30,000 to 40,000 skin cells per minute—totaling about 1.5 pounds annually. Most household dust is actually made of dead skin cells.",
+    "category": "Science",
+    "image": "5097.jpg"
+  },
+  {
+    "id": "5098",
+    "title": "Your Heart Beats Over 2.5 Billion Times in an Average Lifetime",
+    "fact": "At 70–80 beats per minute, the human heart pumps roughly 2,000 gallons of blood daily—adding up to over 2.5 billion beats across 80 years.",
+    "category": "Science",
+    "image": "5098.jpg"
+  },
+  {
+    "id": "5099",
+    "title": "The World's Population Doubled From 3 Billion to 6 Billion in Just 40 Years",
+    "fact": "In 1960, Earth had 3 billion people. By 2000, it reached 6 billion—the fastest population growth in history. It now hovers around 8.1 billion in 2025.",
+    "category": "Science",
+    "image": "5099.jpg"
+  },
+  {
+    "id": "5100",
+    "title": "The Pando Aspen Grove in Utah Is One of the Oldest and Heaviest Living Organisms",
+    "fact": "Pando is a single clonal colony of quaking aspens connected by one root system. It weighs over 13 million pounds and has been alive for an estimated 80,000 years.",
+    "category": "Science",
+    "image": "5100.jpg"
+  },
+  {
+    "id": "5101",
+    "title": "The First ATMs Dispensed Cash But No Receipts—And Were Often Broken Into",
+    "fact": "When Barclays installed the first ATM in 1967, it used paper vouchers soaked in carbon-14 for security. Early machines were so vulnerable that thieves often dug them out of walls with forklifts.",
+    "category": "Finance",
+    "image": "5101.jpg"
+  },
+  {
+    "id": "5102",
+    "title": "The World's Most Expensive Stock Is Berkshire Hathaway—Priced Over $600,000 Per Share",
+    "fact": "As of 2025, Berkshire Hathaway's Class A shares trade above $600,000 each. Warren Buffett refuses to split the stock to attract long-term investors instead of speculators.",
+    "category": "Finance",
+    "image": "5102.jpg"
+  },
+  {
+    "id": "5103",
+    "title": "The Term 'Blue Chip' Comes From Poker—Where Blue Chips Are the Highest Value",
+    "fact": "Financial journalist Oliver Gingold coined the term in the 1920s, borrowing from poker's blue-colored high-value chips to describe premium, reliable stocks like IBM and AT&T.",
+    "category": "Finance",
+    "image": "5103.jpg"
+  },
+  {
+    "id": "5104",
+    "title": "The Global Derivatives Market Is Worth Over $700 Trillion—10 Times World GDP",
+    "fact": "Notional value of derivatives (options, futures, swaps) exceeds $700 trillion globally, dwarfing the $100 trillion world GDP. However, net exposure is far lower due to offsetting contracts.",
+    "category": "Finance",
+    "image": "5104.jpg"
+  },
+  {
+    "id": "5105",
+    "title": "JP Morgan's Most Famous Investment Was in a Bankrupt Railway—And It Made Him a Fortune",
+    "fact": "In 1893, J.P. Morgan restructured the bankrupt Philadelphia & Reading Railroad, emerging as its de facto owner and turning it profitable. He repeated this play with multiple railroads.",
+    "category": "Finance",
+    "image": "5105.jpg"
+  },
+  {
+    "id": "5106",
+    "title": "The First Credit Bureau Was Started by a Librarian in 1899",
+    "fact": "John Henry Patterson, a librarian-turned-entrepreneur, founded the Retail Credit Company to assess creditworthiness. It later rebranded as Equifax, now one of the 'Big Three' credit bureaus.",
+    "category": "Finance",
+    "image": "5106.jpg"
+  },
+  {
+    "id": "5107",
+    "title": "The Tokyo Stock Exchange Was Once Closed for 10 Days After an Earthquake",
+    "fact": "Following the Great Kanto Earthquake of 1923, the Tokyo Stock Exchange shut down for 10 days. When it reopened, the market had plunged by over 50% in some sectors.",
+    "category": "Finance",
+    "image": "5107.jpg"
+  },
+  {
+    "id": "5108",
+    "title": "The 1987 'Black Monday' Crash Was So Fast That Computers Couldn't Keep Up",
+    "fact": "On October 19, 1987, the Dow fell 22.6% in a single day. Program trading algorithms exacerbated the selloff—but many NYSE computers simply froze from the volume overload.",
+    "category": "Finance",
+    "image": "5108.jpg"
+  },
+  {
+    "id": "5109",
+    "title": "The First Algorithmic Trading System Was Built in 1949—Without Computers",
+    "fact": "Richard Donchian created a rules-based trading system using moving averages, executing manually via telegram. His methods are still used today as the basis for many quantitative funds.",
+    "category": "Finance",
+    "image": "5109.jpg"
+  },
+  {
+    "id": "5110",
+    "title": "The US Treasury Once Issued $500, $1,000, $5,000, and $10,000 Bills—All Discontinued",
+    "fact": "High-denomination bills were officially discontinued in 1969 due to lack of use and anti-money laundering concerns. Some $100,000 bills exist but were only used for inter-bank transfers.",
+    "category": "Finance",
+    "image": "5110.jpg"
+  },
+  {
+    "id": "5111",
+    "title": "The Chinese Invented Paper Currency Over 1,000 Years Ago—And It Led to Hyperinflation",
+    "fact": "The Tang Dynasty introduced 'flying cash' in the 7th century. By the 11th century, the Song Dynasty printed the first government-backed paper money—but overprinting caused severe inflation.",
+    "category": "Finance",
+    "image": "5111.jpg"
+  },
+  {
+    "id": "5112",
+    "title": "The Average Professional Investor Underperforms the S&P 500 Over 10 Years",
+    "fact": "S&P Dow Jones Indices reports that over 85% of actively managed mutual funds underperform the S&P 500 over a decade—the primary argument for index fund investing.",
+    "category": "Finance",
+    "image": "5112.jpg"
+  },
+  {
+    "id": "5113",
+    "title": "The First Stock Market Panic in America Happened in 1792—And Alexander Hamilton Bailed It Out",
+    "fact": "The 'Panic of 1792' was triggered by speculation in bank stocks. Treasury Secretary Hamilton injected liquidity by buying securities, preventing a full collapse and setting a precedent for central bank intervention.",
+    "category": "Finance",
+    "image": "5113.jpg"
+  },
+  {
+    "id": "5114",
+    "title": "Visa and MasterCard Started as Competing Bank Consortia in the 1960s",
+    "fact": "Visa began as BankAmericard (a single bank's card) in 1958, while MasterCard started as the Interbank Card Association. They merged their networks later but remain competing brands.",
+    "category": "Finance",
+    "image": "5114.jpg"
+  },
+  {
+    "id": "5115",
+    "title": "Federal Reserve Printing Money Is Technically Called 'Quantitative Easing'—Not Printing",
+    "fact": "The Fed creates money digitally by purchasing securities—no physical printing press is involved. 'Quantitative easing' was first used by the Bank of Japan in 2001.",
+    "category": "Finance",
+    "image": "5115.jpg"
+  },
+  {
+    "id": "5116",
+    "title": "The Great Depression Had a 'Roaring Twenties' Bubble Built on Margin Loans as High as 90%",
+    "fact": "In the 1920s, investors could buy stocks with just 10% down—borrowing the rest. This extreme leverage inflated the market and magnified the crash when margin calls forced selling.",
+    "category": "Finance",
+    "image": "5116.jpg"
+  },
+  {
+    "id": "5117",
+    "title": "The Most Valuable Company in History (Adjusted for Inflation) Was the Dutch East India Company",
+    "fact": "At its peak, the VOC was worth an estimated $7.9 trillion in today's money—more than Apple, Microsoft, and Saudi Aramco combined. It held a monopoly on Asian trade for nearly 200 years.",
+    "category": "Finance",
+    "image": "5117.jpg"
+  },
+  {
+    "id": "5118",
+    "title": "The Caesar Shift Cipher Was Used by Julius Caesar—And It's Still Used in Modern ROT13",
+    "fact": "Caesar encrypted military messages by shifting letters by 3 positions. This simple technique evolved into ROT13, still used today in online forums to hide spoilers.",
     "category": "History",
-    "image": "1916.jpg"
+    "image": "5118.jpg"
   },
   {
-    "id": "1917",
-    "title": "WiFi Technology Was Invented by Australian Scientists",
-    "fact": "WiFi technology was developed in the 1990s by a team led by Dr. John O'Sullivan at CSIRO in Australia, with the patent filed in 1992.",
+    "id": "5119",
+    "title": "Ancient Romans Used Urine as Mouthwash—And Taxed It",
+    "fact": "Roman dentists used ammonia-rich urine to whiten teeth. Emperor Vespasian famously taxed public urinals—giving rise to the phrase 'Pecunia non olet' (money doesn't stink).",
+    "category": "History",
+    "image": "5119.jpg"
+  },
+  {
+    "id": "5120",
+    "title": "The Smallest War in History Lasted 38 Minutes—The Anglo-Zanzibar War of 1896",
+    "fact": "After the Sultan of Zanzibar died, his nephew seized power without British approval. The British issued an ultimatum, then shelled the palace. Zanzibar surrendered in 38 minutes.",
+    "category": "History",
+    "image": "5120.jpg"
+  },
+  {
+    "id": "5121",
+    "title": "The First Known Ghost Story Was Written in Ancient Egypt Over 3,500 Years Ago",
+    "fact": "A papyrus fragment from the 18th Dynasty describes a ghost haunting a priest—complete with dialogue and attempts to exorcise it, making it history's oldest known horror narrative.",
+    "category": "History",
+    "image": "5121.jpg"
+  },
+  {
+    "id": "5122",
+    "title": "The Term 'Computer Bug' Existed Before the Moth—As a Mechanical Engineering Term",
+    "fact": "Thomas Edison used 'bug' to describe mechanical defects in his phonographs decades before the 1947 moth. The Harvard incident just popularized it in computing.",
     "category": "Technology",
-    "image": "1917.jpg"
+    "image": "5122.jpg"
   },
   {
-    "id": "1918",
-    "title": "Frogs Do Not Drink Water - They Absorb It Through Their Skin",
-    "fact": "Frogs absorb water through their skin rather than drinking it. They have a special patch of skin called the 'drinking patch' on their belly for this purpose.",
+    "id": "5123",
+    "title": "The First Email Was Sent in 1971—And It Was Just Two Letters",
+    "fact": "Ray Tomlinson sent the first network email between two DEC PDP-10 computers. The message was simply 'QWERTYUIOP'—a test that also introduced the '@' symbol in email addresses.",
+    "category": "Technology",
+    "image": "5123.jpg"
+  },
+  {
+    "id": "5124",
+    "title": "The QR Code Was Invented for Tracking Car Parts—Not Payments",
+    "fact": "Denso Wave, a Toyota subsidiary, created QR codes in 1994 to track vehicle components. The square design allowed 20× faster scanning than barcodes. The original patent was never enforced.",
+    "category": "Technology",
+    "image": "5124.jpg"
+  },
+  {
+    "id": "5125",
+    "title": "The First Smartphone Was Released in 1994—IBM's Simon",
+    "fact": "The IBM Simon Personal Communicator had a touchscreen, email, and built-in apps. It cost $899 and sold only 50,000 units, but it pioneered the smartphone category a decade before the iPhone.",
+    "category": "Technology",
+    "image": "5125.jpg"
+  },
+  {
+    "id": "5126",
+    "title": "Google's First Server Was Made of Lego Bricks",
+    "fact": "Larry Page and Sergey Brin built Google's first storage system using 10 hard drives stacked in a custom Lego case—it was technically efficient and easily expandable.",
+    "category": "Technology",
+    "image": "5126.jpg"
+  },
+  {
+    "id": "5127",
+    "title": "The Space Between Your Fingers Is Called a 'Web Space'—And It's Shared with Platypuses",
+    "fact": "While humans have webbing between fingers, it's vestigial. In platypuses and otters, those same anatomical spaces become functional webbing for swimming.",
+    "category": "Science",
+    "image": "5127.jpg"
+  },
+  {
+    "id": "5128",
+    "title": "Your DNA Could Store the Entire World's Data in a Shoebox",
+    "fact": "One gram of DNA can theoretically store 215 petabytes (215 million gigabytes). All of humanity's digital data could fit in a few kilograms of DNA—making it the ultimate storage medium.",
+    "category": "Science",
+    "image": "5128.jpg"
+  },
+  {
+    "id": "5129",
+    "title": "The Mantis Shrimp Has the Most Complex Eyes in the Animal Kingdom",
+    "fact": "They have 12-16 types of photoreceptors (humans have 3), enabling them to see polarized and ultraviolet light. Their eyes move independently and can process depth like trinocular vision.",
+    "category": "Science",
+    "image": "5129.jpg"
+  },
+  {
+    "id": "5130",
+    "title": "Bamboo Can Grow Up to 35 Inches in a Single Day",
+    "fact": "Some bamboo species grow at 1.5 inches per hour—fast enough to see with the naked eye. This makes it the fastest-growing plant on Earth, reaching full height in just 2-3 months.",
+    "category": "Science",
+    "image": "5130.jpg"
+  },
+  {
+    "id": "5131",
+    "title": "A Single Teaspoon of Soil Contains More Microorganisms Than Humans on Earth",
+    "fact": "One gram of soil can harbor up to 50 billion bacteria—more than the planet's 8 billion people. Over 10,000 species can coexist in just a handful of dirt.",
+    "category": "Science",
+    "image": "5131.jpg"
+  },
+  {
+    "id": "5132",
+    "title": "The Human Body Has More Bacterial Cells Than Human Cells",
+    "fact": "Your body contains roughly 40 trillion bacteria and 30 trillion human cells—meaning you're biologically more bacteria than you are 'you' by cell count.",
+    "category": "Science",
+    "image": "5132.jpg"
+  },
+  {
+    "id": "5133",
+    "title": "The Coldest Place in the Universe Is Actually Created by Lasers on Earth",
+    "fact": "Bose-Einstein condensates produced in labs at MIT have reached 0.5 picokelvin—colder than anywhere in the known universe, including deep space at 2.7 kelvin.",
+    "category": "Science",
+    "image": "5133.jpg"
+  },
+  {
+    "id": "5134",
+    "title": "Cows Produce More Methane Than All Cars Combined",
+    "fact": "Global livestock emit about 100 million tons of methane annually—more than the entire transportation sector. However, methane breaks down in ~12 years, while CO₂ persists for centuries.",
+    "category": "Science",
+    "image": "5134.jpg"
+  },
+  {
+    "id": "5135",
+    "title": "The Red Sea Is Actually 10°C Warmer Than Most Seas—Even in Winter",
+    "fact": "Due to volcanic activity below the seabed and its narrow, enclosed shape, the Red Sea maintains surface temperatures above 20°C even in winter—making it the warmest sea on Earth.",
+    "category": "Geography",
+    "image": "5135.jpg"
+  },
+  {
+    "id": "5136",
+    "title": "The Sahara Desert Stretches Farther Than the Moon's Diameter",
+    "fact": "The Sahara is approximately 3,000 miles (4,800 km) wide from east to west. The Moon's diameter is only 2,159 miles—so the Sahara is 1.4 times wider than the Moon.",
+    "category": "Geography",
+    "image": "5136.jpg"
+  },
+  {
+    "id": "5138",
+    "title": "Mount Everest Is Not the Tallest Mountain—It Depends on How You Measure",
+    "fact": "Mauna Kea in Hawaii is 33,500 feet from its base on the ocean floor to its peak—making it taller than Everest (29,032 feet). Everest is only the highest above sea level.",
+    "category": "Geography",
+    "image": "5138.jpg"
+  },
+  {
+    "id": "5139",
+    "title": "The Amazon River Once Flowed in the Opposite Direction",
+    "fact": "Approximately 100 million years ago, the Amazon flowed westward into the Pacific. The rise of the Andes Mountains forced a reversal, making it flow east into the Atlantic.",
+    "category": "Geography",
+    "image": "5139.jpg"
+  },
+  {
+    "id": "5140",
+    "title": "Tokyo Is the World's Largest Metropolitan Area—Home to 37 Million People",
+    "fact": "The Greater Tokyo Area houses 37.4 million people—more than the population of Canada, Australia, and New Zealand combined, within an area roughly the size of Los Angeles County.",
+    "category": "Culture",
+    "image": "5140.jpg"
+  },
+  {
+    "id": "5141",
+    "title": "The First Olympic Games Had Only One Event—And It Was Naked",
+    "fact": "The ancient Olympics in 776 BC featured only a foot race called the 'stadion.' Athletes competed completely nude, which was considered the purest form of athletic competition.",
+    "category": "Culture",
+    "image": "5141.jpg"
+  },
+  {
+    "id": "5142",
+    "title": "The World's Most Translated Website Is Not Google—It's Watchtower (Jehovah's Witnesses)",
+    "fact": "The official website of Jehovah's Witnesses (jw.org) is available in over 1,100 languages—more than Google, Wikipedia, or Facebook. This has been confirmed by Guinness World Records.",
+    "category": "Culture",
+    "image": "5142.jpg"
+  },
+  {
+    "id": "5143",
+    "title": "In Japan, There's an Island Overrun by Rabbits—With No Predators",
+    "fact": "Okunoshima, also called 'Rabbit Island,' has hundreds of wild rabbits roaming freely. They have no natural predators, and visitors are encouraged to feed them—but no one is allowed to take them.",
+    "category": "Culture",
+    "image": "5143.jpg"
+  },
+  {
+    "id": "5144",
+    "title": "The First Spacecraft to Leave the Solar System Was Voyager 1—And It's Still Sending Data",
+    "fact": "Launched in 1977, Voyager 1 entered interstellar space in 2012. It continues sending data from over 15 billion miles away, with signals taking nearly 22 hours to reach Earth.",
+    "category": "Space",
+    "image": "5144.jpg"
+  },
+  {
+    "id": "5145",
+    "title": "There's a Planet Made Entirely of Water—Oceanic Exoplanets",
+    "fact": "Astronomers have identified exoplanets like GJ 1214 b that may be entirely covered in deep oceans with no landmasses—'water worlds' composed of up to 50% water by mass.",
+    "category": "Space",
+    "image": "5145.jpg"
+  },
+  {
+    "id": "5146",
+    "title": "The First Photograph of a Black Hole Took 5 Years to Produce",
+    "fact": "The Event Horizon Telescope captured the M87 black hole image in 2019—but processing the data from 8 telescopes globally took over 5 years of algorithmic processing to create.",
+    "category": "Space",
+    "image": "5146.jpg"
+  },
+  {
+    "id": "5147",
+    "title": "The Northern Lights Are 100 Times Higher Than the International Space Station",
+    "fact": "Auroras occur in the thermosphere at 50-200 miles altitude, while the ISS orbits at only 250 miles. Auroras can extend thousands of miles across, dwarfing the station's small footprint.",
+    "category": "Space",
+    "image": "5147.jpg"
+  },
+  {
+    "id": "5148",
+    "title": "A Single Star in the Night Sky Could Actually Be a Galaxy",
+    "fact": "The Andromeda Galaxy appears as a faint star to the naked eye—but it's actually a spiral galaxy containing 1 trillion stars, 2.5 million light-years away.",
+    "category": "Space",
+    "image": "5148.jpg"
+  },
+  {
+    "id": "5149",
+    "title": "Gorillas Can Catch Human Colds—And They Have Identical Blood Types",
+    "fact": "Gorillas share nearly 98% DNA with humans and have the same blood types (A, B, AB, O). They can catch respiratory infections from humans—a major threat in conservation areas.",
     "category": "Animals",
-    "image": "1918.jpg"
+    "image": "5149.jpg"
   },
   {
-    "id": "1919",
-    "title": "Lightning Strikes Earth Approximately 100 Times Per Second",
-    "fact": "At any given moment, there are approximately 1,800 thunderstorms occurring worldwide, resulting in about 100 lightning strikes every second.",
-    "category": "Nature",
-    "image": "1919.jpg"
+    "id": "5150",
+    "title": "The Heart of a Shrimp Is Located in Its Head",
+    "fact": "Unlike humans, a shrimp's heart is positioned in its head—specifically in the cephalothorax, just behind the eyes. This compact arrangement fits their exoskeletal anatomy.",
+    "category": "Animals",
+    "image": "5150.jpg"
+  },
+  {
+    "id": "5151",
+    "title": "The First Hedge Fund Was Launched in 1949—With Only $100,000",
+    "fact": "Alfred Winslow Jones started the first modern hedge fund, raising just $100,000. He invented the 'long/short equity' strategy, using leverage to amplify returns while hedging market risk.",
+    "category": "Finance",
+    "image": "5151.jpg"
+  },
+  {
+    "id": "5152",
+    "title": "The New York Fed Once Saved the US Economy by Bailing Out a Single Bank in 1907",
+    "fact": "During the Panic of 1907, J.P. Morgan personally organized a bailout of troubled trusts. This failure of private banking led directly to the creation of the Federal Reserve in 1913.",
+    "category": "Finance",
+    "image": "5152.jpg"
+  },
+  {
+    "id": "5153",
+    "title": "The World's First Sovereign Wealth Fund Was Created in 1953 by Kuwait",
+    "fact": "Kuwait established the Kuwait Investment Authority to manage oil revenues. Today, sovereign wealth funds manage over $10 trillion globally, with Norway's GPFG being the largest at $1.6 trillion.",
+    "category": "Finance",
+    "image": "5153.jpg"
+  },
+  {
+    "id": "5154",
+    "title": "The Average American Will Spend Over $500,000 on Interest in Their Lifetime",
+    "fact": "Over a typical lifetime, Americans pay roughly $200,000 in mortgage interest, $100,000 in credit card interest, and $200,000 in auto loan and student loan interest combined—totaling over half a million dollars.",
+    "category": "Finance",
+    "image": "5154.jpg"
+  },
+  {
+    "id": "5155",
+    "title": "The First Initial Public Offering (IPO) Was the Dutch East India Company in 1602",
+    "fact": "The VOC offered shares to the public on the Amsterdam Stock Exchange, raising capital for spice trade voyages. Investors received dividends that averaged 18% annually over 200 years.",
+    "category": "Finance",
+    "image": "5155.jpg"
+  },
+  {
+    "id": "5156",
+    "title": "In Japan, Negative Interest Rates Mean Banks Pay to Park Money",
+    "fact": "Since 2016, the Bank of Japan has charged commercial banks 0.1% for holding excess reserves—forcing them to lend rather than hoard cash, a policy rarely seen in modern economics.",
+    "category": "Finance",
+    "image": "5156.jpg"
+  },
+  {
+    "id": "5157",
+    "title": "The 2000 Dot-Com Bubble Was Inflated by Pets.com—Which Spent $300 Million on Marketing and Made $600,000",
+    "fact": "Pets.com raised $300 million in venture capital and spent $300 million on marketing and logistics. Its revenue? Just $619,000. It went bankrupt in 2000, becoming the poster child for irrational exuberance.",
+    "category": "Finance",
+    "image": "5157.jpg"
+  },
+  {
+    "id": "5158",
+    "title": "The London Stock Exchange Is Older Than the NYSE—By 129 Years",
+    "fact": "The LSE was founded in 1801, while the NYSE followed in 1817 (though informal trading began earlier). London remains one of the world's oldest and largest financial hubs.",
+    "category": "Finance",
+    "image": "5158.jpg"
+  },
+  {
+    "id": "5159",
+    "title": "The First US Paper Money Was Printed in 1690—By Massachusetts",
+    "fact": "Massachusetts Bay Colony printed 'bills of credit' to fund a military expedition against Canada. It wasn't backed by gold or silver—just the colony's promise to accept it for taxes.",
+    "category": "Finance",
+    "image": "5159.jpg"
+  },
+  {
+    "id": "5160",
+    "title": "The Wealth of the Walton Family (Walmart) Equals the Bottom 30% of Americans Combined",
+    "fact": "The seven Walton heirs hold a combined net worth of over $350 billion—equivalent to the total wealth of the poorest 100 million Americans.",
+    "category": "Finance",
+    "image": "5160.jpg"
+  },
+  {
+    "id": "5161",
+    "title": "The Chicago Board of Trade Was Founded by Speculators Who Bought and Sold Grain on Credit—With No Physical Grain Exchanging Hands",
+    "fact": "In 1848, grain merchants formalized futures trading—selling grain that didn't yet exist. This 'paper trading' became the basis for modern commodity futures markets.",
+    "category": "Finance",
+    "image": "5161.jpg"
+  },
+  {
+    "id": "5162",
+    "title": "The First Woman to Own a Seat on the NYSE Was Muriel Siebert in 1967",
+    "fact": "Siebert paid $445,000 for her seat—but 9 member firms refused to process her application, forcing her to borrow a seat from another member. She later became New York's first female Superintendent of Banking.",
+    "category": "Finance",
+    "image": "5162.jpg"
+  },
+  {
+    "id": "5163",
+    "title": "The Smallest Stock Market in the World Is in the Republic of Palau—With Zero Listed Companies",
+    "fact": "Palau established a stock exchange in 2018 but has no listed companies. It's essentially a corporate registry offering incentives for foreign businesses to incorporate there.",
+    "category": "Finance",
+    "image": "5163.jpg"
+  },
+  {
+    "id": "5164",
+    "title": "Switzerland Has Had Zero Inflation for Over a Decade—Making It a Safe Haven for Money",
+    "fact": "Switzerland's inflation rate has averaged under 1% for 15 years, occasionally dipping negative. This stability, combined with banking secrecy (now relaxed), made the Swiss Franc a global safe-haven currency.",
+    "category": "Finance",
+    "image": "5164.jpg"
+  },
+  {
+    "id": "5165",
+    "title": "The First Act of the US Congress After Independence Was to Issue a $3.4 Million Loan—In France",
+    "fact": "In 1781, the Continental Congress secured a $3.4 million loan from France to fund the Revolutionary War. Without this loan, the American Revolution would likely have failed.",
+    "category": "History",
+    "image": "5165.jpg"
+  },
+  {
+    "id": "5166",
+    "title": "The Soviet Union Had Its Own 'Silicon Valley' in the 1960s—But It Failed",
+    "fact": "The 'Zelenograd' tech hub near Moscow was built to rival California's Silicon Valley. However, bureaucracy and isolation from Western technology led to its collapse—despite some impressive hardware prototypes.",
+    "category": "History",
+    "image": "5166.jpg"
+  },
+  {
+    "id": "5167",
+    "title": "The Most Expensive Painting Ever Stolen Was the 'Mona Lisa'—And It Was Recovered in 2 Years",
+    "fact": "In 1911, the Mona Lisa was stolen from the Louvre by an Italian museum employee. It was recovered in 1913 when he tried to sell it to the Uffizi Gallery in Florence.",
+    "category": "History",
+    "image": "5167.jpg"
+  },
+  {
+    "id": "5168",
+    "title": "Ancient Egyptians Had a 365-Day Calendar—Without Leap Years",
+    "fact": "The Egyptian civil calendar had 12 months of 30 days plus 5 extra days. Without leap years, it drifted by one day every 4 years—completely misaligning with seasons after 1,460 years.",
+    "category": "History",
+    "image": "5168.jpg"
+  },
+  {
+    "id": "5169",
+    "title": "The First Written Language Was Not Egyptian or Sumerian—It Was Sumerian Cuneiform",
+    "fact": "Dating back to 3400 BC, Sumerian cuneiform was the first writing system. Egyptian hieroglyphs appeared slightly later, around 3200 BC—both independently developed, but Sumerian is slightly older.",
+    "category": "History",
+    "image": "5169.jpg"
+  },
+  {
+    "id": "5170",
+    "title": "The Only US President to Survive Assassination Without Medical Treatment Was Andrew Jackson",
+    "fact": "In 1835, Richard Lawrence shot at Jackson—both pistols misfired. Jackson then attacked Lawrence with his walking cane until the would-be assassin was subdued. No medical care was needed.",
+    "category": "History",
+    "image": "5170.jpg"
+  },
+  {
+    "id": "5171",
+    "title": "The First Search Engine Was Not Google—It Was Archie, Created in 1990",
+    "fact": "Alan Emtage created Archie (short for 'archive') to index public FTP servers. It didn't use web crawling—it indexed filenames, not content. Google appeared 8 years later in 1998.",
+    "category": "Technology",
+    "image": "5171.jpg"
+  },
+  {
+    "id": "5172",
+    "title": "The First Computer Mouse Was Made of Wood—And Had Two Wheels, Not a Ball",
+    "fact": "Invented by Douglas Engelbart in 1964, the mouse used two perpendicular wheels to track movement. It was called a 'mouse' because the cord resembled a mouse's tail.",
+    "category": "Technology",
+    "image": "5172.jpg"
+  },
+  {
+    "id": "5173",
+    "title": "The '@' Symbol Was Used in 1536—For Measuring Wine",
+    "fact": "Before email, '@' denoted quantity—as in '5 @ $2' meaning 5 units at $2 each. It also appears in a 1536 document measuring wine barrels, centuries before email.",
+    "category": "Technology",
+    "image": "5173.jpg"
+  },
+  {
+    "id": "5174",
+    "title": "The First Video Game Console Sold for $100 in 1972—The Magnavox Odyssey",
+    "fact": "The Odyssey cost $100 ($700 today) and featured 12 games, including a version of ping-pong. It used overlays on the TV screen because it couldn't render graphics properly.",
+    "category": "Technology",
+    "image": "5174.jpg"
   }
 ]

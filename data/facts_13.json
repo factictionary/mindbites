@@ -1,702 +1,702 @@
 [
   {
-    "id": "6166",
-    "title": "The World's Oldest Living Organism Is a Fungus in Oregon",
-    "fact": "A honey fungus (Armillaria ostoyae) in Oregon's Malheur National Forest spans nearly 2,400 acres underground and is estimated to be at least 2,400 years old.",
-    "category": "Nature",
-    "image": "6166.jpg"
-  },
-  {
-    "id": "6167",
-    "title": "Ketchup Was Once Sold as Medicine",
-    "fact": "In the 1830s, an Ohio physician marketed tomato-based ketchup pills as a cure for indigestion, jaundice, and diarrhea, though the claims were later debunked.",
-    "category": "History",
-    "image": "6167.jpg"
-  },
-  {
-    "id": "6168",
-    "title": "There's a Bird That Can Sleep While Flying",
-    "fact": "Alpine swifts have been recorded staying airborne for over six months at a time, using brief periods of unihemispheric sleep to rest one half of their brain while continuing to fly.",
-    "category": "Animals",
-    "image": "6168.jpg"
-  },
-  {
-    "id": "6169",
-    "title": "The Amazon Rainforest Produces Its Own Rain",
-    "fact": "Through a process called evapotranspiration, the Amazon releases enormous amounts of water vapor from its trees, generating rain clouds that sustain much of the region's own rainfall cycle.",
-    "category": "Geography",
-    "image": "6169.jpg"
-  },
-  {
-    "id": "6170",
-    "title": "A Piece of Paper Can't Be Folded in Half More Than a Certain Number of Times",
-    "fact": "Due to the exponential growth in thickness, a standard sheet of paper can typically only be folded in half about 7 to 8 times by hand before it becomes physically impossible to fold further.",
-    "category": "Science",
-    "image": "6170.jpg"
-  },
-  {
-    "id": "6171",
-    "title": "There Was a 'Great Moon Hoax' That Fooled 19th-Century Readers",
-    "fact": "In 1835, the New York Sun published a series of fake articles claiming astronomers had discovered bat-like humanoids and unicorns living on the Moon, and the hoax was widely believed for weeks.",
-    "category": "History",
-    "image": "6171.jpg"
-  },
-  {
-    "id": "6172",
-    "title": "Kangaroos Can't Walk Backwards",
-    "fact": "The structure of a kangaroo's legs and its large tail make it anatomically incapable of moving backwards, which is why the animal appears on Australia's coat of arms as a symbol of forward progress.",
-    "category": "Animals",
-    "image": "6172.jpg"
-  },
-  {
-    "id": "6173",
-    "title": "There's a Town in Norway Where the Sun Doesn't Set for Months",
-    "fact": "Located above the Arctic Circle, the town of Svalbard experiences continuous daylight from around late April to late August due to Earth's axial tilt.",
-    "category": "Geography",
-    "image": "6173.jpg"
-  },
-  {
-    "id": "6174",
-    "title": "The First Recorded Use of a Zero as a Number Came from Ancient India",
-    "fact": "Mathematicians in India, notably Brahmagupta in the 7th century CE, were among the first to treat zero as a number in its own right with defined arithmetic rules, rather than just a placeholder.",
-    "category": "History",
-    "image": "6174.jpg"
-  },
-  {
-    "id": "6175",
-    "title": "Some Species of Turtles Breathe Through Their Butts",
-    "fact": "Certain freshwater turtles, like the Fitzroy River turtle, can absorb oxygen from water through specialized tissue in their cloaca, allowing them to stay submerged for extended periods.",
-    "category": "Animals",
-    "image": "6175.jpg"
-  },
-  {
-    "id": "6176",
-    "title": "There's a Forest in Poland Where All the Trees Bend the Same Way",
-    "fact": "The Crooked Forest near Gryfino, Poland, contains around 400 pine trees with trunks bent sharply northward at the base, a phenomenon whose cause remains a mystery to researchers.",
-    "category": "Nature",
-    "image": "6176.jpg"
-  },
-  {
-    "id": "6177",
-    "title": "The Inventor of the Modern Umbrella Faced Public Ridicule",
-    "fact": "When Jonas Hanway popularized carrying an umbrella in 18th-century London, he was mocked and even pelted by coachmen who feared the invention would hurt their rain-related business.",
-    "category": "History",
-    "image": "6177.jpg"
-  },
-  {
-    "id": "6178",
-    "title": "A Colony of Bees Can Recognize Human Faces",
-    "fact": "Studies have shown honeybees can be trained to distinguish between different human faces using a technique called configural processing, similar to how humans recognize faces.",
-    "category": "Animals",
-    "image": "6178.jpg"
-  },
-  {
-    "id": "6179",
-    "title": "There's a Nuclear Bomb Still Lost in the Ocean Off Georgia's Coast",
-    "fact": "In 1958, a U.S. Air Force bomber accidentally dropped a hydrogen bomb into the waters near Tybee Island, Georgia, during a training mishap, and it has never been recovered.",
-    "category": "History",
-    "image": "6179.jpg"
-  },
-  {
-    "id": "6180",
-    "title": "The Human Eye Can Detect a Single Photon of Light",
-    "fact": "Research published in Nature Communications in 2016 demonstrated that under controlled conditions, human observers could reliably sense the arrival of just one photon.",
+    "id": "123",
+    "title": "The Liver Can Regenerate Itself",
+    "fact": "The liver is the only internal organ capable of complete regeneration. If 75% is surgically removed, it can regrow to full size within months. Ancient Greeks knew about this — the myth of Prometheus being eaten daily by an eagle reflects real liver regeneration.",
     "category": "Human Body",
-    "image": "6180.jpg"
+    "image": "123.jpg"
   },
   {
-    "id": "6181",
-    "title": "There's a Species of Shrimp That Can Change Its Sex",
-    "fact": "Many species of cleaner shrimp and other crustaceans are protandric hermaphrodites, starting life as males and later transitioning into females as they mature.",
-    "category": "Animals",
-    "image": "6181.jpg"
-  },
-  {
-    "id": "6182",
-    "title": "The Sound Barrier Was Once Thought to Be an Impenetrable Wall",
-    "fact": "Before Chuck Yeager broke the sound barrier in 1947, many engineers believed aircraft approaching that speed would be torn apart by an invisible physical 'wall,' a myth largely dispelled by his successful flight.",
-    "category": "History",
-    "image": "6182.jpg"
-  },
-  {
-    "id": "6183",
-    "title": "There's a River in Colombia Known as the 'River of Five Colors'",
-    "fact": "Caño Cristales turns vivid shades of red, yellow, green, blue, and black during a specific seasonal window, caused by a unique aquatic plant called Macarenia clavigera reacting to sunlight levels.",
+    "id": "125",
+    "title": "Australia Is Wider Than the Moon",
+    "fact": "Australia's diameter from east to west is approximately 4,000 km. The Moon's diameter is only 3,474 km. Australia is literally wider than the Moon.",
     "category": "Geography",
-    "image": "6183.jpg"
+    "image": "125.jpg"
   },
   {
-    "id": "6184",
-    "title": "The First Vending Machines in America Sold Chewing Gum on Subway Platforms",
-    "fact": "In 1888, the Adams Gum Company installed vending machines on New York City elevated train platforms, marking one of the earliest commercial vending machine uses in the United States.",
-    "category": "History",
-    "image": "6184.jpg"
-  },
-  {
-    "id": "6185",
-    "title": "There's a Species of Spider That Builds Fake Decoy Spiders in Its Web",
-    "fact": "Certain orb-weaving spiders in the Amazon construct larger-than-life decoy spiders out of leaves, debris, and silk to confuse or intimidate potential predators.",
-    "category": "Animals",
-    "image": "6185.jpg"
-  },
-  {
-    "id": "6186",
-    "title": "Antarctica Has a Waterfall That Runs Blood Red",
-    "fact": "Blood Falls, at the tip of Taylor Glacier, gets its striking red color from iron-rich saltwater seeping out of a subglacial lake and oxidizing on contact with air.",
+    "id": "127",
+    "title": "There Are More Trees Than Stars in the Milky Way",
+    "fact": "Earth has approximately 3 trillion trees — 46× more than previously estimated. The Milky Way has an estimated 100–400 billion stars. Earth's forests have 7.5× more trees than the Milky Way has stars.",
     "category": "Geography",
-    "image": "6186.jpg"
+    "image": "127.jpg"
   },
   {
-    "id": "6187",
-    "title": "There Was a Point When More People Were Born in China Than Existed in the Roman Empire",
-    "fact": "At the height of the Han Dynasty around 2 CE, China's population is estimated to have exceeded 55 million, roughly comparable to or exceeding contemporary Roman Empire population estimates.",
-    "category": "History",
-    "image": "6187.jpg"
-  },
-  {
-    "id": "6188",
-    "title": "Some Caterpillars Can Whistle to Scare Off Predators",
-    "fact": "The walnut sphinx caterpillar forces air out of tiny holes along its body called spiracles, producing a whistling sound loud enough to startle birds into dropping it.",
-    "category": "Animals",
-    "image": "6188.jpg"
-  },
-  {
-    "id": "6189",
-    "title": "There's a City Built Entirely Underground in Australia",
-    "fact": "The opal-mining town of Coober Pedy has residents living in underground dugout homes to escape scorching desert surface temperatures that can exceed 50 degrees Celsius.",
-    "category": "Culture",
-    "image": "6189.jpg"
-  },
-  {
-    "id": "6190",
-    "title": "A Massive Ice Age Once Turned Nearly the Entire Earth into a Giant Snowball",
-    "fact": "Geological evidence suggests that around 650 to 700 million years ago, Earth may have been almost entirely covered in ice in an event scientists call 'Snowball Earth.'",
-    "category": "Science",
-    "image": "6190.jpg"
-  },
-  {
-    "id": "6191",
-    "title": "There's a Species of Wasp That Turns Cockroaches into Zombie Slaves",
-    "fact": "The emerald jewel wasp stings a cockroach's brain with venom that suppresses its escape reflex, then leads it by an antenna to its burrow to serve as living food for its larvae.",
-    "category": "Animals",
-    "image": "6191.jpg"
-  },
-  {
-    "id": "6192",
-    "title": "The Longest Total Solar Eclipse of the 21st Century Will Last Over 7 Minutes",
-    "fact": "On July 16, 2186, a total solar eclipse is predicted to last approximately 7 minutes and 29 seconds, making it the longest of the century by a wide margin.",
-    "category": "Space",
-    "image": "6192.jpg"
-  },
-  {
-    "id": "6193",
-    "title": "There's a Tradition in Spain of Throwing Tomatoes at Each Other",
-    "fact": "Each August, the town of Buñol hosts La Tomatina, a festival where tens of thousands of participants throw over 100 tons of ripe tomatoes at one another purely for fun.",
-    "category": "Culture",
-    "image": "6193.jpg"
-  },
-  {
-    "id": "6194",
-    "title": "Some Fish Can Climb Waterfalls Using Their Mouths",
-    "fact": "Hawaii's native gobies, called o'opu, use suction cups formed by their pelvic and mouth structures to climb vertical waterfalls hundreds of feet high in order to reach freshwater streams.",
-    "category": "Animals",
-    "image": "6194.jpg"
-  },
-  {
-    "id": "6195",
-    "title": "There's a Language Where Every Sentence Must Indicate How the Speaker Knows the Information",
-    "fact": "Turkish and several other languages use evidentiality markers, requiring speakers to grammatically specify whether they witnessed an event directly or heard about it secondhand.",
-    "category": "Language",
-    "image": "6195.jpg"
-  },
-  {
-    "id": "6196",
-    "title": "There Was a Building Boom of Skyscrapers Race in 1930s New York That Was Kept Secret Until the Last Minute",
-    "fact": "The Chrysler Building's architect secretly assembled a hidden spire inside the structure and raised it in a matter of minutes to surpass 40 Wall Street as the world's tallest building in 1930.",
-    "category": "History",
-    "image": "6196.jpg"
-  },
-  {
-    "id": "6197",
-    "title": "There's a Fish That Can Survive Out of Water for Days by Walking on Land",
-    "fact": "The mudskipper can breathe through its skin and mouth lining, allowing it to leave water entirely and move across mudflats using its muscular pectoral fins for extended periods.",
-    "category": "Animals",
-    "image": "6197.jpg"
-  },
-  {
-    "id": "6198",
-    "title": "The World's Smallest Reptile Was Discovered on a Tiny Island in Madagascar",
-    "fact": "Brookesia nana, a chameleon species discovered in 2021, measures under 22 millimeters long, small enough to fit comfortably on a human fingertip.",
-    "category": "Animals",
-    "image": "6198.jpg"
-  },
-  {
-    "id": "6199",
-    "title": "There's a Salt Flat So Flat It's Used to Calibrate Satellites",
-    "fact": "Bolivia's Salar de Uyuni, the world's largest salt flat, is so extraordinarily level that space agencies use it as a reference surface to calibrate satellite altimeters.",
+    "id": "128",
+    "title": "Africa Is Much Larger Than Maps Show",
+    "fact": "Standard Mercator map projections dramatically distort size. Africa is actually 14× bigger than Greenland, can fit the US, China, India, and most of Europe inside it, and covers 20% of Earth's land area.",
     "category": "Geography",
-    "image": "6199.jpg"
+    "image": "128.jpg"
   },
   {
-    "id": "6200",
-    "title": "A Piano Has More Possible Melodies Than Atoms in the Universe",
-    "fact": "Because of the sheer number of possible note, rhythm, and duration combinations across a piano's 88 keys, mathematicians have noted the space of possible melodies vastly exceeds the estimated number of atoms in the observable universe.",
-    "category": "Science",
-    "image": "6200.jpg"
-  },
-  {
-    "id": "6201",
-    "title": "There's a Species of Jellyfish with No Brain That Can Still Learn",
-    "fact": "Box jellyfish lack a centralized brain but have been shown in studies to learn from visual experience, associating obstacles with turning behavior despite having only a distributed nerve net.",
-    "category": "Animals",
-    "image": "6201.jpg"
-  },
-  {
-    "id": "6202",
-    "title": "The Eiffel Tower Has a Secret Apartment at the Top",
-    "fact": "Gustave Eiffel built a private apartment for himself near the tower's summit, which he used to host guests including Thomas Edison, and it remains preserved today.",
-    "category": "History",
-    "image": "6202.jpg"
-  },
-  {
-    "id": "6203",
-    "title": "There's a Type of Rain That Never Reaches the Ground",
-    "fact": "Called virga, this phenomenon occurs when rain evaporates in dry air before hitting the surface, often visible as wispy streaks trailing beneath clouds in desert regions.",
-    "category": "Science",
-    "image": "6203.jpg"
-  },
-  {
-    "id": "6204",
-    "title": "Some Ancient Roman Recipes Used Fermented Fish Sauce in Nearly Every Dish",
-    "fact": "Garum, a pungent fermented fish sauce, was a staple condiment across the Roman Empire, added to everything from meats to desserts much like modern soy sauce or fish sauce today.",
-    "category": "History",
-    "image": "6204.jpg"
-  },
-  {
-    "id": "6205",
-    "title": "There's a Species of Bird That Builds the Largest Nests of Any Animal",
-    "fact": "Sociable weaver birds in southern Africa construct massive communal nests that can house over a hundred breeding pairs and persist for generations, sometimes weighing over a ton.",
-    "category": "Animals",
-    "image": "6205.jpg"
-  },
-  {
-    "id": "6206",
-    "title": "The Word 'Sabotage' May Come from Workers Throwing Their Shoes into Machinery",
-    "fact": "One popular etymology traces 'sabotage' to French laborers who allegedly threw wooden shoes called sabots into factory machines to disrupt production during disputes.",
-    "category": "Language",
-    "image": "6206.jpg"
-  },
-  {
-    "id": "6207",
-    "title": "There's a Cave in Mexico Filled with Giant Crystals",
-    "fact": "The Cave of the Crystals in Naica contains selenite beams up to 39 feet long, formed over hundreds of thousands of years in a uniquely stable, mineral-rich underground environment.",
-    "category": "Nature",
-    "image": "6207.jpg"
-  },
-  {
-    "id": "6208",
-    "title": "A Group of Pandas Is Called an Embarrassment",
-    "fact": "Despite their solitary nature making group gatherings rare, the collective noun for a group of giant pandas is officially 'an embarrassment.'",
-    "category": "Animals",
-    "image": "6208.jpg"
-  },
-  {
-    "id": "6209",
-    "title": "There Was a 19th-Century Fad Where People Kept Pet Rocks as Fashionable Companions",
-    "fact": "The famous 1975 Pet Rock craze wasn't the first of its kind; ornamental stones and curiosities were popular parlor novelties among Victorian households as conversation pieces.",
-    "category": "Culture",
-    "image": "6209.jpg"
-  },
-  {
-    "id": "6210",
-    "title": "The Sun Loses Millions of Tons of Mass Every Second",
-    "fact": "Through nuclear fusion, the Sun converts roughly 4 million tons of matter into energy every second, though this is a negligible fraction of its total mass over its lifetime.",
-    "category": "Space",
-    "image": "6210.jpg"
-  },
-  {
-    "id": "6211",
-    "title": "There's an Island Where Rabbits Vastly Outnumber People",
-    "fact": "Okunoshima, a small Japanese island, is home to hundreds of wild rabbits believed to descend from animals released decades ago, drawing tourists who come to feed them.",
-    "category": "Culture",
-    "image": "6211.jpg"
-  },
-  {
-    "id": "6212",
-    "title": "Sharks Predate Saturn's Rings",
-    "fact": "While Saturn's rings are estimated to be only around 100 million to a few hundred million years old, sharks have existed for roughly 400 million years, making them considerably older.",
-    "category": "Science",
-    "image": "6212.jpg"
-  },
-  {
-    "id": "6213",
-    "title": "There's a Tribe of Bees That Makes Chocolate-Colored Honey",
-    "fact": "Certain stingless bee species in tropical regions produce honey with unusually dark, complex flavors due to the specific plant nectars available in their rainforest habitats.",
-    "category": "Nature",
-    "image": "6213.jpg"
-  },
-  {
-    "id": "6214",
-    "title": "The First Alarm Clock Couldn't Be Set to Any Time Except 4 AM",
-    "fact": "Levi Hutchins invented an early mechanical alarm clock in 1787 designed solely to wake him at 4 a.m. for his own personal schedule, with no adjustable settings.",
-    "category": "History",
-    "image": "6214.jpg"
-  },
-  {
-    "id": "6215",
-    "title": "There's a Type of Lizard That Can Run on Water",
-    "fact": "The basilisk lizard, nicknamed the 'Jesus Christ lizard,' can sprint across water's surface by rapidly slapping its feet to create air pockets that briefly prevent it from sinking.",
-    "category": "Animals",
-    "image": "6215.jpg"
-  },
-  {
-    "id": "6216",
-    "title": "There's a Museum in Iceland Dedicated Entirely to Phallic Specimens",
-    "fact": "The Icelandic Phallological Museum in Reykjavik houses preserved penis specimens from nearly every mammal species found in the country, including whales and even a claimed human sample.",
-    "category": "Culture",
-    "image": "6216.jpg"
-  },
-  {
-    "id": "6217",
-    "title": "A Cloud Forest Can Get Most of Its Water from Fog Rather Than Rain",
-    "fact": "Tropical cloud forests, found at high altitudes, often rely on fine mist and fog condensing on leaves as their primary water source, rather than direct rainfall.",
-    "category": "Nature",
-    "image": "6217.jpg"
-  },
-  {
-    "id": "6218",
-    "title": "There's a Country Where It's Illegal to Not Vote",
-    "fact": "Australia enforces compulsory voting, requiring eligible citizens to cast a ballot in federal elections or face a small fine, a policy in place since 1924.",
-    "category": "Culture",
-    "image": "6218.jpg"
-  },
-  {
-    "id": "6219",
-    "title": "The Praying Mantis Is the Only Insect That Can Turn Its Head 180 Degrees",
-    "fact": "Unlike most insects, the praying mantis has a flexible neck joint allowing it to rotate its head nearly all the way around to track prey without moving its body.",
-    "category": "Animals",
-    "image": "6219.jpg"
-  },
-  {
-    "id": "6220",
-    "title": "There's a Waterfall in Venezuela So Tall the Water Evaporates Before Reaching the Ground",
-    "fact": "Angel Falls, the world's tallest waterfall at 3,212 feet, has water that turns to mist partway down due to strong winds, meaning it rarely lands as a continuous stream.",
+    "id": "129",
+    "title": "There Are 195 Countries But 6,500 Languages",
+    "fact": "Earth has 195 countries but an estimated 6,500–7,000 living languages. Papua New Guinea alone has over 800 languages among its 8 million people — the highest linguistic density of any country on Earth.",
     "category": "Geography",
-    "image": "6220.jpg"
+    "image": "129.jpg"
   },
   {
-    "id": "6221",
-    "title": "There Was a Point in History When Tulip Bulbs Were Worth More Than Houses",
-    "fact": "During the Dutch 'Tulip Mania' of the 1630s, some rare tulip bulbs sold for more than ten times a skilled craftsman's annual salary before the speculative market suddenly collapsed.",
-    "category": "History",
-    "image": "6221.jpg"
-  },
-  {
-    "id": "6222",
-    "title": "There's a Snail That Can Regrow Its Own Eyes",
-    "fact": "Certain land snail species have remarkable regenerative abilities, allowing them to regrow lost eyestalks, and sometimes even parts of their brain, within weeks of injury.",
-    "category": "Animals",
-    "image": "6222.jpg"
-  },
-  {
-    "id": "6223",
-    "title": "The Number of Possible Chess Games Exceeds the Number of Atoms in the Observable Universe",
-    "fact": "The Shannon number, an estimate of possible unique chess games, is around 10^120, far surpassing the roughly 10^80 atoms thought to exist in the observable universe.",
-    "category": "Science",
-    "image": "6223.jpg"
-  },
-  {
-    "id": "6224",
-    "title": "There's a Species of Octopus That Can Walk on Two Legs",
-    "fact": "The veined octopus has been observed curling six of its arms into a coconut-shell-like shape and 'walking' bipedally along the seafloor using the remaining two arms.",
-    "category": "Animals",
-    "image": "6224.jpg"
-  },
-  {
-    "id": "6225",
-    "title": "A Single Teaspoon of Soil Can Contain Billions of Microorganisms",
-    "fact": "Healthy soil is teeming with life, with a single teaspoon estimated to hold anywhere from a few hundred million to several billion bacteria, along with fungi and other microbes.",
-    "category": "Science",
-    "image": "6225.jpg"
-  },
-  {
-    "id": "6226",
-    "title": "There's a Bridge in China Made Entirely of Glass That Cracked on Its Opening Day",
-    "fact": "The Yuntai Mountain glass bridge in Henan reportedly developed a crack from a dropped metal object on its opening day, causing brief panic despite being structurally reinforced and safe.",
-    "category": "Science",
-    "image": "6226.jpg"
-  },
-  {
-    "id": "6227",
-    "title": "The Ancient Greeks Believed the Brain's Purpose Was to Cool the Blood",
-    "fact": "Aristotle theorized that the heart, not the brain, was the seat of thought and emotion, believing instead that the brain functioned mainly as a radiator to cool overheated blood.",
-    "category": "History",
-    "image": "6227.jpg"
-  },
-  {
-    "id": "6228",
-    "title": "There's a Species of Ant Whose Queen Can Live for Nearly Three Decades",
-    "fact": "Certain leafcutter ant queens have been recorded living up to 28 years in captivity, making them among the longest-lived insects ever documented.",
-    "category": "Animals",
-    "image": "6228.jpg"
-  },
-  {
-    "id": "6229",
-    "title": "There Was a Time When Coca-Cola Contained Actual Coca Leaf Extract",
-    "fact": "The original 1886 Coca-Cola formula included small amounts of cocaine derived from coca leaves, which was removed from the recipe by 1929 as regulations tightened.",
-    "category": "History",
-    "image": "6229.jpg"
-  },
-  {
-    "id": "6230",
-    "title": "There's a Fish That Can Generate Electricity Strong Enough to Stun a Horse",
-    "fact": "Electric eels can produce discharges of up to 600 volts, an amount capable of temporarily incapacitating a large animal like a horse in shallow water.",
-    "category": "Animals",
-    "image": "6230.jpg"
-  },
-  {
-    "id": "6231",
-    "title": "The Longest Recorded Game of Monopoly Lasted Over 70 Days",
-    "fact": "According to Guinness World Records, the longest continuous Monopoly game on record lasted more than 1,680 hours, played by a group determined to set the mark.",
-    "category": "Science",
-    "image": "6231.jpg"
-  },
-  {
-    "id": "6232",
-    "title": "There's a Species of Moth Whose Larvae Eat Nothing but Wool and Hair",
-    "fact": "Clothes moth larvae possess enzymes capable of digesting keratin, allowing them to feed on wool, fur, and hair, making them notorious pests in closets and museums alike.",
-    "category": "Animals",
-    "image": "6232.jpg"
-  },
-  {
-    "id": "6233",
-    "title": "There's an Entire City Beneath Seattle from the 1889 Fire",
-    "fact": "After a fire destroyed downtown Seattle, the city was rebuilt one story higher, leaving the original ground-level storefronts intact underground, now toured as the 'Seattle Underground.'",
-    "category": "History",
-    "image": "6233.jpg"
-  },
-  {
-    "id": "6234",
-    "title": "Some Species of Frogs Give Birth Through Their Backs",
-    "fact": "The Suriname toad has skin on its back that forms pockets where fertilized eggs develop, with fully formed baby toads eventually emerging directly from the mother's back.",
-    "category": "Animals",
-    "image": "6234.jpg"
-  },
-  {
-    "id": "6235",
-    "title": "There's a Desert That Receives Snow Almost Every Year",
-    "fact": "The Atacama Desert in Chile, one of the driest places on Earth, occasionally experiences rare snowfall at its higher elevations despite average annual rainfall of less than an inch.",
+    "id": "130",
+    "title": "The Dead Sea Is Getting Deader",
+    "fact": "The Dead Sea is shrinking at about 1 meter per year due to water diversion from the Jordan River. It's already 40% smaller than in the 1930s. A canal project called the 'Red-Dead Canal' has been proposed but remains controversial.",
     "category": "Geography",
-    "image": "6235.jpg"
+    "image": "130.jpg"
   },
   {
-    "id": "6236",
-    "title": "The First Ever Webcam Was Built to Monitor a Coffee Pot",
-    "fact": "Researchers at Cambridge University set up a camera in 1991 pointed at a coffee machine so they could check its status remotely without walking to another room, inspiring the first webcam feed.",
-    "category": "Technology",
-    "image": "6236.jpg"
+    "id": "131",
+    "title": "Greenland Is Not Green",
+    "fact": "Greenland is 80% covered by an ice sheet, while Iceland is covered in farmland and vegetation. Viking explorer Erik the Red gave Greenland its attractive name to lure settlers — and Iceland its unappealing one to keep it for himself.",
+    "category": "Geography",
+    "image": "131.jpg"
   },
   {
-    "id": "6237",
-    "title": "There's a Species of Beetle That Can Survive Being Run Over by a Car",
-    "fact": "The diabolical ironclad beetle has an exceptionally durable exoskeleton capable of withstanding forces exceeding 39,000 times its body weight, inspiring engineers studying impact-resistant materials.",
-    "category": "Animals",
-    "image": "6237.jpg"
+    "id": "132",
+    "title": "The Pacific Ocean Is Bigger Than All Land",
+    "fact": "The Pacific Ocean covers about 165 million square kilometers — larger than the total land area of all seven continents combined. You could fit all of Earth's continents inside it with room to spare.",
+    "category": "Geography",
+    "image": "132.jpg"
   },
   {
-    "id": "6238",
-    "title": "There Was a Roman Emperor Who Reportedly Made His Horse a Senator",
-    "fact": "Ancient historians recorded that Emperor Caligula threatened or intended to appoint his favorite horse, Incitatus, to the Roman Senate, though scholars debate whether this was ever fully carried out.",
-    "category": "History",
-    "image": "6238.jpg"
+    "id": "133",
+    "title": "The Sahara Was Once Green",
+    "fact": "Just 5,000–11,000 years ago, the Sahara was a lush green savanna with rivers, lakes, hippos, and giraffes. This 'Green Sahara' or African Humid Period ended as Earth's orbital cycle shifted, cutting off monsoon rains.",
+    "category": "Geography",
+    "image": "133.jpg"
   },
   {
-    "id": "6239",
-    "title": "There's a Fruit That Makes Sour Foods Taste Sweet",
-    "fact": "The miracle fruit contains a protein called miraculin that temporarily binds to taste buds, making sour foods like lemons taste remarkably sweet for up to an hour after consumption.",
+    "id": "134",
+    "title": "Mount Everest Is Not the Tallest Mountain",
+    "fact": "Mount Everest is the highest peak above sea level, but Mauna Kea in Hawaii is the tallest mountain from base to summit at 10,210 m (though much of it is underwater). And Chimborazo in Ecuador is the furthest point from Earth's center.",
+    "category": "Geography",
+    "image": "134.jpg"
+  },
+  {
+    "id": "135",
+    "title": "Lake Baikal Holds 20% of All Freshwater",
+    "fact": "Russia's Lake Baikal is the deepest lake on Earth (1,642 m) and contains approximately 23,000 cubic kilometers of water — about 20% of all fresh surface water on the planet — more than all five Great Lakes combined.",
+    "category": "Geography",
+    "image": "135.jpg"
+  },
+  {
+    "id": "136",
+    "title": "Canada Has the Most Lakes",
+    "fact": "Canada has more lakes than any other country — approximately 879,800 lakes larger than 0.1 km², holding 20% of the world's fresh lake water. Ontario alone has more lakes than the rest of the world combined.",
+    "category": "Geography",
+    "image": "136.jpg"
+  },
+  {
+    "id": "137",
+    "title": "The Amazon River Discharges 20% of Global River Flow",
+    "fact": "The Amazon River discharges approximately 209,000 cubic meters of water per second into the Atlantic — accounting for 20% of all freshwater entering the world's oceans. Its plume of freshwater is detectable 125 miles offshore.",
+    "category": "Geography",
+    "image": "137.jpg"
+  },
+  {
+    "id": "138",
+    "title": "There Is an Underground River Beneath the Amazon",
+    "fact": "A massive underground river called the Hamza flows beneath the Amazon at about 4km depth. It's about the same length as the Amazon (6,000 km) but 100× wider and flows much slower.",
+    "category": "Geography",
+    "image": "138.jpg"
+  },
+  {
+    "id": "140",
+    "title": "The Mariana Trench Is Deeper Than Everest Is Tall",
+    "fact": "The Challenger Deep in the Mariana Trench reaches 10,935 m below sea level — about 2,000 m deeper than Everest is tall. Less than 25 people have visited the bottom; more have been to the Moon.",
+    "category": "Geography",
+    "image": "140.jpg"
+  },
+  {
+    "id": "141",
+    "title": "Iceland Has No Army",
+    "fact": "Iceland has no military (only a coast guard) and has been at peace since 1262. It consistently ranks as one of the world's safest countries and spends its defense budget on education, healthcare, and renewable energy instead.",
+    "category": "Geography",
+    "image": "141.jpg"
+  },
+  {
+    "id": "142",
+    "title": "Brazil Has No McDonalds Free Zone",
+    "fact": "Every country in South America except Suriname, Guyana, Bolivia and French Guiana has McDonald's. Bolivia removed the fast food chain in 2002 and it never returned — Bolivians celebrated with a documentary called 'Why McDonald's Left Bolivia'.",
+    "category": "Geography",
+    "image": "142.jpg"
+  },
+  {
+    "id": "144",
+    "title": "Apples Are More Effective Than Coffee",
+    "fact": "The natural sugars and vitamins in apples provide more sustained alertness than caffeine. Apples contain quercetin, fiber, and B vitamins that stabilize blood glucose and provide longer-lasting energy without a caffeine crash.",
     "category": "Food",
-    "image": "6239.jpg"
+    "image": "144.jpg"
   },
   {
-    "id": "6240",
-    "title": "There's a Star Known to Be Cooler Than a Campfire",
-    "fact": "Brown dwarfs, sometimes called 'failed stars,' can have surface temperatures as low as a few hundred degrees, with some discovered cool enough to be comparable to a household oven or campfire.",
+    "id": "145",
+    "title": "Pineapple Dissolves Meat",
+    "fact": "Pineapple contains bromelain — a protease enzyme that literally digests proteins and can dissolve meat. It's also why pineapple causes that tingling sensation in your mouth: it's slowly dissolving the proteins on your tongue.",
+    "category": "Food",
+    "image": "145.jpg"
+  },
+  {
+    "id": "146",
+    "title": "Carrots Were Originally Purple",
+    "fact": "Wild carrots were purple and white. The familiar orange carrot was cultivated by Dutch growers in the 17th century, reportedly as a tribute to William of Orange. It became dominant because it grew larger and tasted better.",
+    "category": "Food",
+    "image": "146.jpg"
+  },
+  {
+    "id": "147",
+    "title": "White Chocolate Is Not Actually Chocolate",
+    "fact": "White chocolate contains no cocoa solids — only cocoa butter, milk, and sugar. Since chocolate is defined by cocoa solids content, white chocolate legally cannot be called 'chocolate' in many countries.",
+    "category": "Food",
+    "image": "147.jpg"
+  },
+  {
+    "id": "148",
+    "title": "Strawberries Are Not Berries",
+    "fact": "Botanically, strawberries are 'aggregate accessory fruits' — the red fleshy part is enlarged receptacle tissue, not the fruit. The tiny seeds on the outside are the actual fruits. Bananas, avocados, and tomatoes are true berries.",
+    "category": "Food",
+    "image": "148.jpg"
+  },
+  {
+    "id": "149",
+    "title": "Cheese Is the Most Stolen Food",
+    "fact": "Cheese is the world's most stolen food, accounting for about 4% of all cheese produced. It's so commonly stolen from supermarkets that it's called 'the most shoplifted food in the world' by the Centre for Retail Research.",
+    "category": "Food",
+    "image": "149.jpg"
+  },
+  {
+    "id": "150",
+    "title": "Chocolate Was Once Used as Currency",
+    "fact": "The Aztecs used cacao beans as currency — 100 cacao beans could buy a turkey. Spanish conquistadors were so confused by cacao-for-gold trades that some threw the 'brown almonds' overboard, not understanding their value.",
+    "category": "Food",
+    "image": "150.jpg"
+  },
+  {
+    "id": "151",
+    "title": "Nutmeg Is Psychedelic in Large Doses",
+    "fact": "Nutmeg contains myristicin and elemicin — psychoactive compounds that cause hallucinations in doses of 1–2 teaspoons. However, the severe nausea, vomiting, and 48-hour hangover make it a deeply unpleasant experience.",
+    "category": "Food",
+    "image": "151.jpg"
+  },
+  {
+    "id": "152",
+    "title": "Garlic Was Used as Antibiotic in WWI",
+    "fact": "During WWI, when antibiotics were unavailable, British doctors dressed wounds with raw garlic juice. Modern science confirms allicin in garlic is a broad-spectrum antimicrobial that kills bacteria including MRSA.",
+    "category": "Food",
+    "image": "152.jpg"
+  },
+  {
+    "id": "154",
+    "title": "Coffee Was Discovered by a Goat Herder",
+    "fact": "According to legend, coffee was discovered in 850 AD when Ethiopian goat herder Kaldi noticed his goats became unusually energetic after eating berries from a certain tree. He tried them himself — and coffee culture was born.",
+    "category": "Food",
+    "image": "154.jpg"
+  },
+  {
+    "id": "155",
+    "title": "Avocados Are Evolutionary Anachronisms",
+    "fact": "Avocados evolved their large seeds to be dispersed by giant ground sloths and mastodons, which went extinct 13,000 years ago. They should be extinct without their seed dispersers — but humans saved them by cultivating them.",
+    "category": "Food",
+    "image": "155.jpg"
+  },
+  {
+    "id": "156",
+    "title": "Cashews Cannot Be Sold in Shells",
+    "fact": "Raw cashews are toxic — they contain urushiol (the same chemical in poison ivy) in their shells. All cashews must be roasted or steamed at high heat to destroy the toxin before selling. There are literally no truly 'raw' cashews.",
+    "category": "Food",
+    "image": "156.jpg"
+  },
+  {
+    "id": "157",
+    "title": "The First Computer Bug Was an Actual Bug",
+    "fact": "In 1947, Grace Hopper's team at Harvard found a moth trapped in a relay of the Mark II computer, causing errors. They taped it to their log with the note 'First actual case of bug being found'. This popularized the term 'computer bug'.",
+    "category": "Technology",
+    "image": "157.jpg"
+  },
+  {
+    "id": "158",
+    "title": "The Internet Weighs 50 Grams",
+    "fact": "Physicist Russell Seitz calculated that all the electrons flowing through the internet's infrastructure at any given moment weigh about 50 grams — roughly the weight of a strawberry.",
+    "category": "Technology",
+    "image": "158.jpg"
+  },
+  {
+    "id": "159",
+    "title": "More People Have Mobile Phones Than Toilets",
+    "fact": "As of recent years, approximately 6 billion people have access to mobile phones while only 4.5 billion have access to toilets. More humans own a smartphone than a flush toilet.",
+    "category": "Technology",
+    "image": "159.jpg"
+  },
+  {
+    "id": "160",
+    "title": "The QWERTY Keyboard Was Designed to Slow You Down",
+    "fact": "The QWERTY layout was designed in the 1870s to prevent typewriter jams by separating commonly used letter pairs. Despite being obsolete, it became the global standard and faster alternatives like Dvorak never caught on.",
+    "category": "Technology",
+    "image": "160.jpg"
+  },
+  {
+    "id": "161",
+    "title": "YouTube's First Video Was 18 Seconds",
+    "fact": "The first video uploaded to YouTube on April 23, 2005 was 'Me at the zoo' by co-founder Jawed Karim — an 18-second clip of him at the San Diego Zoo talking about elephants. It now has over 200 million views.",
+    "category": "Technology",
+    "image": "161.jpg"
+  },
+  {
+    "id": "162",
+    "title": "GPS Depends on Einstein's Theory of Relativity",
+    "fact": "GPS satellites must correct their atomic clocks daily for both special and general relativity effects. Without these corrections, GPS would drift by 10 km per day. Einstein's 1915 theory directly enables your phone's navigation.",
+    "category": "Technology",
+    "image": "162.jpg"
+  },
+  {
+    "id": "163",
+    "title": "Emails Have Been Sent Since Before the Internet",
+    "fact": "Email predates the internet — Ray Tomlinson sent the first email in 1971 on ARPANET (the internet's predecessor) between two machines in the same room. He chose the @ symbol to separate user from machine, which we still use.",
+    "category": "Technology",
+    "image": "163.jpg"
+  },
+  {
+    "id": "164",
+    "title": "The First Smartphone Was in 1994",
+    "fact": "IBM's Simon Personal Communicator, released in 1994, was the first true smartphone — it had a touchscreen, apps, email, a calendar, and could make calls. Apple's iPhone came 13 years later but popularized the form factor.",
+    "category": "Technology",
+    "image": "164.jpg"
+  },
+  {
+    "id": "165",
+    "title": "Wi-Fi Was Invented to Detect Black Holes",
+    "fact": "Wi-Fi technology was developed by Australian astronomer John O'Sullivan in the 1990s while trying to detect radio waves from evaporating black holes. The signal-cleaning algorithm he developed became the basis of Wi-Fi.",
+    "category": "Technology",
+    "image": "165.jpg"
+  },
+  {
+    "id": "166",
+    "title": "Apollo 11 Had Less Computing Power Than Your Phone",
+    "fact": "The Apollo Guidance Computer that landed humans on the Moon had 4KB of RAM and ran at 0.043 MHz. A modern smartphone is roughly 1 million times more powerful. The Moon mission was navigated primarily by human skill and mathematics.",
+    "category": "Technology",
+    "image": "166.jpg"
+  },
+  {
+    "id": "167",
+    "title": "The First Computer Virus Was Written as a Prank",
+    "fact": "The 'Elk Cloner' virus (1982) was written by 15-year-old Rich Skrenta as a prank. It spread via floppy disk and displayed a silly poem. It became the first widespread computer virus in history — started by a bored teenager.",
+    "category": "Technology",
+    "image": "167.jpg"
+  },
+  {
+    "id": "168",
+    "title": "Google Was Almost Named BackRub",
+    "fact": "Before becoming Google, the search engine was called 'BackRub' — referring to its method of ranking pages by backlinks. Larry Page and Sergey Brin renamed it Google (a misspelling of 'googol') in 1997.",
+    "category": "Technology",
+    "image": "168.jpg"
+  },
+  {
+    "id": "169",
+    "title": "The Domain Name pizza.com Sold for $2.6 Million",
+    "fact": "In 2008, pizza.com sold for $2.6 million — making it one of the most expensive domain sales in history. Sex.com was sold for $13 million in 2010, and Insurance.com went for $35.6 million in 2010.",
+    "category": "Technology",
+    "image": "169.jpg"
+  },
+  {
+    "id": "170",
+    "title": "The GIF Format Is Older Than the World Wide Web",
+    "fact": "The GIF image format was created by CompuServe in 1987 — two years before Tim Berners-Lee invented the World Wide Web in 1989. Animated GIFs are thus older than the internet as we know it.",
+    "category": "Technology",
+    "image": "170.jpg"
+  },
+  {
+    "id": "nfact_9001_b1",
+    "title": "James Webb Telescope Views Ancient Galaxies",
+    "fact": "The James Webb Space Telescope detected galaxies that formed just 300 million years after the Big Bang, challenging our current theories of early cosmic evolution.",
     "category": "Space",
-    "image": "6240.jpg"
+    "image": "nfact_9001.jpg"
   },
   {
-    "id": "6241",
-    "title": "There's a Species of Shrimp That Can See Colors Humans Can't Even Imagine",
-    "fact": "Mantis shrimp possess up to 16 types of color-receptive cones, compared to just three in humans, allowing them to perceive ultraviolet and polarized light beyond typical human perception.",
-    "category": "Animals",
-    "image": "6241.jpg"
-  },
-  {
-    "id": "6242",
-    "title": "There Was a Point When London's River Thames Was So Polluted It Was Declared Biologically Dead",
-    "fact": "In 1957, the Natural History Museum officially declared the River Thames biologically dead due to severe pollution, though cleanup efforts since then have restored it to support over 100 fish species.",
-    "category": "History",
-    "image": "6242.jpg"
-  },
-  {
-    "id": "6243",
-    "title": "There's a Species of Gecko That Can Detach Its Skin to Escape Predators",
-    "fact": "The fish-scale gecko has unusually delicate skin that tears away easily when grabbed, allowing it to slip free from a predator's grip and later regrow the lost skin.",
-    "category": "Animals",
-    "image": "6243.jpg"
-  },
-  {
-    "id": "6244",
-    "title": "There's a Mountain Range Hidden Entirely Beneath Antarctica's Ice",
-    "fact": "The Gamburtsev Mountains, roughly the size of the European Alps, lie completely buried under Antarctic ice and were only mapped in detail using radar and satellite technology.",
-    "category": "Geography",
-    "image": "6244.jpg"
-  },
-  {
-    "id": "6245",
-    "title": "The Inventor of the Rubik's Cube Couldn't Solve It for a Month",
-    "fact": "Hungarian professor Ernő Rubik took about a month to solve his own puzzle after inventing it in 1974, since he had built the mechanism before figuring out how to restore it.",
-    "category": "History",
-    "image": "6245.jpg"
-  },
-  {
-    "id": "6246",
-    "title": "There's a Species of Ant That Farms Fungus as Its Primary Food Source",
-    "fact": "Leafcutter ants cultivate fungus gardens by feeding them chewed leaf fragments, forming a symbiotic agricultural relationship that has existed for tens of millions of years.",
-    "category": "Animals",
-    "image": "6246.jpg"
-  },
-  {
-    "id": "6247",
-    "title": "There's a Phenomenon Where the Sky Can Glow Green During Powerful Storms",
-    "fact": "A rare optical effect sometimes seen before severe thunderstorms causes the sky to take on a greenish tint, believed to result from sunlight scattering through large hail-forming clouds.",
-    "category": "Science",
-    "image": "6247.jpg"
-  },
-  {
-    "id": "6248",
-    "title": "There's a Tradition in Japan of Apologizing to Used Sewing Needles Before Discarding Them",
-    "fact": "Hari-Kuyo is a Japanese ceremony where broken or worn sewing needles are respectfully laid to rest in soft tofu or gel, thanking them for their service before disposal.",
-    "category": "Culture",
-    "image": "6248.jpg"
-  },
-  {
-    "id": "6249",
-    "title": "There's a Bird That Mimics Chainsaws and Camera Shutters",
-    "fact": "The Australian lyrebird is capable of imitating an extraordinary range of sounds, including man-made noises like chainsaws, car alarms, and camera shutters, in addition to other birds' calls.",
-    "category": "Animals",
-    "image": "6249.jpg"
-  },
-  {
-    "id": "6250",
-    "title": "There's an Entire Field of Study Dedicated to the Science of Tickling",
-    "fact": "Gargalesis, the scientific term for the sensation of intense tickling, has been studied by neuroscientists trying to understand why humans can't effectively tickle themselves.",
-    "category": "Human Body",
-    "image": "6250.jpg"
-  },
-  {
-    "id": "6251",
-    "title": "There's a Planet Where It Rains Glass Sideways",
-    "fact": "On exoplanet HD 189733b, astronomers detected silicate particles in its atmosphere that form molten glass, driven sideways by winds estimated to reach 5,400 miles per hour.",
+    "id": "nfact_9002_b1",
+    "title": "Voyager 1 Belongs to Interstellar Space",
+    "fact": "Launched in 1977, Voyager 1 crossed the heliopause in 2012 and is currently over 15 billion miles away, communicating via a 20-watt transmitter.",
     "category": "Space",
-    "image": "6251.jpg"
+    "image": "nfact_9002.jpg"
   },
   {
-    "id": "6252",
-    "title": "There's a Moon in Our Solar System with More Volcanoes Than Any Other Body",
-    "fact": "Jupiter's moon Io is the most volcanically active object known, with hundreds of active volcanoes driven by intense tidal heating from Jupiter's gravitational pull.",
+    "id": "nfact_9003_b1",
+    "title": "Neutron Stars Spin Hundreds of Times Per Second",
+    "fact": "Millisecond pulsars can rotate up to 716 times per second. Their surface velocity reaches roughly a quarter of the speed of light.",
     "category": "Space",
-    "image": "6252.jpg"
+    "image": "nfact_9003.jpg"
   },
   {
-    "id": "6253",
-    "title": "Octopuses Can Taste Light Through Their Skin",
-    "fact": "Research has found that octopus skin contains photoreceptors similar to those in the eye, potentially allowing them to sense light levels across their entire body.",
-    "category": "Animals",
-    "image": "6253.jpg"
-  },
-  {
-    "id": "6254",
-    "title": "There's a Star Cluster Where the Sky Would Never Get Fully Dark",
-    "fact": "In the dense core of a globular cluster like Omega Centauri, thousands of stars packed closely together would make the night sky glow almost as bright as dusk from any orbiting planet.",
+    "id": "nfact_9004_b1",
+    "title": "Venus Has Over 85,000 Volcanoes",
+    "fact": "Magellan radar mapping revealed that Venus harbors more volcanoes than any other planet in the solar system, with recent evidence suggesting active eruptions.",
     "category": "Space",
-    "image": "6254.jpg"
+    "image": "nfact_9004.jpg"
   },
   {
-    "id": "6255",
-    "title": "There's an Ancient Roman Road Still in Use Today",
-    "fact": "Via Appia, built starting in 312 BCE to connect Rome to southern Italy, remains partially walkable and drivable in some stretches over 2,300 years after its construction.",
-    "category": "History",
-    "image": "6255.jpg"
-  },
-  {
-    "id": "6257",
-    "title": "There's a Species of Woodpecker That Can Peck Trees 20 Times a Second",
-    "fact": "Woodpeckers can strike wood at speeds of up to 20 pecks per second, absorbing shock forces that would cause a concussion in humans thanks to specialized skull structures.",
-    "category": "Animals",
-    "image": "6257.jpg"
-  },
-  {
-    "id": "6258",
-    "title": "There's a Star That Explodes Repeatedly Instead of Just Once",
-    "fact": "Recurrent novae, like the star system T Coronae Borealis, undergo periodic thermonuclear explosions on their surface every few decades without being fully destroyed each time.",
+    "id": "nfact_9005_b1",
+    "title": "Sunquakes Release Millions of Megatons of Energy",
+    "fact": "Solar flares trigger acoustic seismic waves known as sunquakes, which ripple across the solar surface like ripples in a pond.",
     "category": "Space",
-    "image": "6258.jpg"
+    "image": "nfact_9005.jpg"
   },
   {
-    "id": "6259",
-    "title": "There's a Whole Country That Rents Itself as a Film Set for Alien Worlds",
-    "fact": "Tunisia's desert landscapes near Matmata and Tozeur have been used to depict Tatooine and other extraterrestrial settings in numerous science fiction films due to their otherworldly terrain.",
-    "category": "Culture",
-    "image": "6259.jpg"
-  },
-  {
-    "id": "6260",
-    "title": "There's a Cloud of Alcohol Floating in Deep Space",
-    "fact": "Astronomers discovered a massive cloud near the star-forming region Sagittarius B2 containing ethyl alcohol, spanning hundreds of billions of miles, though it's far too diffuse to actually drink.",
+    "id": "nfact_9006_b1",
+    "title": "Saturn's Moon Titan Has Liquid Methane Lakes",
+    "fact": "Titan is the only body in our solar system besides Earth known to have liquid rivers, lakes, and seas, though they are composed of methane and ethane.",
     "category": "Space",
-    "image": "6260.jpg"
+    "image": "nfact_9006.jpg"
   },
   {
-    "id": "6261",
-    "title": "There's a Species of Deep-Sea Worm That Can Live Near Boiling Hydrothermal Vents",
-    "fact": "Pompeii worms tolerate some of the highest temperatures known for complex life, surviving in water reaching up to 176 degrees Fahrenheit near deep-ocean hydrothermal vents.",
-    "category": "Animals",
-    "image": "6261.jpg"
-  },
-  {
-    "id": "6262",
-    "title": "There's a Planet That Rains Diamonds",
-    "fact": "Scientists theorize that intense atmospheric pressure on Neptune and Uranus can compress carbon into diamond rain that falls slowly toward their cores.",
+    "id": "nfact_9007_b1",
+    "title": "Supermassive Black Hole at the Heart of M87",
+    "fact": "The black hole in M87 has a mass 6.5 billion times greater than our Sun and projects a relativistic jet spanning 5,000 light-years.",
     "category": "Space",
-    "image": "6262.jpg"
+    "image": "nfact_9007.jpg"
   },
   {
-    "id": "6263",
-    "title": "There's a Medieval Manuscript That Has Never Been Deciphered",
-    "fact": "The Voynich Manuscript, dated to the early 15th century, is written in an unknown script and language that has defied every attempt by cryptographers and linguists to translate it.",
-    "category": "History",
-    "image": "6263.jpg"
-  },
-  {
-    "id": "6264",
-    "title": "There's a Galaxy Shaped Almost Exactly Like a Human Eye",
-    "fact": "The galaxy known as the Sombrero Galaxy features a bright bulge and dust ring that give it a distinctive appearance often compared to an eye or a wide-brimmed hat when viewed edge-on.",
+    "id": "nfact_9008_b1",
+    "title": "Olympus Mons Is Three Times Taller Than Everest",
+    "fact": "Located on Mars, Olympus Mons is a shield volcano standing 21.9 km high and covering an area roughly the size of Poland.",
     "category": "Space",
-    "image": "6264.jpg"
+    "image": "nfact_9008.jpg"
   },
   {
-    "id": "6265",
-    "title": "There's a Fish That Lives Only in a Single Cave in the Sahara Desert",
-    "fact": "The Kufra cave fish, discovered in remote Libyan desert caves, survives entirely underground in isolated pools with no known access to surface water bodies.",
-    "category": "Animals",
-    "image": "6265.jpg"
-  },
-  {
-    "id": "6266",
-    "title": "Astronauts Can Grow Slightly Taller in Space",
-    "fact": "Without gravity compressing the spine, astronauts can gain up to 2 inches in height during extended missions, though they typically return to normal height within weeks of returning to Earth.",
+    "id": "nfact_9009_b1",
+    "title": "Space Smells Like Seared Steak and Gunpowder",
+    "fact": "Astronauts returning from spacewalks consistently report that their suits smell like ozone, burnt metal, and seared steak due to polycyclic aromatic hydrocarbons.",
     "category": "Space",
-    "image": "6266.jpg"
+    "image": "nfact_9009.jpg"
+  },
+  {
+    "id": "nfact_9010_b1",
+    "title": "Ganymede Has Its Own Magnetic Field",
+    "fact": "Jupiter's moon Ganymede is the largest moon in the solar system and the only one known to generate its own intrinsic magnetic field.",
+    "category": "Space",
+    "image": "nfact_9010.jpg"
+  },
+  {
+    "id": "nfact_9011_b1",
+    "title": "Rogue Planets Drift Without a Parent Star",
+    "fact": "Astronomers estimate there are billions of dark, starless rogue planets floating through the Milky Way, ejected during solar system formations.",
+    "category": "Space",
+    "image": "nfact_9011.jpg"
+  },
+  {
+    "id": "nfact_9012_b1",
+    "title": "Enceladus Shoots Ice Geysers into Space",
+    "fact": "Saturn's moon Enceladus spews plumes of icy water vapor and organic molecules hundreds of miles above its southern pole.",
+    "category": "Space",
+    "image": "nfact_9012.jpg"
+  },
+  {
+    "id": "nfact_9013_b1",
+    "title": "Cosmic Web Spans the Entire Universe",
+    "fact": "Matter in the universe is arranged in a vast web-like network of dark matter filaments, with galaxy clusters forming at the nodes.",
+    "category": "Space",
+    "image": "nfact_9013.jpg"
+  },
+  {
+    "id": "nfact_9014_b1",
+    "title": "The Boomerang Nebula Is the Coldest Place Known",
+    "fact": "At -272°C (-458°F), the Boomerang Nebula is just 1 degree Kelvin above absolute zero, colder even than the cosmic microwave background radiation.",
+    "category": "Space",
+    "image": "nfact_9014.jpg"
+  },
+  {
+    "id": "nfact_9015_b1",
+    "title": "Solar Wind Creates the Auroras",
+    "fact": "Auroras on Earth and Jupiter are created when energetic particles from the solar wind collide with atmospheric gases along magnetic lines.",
+    "category": "Space",
+    "image": "nfact_9015.jpg"
+  },
+  {
+    "id": "nfact_9016_b1",
+    "title": "Halley's Comet Returns in 2061",
+    "fact": "Halley's Comet orbits the Sun every 75–76 years. Its next perihelion approach to the Sun will take place in mid-2061.",
+    "category": "Space",
+    "image": "nfact_9016.jpg"
+  },
+  {
+    "id": "nfact_9017_b1",
+    "title": "Milky Way and Andromeda Collision",
+    "fact": "In about 4.5 billion years, the Milky Way and Andromeda galaxies will merge into a giant elliptical galaxy dubbed 'Milkdromeda'.",
+    "category": "Space",
+    "image": "nfact_9017.jpg"
+  },
+  {
+    "id": "nfact_9018_b1",
+    "title": "Moon Dust Sticking Power Is Caused by Static",
+    "fact": "Lunar dust is extremely abrasive and electrostatically charged by solar radiation, causing it to cling stubbornly to space suits.",
+    "category": "Space",
+    "image": "nfact_9018.jpg"
+  },
+  {
+    "id": "nfact_9019_b1",
+    "title": "First Computer Bug Was an Actual Moth",
+    "fact": "In 1947, engineers working on the Harvard Mark II computer found a real moth trapped in Relay 70, coining the term 'computer bug'.",
+    "category": "Technology",
+    "image": "nfact_9019.jpg"
+  },
+  {
+    "id": "nfact_9020_b1",
+    "title": "Transistors in Modern Chips Number in the Billions",
+    "fact": "A single high-end smartphone chip contains over 15 to 20 billion microscopic transistors etched using extreme ultraviolet lithography.",
+    "category": "Technology",
+    "image": "nfact_9020.jpg"
+  },
+  {
+    "id": "nfact_9021_b1",
+    "title": "The First Website Ever Hosted Is Still Online",
+    "fact": "Created by Tim Berners-Lee at CERN in 1991, the world's very first website (info.cern.ch) remains active today.",
+    "category": "Technology",
+    "image": "nfact_9021.jpg"
+  },
+  {
+    "id": "nfact_9022_b1",
+    "title": "Quantum Computers Use Superposition of Qubits",
+    "fact": "Unlike classical bits that are either 0 or 1, quantum qubits can exist simultaneously in a state of 0 and 1, enabling parallel calculations.",
+    "category": "Technology",
+    "image": "nfact_9022.jpg"
+  },
+  {
+    "id": "nfact_9023_b1",
+    "title": "GPS Satellites Account for Einstein's Relativity",
+    "fact": "Atomic clocks on GPS satellites gain about 38 microseconds per day due to general relativity and must be corrected daily to ensure accurate location tracking.",
+    "category": "Technology",
+    "image": "nfact_9023.jpg"
+  },
+  {
+    "id": "nfact_9024_b1",
+    "title": "Wi-Fi Signal Was Invented During Radio Astronomy",
+    "fact": "Radio astronomer John O'Sullivan developed the core technology for Wi-Fi while searching for mini black holes in deep space.",
+    "category": "Technology",
+    "image": "nfact_9024.jpg"
+  },
+  {
+    "id": "nfact_9025_b1",
+    "title": "CAPTCHA Stands for a Long Acronym",
+    "fact": "CAPTCHA stands for 'Completely Automated Public Turing test to tell Computers and Humans Apart'.",
+    "category": "Technology",
+    "image": "nfact_9025.jpg"
+  },
+  {
+    "id": "nfact_9026_b1",
+    "title": "Optical Fiber Transmitting Petabits Per Second",
+    "fact": "Modern multi-core optical fibers can transmit over 1 petabit (1,000,000 gigabits) of data per second over single strands of glass.",
+    "category": "Technology",
+    "image": "nfact_9026.jpg"
+  },
+  {
+    "id": "nfact_9027_b1",
+    "title": "First Hard Drive Weighted Over One Ton",
+    "fact": "IBM's 305 RAMAC, built in 1956, was the first commercial computer with a hard drive. It stored 5 MB of data and weighed over 2,000 pounds.",
+    "category": "Technology",
+    "image": "nfact_9027.jpg"
+  },
+  {
+    "id": "nfact_9028_b1",
+    "title": "Li-Fi Transmits Data Using Visible Light",
+    "fact": "Li-Fi technology uses light-emitting diodes (LEDs) to transmit wireless data at speeds up to 100 times faster than conventional Wi-Fi.",
+    "category": "Technology",
+    "image": "nfact_9028.jpg"
+  },
+  {
+    "id": "nfact_9029_b1",
+    "title": "The World Wide Web Is Not the Internet",
+    "fact": "The Internet is the global network of connected computers, while the World Wide Web is an application layer of websites accessed via HTTP.",
+    "category": "Technology",
+    "image": "nfact_9029.jpg"
+  },
+  {
+    "id": "nfact_9030_b1",
+    "title": "Computer Mice Were Originally Made of Wood",
+    "fact": "Douglas Engelbart invented the first computer mouse in 1964, constructed out of a carved wooden shell with two metal wheels.",
+    "category": "Technology",
+    "image": "nfact_9030.jpg"
+  },
+  {
+    "id": "fact_30001",
+    "title": "Pulsar Timings Can Detect Gravitational Waves",
+    "fact": "Arrays of ultra-stable millisecond pulsars across the Milky Way function as a galaxy-sized detector for low-frequency gravitational waves.",
+    "category": "Space",
+    "image": "fact_30001.jpg"
+  },
+  {
+    "id": "fact_30002",
+    "title": "The Solar Corona Is Millions of Degrees Hotter Than the Sun Surface",
+    "fact": "While the Sun's visible surface is 5,500°C, its outer coronal atmosphere reaches 1 to 3 million degrees Celsius due to magnetic reconnection.",
+    "category": "Space",
+    "image": "fact_30002.jpg"
+  },
+  {
+    "id": "fact_30003",
+    "title": "Venus Has No Planetary Magnetic Field",
+    "fact": "Unlike Earth, Venus lacks an internal geodynamo to generate a magnetic shield, leaving its atmosphere vulnerable to solar wind erosion.",
+    "category": "Space",
+    "image": "fact_30003.jpg"
+  },
+  {
+    "id": "fact_30004",
+    "title": "Jupiter's Moon Callisto Is the Most Heavily Cratered Body in the Solar System",
+    "fact": "Callisto's ancient icy surface has undergone virtually no geological activity for 4 billion years, preserving countless meteoroid impacts.",
+    "category": "Space",
+    "image": "fact_30004.jpg"
+  },
+  {
+    "id": "fact_30005",
+    "title": "Saturn's Moon Pan Shapes the Encke Gap in the Rings",
+    "fact": "Pan orbits inside the 200-mile-wide Encke Gap in Saturn's A Ring, acting as a shepherd moon that keeps the ring gap clear of dust.",
+    "category": "Space",
+    "image": "fact_30005.jpg"
+  },
+  {
+    "id": "fact_30006",
+    "title": "Supermassive Black Hole Sagittarius A* Has Mass of 4 Million Suns",
+    "fact": "Located 26,000 light-years away at the center of the Milky Way, Sgr A* exerts gravitational dominance over surrounding cluster stars.",
+    "category": "Space",
+    "image": "fact_30006.jpg"
+  },
+  {
+    "id": "fact_30007",
+    "title": "Neutron Stars Have Escape Velocities Half the Speed of Light",
+    "fact": "To escape the gravitational grip of a 12-mile-wide neutron star, a spacecraft would need an initial launch speed exceeding 100,000 km/s.",
+    "category": "Space",
+    "image": "fact_30007.jpg"
+  },
+  {
+    "id": "fact_30008",
+    "title": "Space Is Not Completely Cold",
+    "fact": "Near Earth, solar radiation warms objects to 120°C (250°F) in direct sunlight, while shaded objects drop to -150°C (-240°F).",
+    "category": "Space",
+    "image": "fact_30008.jpg"
+  },
+  {
+    "id": "fact_30009",
+    "title": "The Andromeda Galaxy Is Moving Toward Us at 250,000 MPH",
+    "fact": "Driven by mutual gravitational attraction, the Andromeda and Milky Way galaxies are approaching each other at 110 kilometers per second.",
+    "category": "Space",
+    "image": "fact_30009.jpg"
+  },
+  {
+    "id": "fact_30010",
+    "title": "Solar Wind Creates Planetary Bow Shocks",
+    "fact": "When supersonic solar wind plasma strikes Earth's magnetosphere, it decelerates rapidly to form a curved bow shock wave.",
+    "category": "Space",
+    "image": "fact_30010.jpg"
+  },
+  {
+    "id": "fact_30011",
+    "title": "Mars Has Giant Dry Ice Polar Caps",
+    "fact": "Martian winter temperatures drop so low (-125°C) that 25% of the atmosphere freezes into carbon dioxide ice sheets at the poles.",
+    "category": "Space",
+    "image": "fact_30011.jpg"
+  },
+  {
+    "id": "fact_30012",
+    "title": "Gaspra Was the First Asteroid Visited by a Spacecraft",
+    "fact": "NASA's Galileo probe flew past S-type asteroid 951 Gaspra on October 29, 1991, returning the first high-resolution asteroid photos.",
+    "category": "Space",
+    "image": "fact_30012.jpg"
+  },
+  {
+    "id": "fact_30013",
+    "title": "The Sun Will Become a White Dwarf in 5 Billion Years",
+    "fact": "After expanding into a red giant and shedding its outer planetary nebula, the Sun's remnant core will cool into an Earth-sized white dwarf.",
+    "category": "Space",
+    "image": "fact_30013.jpg"
+  },
+  {
+    "id": "fact_30014",
+    "title": "Mercury Has Water Ice Inside Permanently Shadowed Craters",
+    "fact": "Despite daytime temperatures reaching 430°C, deep polar craters on Mercury stay in perpetual shadow at -180°C, harboring water ice.",
+    "category": "Space",
+    "image": "fact_30014.jpg"
+  },
+  {
+    "id": "fact_30015",
+    "title": "Jupiter Has 95 Officially Confirmed Moons",
+    "fact": "International Astronomical Union officially recognizes 95 natural satellites orbiting Jupiter, led by the four large Galilean moons.",
+    "category": "Space",
+    "image": "fact_30015.jpg"
+  },
+  {
+    "id": "fact_30016",
+    "title": "The Solar System Takes 230 Million Years to Orbit the Milky Way",
+    "fact": "Traveling at 500,000 mph, our solar system completes one 'cosmic year' orbit around the galactic center every 230 million Earth years.",
+    "category": "Space",
+    "image": "fact_30016.jpg"
+  },
+  {
+    "id": "fact_30017",
+    "title": "The Universe Has No Edge or Center",
+    "fact": "Cosmological principle dictates that space is homogeneous and isotropic on large scales—every observer sees themselves as the 'center'.",
+    "category": "Space",
+    "image": "fact_30017.jpg"
+  },
+  {
+    "id": "fact_30018",
+    "title": "Proxima Centauri Is a Flare Star",
+    "fact": "Proxima Centauri periodically undergoes dramatic unpredictable increases in brightness caused by intense magnetic activity.",
+    "category": "Space",
+    "image": "fact_30018.jpg"
+  },
+  {
+    "id": "fact_30019",
+    "title": "Exoplanet WASP-76b Rains Liquid Iron",
+    "fact": "An ultra-hot tidally locked gas giant exoplanet has daytime temperatures of 2,400°C that vaporize iron, which condenses into iron rain at night.",
+    "category": "Space",
+    "image": "fact_30019.jpg"
+  },
+  {
+    "id": "fact_30020",
+    "title": "Comet Tails Point Away from the Sun",
+    "fact": "Radiation pressure from solar photons and solar wind pushes dust and ionized gas tails directly away from the Sun regardless of comet trajectory.",
+    "category": "Space",
+    "image": "fact_30020.jpg"
+  },
+  {
+    "id": "fact_30021",
+    "title": "First Commercial Computer ENIAC Used 18,000 Vacuum Tubes",
+    "fact": "Built in 1945 at the University of Pennsylvania, ENIAC consumed 150 kW of power and occupied a 1,800-square-foot room.",
+    "category": "Technology",
+    "image": "fact_30021.jpg"
+  },
+  {
+    "id": "fact_30022",
+    "title": "Silicon Is the Second Most Abundant Element in Earth's Crust",
+    "fact": "Making up nearly 28% of Earth's crust by mass, silica sand provides the raw element refined into semiconductor computer chips.",
+    "category": "Technology",
+    "image": "fact_30022.jpg"
+  },
+  {
+    "id": "fact_30023",
+    "title": "Bluetooth Signal Uses Frequency-Hopping Spread Spectrum",
+    "fact": "Bluetooth shifts between 79 radio channels 1,600 times per second to prevent interference from Wi-Fi routers and microwave ovens.",
+    "category": "Technology",
+    "image": "fact_30023.jpg"
+  },
+  {
+    "id": "fact_30024",
+    "title": "Modern Smartphones Run at Clock Speeds Over 3.0 Gigahertz",
+    "fact": "ARM-based Mobile CPUs execute over 3 billion clock instruction cycles per second per core, managing thermal limits via throttling.",
+    "category": "Technology",
+    "image": "fact_30024.jpg"
+  },
+  {
+    "id": "fact_30025",
+    "title": "Optical Fiber Transmits Signal Over 50 Miles Without Amplification",
+    "fact": "Ultra-pure silica glass fibers maintain signal clarity so high that laser light travels over 80 km before requiring optical repeaters.",
+    "category": "Technology",
+    "image": "fact_30025.jpg"
+  },
+  {
+    "id": "fact_30026",
+    "title": "Machine Learning Convolutional Layers Scan Images with Kernels",
+    "fact": "CNNs apply small matrix filters across image pixels to extract edge features, textures, and object shapes in computer vision models.",
+    "category": "Technology",
+    "image": "fact_30026.jpg"
+  },
+  {
+    "id": "fact_30027",
+    "title": "Lithium-Ion Battery Cathodes Use Cobalt and Nickel Compounds",
+    "fact": "High-energy lithium nickel manganese cobalt oxide (NMC) chemistries maximize energy density for long-range electric vehicles.",
+    "category": "Technology",
+    "image": "fact_30027.jpg"
   }
 ]

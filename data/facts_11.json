@@ -1,702 +1,702 @@
 [
   {
-    "id": "5079",
-    "title": "The Pacific Ocean Is Shrinking by an Inch Per Year",
-    "fact": "Due to plate tectonics, the Atlantic is widening while the Pacific is narrowing. Eventually, the Pacific will close as the Americas collide with Asia—forming a new supercontinent.",
-    "category": "Geography",
-    "image": "5079.jpg"
-  },
-  {
-    "id": "5080",
-    "title": "More People Speak English as a Second Language Than as a First",
-    "fact": "There are ~400 million native English speakers, but over 1.5 billion people speak it as a second or foreign language—making it the world's most-learned language.",
-    "category": "Culture",
-    "image": "5080.jpg"
-  },
-  {
-    "id": "5081",
-    "title": "The Oldest Known Musical Instrument Is 60,000 Years Old",
-    "fact": "A Neanderthal flute made from a bear femur was discovered in Slovenia. It's the oldest evidence of music-making, predating modern humans in Europe.",
-    "category": "Culture",
-    "image": "5081.jpg"
-  },
-  {
-    "id": "5082",
-    "title": "The Country With the Most Nobel Prizes Per Capita Is Not the US—It's Saint Kitts and Nevis",
-    "fact": "This tiny Caribbean nation has 1 Nobel laureate (Sir Dennis Byron) per 47,000 people—giving it the highest per-capita ratio, ahead of Sweden and Switzerland.",
-    "category": "Culture",
-    "image": "5082.jpg"
-  },
-  {
-    "id": "5083",
-    "title": "In 1980, the Soviet Union Sent a Submarine to the Moon (Virtually)",
-    "fact": "Soviet engineers reportedly used a decommissioned nuclear submarine's hull as a structural test model for a lunar landing vehicle—though the project never left Earth.",
-    "category": "Space",
-    "image": "5083.jpg"
-  },
-  {
-    "id": "5084",
-    "title": "The Universe Smells Like Raspberries and Rum",
-    "fact": "Astronomers found that the center of the Milky Way contains ethyl formate—a chemical that gives raspberries their flavor and contributes to the aroma of rum.",
-    "category": "Space",
-    "image": "5084.jpg"
-  },
-  {
-    "id": "5085",
-    "title": "A Year on Pluto Is 248 Earth Years",
-    "fact": "Pluto takes 248 Earth years to complete one orbit around the Sun—meaning no human has ever lived through a full Plutonian year.",
-    "category": "Space",
-    "image": "5085.jpg"
-  },
-  {
-    "id": "5086",
-    "title": "Saturn Is So Light It Would Float on Water",
-    "fact": "Saturn's density is 0.687 g/cm³, lower than water's 1.0 g/cm³. In theory, if you found a giant enough bathtub, Saturn would float—though its rings would sink.",
-    "category": "Space",
-    "image": "5086.jpg"
-  },
-  {
-    "id": "5087",
-    "title": "The Human Eye Can See the Andromeda Galaxy With the Naked Eye",
-    "fact": "On a clear dark night, the Andromeda Galaxy is visible from Earth as a faint smudge—even though it's 2.5 million light-years away, it's the most distant object visible without equipment.",
-    "category": "Space",
-    "image": "5087.jpg"
-  },
-  {
-    "id": "5089",
-    "title": "The Axolotl Can Regenerate Its Own Brain",
-    "fact": "Not just limbs—axolotls can regenerate parts of their brain and spinal cord without scarring, making them the subject of intense regenerative medicine research.",
+    "id": "4",
+    "title": "Mantis Shrimp See 16 Colors",
+    "fact": "Humans see three color channels; mantis shrimp have 16. They can perceive ultraviolet, visible, and infrared light, and can detect cancer cells and the polarization of light.",
     "category": "Animals",
-    "image": "5089.jpg"
+    "image": "4.jpg"
   },
   {
-    "id": "5092",
-    "title": "Cuttlefish Have Three Hearts and Blue Blood—Like Octopuses",
-    "fact": "As cephalopods, cuttlefish share the three-heart, copper-based blood system. They also have the highest brain-to-body ratio of any invertebrate.",
+    "id": "7",
+    "title": "A Group of Flamingos Is a Flamboyance",
+    "fact": "A flock of flamingos is officially called a 'flamboyance'. Flamingos are actually white — their pink color comes entirely from the carotenoid pigments in the algae and crustaceans they eat.",
     "category": "Animals",
-    "image": "5092.jpg"
+    "image": "7.jpg"
   },
   {
-    "id": "5093",
-    "title": "Some Fungi Can Eat Plastic—Offering a Solution to Pollution",
-    "fact": "Scientists have discovered fungi like Pestalotiopsis microspora that can digest polyurethane in weeks—even in oxygen-free environments, making them promising for plastic cleanup.",
-    "category": "Science",
-    "image": "5093.jpg"
-  },
-  {
-    "id": "5094",
-    "title": "Your Gut Microbiome Weighs About 2 to 5 Pounds—More Than Your Brain",
-    "fact": "The average human carries 2–5 pounds of bacteria in their digestive tract—approximately the same weight as the adult human brain (about 3 pounds).",
-    "category": "Science",
-    "image": "5094.jpg"
-  },
-  {
-    "id": "5095",
-    "title": "A Lightning Bolt Can Be 5 Times Hotter Than the Sun's Surface",
-    "fact": "Lightning can reach 50,000°F (27,700°C), while the Sun's surface is roughly 10,000°F (5,500°C). The core of the Sun is far hotter, however—at 27 million°F.",
-    "category": "Science",
-    "image": "5095.jpg"
-  },
-  {
-    "id": "5096",
-    "title": "Water Expands When It Freezes—But Only Below 4°C",
-    "fact": "Water is densest at 4°C. As it cools further, hydrogen bonds stretch, causing it to expand—which is why ice floats and pipes can burst in winter.",
-    "category": "Science",
-    "image": "5096.jpg"
-  },
-  {
-    "id": "5097",
-    "title": "The Average Person Sheds 1.5 Pounds of Skin Per Year",
-    "fact": "Humans shed 30,000 to 40,000 skin cells per minute—totaling about 1.5 pounds annually. Most household dust is actually made of dead skin cells.",
-    "category": "Science",
-    "image": "5097.jpg"
-  },
-  {
-    "id": "5098",
-    "title": "Your Heart Beats Over 2.5 Billion Times in an Average Lifetime",
-    "fact": "At 70–80 beats per minute, the human heart pumps roughly 2,000 gallons of blood daily—adding up to over 2.5 billion beats across 80 years.",
-    "category": "Science",
-    "image": "5098.jpg"
-  },
-  {
-    "id": "5099",
-    "title": "The World's Population Doubled From 3 Billion to 6 Billion in Just 40 Years",
-    "fact": "In 1960, Earth had 3 billion people. By 2000, it reached 6 billion—the fastest population growth in history. It now hovers around 8.1 billion in 2025.",
-    "category": "Science",
-    "image": "5099.jpg"
-  },
-  {
-    "id": "5100",
-    "title": "The Pando Aspen Grove in Utah Is One of the Oldest and Heaviest Living Organisms",
-    "fact": "Pando is a single clonal colony of quaking aspens connected by one root system. It weighs over 13 million pounds and has been alive for an estimated 80,000 years.",
-    "category": "Science",
-    "image": "5100.jpg"
-  },
-  {
-    "id": "5101",
-    "title": "The First ATMs Dispensed Cash But No Receipts—And Were Often Broken Into",
-    "fact": "When Barclays installed the first ATM in 1967, it used paper vouchers soaked in carbon-14 for security. Early machines were so vulnerable that thieves often dug them out of walls with forklifts.",
-    "category": "Finance",
-    "image": "5101.jpg"
-  },
-  {
-    "id": "5102",
-    "title": "The World's Most Expensive Stock Is Berkshire Hathaway—Priced Over $600,000 Per Share",
-    "fact": "As of 2025, Berkshire Hathaway's Class A shares trade above $600,000 each. Warren Buffett refuses to split the stock to attract long-term investors instead of speculators.",
-    "category": "Finance",
-    "image": "5102.jpg"
-  },
-  {
-    "id": "5103",
-    "title": "The Term 'Blue Chip' Comes From Poker—Where Blue Chips Are the Highest Value",
-    "fact": "Financial journalist Oliver Gingold coined the term in the 1920s, borrowing from poker's blue-colored high-value chips to describe premium, reliable stocks like IBM and AT&T.",
-    "category": "Finance",
-    "image": "5103.jpg"
-  },
-  {
-    "id": "5104",
-    "title": "The Global Derivatives Market Is Worth Over $700 Trillion—10 Times World GDP",
-    "fact": "Notional value of derivatives (options, futures, swaps) exceeds $700 trillion globally, dwarfing the $100 trillion world GDP. However, net exposure is far lower due to offsetting contracts.",
-    "category": "Finance",
-    "image": "5104.jpg"
-  },
-  {
-    "id": "5105",
-    "title": "JP Morgan's Most Famous Investment Was in a Bankrupt Railway—And It Made Him a Fortune",
-    "fact": "In 1893, J.P. Morgan restructured the bankrupt Philadelphia & Reading Railroad, emerging as its de facto owner and turning it profitable. He repeated this play with multiple railroads.",
-    "category": "Finance",
-    "image": "5105.jpg"
-  },
-  {
-    "id": "5106",
-    "title": "The First Credit Bureau Was Started by a Librarian in 1899",
-    "fact": "John Henry Patterson, a librarian-turned-entrepreneur, founded the Retail Credit Company to assess creditworthiness. It later rebranded as Equifax, now one of the 'Big Three' credit bureaus.",
-    "category": "Finance",
-    "image": "5106.jpg"
-  },
-  {
-    "id": "5107",
-    "title": "The Tokyo Stock Exchange Was Once Closed for 10 Days After an Earthquake",
-    "fact": "Following the Great Kanto Earthquake of 1923, the Tokyo Stock Exchange shut down for 10 days. When it reopened, the market had plunged by over 50% in some sectors.",
-    "category": "Finance",
-    "image": "5107.jpg"
-  },
-  {
-    "id": "5108",
-    "title": "The 1987 'Black Monday' Crash Was So Fast That Computers Couldn't Keep Up",
-    "fact": "On October 19, 1987, the Dow fell 22.6% in a single day. Program trading algorithms exacerbated the selloff—but many NYSE computers simply froze from the volume overload.",
-    "category": "Finance",
-    "image": "5108.jpg"
-  },
-  {
-    "id": "5109",
-    "title": "The First Algorithmic Trading System Was Built in 1949—Without Computers",
-    "fact": "Richard Donchian created a rules-based trading system using moving averages, executing manually via telegram. His methods are still used today as the basis for many quantitative funds.",
-    "category": "Finance",
-    "image": "5109.jpg"
-  },
-  {
-    "id": "5110",
-    "title": "The US Treasury Once Issued $500, $1,000, $5,000, and $10,000 Bills—All Discontinued",
-    "fact": "High-denomination bills were officially discontinued in 1969 due to lack of use and anti-money laundering concerns. Some $100,000 bills exist but were only used for inter-bank transfers.",
-    "category": "Finance",
-    "image": "5110.jpg"
-  },
-  {
-    "id": "5111",
-    "title": "The Chinese Invented Paper Currency Over 1,000 Years Ago—And It Led to Hyperinflation",
-    "fact": "The Tang Dynasty introduced 'flying cash' in the 7th century. By the 11th century, the Song Dynasty printed the first government-backed paper money—but overprinting caused severe inflation.",
-    "category": "Finance",
-    "image": "5111.jpg"
-  },
-  {
-    "id": "5112",
-    "title": "The Average Professional Investor Underperforms the S&P 500 Over 10 Years",
-    "fact": "S&P Dow Jones Indices reports that over 85% of actively managed mutual funds underperform the S&P 500 over a decade—the primary argument for index fund investing.",
-    "category": "Finance",
-    "image": "5112.jpg"
-  },
-  {
-    "id": "5113",
-    "title": "The First Stock Market Panic in America Happened in 1792—And Alexander Hamilton Bailed It Out",
-    "fact": "The 'Panic of 1792' was triggered by speculation in bank stocks. Treasury Secretary Hamilton injected liquidity by buying securities, preventing a full collapse and setting a precedent for central bank intervention.",
-    "category": "Finance",
-    "image": "5113.jpg"
-  },
-  {
-    "id": "5114",
-    "title": "Visa and MasterCard Started as Competing Bank Consortia in the 1960s",
-    "fact": "Visa began as BankAmericard (a single bank's card) in 1958, while MasterCard started as the Interbank Card Association. They merged their networks later but remain competing brands.",
-    "category": "Finance",
-    "image": "5114.jpg"
-  },
-  {
-    "id": "5115",
-    "title": "Federal Reserve Printing Money Is Technically Called 'Quantitative Easing'—Not Printing",
-    "fact": "The Fed creates money digitally by purchasing securities—no physical printing press is involved. 'Quantitative easing' was first used by the Bank of Japan in 2001.",
-    "category": "Finance",
-    "image": "5115.jpg"
-  },
-  {
-    "id": "5116",
-    "title": "The Great Depression Had a 'Roaring Twenties' Bubble Built on Margin Loans as High as 90%",
-    "fact": "In the 1920s, investors could buy stocks with just 10% down—borrowing the rest. This extreme leverage inflated the market and magnified the crash when margin calls forced selling.",
-    "category": "Finance",
-    "image": "5116.jpg"
-  },
-  {
-    "id": "5117",
-    "title": "The Most Valuable Company in History (Adjusted for Inflation) Was the Dutch East India Company",
-    "fact": "At its peak, the VOC was worth an estimated $7.9 trillion in today's money—more than Apple, Microsoft, and Saudi Aramco combined. It held a monopoly on Asian trade for nearly 200 years.",
-    "category": "Finance",
-    "image": "5117.jpg"
-  },
-  {
-    "id": "5118",
-    "title": "The Caesar Shift Cipher Was Used by Julius Caesar—And It's Still Used in Modern ROT13",
-    "fact": "Caesar encrypted military messages by shifting letters by 3 positions. This simple technique evolved into ROT13, still used today in online forums to hide spoilers.",
-    "category": "History",
-    "image": "5118.jpg"
-  },
-  {
-    "id": "5119",
-    "title": "Ancient Romans Used Urine as Mouthwash—And Taxed It",
-    "fact": "Roman dentists used ammonia-rich urine to whiten teeth. Emperor Vespasian famously taxed public urinals—giving rise to the phrase 'Pecunia non olet' (money doesn't stink).",
-    "category": "History",
-    "image": "5119.jpg"
-  },
-  {
-    "id": "5120",
-    "title": "The Smallest War in History Lasted 38 Minutes—The Anglo-Zanzibar War of 1896",
-    "fact": "After the Sultan of Zanzibar died, his nephew seized power without British approval. The British issued an ultimatum, then shelled the palace. Zanzibar surrendered in 38 minutes.",
-    "category": "History",
-    "image": "5120.jpg"
-  },
-  {
-    "id": "5121",
-    "title": "The First Known Ghost Story Was Written in Ancient Egypt Over 3,500 Years Ago",
-    "fact": "A papyrus fragment from the 18th Dynasty describes a ghost haunting a priest—complete with dialogue and attempts to exorcise it, making it history's oldest known horror narrative.",
-    "category": "History",
-    "image": "5121.jpg"
-  },
-  {
-    "id": "5122",
-    "title": "The Term 'Computer Bug' Existed Before the Moth—As a Mechanical Engineering Term",
-    "fact": "Thomas Edison used 'bug' to describe mechanical defects in his phonographs decades before the 1947 moth. The Harvard incident just popularized it in computing.",
-    "category": "Technology",
-    "image": "5122.jpg"
-  },
-  {
-    "id": "5123",
-    "title": "The First Email Was Sent in 1971—And It Was Just Two Letters",
-    "fact": "Ray Tomlinson sent the first network email between two DEC PDP-10 computers. The message was simply 'QWERTYUIOP'—a test that also introduced the '@' symbol in email addresses.",
-    "category": "Technology",
-    "image": "5123.jpg"
-  },
-  {
-    "id": "5124",
-    "title": "The QR Code Was Invented for Tracking Car Parts—Not Payments",
-    "fact": "Denso Wave, a Toyota subsidiary, created QR codes in 1994 to track vehicle components. The square design allowed 20× faster scanning than barcodes. The original patent was never enforced.",
-    "category": "Technology",
-    "image": "5124.jpg"
-  },
-  {
-    "id": "5125",
-    "title": "The First Smartphone Was Released in 1994—IBM's Simon",
-    "fact": "The IBM Simon Personal Communicator had a touchscreen, email, and built-in apps. It cost $899 and sold only 50,000 units, but it pioneered the smartphone category a decade before the iPhone.",
-    "category": "Technology",
-    "image": "5125.jpg"
-  },
-  {
-    "id": "5126",
-    "title": "Google's First Server Was Made of Lego Bricks",
-    "fact": "Larry Page and Sergey Brin built Google's first storage system using 10 hard drives stacked in a custom Lego case—it was technically efficient and easily expandable.",
-    "category": "Technology",
-    "image": "5126.jpg"
-  },
-  {
-    "id": "5127",
-    "title": "The Space Between Your Fingers Is Called a 'Web Space'—And It's Shared with Platypuses",
-    "fact": "While humans have webbing between fingers, it's vestigial. In platypuses and otters, those same anatomical spaces become functional webbing for swimming.",
-    "category": "Science",
-    "image": "5127.jpg"
-  },
-  {
-    "id": "5128",
-    "title": "Your DNA Could Store the Entire World's Data in a Shoebox",
-    "fact": "One gram of DNA can theoretically store 215 petabytes (215 million gigabytes). All of humanity's digital data could fit in a few kilograms of DNA—making it the ultimate storage medium.",
-    "category": "Science",
-    "image": "5128.jpg"
-  },
-  {
-    "id": "5129",
-    "title": "The Mantis Shrimp Has the Most Complex Eyes in the Animal Kingdom",
-    "fact": "They have 12-16 types of photoreceptors (humans have 3), enabling them to see polarized and ultraviolet light. Their eyes move independently and can process depth like trinocular vision.",
-    "category": "Science",
-    "image": "5129.jpg"
-  },
-  {
-    "id": "5130",
-    "title": "Bamboo Can Grow Up to 35 Inches in a Single Day",
-    "fact": "Some bamboo species grow at 1.5 inches per hour—fast enough to see with the naked eye. This makes it the fastest-growing plant on Earth, reaching full height in just 2-3 months.",
-    "category": "Science",
-    "image": "5130.jpg"
-  },
-  {
-    "id": "5131",
-    "title": "A Single Teaspoon of Soil Contains More Microorganisms Than Humans on Earth",
-    "fact": "One gram of soil can harbor up to 50 billion bacteria—more than the planet's 8 billion people. Over 10,000 species can coexist in just a handful of dirt.",
-    "category": "Science",
-    "image": "5131.jpg"
-  },
-  {
-    "id": "5132",
-    "title": "The Human Body Has More Bacterial Cells Than Human Cells",
-    "fact": "Your body contains roughly 40 trillion bacteria and 30 trillion human cells—meaning you're biologically more bacteria than you are 'you' by cell count.",
-    "category": "Science",
-    "image": "5132.jpg"
-  },
-  {
-    "id": "5133",
-    "title": "The Coldest Place in the Universe Is Actually Created by Lasers on Earth",
-    "fact": "Bose-Einstein condensates produced in labs at MIT have reached 0.5 picokelvin—colder than anywhere in the known universe, including deep space at 2.7 kelvin.",
-    "category": "Science",
-    "image": "5133.jpg"
-  },
-  {
-    "id": "5134",
-    "title": "Cows Produce More Methane Than All Cars Combined",
-    "fact": "Global livestock emit about 100 million tons of methane annually—more than the entire transportation sector. However, methane breaks down in ~12 years, while CO₂ persists for centuries.",
-    "category": "Science",
-    "image": "5134.jpg"
-  },
-  {
-    "id": "5135",
-    "title": "The Red Sea Is Actually 10°C Warmer Than Most Seas—Even in Winter",
-    "fact": "Due to volcanic activity below the seabed and its narrow, enclosed shape, the Red Sea maintains surface temperatures above 20°C even in winter—making it the warmest sea on Earth.",
-    "category": "Geography",
-    "image": "5135.jpg"
-  },
-  {
-    "id": "5136",
-    "title": "The Sahara Desert Stretches Farther Than the Moon's Diameter",
-    "fact": "The Sahara is approximately 3,000 miles (4,800 km) wide from east to west. The Moon's diameter is only 2,159 miles—so the Sahara is 1.4 times wider than the Moon.",
-    "category": "Geography",
-    "image": "5136.jpg"
-  },
-  {
-    "id": "5138",
-    "title": "Mount Everest Is Not the Tallest Mountain—It Depends on How You Measure",
-    "fact": "Mauna Kea in Hawaii is 33,500 feet from its base on the ocean floor to its peak—making it taller than Everest (29,032 feet). Everest is only the highest above sea level.",
-    "category": "Geography",
-    "image": "5138.jpg"
-  },
-  {
-    "id": "5139",
-    "title": "The Amazon River Once Flowed in the Opposite Direction",
-    "fact": "Approximately 100 million years ago, the Amazon flowed westward into the Pacific. The rise of the Andes Mountains forced a reversal, making it flow east into the Atlantic.",
-    "category": "Geography",
-    "image": "5139.jpg"
-  },
-  {
-    "id": "5140",
-    "title": "Tokyo Is the World's Largest Metropolitan Area—Home to 37 Million People",
-    "fact": "The Greater Tokyo Area houses 37.4 million people—more than the population of Canada, Australia, and New Zealand combined, within an area roughly the size of Los Angeles County.",
-    "category": "Culture",
-    "image": "5140.jpg"
-  },
-  {
-    "id": "5141",
-    "title": "The First Olympic Games Had Only One Event—And It Was Naked",
-    "fact": "The ancient Olympics in 776 BC featured only a foot race called the 'stadion.' Athletes competed completely nude, which was considered the purest form of athletic competition.",
-    "category": "Culture",
-    "image": "5141.jpg"
-  },
-  {
-    "id": "5142",
-    "title": "The World's Most Translated Website Is Not Google—It's Watchtower (Jehovah's Witnesses)",
-    "fact": "The official website of Jehovah's Witnesses (jw.org) is available in over 1,100 languages—more than Google, Wikipedia, or Facebook. This has been confirmed by Guinness World Records.",
-    "category": "Culture",
-    "image": "5142.jpg"
-  },
-  {
-    "id": "5143",
-    "title": "In Japan, There's an Island Overrun by Rabbits—With No Predators",
-    "fact": "Okunoshima, also called 'Rabbit Island,' has hundreds of wild rabbits roaming freely. They have no natural predators, and visitors are encouraged to feed them—but no one is allowed to take them.",
-    "category": "Culture",
-    "image": "5143.jpg"
-  },
-  {
-    "id": "5144",
-    "title": "The First Spacecraft to Leave the Solar System Was Voyager 1—And It's Still Sending Data",
-    "fact": "Launched in 1977, Voyager 1 entered interstellar space in 2012. It continues sending data from over 15 billion miles away, with signals taking nearly 22 hours to reach Earth.",
-    "category": "Space",
-    "image": "5144.jpg"
-  },
-  {
-    "id": "5145",
-    "title": "There's a Planet Made Entirely of Water—Oceanic Exoplanets",
-    "fact": "Astronomers have identified exoplanets like GJ 1214 b that may be entirely covered in deep oceans with no landmasses—'water worlds' composed of up to 50% water by mass.",
-    "category": "Space",
-    "image": "5145.jpg"
-  },
-  {
-    "id": "5146",
-    "title": "The First Photograph of a Black Hole Took 5 Years to Produce",
-    "fact": "The Event Horizon Telescope captured the M87 black hole image in 2019—but processing the data from 8 telescopes globally took over 5 years of algorithmic processing to create.",
-    "category": "Space",
-    "image": "5146.jpg"
-  },
-  {
-    "id": "5147",
-    "title": "The Northern Lights Are 100 Times Higher Than the International Space Station",
-    "fact": "Auroras occur in the thermosphere at 50-200 miles altitude, while the ISS orbits at only 250 miles. Auroras can extend thousands of miles across, dwarfing the station's small footprint.",
-    "category": "Space",
-    "image": "5147.jpg"
-  },
-  {
-    "id": "5148",
-    "title": "A Single Star in the Night Sky Could Actually Be a Galaxy",
-    "fact": "The Andromeda Galaxy appears as a faint star to the naked eye—but it's actually a spiral galaxy containing 1 trillion stars, 2.5 million light-years away.",
-    "category": "Space",
-    "image": "5148.jpg"
-  },
-  {
-    "id": "5149",
-    "title": "Gorillas Can Catch Human Colds—And They Have Identical Blood Types",
-    "fact": "Gorillas share nearly 98% DNA with humans and have the same blood types (A, B, AB, O). They can catch respiratory infections from humans—a major threat in conservation areas.",
+    "id": "8",
+    "title": "Sharks Are Older Than Trees",
+    "fact": "Sharks have existed for approximately 450 million years, predating the first trees by about 90 million years. They have survived all five mass extinctions in Earth's history.",
     "category": "Animals",
-    "image": "5149.jpg"
+    "image": "8.jpg"
   },
   {
-    "id": "5150",
-    "title": "The Heart of a Shrimp Is Located in Its Head",
-    "fact": "Unlike humans, a shrimp's heart is positioned in its head—specifically in the cephalothorax, just behind the eyes. This compact arrangement fits their exoskeletal anatomy.",
+    "id": "9",
+    "title": "Dogs Can Smell Diseases",
+    "fact": "Dogs can detect certain cancers, diabetes, and Parkinson's disease through smell alone. Their noses have 300 million olfactory receptors compared to 6 million in humans, making them 10,000× more sensitive.",
     "category": "Animals",
-    "image": "5150.jpg"
+    "image": "9.jpg"
   },
   {
-    "id": "5151",
-    "title": "The First Hedge Fund Was Launched in 1949—With Only $100,000",
-    "fact": "Alfred Winslow Jones started the first modern hedge fund, raising just $100,000. He invented the 'long/short equity' strategy, using leverage to amplify returns while hedging market risk.",
-    "category": "Finance",
-    "image": "5151.jpg"
+    "id": "12",
+    "title": "Clownfish Can Change Sex",
+    "fact": "All clownfish are born male. When the dominant female in a group dies, the largest male changes sex to become female. This process is irreversible — they cannot change back.",
+    "category": "Animals",
+    "image": "12.jpg"
   },
   {
-    "id": "5152",
-    "title": "The New York Fed Once Saved the US Economy by Bailing Out a Single Bank in 1907",
-    "fact": "During the Panic of 1907, J.P. Morgan personally organized a bailout of troubled trusts. This failure of private banking led directly to the creation of the Federal Reserve in 1913.",
-    "category": "Finance",
-    "image": "5152.jpg"
+    "id": "14",
+    "title": "Honey Badgers Are Nearly Fearless",
+    "fact": "The honey badger is listed in the Guinness World Records as the world's most fearless creature. It has been observed fighting off lions, cheetahs, and porcupines, and its thick rubbery skin is resistant to arrows and machetes.",
+    "category": "Animals",
+    "image": "14.jpg"
   },
   {
-    "id": "5153",
-    "title": "The World's First Sovereign Wealth Fund Was Created in 1953 by Kuwait",
-    "fact": "Kuwait established the Kuwait Investment Authority to manage oil revenues. Today, sovereign wealth funds manage over $10 trillion globally, with Norway's GPFG being the largest at $1.6 trillion.",
-    "category": "Finance",
-    "image": "5153.jpg"
+    "id": "15",
+    "title": "Wood Frogs Freeze Solid in Winter",
+    "fact": "The wood frog survives winter by literally freezing solid — its heart stops, breathing ceases, and 65% of its body water turns to ice. In spring it thaws and hops away completely unharmed.",
+    "category": "Animals",
+    "image": "15.jpg"
   },
   {
-    "id": "5154",
-    "title": "The Average American Will Spend Over $500,000 on Interest in Their Lifetime",
-    "fact": "Over a typical lifetime, Americans pay roughly $200,000 in mortgage interest, $100,000 in credit card interest, and $200,000 in auto loan and student loan interest combined—totaling over half a million dollars.",
-    "category": "Finance",
-    "image": "5154.jpg"
+    "id": "17",
+    "title": "Pistol Shrimp Shoots Plasma",
+    "fact": "The pistol shrimp snaps its claw so fast it creates a cavitation bubble reaching 8,000°F — hotter than the sun's surface — that stuns or kills prey with a shockwave.",
+    "category": "Animals",
+    "image": "17.jpg"
   },
   {
-    "id": "5155",
-    "title": "The First Initial Public Offering (IPO) Was the Dutch East India Company in 1602",
-    "fact": "The VOC offered shares to the public on the Amsterdam Stock Exchange, raising capital for spice trade voyages. Investors received dividends that averaged 18% annually over 200 years.",
-    "category": "Finance",
-    "image": "5155.jpg"
+    "id": "19",
+    "title": "Axolotls Can Regenerate Their Brain",
+    "fact": "Axolotls can regenerate their heart, lungs, limbs, and even portions of their brain. Scientists are studying them to understand how their cells retain the ability to de-differentiate and rebuild complex tissues.",
+    "category": "Animals",
+    "image": "19.jpg"
   },
   {
-    "id": "5156",
-    "title": "In Japan, Negative Interest Rates Mean Banks Pay to Park Money",
-    "fact": "Since 2016, the Bank of Japan has charged commercial banks 0.1% for holding excess reserves—forcing them to lend rather than hoard cash, a policy rarely seen in modern economics.",
-    "category": "Finance",
-    "image": "5156.jpg"
+    "id": "20",
+    "title": "Goats Have Rectangular Pupils",
+    "fact": "Goats have horizontal rectangular pupils that give them a 320° field of vision — almost panoramic. This lets them spot predators from nearly all directions without moving their head.",
+    "category": "Animals",
+    "image": "20.jpg"
   },
   {
-    "id": "5157",
-    "title": "The 2000 Dot-Com Bubble Was Inflated by Pets.com—Which Spent $300 Million on Marketing and Made $600,000",
-    "fact": "Pets.com raised $300 million in venture capital and spent $300 million on marketing and logistics. Its revenue? Just $619,000. It went bankrupt in 2000, becoming the poster child for irrational exuberance.",
-    "category": "Finance",
-    "image": "5157.jpg"
+    "id": "21",
+    "title": "Hippos Sweat Sunscreen",
+    "fact": "Hippos secrete a reddish oily fluid that acts as a natural sunscreen and antibiotic. Scientists call it 'blood sweat' — it's neither blood nor sweat, but a unique skin moisturiser.",
+    "category": "Animals",
+    "image": "21.jpg"
   },
   {
-    "id": "5158",
-    "title": "The London Stock Exchange Is Older Than the NYSE—By 129 Years",
-    "fact": "The LSE was founded in 1801, while the NYSE followed in 1817 (though informal trading began earlier). London remains one of the world's oldest and largest financial hubs.",
-    "category": "Finance",
-    "image": "5158.jpg"
+    "id": "22",
+    "title": "Ravens Are as Smart as Apes",
+    "fact": "Ravens demonstrate planning, tool use, and deception — cognitive abilities once thought exclusive to great apes. They can solve multi-step problems and understand the concept of hidden objects.",
+    "category": "Animals",
+    "image": "22.jpg"
   },
   {
-    "id": "5159",
-    "title": "The First US Paper Money Was Printed in 1690—By Massachusetts",
-    "fact": "Massachusetts Bay Colony printed 'bills of credit' to fund a military expedition against Canada. It wasn't backed by gold or silver—just the colony's promise to accept it for taxes.",
-    "category": "Finance",
-    "image": "5159.jpg"
+    "id": "23",
+    "title": "A Snail Can Sleep 3 Years",
+    "fact": "Snails can hibernate (called estivation in warm climates) for up to 3 years when conditions are too dry or cold. During this time, they seal their shell opening with a membrane called an epiphragm.",
+    "category": "Animals",
+    "image": "23.jpg"
   },
   {
-    "id": "5160",
-    "title": "The Wealth of the Walton Family (Walmart) Equals the Bottom 30% of Americans Combined",
-    "fact": "The seven Walton heirs hold a combined net worth of over $350 billion—equivalent to the total wealth of the poorest 100 million Americans.",
-    "category": "Finance",
-    "image": "5160.jpg"
+    "id": "24",
+    "title": "Cats Can Make 100 Sounds",
+    "fact": "Cats can produce approximately 100 different vocalizations, while dogs manage around 10. Cats developed the ability to 'meow' specifically to communicate with humans — adult cats rarely meow at each other.",
+    "category": "Animals",
+    "image": "24.jpg"
   },
   {
-    "id": "5161",
-    "title": "The Chicago Board of Trade Was Founded by Speculators Who Bought and Sold Grain on Credit—With No Physical Grain Exchanging Hands",
-    "fact": "In 1848, grain merchants formalized futures trading—selling grain that didn't yet exist. This 'paper trading' became the basis for modern commodity futures markets.",
-    "category": "Finance",
-    "image": "5161.jpg"
+    "id": "25",
+    "title": "Whale Songs Are Evolving",
+    "fact": "Humpback whale songs change every year and spread across oceans like cultural waves. A new song heard in the Pacific is often singing in the Atlantic within two years — the largest cultural transmission in the animal kingdom.",
+    "category": "Animals",
+    "image": "25.jpg"
   },
   {
-    "id": "5162",
-    "title": "The First Woman to Own a Seat on the NYSE Was Muriel Siebert in 1967",
-    "fact": "Siebert paid $445,000 for her seat—but 9 member firms refused to process her application, forcing her to borrow a seat from another member. She later became New York's first female Superintendent of Banking.",
-    "category": "Finance",
-    "image": "5162.jpg"
+    "id": "27",
+    "title": "Starfish Have No Blood",
+    "fact": "Starfish (sea stars) have no blood. Instead, they use seawater to pump nutrients through their vascular system. If you remove them from the ocean, they die from suffocation within minutes.",
+    "category": "Animals",
+    "image": "27.jpg"
   },
   {
-    "id": "5163",
-    "title": "The Smallest Stock Market in the World Is in the Republic of Palau—With Zero Listed Companies",
-    "fact": "Palau established a stock exchange in 2018 but has no listed companies. It's essentially a corporate registry offering incentives for foreign businesses to incorporate there.",
-    "category": "Finance",
-    "image": "5163.jpg"
+    "id": "29",
+    "title": "Crocodiles Haven't Changed in 200M Years",
+    "fact": "Modern crocodiles are almost identical to their Triassic ancestors from 200 million years ago. They survived the mass extinction that killed the dinosaurs and have remained virtually unchanged.",
+    "category": "Animals",
+    "image": "29.jpg"
   },
   {
-    "id": "5164",
-    "title": "Switzerland Has Had Zero Inflation for Over a Decade—Making It a Safe Haven for Money",
-    "fact": "Switzerland's inflation rate has averaged under 1% for 15 years, occasionally dipping negative. This stability, combined with banking secrecy (now relaxed), made the Swiss Franc a global safe-haven currency.",
-    "category": "Finance",
-    "image": "5164.jpg"
+    "id": "30",
+    "title": "Moths Navigate by Moonlight",
+    "fact": "Moths use the moon as a navigational compass, keeping it at a fixed angle to fly in a straight line. Artificial lights confuse this system, causing them to spiral inward — that's why moths circle light bulbs.",
+    "category": "Animals",
+    "image": "30.jpg"
   },
   {
-    "id": "5165",
-    "title": "The First Act of the US Congress After Independence Was to Issue a $3.4 Million Loan—In France",
-    "fact": "In 1781, the Continental Congress secured a $3.4 million loan from France to fund the Revolutionary War. Without this loan, the American Revolution would likely have failed.",
+    "id": "33",
+    "title": "The Sun Is a Middle-Aged Star",
+    "fact": "Our sun is approximately 4.6 billion years old and is about halfway through its lifespan. In roughly 5 billion years, it will expand into a red giant, engulfing Mercury, Venus, and possibly Earth.",
+    "category": "Space",
+    "image": "33.jpg"
+  },
+  {
+    "id": "34",
+    "title": "Light From Distant Stars Is Ancient",
+    "fact": "When you look at the Andromeda galaxy with the naked eye, you're seeing light that left it 2.5 million years ago. The star might not even exist anymore — you're looking back in time.",
+    "category": "Space",
+    "image": "34.jpg"
+  },
+  {
+    "id": "36",
+    "title": "Saturn Would Float on Water",
+    "fact": "Saturn is so large and has such low density (mostly hydrogen and helium) that if you could find a body of water large enough, the entire planet would float on it like a balloon.",
+    "category": "Space",
+    "image": "36.jpg"
+  },
+  {
+    "id": "38",
+    "title": "Jupiter's Storm Has Lasted 350 Years",
+    "fact": "The Great Red Spot on Jupiter is a storm that has been raging for at least 350 years. It's larger than Earth, with wind speeds exceeding 430 km/h, though it has been slowly shrinking in recent decades.",
+    "category": "Space",
+    "image": "38.jpg"
+  },
+  {
+    "id": "39",
+    "title": "Space Is Completely Silent",
+    "fact": "Space is an almost perfect vacuum — there are no air molecules to carry sound waves. Explosions, spacecraft engines, and even the Big Bang itself would be completely inaudible if you were floating nearby in space.",
+    "category": "Space",
+    "image": "39.jpg"
+  },
+  {
+    "id": "40",
+    "title": "Black Holes Slow Down Time",
+    "fact": "Near a black hole, gravity is so extreme that time itself slows down compared to a distant observer — a phenomenon called gravitational time dilation, predicted by Einstein and confirmed by atomic clocks on satellites.",
+    "category": "Space",
+    "image": "40.jpg"
+  },
+  {
+    "id": "41",
+    "title": "There Are Diamonds Raining on Neptune",
+    "fact": "Scientists believe it rains diamonds on Neptune and Uranus. The extreme pressure converts carbon in their atmospheres into diamond crystals that fall like hailstones toward the planet's core.",
+    "category": "Space",
+    "image": "41.jpg"
+  },
+  {
+    "id": "43",
+    "title": "Pluto Has a Heart",
+    "fact": "Pluto has a massive heart-shaped region called Tombaugh Regio — a 1,600 km wide nitrogen ice plain. Images captured by NASA's New Horizons probe in 2015 revealed this feature with remarkable clarity.",
+    "category": "Space",
+    "image": "43.jpg"
+  },
+  {
+    "id": "44",
+    "title": "Sunlight Is 170,000 Years Old When It Reaches You",
+    "fact": "A photon takes about 170,000 years to travel from the sun's core to its surface — because the interior is so dense it keeps bouncing around. Then it takes only 8 minutes to reach Earth from the surface.",
+    "category": "Space",
+    "image": "44.jpg"
+  },
+  {
+    "id": "45",
+    "title": "There May Be a 9th Planet",
+    "fact": "Astronomers have found evidence for a 9th planet far beyond Neptune — dubbed Planet Nine — based on the clustered orbits of distant trans-Neptunian objects. If it exists, it's 10× Earth's mass and takes 10,000–20,000 years to orbit the sun.",
+    "category": "Space",
+    "image": "45.jpg"
+  },
+  {
+    "id": "46",
+    "title": "Stars Are Born in Nebulae",
+    "fact": "Stars are born inside giant clouds of gas and dust called nebulae. Over millions of years, gravity causes parts of the cloud to collapse and heat up until nuclear fusion ignites — a new star is born.",
+    "category": "Space",
+    "image": "46.jpg"
+  },
+  {
+    "id": "47",
+    "title": "The ISS Travels at 28,000 km/h",
+    "fact": "The International Space Station orbits Earth at 28,000 km/h — so fast it completes a full orbit every 90 minutes, meaning astronauts aboard see 16 sunrises and sunsets every single day.",
+    "category": "Space",
+    "image": "47.jpg"
+  },
+  {
+    "id": "48",
+    "title": "Galaxies Are Mostly Empty Space",
+    "fact": "Despite containing hundreds of billions of stars, galaxies are almost entirely empty space. If our solar system were scaled to the size of a pea, the nearest star would be 300 km away.",
+    "category": "Space",
+    "image": "48.jpg"
+  },
+  {
+    "id": "49",
+    "title": "Time Passes Faster at Higher Altitude",
+    "fact": "Due to gravitational time dilation, clocks at higher altitudes — further from Earth's gravity — run slightly faster. GPS satellites must correct for this effect or navigational errors would accumulate at 10 km/day.",
+    "category": "Space",
+    "image": "49.jpg"
+  },
+  {
+    "id": "50",
+    "title": "The Universe Is Flat",
+    "fact": "Measurements of the cosmic microwave background radiation show the universe is geometrically flat to within 0.4% margin of error. This means parallel lines will never meet — even across billions of light-years.",
+    "category": "Space",
+    "image": "50.jpg"
+  },
+  {
+    "id": "51",
+    "title": "Europa May Have Alien Life",
+    "fact": "Jupiter's moon Europa has a liquid water ocean twice the size of all Earth's oceans combined, kept warm by tidal heating. NASA considers it one of the best candidates for finding extraterrestrial life in our solar system.",
+    "category": "Space",
+    "image": "51.jpg"
+  },
+  {
+    "id": "52",
+    "title": "Stars Come in Rainbow Colors",
+    "fact": "Stars range from deep red (the coolest, ~3,000K) through orange, yellow, white, blue-white, to brilliant blue (the hottest, ~50,000K). The sun appears yellow from Earth but is actually white from space.",
+    "category": "Space",
+    "image": "52.jpg"
+  },
+  {
+    "id": "53",
+    "title": "The Voyager 1 Probe Has Left the Solar System",
+    "fact": "Launched in 1977, Voyager 1 crossed into interstellar space in 2012 and is now the most distant human-made object — over 23 billion km from Earth. It still communicates with NASA at the speed of light, with a 22-hour delay each way.",
+    "category": "Space",
+    "image": "53.jpg"
+  },
+  {
+    "id": "54",
+    "title": "Titan Has Methane Seas",
+    "fact": "Saturn's moon Titan has lakes and seas of liquid methane instead of water, with methane rain and rivers. It has a thicker atmosphere than Earth and is the only other world with stable surface liquids.",
+    "category": "Space",
+    "image": "54.jpg"
+  },
+  {
+    "id": "55",
+    "title": "There Are Rogue Planets Without Stars",
+    "fact": "Rogue planets drift through interstellar space with no host star — ejected from solar systems during formation. Some may have subsurface oceans heated by radioactive decay, potentially supporting life despite being in total darkness.",
+    "category": "Space",
+    "image": "55.jpg"
+  },
+  {
+    "id": "56",
+    "title": "Hot Water Can Freeze Faster Than Cold",
+    "fact": "Under certain conditions, hot water freezes faster than cold — called the Mpemba effect. Discovered by Tanzanian student Erasto Mpemba in 1963, it's still debated why this happens.",
+    "category": "Science",
+    "image": "56.jpg"
+  },
+  {
+    "id": "57",
+    "title": "You Are Mostly Empty Space",
+    "fact": "Atoms are 99.9999999999996% empty space. If you removed all the empty space from every atom in every human on Earth, all 8 billion of us would fit into a sugar cube.",
+    "category": "Science",
+    "image": "57.jpg"
+  },
+  {
+    "id": "59",
+    "title": "Glass Is Actually a Liquid",
+    "fact": "Glass is technically an amorphous solid — its molecules are arranged like a liquid but move so slowly it behaves as a solid. Old window glass is thicker at the bottom because it very slowly flows downward over centuries.",
+    "category": "Science",
+    "image": "59.jpg"
+  },
+  {
+    "id": "60",
+    "title": "Helium Makes Your Voice High",
+    "fact": "Breathing helium raises the pitch of your voice because sound travels faster through helium than air, increasing the resonant frequency of your vocal tract. Sulfur hexafluoride works the opposite way, making your voice extremely deep.",
+    "category": "Science",
+    "image": "60.jpg"
+  },
+  {
+    "id": "61",
+    "title": "Diamonds Are Basically Pencil Lead",
+    "fact": "Diamonds and graphite (pencil lead) are both made entirely of carbon atoms. The only difference is how those atoms are arranged — diamond's tetrahedral structure makes it the hardest natural material.",
+    "category": "Science",
+    "image": "61.jpg"
+  },
+  {
+    "id": "62",
+    "title": "Quantum Particles Can Be in Two Places at Once",
+    "fact": "Quantum superposition allows particles to exist in multiple states simultaneously until observed. This isn't theoretical — it's the physical principle behind lasers, MRI machines, and all modern electronics.",
+    "category": "Science",
+    "image": "62.jpg"
+  },
+  {
+    "id": "63",
+    "title": "Fire Is Not a Solid, Liquid, or Gas",
+    "fact": "Fire (or flame) is a plasma — the fourth state of matter — a rapid oxidation reaction producing heat and light. Unlike solids, liquids, or gases, plasma consists of ionized particles and emits electromagnetic radiation.",
+    "category": "Science",
+    "image": "63.jpg"
+  },
+  {
+    "id": "64",
+    "title": "Sound Can Kill",
+    "fact": "Infrasound below 18 Hz and extremely loud sounds above 155 decibels can cause internal organ damage, paralysis, or death. The threshold of pain is 130 dB — a military acoustic weapon can reach 162 dB.",
+    "category": "Science",
+    "image": "64.jpg"
+  },
+  {
+    "id": "65",
+    "title": "We Don't Fully Understand Gravity",
+    "fact": "Despite predicting it with extraordinary precision, physicists have no explanation for why gravity exists or how it works at the quantum level. It cannot be reconciled with quantum mechanics — one of the greatest unsolved problems in physics.",
+    "category": "Science",
+    "image": "65.jpg"
+  },
+  {
+    "id": "66",
+    "title": "The Human Body Has More Bacteria Than Cells",
+    "fact": "Your body contains about 38 trillion bacteria versus 30 trillion human cells. Most live in your gut and are essential for digestion, immunity, and even mental health — a community called the microbiome.",
+    "category": "Science",
+    "image": "66.jpg"
+  },
+  {
+    "id": "67",
+    "title": "Oxygen Was Once Poisonous",
+    "fact": "When photosynthetic bacteria first produced oxygen 2.4 billion years ago, it was toxic to most life on Earth and caused the 'Great Oxygenation Event' — the largest extinction in history. Life had to evolve to use it.",
+    "category": "Science",
+    "image": "67.jpg"
+  },
+  {
+    "id": "68",
+    "title": "Lightning Strikes 100 Times per Second",
+    "fact": "The Earth is struck by lightning approximately 100 times every second — about 8.6 million strikes per day. Each bolt is hotter than the surface of the sun, reaching around 30,000 Kelvin.",
+    "category": "Science",
+    "image": "68.jpg"
+  },
+  {
+    "id": "69",
+    "title": "The Speed of Light Is a Speed Limit",
+    "fact": "Nothing with mass can reach the speed of light. As an object accelerates toward it, its mass effectively increases infinitely, requiring infinite energy to go further. This is why light speed is the ultimate cosmic speed limit.",
+    "category": "Science",
+    "image": "69.jpg"
+  },
+  {
+    "id": "70",
+    "title": "Water Is Weird",
+    "fact": "Water is one of very few substances that expands when it freezes. This is why ice floats — and why aquatic life survived ice ages. Without this anomaly, ice would sink, freezing lakes and oceans from the bottom up.",
+    "category": "Science",
+    "image": "70.jpg"
+  },
+  {
+    "id": "71",
+    "title": "Every Atom in You Was Once a Star",
+    "fact": "Every heavy element in your body — the carbon, iron, calcium, oxygen — was forged inside massive stars that exploded as supernovae billions of years ago. You are literally made of stardust.",
+    "category": "Science",
+    "image": "71.jpg"
+  },
+  {
+    "id": "72",
+    "title": "Time Flows Differently on Mountains",
+    "fact": "A clock on a mountain summit runs slightly faster than one at sea level due to reduced gravity (gravitational time dilation). This difference is real enough that GPS satellites must compensate for it.",
+    "category": "Science",
+    "image": "72.jpg"
+  },
+  {
+    "id": "73",
+    "title": "Mirrors Don't Show What Others See",
+    "fact": "A mirror shows you a left-right reversed image of yourself. This is why your mirror self looks slightly different from photos — your face is asymmetrical, and photos show how others actually see you.",
+    "category": "Science",
+    "image": "73.jpg"
+  },
+  {
+    "id": "74",
+    "title": "Boiling Water Can Be Room Temperature",
+    "fact": "Water boils at 100°C only at sea-level atmospheric pressure. At high altitude, water boils at lower temperatures. In a perfect vacuum, water boils at room temperature (around 20°C).",
+    "category": "Science",
+    "image": "74.jpg"
+  },
+  {
+    "id": "75",
+    "title": "DNA Is an Incredible Data Drive",
+    "fact": "All of humanity's digital data — every movie, website, and book ever created — could theoretically be stored in less than 9 grams of DNA, which could fit in a spoon. DNA can last 700,000 years under the right conditions.",
+    "category": "Science",
+    "image": "75.jpg"
+  },
+  {
+    "id": "76",
+    "title": "Lasers Were Called 'A Solution in Search of a Problem'",
+    "fact": "When lasers were invented in 1960, scientists had no idea what to use them for. Today they're in surgery, communications, manufacturing, barcode readers, DVDs, telescopes, and weapons — one of the most versatile tools ever created.",
+    "category": "Science",
+    "image": "76.jpg"
+  },
+  {
+    "id": "77",
+    "title": "Humans Glow in the Dark",
+    "fact": "The human body emits a faint bioluminescent glow — visible light produced by chemical reactions in cells. It's about 1,000 times weaker than what the human eye can detect, but sensitive cameras can capture it.",
+    "category": "Science",
+    "image": "77.jpg"
+  },
+  {
+    "id": "78",
+    "title": "Superconductors Levitate",
+    "fact": "When certain materials are cooled below their critical temperature, they become superconductors — expelling all magnetic fields (Meissner effect) and causing magnets to levitate above them indefinitely with zero energy loss.",
+    "category": "Science",
+    "image": "78.jpg"
+  },
+  {
+    "id": "79",
+    "title": "Cleopatra Lived Closer to iPhone Than to Pyramids",
+    "fact": "Cleopatra lived around 30 BC. The iPhone was released in 2007 — about 2,037 years after her death. The Great Pyramid was built around 2560 BC — about 2,530 years before she was born. She was chronologically closer to us.",
     "category": "History",
-    "image": "5165.jpg"
+    "image": "79.jpg"
   },
   {
-    "id": "5166",
-    "title": "The Soviet Union Had Its Own 'Silicon Valley' in the 1960s—But It Failed",
-    "fact": "The 'Zelenograd' tech hub near Moscow was built to rival California's Silicon Valley. However, bureaucracy and isolation from Western technology led to its collapse—despite some impressive hardware prototypes.",
+    "id": "80",
+    "title": "Oxford University Is Older Than the Aztec Empire",
+    "fact": "Teaching began at Oxford around 1096–1167 AD. The Aztec Empire was founded in 1428. This means Oxford University had already been educating students for over 200 years before the Aztecs built Tenochtitlan.",
     "category": "History",
-    "image": "5166.jpg"
+    "image": "80.jpg"
   },
   {
-    "id": "5167",
-    "title": "The Most Expensive Painting Ever Stolen Was the 'Mona Lisa'—And It Was Recovered in 2 Years",
-    "fact": "In 1911, the Mona Lisa was stolen from the Louvre by an Italian museum employee. It was recovered in 1913 when he tried to sell it to the Uffizi Gallery in Florence.",
+    "id": "81",
+    "title": "Nintendo Was Founded in 1889",
+    "fact": "Nintendo was originally founded in 1889 in Kyoto, Japan — as a playing card company. They made traditional Japanese hanafuda cards for nearly 80 years before pivoting to toys and eventually video games in the 1970s.",
     "category": "History",
-    "image": "5167.jpg"
+    "image": "81.jpg"
   },
   {
-    "id": "5168",
-    "title": "Ancient Egyptians Had a 365-Day Calendar—Without Leap Years",
-    "fact": "The Egyptian civil calendar had 12 months of 30 days plus 5 extra days. Without leap years, it drifted by one day every 4 years—completely misaligning with seasons after 1,460 years.",
+    "id": "82",
+    "title": "The Library of Alexandria Was Destroyed Multiple Times",
+    "fact": "Contrary to popular belief, the Library of Alexandria wasn't destroyed in a single fire by Julius Caesar. It declined gradually over centuries through multiple incidents, funding cuts, and neglect — the last recorded use was around 400 AD.",
     "category": "History",
-    "image": "5168.jpg"
+    "image": "82.jpg"
   },
   {
-    "id": "5169",
-    "title": "The First Written Language Was Not Egyptian or Sumerian—It Was Sumerian Cuneiform",
-    "fact": "Dating back to 3400 BC, Sumerian cuneiform was the first writing system. Egyptian hieroglyphs appeared slightly later, around 3200 BC—both independently developed, but Sumerian is slightly older.",
+    "id": "83",
+    "title": "Napoleon Was Average Height for His Time",
+    "fact": "Napoleon was approximately 5'7\" (170 cm) — average height for a French man of his era. The myth arose from a misunderstanding: English propaganda confused French inches (pouces) with English inches, making him seem 5'2\".",
     "category": "History",
-    "image": "5169.jpg"
+    "image": "83.jpg"
   },
   {
-    "id": "5170",
-    "title": "The Only US President to Survive Assassination Without Medical Treatment Was Andrew Jackson",
-    "fact": "In 1835, Richard Lawrence shot at Jackson—both pistols misfired. Jackson then attacked Lawrence with his walking cane until the would-be assassin was subdued. No medical care was needed.",
+    "id": "84",
+    "title": "The Great Wall of China Can't Be Seen From Space",
+    "fact": "The Great Wall of China is NOT visible from space with the naked eye — it's about as wide as a highway. Astronauts have confirmed this repeatedly. The myth was published in a 1932 Ripley's Believe It or Not column.",
     "category": "History",
-    "image": "5170.jpg"
+    "image": "84.jpg"
   },
   {
-    "id": "5171",
-    "title": "The First Search Engine Was Not Google—It Was Archie, Created in 1990",
-    "fact": "Alan Emtage created Archie (short for 'archive') to index public FTP servers. It didn't use web crawling—it indexed filenames, not content. Google appeared 8 years later in 1998.",
-    "category": "Technology",
-    "image": "5171.jpg"
+    "id": "85",
+    "title": "Vikings Never Wore Horned Helmets",
+    "fact": "The horned Viking helmet is entirely fictional, popularized by a 19th-century opera costume designer. Real Viking helmets were plain iron or leather. Only two intact Viking helmets have ever been found.",
+    "category": "History",
+    "image": "85.jpg"
   },
   {
-    "id": "5172",
-    "title": "The First Computer Mouse Was Made of Wood—And Had Two Wheels, Not a Ball",
-    "fact": "Invented by Douglas Engelbart in 1964, the mouse used two perpendicular wheels to track movement. It was called a 'mouse' because the cord resembled a mouse's tail.",
-    "category": "Technology",
-    "image": "5172.jpg"
+    "id": "86",
+    "title": "Einstein Failed Math — Is a Myth",
+    "fact": "Albert Einstein never failed mathematics. He mastered calculus by age 15. The myth arose from a misunderstanding of Swiss school grading — in Swiss schools, 6 is the top grade, not 1, and his '1s' were actually perfect scores.",
+    "category": "History",
+    "image": "86.jpg"
   },
   {
-    "id": "5173",
-    "title": "The '@' Symbol Was Used in 1536—For Measuring Wine",
-    "fact": "Before email, '@' denoted quantity—as in '5 @ $2' meaning 5 units at $2 each. It also appears in a 1536 document measuring wine barrels, centuries before email.",
-    "category": "Technology",
-    "image": "5173.jpg"
+    "id": "87",
+    "title": "Ancient Romans Used Urine as Mouthwash",
+    "fact": "Ancient Romans rinsed their mouths with imported Portuguese urine as toothpaste and mouthwash. The ammonia in urine actually works as a whitening agent. The practice was common enough that the emperor taxed urine sales.",
+    "category": "History",
+    "image": "87.jpg"
   },
   {
-    "id": "5174",
-    "title": "The First Video Game Console Sold for $100 in 1972—The Magnavox Odyssey",
-    "fact": "The Odyssey cost $100 ($700 today) and featured 12 games, including a version of ping-pong. It used overlays on the TV screen because it couldn't render graphics properly.",
-    "category": "Technology",
-    "image": "5174.jpg"
+    "id": "88",
+    "title": "WWII Ended 56 Years Late for One Soldier",
+    "fact": "Japanese soldier Hiroo Onoda continued fighting in the Philippine jungle until 1974 — 29 years after WWII ended in 1945 — because he never received official orders to surrender and believed it was enemy propaganda.",
+    "category": "History",
+    "image": "88.jpg"
   },
   {
-    "id": "5175",
-    "title": "The First Known Computer Programmer Was a Woman—Ada Lovelace in 1843",
-    "fact": "Ada Lovelace wrote an algorithm intended for Charles Babbage's Analytical Engine, making her the first computer programmer. She envisioned computers using symbols beyond just arithmetic.",
-    "category": "Technology",
-    "image": "5175.jpg"
+    "id": "89",
+    "title": "The Berlin Wall Fell Without an Order",
+    "fact": "The fall of the Berlin Wall on November 9, 1989 was an accident. A confused East German spokesman announced border crossings would open 'immediately' — he meant the next day, after procedures were in place. Crowds gathered and guards let them through.",
+    "category": "History",
+    "image": "89.jpg"
   },
   {
-    "id": "5176",
-    "title": "The Most Expensive Domain Name Ever Sold Is 'Cars.com'—For $872 Million",
-    "fact": "In 2024, the domain Cars.com was acquired for $872 million, making it the highest-known domain sale in history—far surpassing previous records like Voice.com at $30 million and Sex.com at $13 million.",
-    "category": "Technology",
-    "image": "5176.jpg"
+    "id": "90",
+    "title": "Morse Code Was Never Standardized by Morse",
+    "fact": "Samuel Morse never created a complete Morse code — his assistant Alfred Vail invented most of it. And what we use internationally today (International Morse Code) was entirely redesigned by Friedrich Gerke in 1848.",
+    "category": "History",
+    "image": "90.jpg"
   },
   {
-    "id": "5177",
-    "title": "The First 3D Printer Was Created in 1981—But It Was Called 'Stereolithography'",
-    "fact": "Dr. Hideo Kodama invented the first 3D printing technique using UV-cured resin. But he failed to patent it, and the rights went to Chuck Hull, who coined 'stereolithography' and founded 3D Systems.",
-    "category": "Technology",
-    "image": "5177.jpg"
+    "id": "91",
+    "title": "The Egyptian Pyramids Were Built by Paid Workers",
+    "fact": "Egyptian pyramids were not built by slaves but by skilled, paid workers who received wages, healthcare, and were buried near the pyramids as an honor. Archaeological evidence of their village was found in the 1990s.",
+    "category": "History",
+    "image": "91.jpg"
   },
   {
-    "id": "5178",
-    "title": "The North Pole Has No Permanent Land—It's Just Floating Ice",
-    "fact": "Unlike Antarctica (a continent with landmass), the North Pole is ocean covered by constantly shifting sea ice. No permanent human settlement exists there—only temporary research stations.",
-    "category": "Geography",
-    "image": "5178.jpg"
+    "id": "92",
+    "title": "There Were Female Pharaohs in Egypt",
+    "fact": "Ancient Egypt had multiple female pharaohs, including Hatshepsut — who ruled for over 20 years and built one of the largest temples in Egypt. Her successor Thutmose III tried to erase her from history by defacing her monuments.",
+    "category": "History",
+    "image": "92.jpg"
   },
   {
-    "id": "5179",
-    "title": "The Longest Mountain Range in the World Is Underwater—The Mid-Ocean Ridge",
-    "fact": "The Mid-Atlantic Ridge stretches 40,000 miles across the ocean floor—10 times longer than the Andes, making it the longest mountain range on Earth. Most of it is completely unexplored.",
-    "category": "Geography",
-    "image": "5179.jpg"
+    "id": "93",
+    "title": "Nikola Tesla Was Erased From History",
+    "fact": "Thomas Edison waged a smear campaign against Nikola Tesla in the 'War of Currents'. After Tesla's death, the US government seized all his papers — and his contribution was largely omitted from history books for decades.",
+    "category": "History",
+    "image": "93.jpg"
   },
   {
-    "id": "5180",
-    "title": "The Dead Sea Is Dying—It Loses 3 Feet of Water Every Year",
-    "fact": "Due to excessive water diversion from the Jordan River and climate change, the Dead Sea's water level drops roughly 3 feet annually. It's now 1,400 feet below sea level and shrinking fast.",
-    "category": "Geography",
-    "image": "5180.jpg"
+    "id": "94",
+    "title": "Roman Concrete Has Lasted 2,000 Years",
+    "fact": "Modern concrete crumbles within decades, but Roman concrete is still standing after 2,000 years. Scientists discovered they used volcanic ash and seawater in a reaction that actually makes it stronger over time.",
+    "category": "History",
+    "image": "94.jpg"
   },
   {
-    "id": "5181",
-    "title": "The Earth's Inner Core Is More Than 10,000°F—Hotter Than the Sun's Surface",
-    "fact": "The inner core reaches temperatures of 10,800°F (6,000°C)—slightly hotter than the Sun's surface at 10,000°F. However, it remains solid due to immense pressure, estimated at 360 million atmospheres.",
-    "category": "Geography",
-    "image": "5181.jpg"
+    "id": "95",
+    "title": "The Eiffel Tower Was Supposed to Be Demolished",
+    "fact": "The Eiffel Tower was built in 1889 as a temporary structure for the World's Fair and was scheduled for demolition in 1909. It was saved because its tall antenna proved invaluable as a radio transmission tower.",
+    "category": "History",
+    "image": "95.jpg"
   },
   {
-    "id": "5182",
-    "title": "There Are More Pyramids in Sudan Than in Egypt",
-    "fact": "Sudan has over 200 pyramids built by the Kushite kingdom—more than twice Egypt's 118. They're smaller, steeper, and largely unexcavated, many still buried in desert sands.",
-    "category": "Geography",
-    "image": "5182.jpg"
+    "id": "96",
+    "title": "Coca-Cola Was Originally Green",
+    "fact": "The original Coca-Cola formula, created in 1886, had a different color due to different processing. The signature caramel color we know today was developed as the formula was refined. The iconic bottle is green for unrelated branding reasons.",
+    "category": "History",
+    "image": "96.jpg"
+  },
+  {
+    "id": "98",
+    "title": "Magellan Didn't Finish the First Circumnavigation",
+    "fact": "Ferdinand Magellan is credited with the first circumnavigation of the globe, but he was killed in the Philippines in 1521 and never completed it. His ship and 18 remaining crew members finished the voyage without him.",
+    "category": "History",
+    "image": "98.jpg"
+  },
+  {
+    "id": "99",
+    "title": "Stonehenge Was Built in Stages Over Millennia",
+    "fact": "Stonehenge wasn't built all at once — construction took place in multiple phases from around 3000 BC to 1500 BC, spanning 1,500 years. The earliest part was a circular earthwork built 500 years before the famous stone circle.",
+    "category": "History",
+    "image": "99.jpg"
+  },
+  {
+    "id": "101c",
+    "title": "The Colosseum Once Had a Retractable Roof",
+    "fact": "The Roman Colosseum had an awning system called the velarium — operated by 1,000 Roman sailors — that could be extended to provide shade for the 50,000–80,000 spectators in under an hour.",
+    "category": "History",
+    "image": "101c.jpg"
+  },
+  {
+    "id": "102c",
+    "title": "Genghis Khan Killed 40 Million People",
+    "fact": "The Mongol conquests led by Genghis Khan killed an estimated 40 million people — about 10% of the world's population at the time. Some regions of Central Asia still haven't recovered the population levels they had before the conquest.",
+    "category": "History",
+    "image": "102c.jpg"
+  },
+  {
+    "id": "103c",
+    "title": "The Titanic's Lookout Had No Binoculars",
+    "fact": "The Titanic's crow's nest binoculars were accidentally left behind in Southampton. The lookouts had to spot the iceberg with the naked eye. Had they had binoculars, they might have seen it in time to avoid the collision.",
+    "category": "History",
+    "image": "103c.jpg"
+  },
+  {
+    "id": "105c",
+    "title": "You Shed Your Skin Every Month",
+    "fact": "Humans shed their entire outer layer of skin every 2–4 weeks — about 30,000–40,000 dead skin cells per hour. The dust in your home is largely composed of shed human skin cells.",
+    "category": "Human Body",
+    "image": "105c.jpg"
+  },
+  {
+    "id": "106",
+    "title": "Your Eyes Can Distinguish 10 Million Colors",
+    "fact": "The human eye can distinguish up to 10 million different colors, and women statistically identify more shades than men. However, color perception is largely constructed by the brain — not purely measured by the eye.",
+    "category": "Human Body",
+    "image": "106.jpg"
+  },
+  {
+    "id": "107",
+    "title": "Bones Are Stronger Than Steel by Weight",
+    "fact": "Bone is stronger than reinforced concrete and comparable to steel in tensile strength — but at a fraction of the weight. The femur can support 30× your body weight. Its hollow structure and collagen matrix make it remarkably resilient.",
+    "category": "Human Body",
+    "image": "107.jpg"
+  },
+  {
+    "id": "108",
+    "title": "Your Heart Beats 100,000 Times a Day",
+    "fact": "The human heart beats approximately 100,000 times per day, pumping 7,570 liters of blood — enough to fill about 50 bathtubs. Over a 70-year lifetime, it beats 2.5 billion times without stopping for a rest.",
+    "category": "Human Body",
+    "image": "108.jpg"
+  },
+  {
+    "id": "109",
+    "title": "You Are Taller in the Morning",
+    "fact": "You are approximately 1 cm taller when you wake up than when you go to bed. During the day, the cartilage discs in your spine compress under the weight of your body, shrinking you slightly.",
+    "category": "Human Body",
+    "image": "109.jpg"
+  },
+  {
+    "id": "110",
+    "title": "Your Gut Has Its Own Nervous System",
+    "fact": "The enteric nervous system in your gut contains 500 million neurons — more than your spinal cord. It can function completely independently from your brain, which is why it's called 'the second brain'.",
+    "category": "Human Body",
+    "image": "110.jpg"
+  },
+  {
+    "id": "111",
+    "title": "Stomach Acid Can Dissolve Metal",
+    "fact": "Hydrochloric acid in the human stomach has a pH of 1.5–2.0 — strong enough to dissolve metal and irritate the skin. Your stomach lining replaces itself completely every 3–4 days to avoid self-digestion.",
+    "category": "Human Body",
+    "image": "111.jpg"
+  },
+  {
+    "id": "112",
+    "title": "Your Nose Remembers 50,000 Scents",
+    "fact": "The human nose can distinguish up to 50,000 different smells. Scent is the only sense that connects directly to the limbic system (memory and emotion) — which is why smells so powerfully trigger memories.",
+    "category": "Human Body",
+    "image": "112.jpg"
+  },
+  {
+    "id": "113",
+    "title": "You're Born With 270 Bones",
+    "fact": "Babies are born with approximately 270 bones, but adults have only 206. As you grow, many bones fuse together. The last bones to fuse are usually the collarbones, around age 25.",
+    "category": "Human Body",
+    "image": "113.jpg"
+  },
+  {
+    "id": "114",
+    "title": "Your Blood Vessels Could Circle Earth 2.5 Times",
+    "fact": "If you stretched out all the blood vessels in an adult human body end-to-end, they would extend approximately 100,000 km — enough to circle the Earth roughly 2.5 times.",
+    "category": "Human Body",
+    "image": "114.jpg"
+  },
+  {
+    "id": "115",
+    "title": "The Brain Has No Pain Receptors",
+    "fact": "The brain itself cannot feel pain — it has no nociceptors. Brain surgery can be performed on conscious patients because only the scalp and skull are sensitive. Headaches are caused by surrounding tissues, not the brain tissue.",
+    "category": "Human Body",
+    "image": "115.jpg"
+  },
+  {
+    "id": "116",
+    "title": "Hair Is Basically Dead",
+    "fact": "Hair is composed of dead keratin cells pushed upward from hair follicles. Only the follicle itself is alive — the hair shaft you see and style is entirely dead material. This is why cutting hair doesn't hurt.",
+    "category": "Human Body",
+    "image": "116.jpg"
+  },
+  {
+    "id": "117",
+    "title": "Humans Are the Only Animals to Have Chins",
+    "fact": "The chin is a uniquely human anatomical feature — no other primate has one. Scientists believe it evolved not for structural support (it isn't needed for chewing) but possibly as a byproduct of reduced jaw size during evolution.",
+    "category": "Human Body",
+    "image": "117.jpg"
+  },
+  {
+    "id": "118",
+    "title": "Your Appendix Is Not Useless",
+    "fact": "The appendix was considered vestigial for decades, but research shows it acts as a 'safe house' for good gut bacteria after illness. It repopulates the gut with healthy microbiomes after diarrheal disease wipes them out.",
+    "category": "Human Body",
+    "image": "118.jpg"
+  },
+  {
+    "id": "120",
+    "title": "You Have a Blind Spot in Each Eye",
+    "fact": "Each eye has a blind spot where the optic nerve connects — roughly the size of a coin at arm's length. Your brain fills in this gap using context from the surrounding image, which is why you never notice it.",
+    "category": "Human Body",
+    "image": "120.jpg"
+  },
+  {
+    "id": "121",
+    "title": "Goosebumps Are an Evolutionary Leftover",
+    "fact": "Goosebumps (piloerection) is the reflex that causes body hair to stand up — in hairy mammals, it creates an insulating layer or makes them appear bigger to threats. In humans, who have little body hair, it serves no useful purpose.",
+    "category": "Human Body",
+    "image": "121.jpg"
+  },
+  {
+    "id": "122",
+    "title": "Sneezes Exit at Over 160 km/h",
+    "fact": "A human sneeze expels air at speeds between 160–200 km/h and can project over 100,000 infectious droplets up to 8 meters. A cough expels about 3,000 droplets at 80 km/h.",
+    "category": "Human Body",
+    "image": "122.jpg"
   }
 ]

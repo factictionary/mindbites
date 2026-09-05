@@ -1,702 +1,702 @@
 [
   {
-    "id": "133",
-    "title": "The Sahara Was Once Green",
-    "fact": "Just 5,000–11,000 years ago, the Sahara was a lush green savanna with rivers, lakes, hippos, and giraffes. This 'Green Sahara' or African Humid Period ended as Earth's orbital cycle shifted, cutting off monsoon rains.",
+    "id": "1136",
+    "title": "A Group of Pigeons Is Called a Kit",
+    "fact": "A group of pigeons is called a kit. Pigeons have excellent navigational abilities and were used as messenger birds.",
+    "category": "Animals",
+    "image": "1136.jpg"
+  },
+  {
+    "id": "1137",
+    "title": "The Moon Has 181 Known 'Maria' (Seas)",
+    "fact": "The Moon has 181 known maria (dark plains), formed by ancient volcanic eruptions. The largest is Mare Imbrium.",
+    "category": "Space",
+    "image": "1137.jpg"
+  },
+  {
+    "id": "1138",
+    "title": "Your Small Intestine Is 22 Feet Long",
+    "fact": "The small intestine is about 22 feet long and 1 inch in diameter. Its surface area is about 2,700 square feet due to villi.",
+    "category": "Human Body",
+    "image": "1138.jpg"
+  },
+  {
+    "id": "1139",
+    "title": "Lake Baikal Is the Deepest and Oldest Lake",
+    "fact": "Lake Baikal in Siberia is the world's deepest lake at 1,642 meters and oldest at 25-30 million years. It contains 20% of Earth's fresh water.",
     "category": "Geography",
-    "image": "133.jpg"
+    "image": "1139.jpg"
   },
   {
-    "id": "134",
-    "title": "Mount Everest Is Not the Tallest Mountain",
-    "fact": "Mount Everest is the highest peak above sea level, but Mauna Kea in Hawaii is the tallest mountain from base to summit at 10,210 m (though much of it is underwater). And Chimborazo in Ecuador is the furthest point from Earth's center.",
+    "id": "1140",
+    "title": "A Group of Rabbits Is Called a Fluffle",
+    "fact": "A group of rabbits is called a fluffle. Rabbits can rotate their ears 180 degrees to locate sounds from any direction.",
+    "category": "Animals",
+    "image": "1140.jpg"
+  },
+  {
+    "id": "1141",
+    "title": "The First Commercial Email Was Sent in 1978",
+    "fact": "The first commercial spam email was sent in 1978 by Digital Equipment Corporation to 400 ARPANET users, advertising their new computers.",
+    "category": "Technology",
+    "image": "1141.jpg"
+  },
+  {
+    "id": "1142",
+    "title": "Trees Can Reduce Noise Pollution by 50%",
+    "fact": "A 100-foot-wide belt of trees can reduce noise by 50%, absorbing and blocking sound waves. This is why forests feel peaceful.",
+    "category": "Nature",
+    "image": "1142.jpg"
+  },
+  {
+    "id": "1143",
+    "title": "The Silk Road Was 4,000 Miles Long",
+    "fact": "The ancient Silk Road stretched about 4,000 miles, connecting China to the Mediterranean through Central Asia.",
+    "category": "History",
+    "image": "1143.jpg"
+  },
+  {
+    "id": "1144",
+    "title": "A Group of Frogs Is Called an Army",
+    "fact": "A group of frogs is called an army. Some frog species can freeze solid in winter and thaw out alive in spring.",
+    "category": "Animals",
+    "image": "1144.jpg"
+  },
+  {
+    "id": "1145",
+    "title": "Jupiter's Great Red Spot Is a Storm Larger Than Earth",
+    "fact": "Jupiter's Great Red Spot is a storm larger than Earth, with winds up to 400 mph. It has been raging for at least 400 years.",
+    "category": "Space",
+    "image": "1145.jpg"
+  },
+  {
+    "id": "1146",
+    "title": "Your Bladder Can Hold 400-600ml of Urine",
+    "fact": "The average adult bladder can hold about 400-600ml (about 2 cups) of urine. Signals about fullness reach the brain at about 200ml.",
+    "category": "Human Body",
+    "image": "1146.jpg"
+  },
+  {
+    "id": "1148",
+    "title": "A Group of Toads Is Called a Knot",
+    "fact": "A group of toads is called a knot. Unlike frogs, toads have dry, warty skin and spend more time on land.",
+    "category": "Animals",
+    "image": "1148.jpg"
+  },
+  {
+    "id": "1149",
+    "title": "The First Computer Mouse Was Made of Wood",
+    "fact": "Douglas Engelbart's first computer mouse (1964) was made of wood with two perpendicular wheels. Commercial versions appeared in 1984.",
+    "category": "Technology",
+    "image": "1149.jpg"
+  },
+  {
+    "id": "1150",
+    "title": "Forests Store Carbon for Hundreds of Years",
+    "fact": "Forests store carbon in their biomass and soil for hundreds to thousands of years, helping mitigate climate change.",
+    "category": "Nature",
+    "image": "1150.jpg"
+  },
+  {
+    "id": "1151",
+    "title": "The Great Wall of China Is 13,171 Miles Long",
+    "fact": "The Great Wall of China stretches about 13,171 miles when all sections are measured, though only about 15% remains intact.",
+    "category": "History",
+    "image": "1151.jpg"
+  },
+  {
+    "id": "1152",
+    "title": "A Group of Quail Is Called a Covey",
+    "fact": "A group of quail is called a covey. Quail are known for their distinctive head plumes and are popular game birds.",
+    "category": "Animals",
+    "image": "1152.jpg"
+  },
+  {
+    "id": "1153",
+    "title": "Saturn's Rings Are 90% Water Ice",
+    "fact": "Saturn's rings are composed of about 90% water ice, with particles ranging from tiny grains to boulders the size of houses.",
+    "category": "Space",
+    "image": "1153.jpg"
+  },
+  {
+    "id": "1154",
+    "title": "Your Kidneys Filter 120-150 Quarts of Blood Daily",
+    "fact": "Your kidneys filter about 120-150 quarts of blood daily, producing 1-2 quarts of urine. They balance fluids and remove waste.",
+    "category": "Human Body",
+    "image": "1154.jpg"
+  },
+  {
+    "id": "1155",
+    "title": "The Mariana Trench Is 36,070 Feet Deep",
+    "fact": "The Mariana Trench reaches 36,070 feet at its deepest point. The pressure there is over 1,000 times atmospheric pressure.",
     "category": "Geography",
-    "image": "134.jpg"
+    "image": "1155.jpg"
   },
   {
-    "id": "135",
-    "title": "Lake Baikal Holds 20% of All Freshwater",
-    "fact": "Russia's Lake Baikal is the deepest lake on Earth (1,642 m) and contains approximately 23,000 cubic kilometers of water — about 20% of all fresh surface water on the planet — more than all five Great Lakes combined.",
+    "id": "1156",
+    "title": "A Group of Rooks Is Called a Parliament",
+    "fact": "A group of rooks is called a parliament. Rooks are intelligent birds known for their ability to solve complex problems.",
+    "category": "Animals",
+    "image": "1156.jpg"
+  },
+  {
+    "id": "1157",
+    "title": "The First Webcam Was Created to Monitor Coffee Pot",
+    "fact": "The first webcam was created at Cambridge University in 1991 to monitor a coffee pot so researchers knew if coffee was ready.",
+    "category": "Technology",
+    "image": "1157.jpg"
+  },
+  {
+    "id": "1158",
+    "title": "Trees Absorb More CO2 Than They Emit",
+    "fact": "Forests absorb more carbon dioxide than they emit, making them net carbon sinks essential for climate regulation.",
+    "category": "Nature",
+    "image": "1158.jpg"
+  },
+  {
+    "id": "1159",
+    "title": "The Library of Alexandria Was Founded in 283 BCE",
+    "fact": "The Library of Alexandria, founded in 283 BCE, was one of the largest libraries of the ancient world, holding hundreds of thousands of scrolls.",
+    "category": "History",
+    "image": "1159.jpg"
+  },
+  {
+    "id": "1160",
+    "title": "A Group of Starlings Is Called a Murmuration",
+    "fact": "A group of starlings is called a murmuration. These large groups create mesmerizing coordinated flight patterns.",
+    "category": "Animals",
+    "image": "1160.jpg"
+  },
+  {
+    "id": "1161",
+    "title": "The Sun Is 4.6 Billion Years Old",
+    "fact": "The Sun formed about 4.6 billion years ago from a giant cloud of gas and dust. It will continue burning for another 5 billion years.",
+    "category": "Space",
+    "image": "1161.jpg"
+  },
+  {
+    "id": "1163",
+    "title": "The Sahara Desert Is 3.6 Million Square Miles",
+    "fact": "The Sahara is the largest hot desert in the world at 3.6 million square miles, roughly the size of the United States.",
     "category": "Geography",
-    "image": "135.jpg"
+    "image": "1163.jpg"
   },
   {
-    "id": "136",
-    "title": "Canada Has the Most Lakes",
-    "fact": "Canada has more lakes than any other country — approximately 879,800 lakes larger than 0.1 km², holding 20% of the world's fresh lake water. Ontario alone has more lakes than the rest of the world combined.",
+    "id": "1164",
+    "title": "A Group of Storks Is Called a Muster",
+    "fact": "A group of storks is called a muster. Storks are known for their long-distance migrations and deliver mythology.",
+    "category": "Animals",
+    "image": "1164.jpg"
+  },
+  {
+    "id": "1165",
+    "title": "The First Smartphone Was the IBM Simon in 1994",
+    "fact": "The IBM Simon Personal Communicator, released in 1994, is considered the first smartphone with email, calendar, and touchscreen.",
+    "category": "Technology",
+    "image": "1165.jpg"
+  },
+  {
+    "id": "1166",
+    "title": "Forests Help Regulate the Water Cycle",
+    "fact": "Trees absorb water through roots and release it through leaves in a process called transpiration, regulating local and global water cycles.",
+    "category": "Nature",
+    "image": "1166.jpg"
+  },
+  {
+    "id": "1167",
+    "title": "The Colosseum Could Hold 50,000-80,000 Spectators",
+    "fact": "The Roman Colosseum could hold between 50,000-80,000 spectators who gathered to watch gladiatorial contests and public spectacles.",
+    "category": "History",
+    "image": "1167.jpg"
+  },
+  {
+    "id": "1168",
+    "title": "A Group of Vultures Is Called a Wake",
+    "fact": "A group of vultures is called a wake. These birds play an important ecological role as nature's cleanup crew.",
+    "category": "Animals",
+    "image": "1168.jpg"
+  },
+  {
+    "id": "1169",
+    "title": "The Moon Is Slowly Moving Away From Earth",
+    "fact": "The Moon recedes from Earth at about 3.8 cm per year. In 600 million years, total solar eclipses will no longer occur.",
+    "category": "Space",
+    "image": "1169.jpg"
+  },
+  {
+    "id": "1172",
+    "title": "A Group of Walruses Is Called a Pod",
+    "fact": "A group of walruses is called a pod. Walrus tusks can grow up to 3 feet long and are used for climbing onto ice.",
+    "category": "Animals",
+    "image": "1172.jpg"
+  },
+  {
+    "id": "1173",
+    "title": "The First Computer Virus Was Called 'Creeper' in 1971",
+    "fact": "The Creeper virus, created by Bob Thomas in 1971, was the first computer virus. It displayed 'I'm the Creeper: Catch me if you can!'",
+    "category": "Technology",
+    "image": "1173.jpg"
+  },
+  {
+    "id": "1174",
+    "title": "Forests Provide 1.6 Billion People With Livelihoods",
+    "fact": "About 1.6 billion people globally depend on forests for their livelihoods, including food, medicine, fuel, and income.",
+    "category": "Nature",
+    "image": "1174.jpg"
+  },
+  {
+    "id": "1175",
+    "title": "The Trojan War Occurred Around 1200 BCE",
+    "fact": "The Trojan War, described in Homer's Iliad, is believed to have occurred around 1200 BCE. Archaeological evidence confirms Troy existed.",
+    "category": "History",
+    "image": "1175.jpg"
+  },
+  {
+    "id": "1177",
+    "title": "The Milky Way Will Merge With Andromeda",
+    "fact": "The Milky Way and Andromeda are approaching each other at 250,000 mph and will merge in about 4.5 billion years.",
+    "category": "Space",
+    "image": "1177.jpg"
+  },
+  {
+    "id": "1179",
+    "title": "The Amazon River Has No Permanent Bridges",
+    "fact": "The Amazon River, despite being over 4,000 miles long, has no permanent bridges. The river's width makes bridging impractical.",
     "category": "Geography",
-    "image": "136.jpg"
+    "image": "1179.jpg"
   },
   {
-    "id": "137",
-    "title": "The Amazon River Discharges 20% of Global River Flow",
-    "fact": "The Amazon River discharges approximately 209,000 cubic meters of water per second into the Atlantic — accounting for 20% of all freshwater entering the world's oceans. Its plume of freshwater is detectable 125 miles offshore.",
+    "id": "1180",
+    "title": "A Group of Zebras Is Called a Dazzle",
+    "fact": "A group of zebras is called a dazzle. Their stripes are unique to each individual, like human fingerprints.",
+    "category": "Animals",
+    "image": "1180.jpg"
+  },
+  {
+    "id": "1181",
+    "title": "WiFi Was Invented in Australia in the 1990s",
+    "fact": "WiFi technology was developed by CSIRO in Australia in the 1990s. The term 'WiFi' doesn't stand for anything—it's a trademark.",
+    "category": "Technology",
+    "image": "1181.jpg"
+  },
+  {
+    "id": "1182",
+    "title": "Forests Are Home to 80% of Land Species",
+    "fact": "Forests are home to about 80% of terrestrial biodiversity, including 80% of amphibians, 75% of birds, and 65% of mammals.",
+    "category": "Nature",
+    "image": "1182.jpg"
+  },
+  {
+    "id": "1183",
+    "title": "The French Revolution Began in 1789",
+    "fact": "The French Revolution began on July 14, 1789, with the storming of the Bastille, transforming France from monarchy to republic.",
+    "category": "History",
+    "image": "1183.jpg"
+  },
+  {
+    "id": "1184",
+    "title": "A Group of Buffalo Is Called an Obstinacy",
+    "fact": "A group of buffalo is called an obstinacy. American bison can run up to 35 mph despite weighing up to 2,000 pounds.",
+    "category": "Animals",
+    "image": "1184.jpg"
+  },
+  {
+    "id": "1185",
+    "title": "Venus Spins Backwards Compared to Other Planets",
+    "fact": "Venus rotates clockwise (retrograde) while most planets rotate counterclockwise. A day on Venus is longer than its year.",
+    "category": "Space",
+    "image": "1185.jpg"
+  },
+  {
+    "id": "1186",
+    "title": "Your Brain Uses 20% of Your Energy",
+    "fact": "Despite being only 2% of body weight, your brain uses about 20% of your energy. This makes it vulnerable to low blood sugar.",
+    "category": "Human Body",
+    "image": "1186.jpg"
+  },
+  {
+    "id": "1188",
+    "title": "A Group of Bats Is Called a Colony",
+    "fact": "A group of bats is called a colony or cauldron. Bats are the only mammals capable of sustained flight.",
+    "category": "Animals",
+    "image": "1188.jpg"
+  },
+  {
+    "id": "1193",
+    "title": "Mars Has the Tallest Mountain in the Solar System",
+    "fact": "Olympus Mons on Mars is 72,000 feet tall, nearly three times Mount Everest's height. It's a shield volcano billions of years old.",
+    "category": "Space",
+    "image": "1193.jpg"
+  },
+  {
+    "id": "1194",
+    "title": "Your Brain Has 86 Billion Neurons",
+    "fact": "The human brain contains about 86 billion neurons, each connected to thousands of others via synapses, creating about 100 trillion connections.",
+    "category": "Human Body",
+    "image": "1194.jpg"
+  },
+  {
+    "id": "1198",
+    "title": "Forests Cover 31% of Earth's Land",
+    "fact": "Forests cover about 31% of Earth's total land area, totaling 4.06 billion hectares. They provide habitat for 80% of biodiversity.",
+    "category": "Nature",
+    "image": "1198.jpg"
+  },
+  {
+    "id": "1200",
+    "title": "A Group of Ravens Is Called an Unkindness",
+    "fact": "A group of ravens is called an unkindness. Ravens are among the most intelligent birds and can solve complex problems.",
+    "category": "Animals",
+    "image": "1200.jpg"
+  },
+  {
+    "id": "1202",
+    "title": "Your Nose Makes 1 Liter of Mucus Daily",
+    "fact": "You produce about 1-1.5 liters of nasal mucus per day. Most of it gets swallowed unconsciously, which is completely normal.",
+    "category": "Human Body",
+    "image": "1202.jpg"
+  },
+  {
+    "id": "1203",
+    "title": "The Amazon Rainforest Is 5.5 Million km²",
+    "fact": "The Amazon rainforest covers about 5.5 million square kilometers, spanning nine countries. It is the largest tropical rainforest in the world.",
     "category": "Geography",
-    "image": "137.jpg"
+    "image": "1203.jpg"
   },
   {
-    "id": "138",
-    "title": "There Is an Underground River Beneath the Amazon",
-    "fact": "A massive underground river called the Hamza flows beneath the Amazon at about 4km depth. It's about the same length as the Amazon (6,000 km) but 100× wider and flows much slower.",
+    "id": "1205",
+    "title": "The First Email Was Sent in 1971",
+    "fact": "Ray Tomlinson sent the first network email in 1971, using the @ sign to separate usernames from computer names. He chose QWERTYUIOP as the first message.",
+    "category": "Technology",
+    "image": "1205.jpg"
+  },
+  {
+    "id": "1206",
+    "title": "Forests Help Combat Climate Change",
+    "fact": "Forests absorb about 2.6 billion tons of CO2 annually, helping to mitigate climate change. Protecting forests is crucial for meeting climate goals.",
+    "category": "Nature",
+    "image": "1206.jpg"
+  },
+  {
+    "id": "1207",
+    "title": "The Black Death Killed 30-60% of Europe's Population",
+    "fact": "The Black Death (1347-1351) killed an estimated 75-200 million people, wiping out 30-60% of Europe's population in just a few years.",
+    "category": "History",
+    "image": "1207.jpg"
+  },
+  {
+    "id": "1208",
+    "title": "A Group of Whales Is Called a Pod",
+    "fact": "A group of whales is called a pod. Blue whales are the largest animals ever known to exist, reaching up to 100 feet in length.",
+    "category": "Animals",
+    "image": "1208.jpg"
+  },
+  {
+    "id": "1209",
+    "title": "The Sun Contains 99.86% of Solar System Mass",
+    "fact": "The Sun contains 99.86% of all mass in the solar system. Jupiter accounts for most of the remaining 0.14%.",
+    "category": "Space",
+    "image": "1209.jpg"
+  },
+  {
+    "id": "1210",
+    "title": "Your Brain Shrinks With Age",
+    "fact": "The brain begins shrinking around age 30 and loses about 0.5-1% of its volume per year after that. This can affect memory and cognitive function.",
+    "category": "Human Body",
+    "image": "1210.jpg"
+  },
+  {
+    "id": "1211",
+    "title": "Mount Everest Is 29,029 Feet Tall",
+    "fact": "Mount Everest stands at 29,029 feet (8,848 meters) above sea level, making it the tallest mountain on Earth. It grows about 4mm taller each year.",
     "category": "Geography",
-    "image": "138.jpg"
+    "image": "1211.jpg"
   },
   {
-    "id": "140",
-    "title": "The Mariana Trench Is Deeper Than Everest Is Tall",
-    "fact": "The Challenger Deep in the Mariana Trench reaches 10,935 m below sea level — about 2,000 m deeper than Everest is tall. Less than 25 people have visited the bottom; more have been to the Moon.",
+    "id": "1214",
+    "title": "Trees Can Reduce Urban Temperatures",
+    "fact": "Urban trees can reduce air temperatures by 2-8°F through shade and evapotranspiration. This reduces energy costs and improves air quality.",
+    "category": "Nature",
+    "image": "1214.jpg"
+  },
+  {
+    "id": "1217",
+    "title": "Neutron Stars Spin 716 Times Per Second",
+    "fact": "The fastest known neutron star, PSR J1748-2446ad, rotates 716 times per second. This is near the theoretical limit before the star would fly apart.",
+    "category": "Space",
+    "image": "1217.jpg"
+  },
+  {
+    "id": "1218",
+    "title": "Your Skin Has 3 Layers",
+    "fact": "Human skin has three main layers: epidermis (outer), dermis (middle), and hypodermis (inner). Together, they form the body's largest organ.",
+    "category": "Human Body",
+    "image": "1218.jpg"
+  },
+  {
+    "id": "1222",
+    "title": "Forests Store 45% of Earth's Carbon",
+    "fact": "Forests store about 45% of all carbon stored on land, primarily in their biomass (trunks, branches, leaves) and soil.",
+    "category": "Nature",
+    "image": "1222.jpg"
+  },
+  {
+    "id": "1224",
+    "title": "A Group of Raccoons Is Called a Gaze",
+    "fact": "A group of raccoons is called a gaze. Raccoons can rotate their paws 180 degrees to manipulate objects with great dexterity.",
+    "category": "Animals",
+    "image": "1224.jpg"
+  },
+  {
+    "id": "1225",
+    "title": "The Largest Galaxy Has 100 Trillion Stars",
+    "fact": "IC 1101 is the largest known galaxy, containing about 100 trillion stars and stretching 6 million light-years across.",
+    "category": "Space",
+    "image": "1225.jpg"
+  },
+  {
+    "id": "1228",
+    "title": "A Group of Crabs Is Called a Cast",
+    "fact": "A group of crabs is called a cast. Fiddler crabs can regenerate lost limbs, including their large cheliped claw.",
+    "category": "Animals",
+    "image": "1228.jpg"
+  },
+  {
+    "id": "1230",
+    "title": "Trees Can Absorb 100 Gallons of Water Daily",
+    "fact": "A large tree can absorb and transpire up to 100 gallons of water daily, helping regulate local humidity and rainfall patterns.",
+    "category": "Nature",
+    "image": "1230.jpg"
+  },
+  {
+    "id": "1231",
+    "title": "The Industrial Revolution Started in Britain in 1760",
+    "fact": "The Industrial Revolution began in Britain around 1760, transforming economies from agricultural to industrial. It spread to Europe and America by the 1800s.",
+    "category": "History",
+    "image": "1231.jpg"
+  },
+  {
+    "id": "1232",
+    "title": "A Group of Ferrets Is Called a Business",
+    "fact": "A group of ferrets is called a business. Ferrets have been domesticated for over 2,000 years for hunting rabbits.",
+    "category": "Animals",
+    "image": "1232.jpg"
+  },
+  {
+    "id": "1233",
+    "title": "The Moon Is 4.5 Billion Years Old",
+    "fact": "The Moon formed about 4.5 billion years ago, shortly after Earth. It likely formed when a Mars-sized body collided with early Earth.",
+    "category": "Space",
+    "image": "1233.jpg"
+  },
+  {
+    "id": "1234",
+    "title": "Your Brain Is 73% Water",
+    "fact": "The brain is 73% water, and even 2% dehydration can impair cognitive function, mood, and concentration.",
+    "category": "Human Body",
+    "image": "1234.jpg"
+  },
+  {
+    "id": "1235",
+    "title": "The Nile River Flows Northward",
+    "fact": "The Nile River flows northward from Lake Victoria to the Mediterranean Sea, contrary to the common misconception that rivers flow south.",
     "category": "Geography",
-    "image": "140.jpg"
+    "image": "1235.jpg"
   },
   {
-    "id": "141",
-    "title": "Iceland Has No Army",
-    "fact": "Iceland has no military (only a coast guard) and has been at peace since 1262. It consistently ranks as one of the world's safest countries and spends its defense budget on education, healthcare, and renewable energy instead.",
+    "id": "1236",
+    "title": "A Group of Monkeys Is Called a Troop",
+    "fact": "A group of monkeys is called a troop. Spider monkeys haveprehensile tails that can support their entire body weight.",
+    "category": "Animals",
+    "image": "1236.jpg"
+  },
+  {
+    "id": "1240",
+    "title": "A Group of Cranes Is Called a Herd",
+    "fact": "A group of cranes is called a herd or sedge. Whooping cranes are among the tallest flying birds in North America.",
+    "category": "Animals",
+    "image": "1240.jpg"
+  },
+  {
+    "id": "1243",
+    "title": "Lake Victoria Is Africa's Largest Lake",
+    "fact": "Lake Victoria is the largest lake in Africa and the second largest freshwater lake in the world, covering 68,800 square kilometers.",
     "category": "Geography",
-    "image": "141.jpg"
+    "image": "1243.jpg"
   },
   {
-    "id": "142",
-    "title": "Brazil Has No McDonalds Free Zone",
-    "fact": "Every country in South America except Suriname, Guyana, Bolivia and French Guiana has McDonald's. Bolivia removed the fast food chain in 2002 and it never returned — Bolivians celebrated with a documentary called 'Why McDonald's Left Bolivia'.",
+    "id": "1244",
+    "title": "A Group of Llamas Is Called a Herd",
+    "fact": "A group of llamas is called a herd. Llamas are native to South America and have been used as pack animals for thousands of years.",
+    "category": "Animals",
+    "image": "1244.jpg"
+  },
+  {
+    "id": "1246",
+    "title": "Trees Can Reduce Healthcare Costs",
+    "fact": "Areas with more trees have lower rates of asthma, heart disease, and stress. Urban forests can reduce healthcare costs by millions.",
+    "category": "Nature",
+    "image": "1246.jpg"
+  },
+  {
+    "id": "1248",
+    "title": "A Group of Mules Is Called a Pack",
+    "fact": "A group of mules is called a pack. Mules are hybrids of a male donkey and female horse, known for their strength and endurance.",
+    "category": "Animals",
+    "image": "1248.jpg"
+  },
+  {
+    "id": "1249",
+    "title": "The Universe Is 13.8 Billion Years Old",
+    "fact": "The universe began with the Big Bang about 13.8 billion years ago. The first stars formed about 200 million years after this event.",
+    "category": "Space",
+    "image": "1249.jpg"
+  },
+  {
+    "id": "1251",
+    "title": "The Amazon River Discharges 7.2 Million Cubic Feet Per Second",
+    "fact": "The Amazon River discharges about 7.2 million cubic feet of water per second into the Atlantic, more than any other river.",
     "category": "Geography",
-    "image": "142.jpg"
+    "image": "1251.jpg"
   },
   {
-    "id": "144",
-    "title": "Apples Are More Effective Than Coffee",
-    "fact": "The natural sugars and vitamins in apples provide more sustained alertness than caffeine. Apples contain quercetin, fiber, and B vitamins that stabilize blood glucose and provide longer-lasting energy without a caffeine crash.",
-    "category": "Food",
-    "image": "144.jpg"
-  },
-  {
-    "id": "145",
-    "title": "Pineapple Dissolves Meat",
-    "fact": "Pineapple contains bromelain — a protease enzyme that literally digests proteins and can dissolve meat. It's also why pineapple causes that tingling sensation in your mouth: it's slowly dissolving the proteins on your tongue.",
-    "category": "Food",
-    "image": "145.jpg"
-  },
-  {
-    "id": "146",
-    "title": "Carrots Were Originally Purple",
-    "fact": "Wild carrots were purple and white. The familiar orange carrot was cultivated by Dutch growers in the 17th century, reportedly as a tribute to William of Orange. It became dominant because it grew larger and tasted better.",
-    "category": "Food",
-    "image": "146.jpg"
-  },
-  {
-    "id": "147",
-    "title": "White Chocolate Is Not Actually Chocolate",
-    "fact": "White chocolate contains no cocoa solids — only cocoa butter, milk, and sugar. Since chocolate is defined by cocoa solids content, white chocolate legally cannot be called 'chocolate' in many countries.",
-    "category": "Food",
-    "image": "147.jpg"
-  },
-  {
-    "id": "148",
-    "title": "Strawberries Are Not Berries",
-    "fact": "Botanically, strawberries are 'aggregate accessory fruits' — the red fleshy part is enlarged receptacle tissue, not the fruit. The tiny seeds on the outside are the actual fruits. Bananas, avocados, and tomatoes are true berries.",
-    "category": "Food",
-    "image": "148.jpg"
-  },
-  {
-    "id": "149",
-    "title": "Cheese Is the Most Stolen Food",
-    "fact": "Cheese is the world's most stolen food, accounting for about 4% of all cheese produced. It's so commonly stolen from supermarkets that it's called 'the most shoplifted food in the world' by the Centre for Retail Research.",
-    "category": "Food",
-    "image": "149.jpg"
-  },
-  {
-    "id": "150",
-    "title": "Chocolate Was Once Used as Currency",
-    "fact": "The Aztecs used cacao beans as currency — 100 cacao beans could buy a turkey. Spanish conquistadors were so confused by cacao-for-gold trades that some threw the 'brown almonds' overboard, not understanding their value.",
-    "category": "Food",
-    "image": "150.jpg"
-  },
-  {
-    "id": "151",
-    "title": "Nutmeg Is Psychedelic in Large Doses",
-    "fact": "Nutmeg contains myristicin and elemicin — psychoactive compounds that cause hallucinations in doses of 1–2 teaspoons. However, the severe nausea, vomiting, and 48-hour hangover make it a deeply unpleasant experience.",
-    "category": "Food",
-    "image": "151.jpg"
-  },
-  {
-    "id": "152",
-    "title": "Garlic Was Used as Antibiotic in WWI",
-    "fact": "During WWI, when antibiotics were unavailable, British doctors dressed wounds with raw garlic juice. Modern science confirms allicin in garlic is a broad-spectrum antimicrobial that kills bacteria including MRSA.",
-    "category": "Food",
-    "image": "152.jpg"
-  },
-  {
-    "id": "154",
-    "title": "Coffee Was Discovered by a Goat Herder",
-    "fact": "According to legend, coffee was discovered in 850 AD when Ethiopian goat herder Kaldi noticed his goats became unusually energetic after eating berries from a certain tree. He tried them himself — and coffee culture was born.",
-    "category": "Food",
-    "image": "154.jpg"
-  },
-  {
-    "id": "155",
-    "title": "Avocados Are Evolutionary Anachronisms",
-    "fact": "Avocados evolved their large seeds to be dispersed by giant ground sloths and mastodons, which went extinct 13,000 years ago. They should be extinct without their seed dispersers — but humans saved them by cultivating them.",
-    "category": "Food",
-    "image": "155.jpg"
-  },
-  {
-    "id": "156",
-    "title": "Cashews Cannot Be Sold in Shells",
-    "fact": "Raw cashews are toxic — they contain urushiol (the same chemical in poison ivy) in their shells. All cashews must be roasted or steamed at high heat to destroy the toxin before selling. There are literally no truly 'raw' cashews.",
-    "category": "Food",
-    "image": "156.jpg"
-  },
-  {
-    "id": "157",
-    "title": "The First Computer Bug Was an Actual Bug",
-    "fact": "In 1947, Grace Hopper's team at Harvard found a moth trapped in a relay of the Mark II computer, causing errors. They taped it to their log with the note 'First actual case of bug being found'. This popularized the term 'computer bug'.",
+    "id": "1253",
+    "title": "The First Smartphone Virus Appeared in 2004",
+    "fact": "Cabir was the first smartphone virus, appearing in 2004. It infected Symbian phones via Bluetooth and displayed 'Caribe.'",
     "category": "Technology",
-    "image": "157.jpg"
+    "image": "1253.jpg"
   },
   {
-    "id": "158",
-    "title": "The Internet Weighs 50 Grams",
-    "fact": "Physicist Russell Seitz calculated that all the electrons flowing through the internet's infrastructure at any given moment weigh about 50 grams — roughly the weight of a strawberry.",
-    "category": "Technology",
-    "image": "158.jpg"
+    "id": "1255",
+    "title": "The Printing Press Was Invented in 1440",
+    "fact": "Johannes Gutenberg invented the printing press around 1440, revolutionizing book production. The Gutenberg Bible was the first major book printed.",
+    "category": "History",
+    "image": "1255.jpg"
   },
   {
-    "id": "159",
-    "title": "More People Have Mobile Phones Than Toilets",
-    "fact": "As of recent years, approximately 6 billion people have access to mobile phones while only 4.5 billion have access to toilets. More humans own a smartphone than a flush toilet.",
-    "category": "Technology",
-    "image": "159.jpg"
-  },
-  {
-    "id": "160",
-    "title": "The QWERTY Keyboard Was Designed to Slow You Down",
-    "fact": "The QWERTY layout was designed in the 1870s to prevent typewriter jams by separating commonly used letter pairs. Despite being obsolete, it became the global standard and faster alternatives like Dvorak never caught on.",
-    "category": "Technology",
-    "image": "160.jpg"
-  },
-  {
-    "id": "161",
-    "title": "YouTube's First Video Was 18 Seconds",
-    "fact": "The first video uploaded to YouTube on April 23, 2005 was 'Me at the zoo' by co-founder Jawed Karim — an 18-second clip of him at the San Diego Zoo talking about elephants. It now has over 200 million views.",
-    "category": "Technology",
-    "image": "161.jpg"
-  },
-  {
-    "id": "162",
-    "title": "GPS Depends on Einstein's Theory of Relativity",
-    "fact": "GPS satellites must correct their atomic clocks daily for both special and general relativity effects. Without these corrections, GPS would drift by 10 km per day. Einstein's 1915 theory directly enables your phone's navigation.",
-    "category": "Technology",
-    "image": "162.jpg"
-  },
-  {
-    "id": "163",
-    "title": "Emails Have Been Sent Since Before the Internet",
-    "fact": "Email predates the internet — Ray Tomlinson sent the first email in 1971 on ARPANET (the internet's predecessor) between two machines in the same room. He chose the @ symbol to separate user from machine, which we still use.",
-    "category": "Technology",
-    "image": "163.jpg"
-  },
-  {
-    "id": "164",
-    "title": "The First Smartphone Was in 1994",
-    "fact": "IBM's Simon Personal Communicator, released in 1994, was the first true smartphone — it had a touchscreen, apps, email, a calendar, and could make calls. Apple's iPhone came 13 years later but popularized the form factor.",
-    "category": "Technology",
-    "image": "164.jpg"
-  },
-  {
-    "id": "165",
-    "title": "Wi-Fi Was Invented to Detect Black Holes",
-    "fact": "Wi-Fi technology was developed by Australian astronomer John O'Sullivan in the 1990s while trying to detect radio waves from evaporating black holes. The signal-cleaning algorithm he developed became the basis of Wi-Fi.",
-    "category": "Technology",
-    "image": "165.jpg"
-  },
-  {
-    "id": "166",
-    "title": "Apollo 11 Had Less Computing Power Than Your Phone",
-    "fact": "The Apollo Guidance Computer that landed humans on the Moon had 4KB of RAM and ran at 0.043 MHz. A modern smartphone is roughly 1 million times more powerful. The Moon mission was navigated primarily by human skill and mathematics.",
-    "category": "Technology",
-    "image": "166.jpg"
-  },
-  {
-    "id": "167",
-    "title": "The First Computer Virus Was Written as a Prank",
-    "fact": "The 'Elk Cloner' virus (1982) was written by 15-year-old Rich Skrenta as a prank. It spread via floppy disk and displayed a silly poem. It became the first widespread computer virus in history — started by a bored teenager.",
-    "category": "Technology",
-    "image": "167.jpg"
-  },
-  {
-    "id": "168",
-    "title": "Google Was Almost Named BackRub",
-    "fact": "Before becoming Google, the search engine was called 'BackRub' — referring to its method of ranking pages by backlinks. Larry Page and Sergey Brin renamed it Google (a misspelling of 'googol') in 1997.",
-    "category": "Technology",
-    "image": "168.jpg"
-  },
-  {
-    "id": "169",
-    "title": "The Domain Name pizza.com Sold for $2.6 Million",
-    "fact": "In 2008, pizza.com sold for $2.6 million — making it one of the most expensive domain sales in history. Sex.com was sold for $13 million in 2010, and Insurance.com went for $35.6 million in 2010.",
-    "category": "Technology",
-    "image": "169.jpg"
-  },
-  {
-    "id": "170",
-    "title": "The GIF Format Is Older Than the World Wide Web",
-    "fact": "The GIF image format was created by CompuServe in 1987 — two years before Tim Berners-Lee invented the World Wide Web in 1989. Animated GIFs are thus older than the internet as we know it.",
-    "category": "Technology",
-    "image": "170.jpg"
-  },
-  {
-    "id": "nfact_9001_b1",
-    "title": "James Webb Telescope Views Ancient Galaxies",
-    "fact": "The James Webb Space Telescope detected galaxies that formed just 300 million years after the Big Bang, challenging our current theories of early cosmic evolution.",
-    "category": "Space",
-    "image": "nfact_9001.jpg"
-  },
-  {
-    "id": "nfact_9002_b1",
-    "title": "Voyager 1 Belongs to Interstellar Space",
-    "fact": "Launched in 1977, Voyager 1 crossed the heliopause in 2012 and is currently over 15 billion miles away, communicating via a 20-watt transmitter.",
-    "category": "Space",
-    "image": "nfact_9002.jpg"
-  },
-  {
-    "id": "nfact_9003_b1",
-    "title": "Neutron Stars Spin Hundreds of Times Per Second",
-    "fact": "Millisecond pulsars can rotate up to 716 times per second. Their surface velocity reaches roughly a quarter of the speed of light.",
-    "category": "Space",
-    "image": "nfact_9003.jpg"
-  },
-  {
-    "id": "nfact_9004_b1",
-    "title": "Venus Has Over 85,000 Volcanoes",
-    "fact": "Magellan radar mapping revealed that Venus harbors more volcanoes than any other planet in the solar system, with recent evidence suggesting active eruptions.",
-    "category": "Space",
-    "image": "nfact_9004.jpg"
-  },
-  {
-    "id": "nfact_9005_b1",
-    "title": "Sunquakes Release Millions of Megatons of Energy",
-    "fact": "Solar flares trigger acoustic seismic waves known as sunquakes, which ripple across the solar surface like ripples in a pond.",
-    "category": "Space",
-    "image": "nfact_9005.jpg"
-  },
-  {
-    "id": "nfact_9006_b1",
-    "title": "Saturn's Moon Titan Has Liquid Methane Lakes",
-    "fact": "Titan is the only body in our solar system besides Earth known to have liquid rivers, lakes, and seas, though they are composed of methane and ethane.",
-    "category": "Space",
-    "image": "nfact_9006.jpg"
-  },
-  {
-    "id": "nfact_9007_b1",
-    "title": "Supermassive Black Hole at the Heart of M87",
-    "fact": "The black hole in M87 has a mass 6.5 billion times greater than our Sun and projects a relativistic jet spanning 5,000 light-years.",
-    "category": "Space",
-    "image": "nfact_9007.jpg"
-  },
-  {
-    "id": "nfact_9008_b1",
-    "title": "Olympus Mons Is Three Times Taller Than Everest",
-    "fact": "Located on Mars, Olympus Mons is a shield volcano standing 21.9 km high and covering an area roughly the size of Poland.",
-    "category": "Space",
-    "image": "nfact_9008.jpg"
-  },
-  {
-    "id": "nfact_9009_b1",
-    "title": "Space Smells Like Seared Steak and Gunpowder",
-    "fact": "Astronauts returning from spacewalks consistently report that their suits smell like ozone, burnt metal, and seared steak due to polycyclic aromatic hydrocarbons.",
-    "category": "Space",
-    "image": "nfact_9009.jpg"
-  },
-  {
-    "id": "nfact_9010_b1",
-    "title": "Ganymede Has Its Own Magnetic Field",
-    "fact": "Jupiter's moon Ganymede is the largest moon in the solar system and the only one known to generate its own intrinsic magnetic field.",
-    "category": "Space",
-    "image": "nfact_9010.jpg"
-  },
-  {
-    "id": "nfact_9011_b1",
-    "title": "Rogue Planets Drift Without a Parent Star",
-    "fact": "Astronomers estimate there are billions of dark, starless rogue planets floating through the Milky Way, ejected during solar system formations.",
-    "category": "Space",
-    "image": "nfact_9011.jpg"
-  },
-  {
-    "id": "nfact_9012_b1",
-    "title": "Enceladus Shoots Ice Geysers into Space",
-    "fact": "Saturn's moon Enceladus spews plumes of icy water vapor and organic molecules hundreds of miles above its southern pole.",
-    "category": "Space",
-    "image": "nfact_9012.jpg"
-  },
-  {
-    "id": "nfact_9013_b1",
-    "title": "Cosmic Web Spans the Entire Universe",
-    "fact": "Matter in the universe is arranged in a vast web-like network of dark matter filaments, with galaxy clusters forming at the nodes.",
-    "category": "Space",
-    "image": "nfact_9013.jpg"
-  },
-  {
-    "id": "nfact_9014_b1",
-    "title": "The Boomerang Nebula Is the Coldest Place Known",
-    "fact": "At -272°C (-458°F), the Boomerang Nebula is just 1 degree Kelvin above absolute zero, colder even than the cosmic microwave background radiation.",
-    "category": "Space",
-    "image": "nfact_9014.jpg"
-  },
-  {
-    "id": "nfact_9015_b1",
-    "title": "Solar Wind Creates the Auroras",
-    "fact": "Auroras on Earth and Jupiter are created when energetic particles from the solar wind collide with atmospheric gases along magnetic lines.",
-    "category": "Space",
-    "image": "nfact_9015.jpg"
-  },
-  {
-    "id": "nfact_9016_b1",
-    "title": "Halley's Comet Returns in 2061",
-    "fact": "Halley's Comet orbits the Sun every 75–76 years. Its next perihelion approach to the Sun will take place in mid-2061.",
-    "category": "Space",
-    "image": "nfact_9016.jpg"
-  },
-  {
-    "id": "nfact_9017_b1",
-    "title": "Milky Way and Andromeda Collision",
-    "fact": "In about 4.5 billion years, the Milky Way and Andromeda galaxies will merge into a giant elliptical galaxy dubbed 'Milkdromeda'.",
-    "category": "Space",
-    "image": "nfact_9017.jpg"
-  },
-  {
-    "id": "nfact_9018_b1",
-    "title": "Moon Dust Sticking Power Is Caused by Static",
-    "fact": "Lunar dust is extremely abrasive and electrostatically charged by solar radiation, causing it to cling stubbornly to space suits.",
-    "category": "Space",
-    "image": "nfact_9018.jpg"
-  },
-  {
-    "id": "nfact_9019_b1",
-    "title": "First Computer Bug Was an Actual Moth",
-    "fact": "In 1947, engineers working on the Harvard Mark II computer found a real moth trapped in Relay 70, coining the term 'computer bug'.",
-    "category": "Technology",
-    "image": "nfact_9019.jpg"
-  },
-  {
-    "id": "nfact_9020_b1",
-    "title": "Transistors in Modern Chips Number in the Billions",
-    "fact": "A single high-end smartphone chip contains over 15 to 20 billion microscopic transistors etched using extreme ultraviolet lithography.",
-    "category": "Technology",
-    "image": "nfact_9020.jpg"
-  },
-  {
-    "id": "nfact_9021_b1",
-    "title": "The First Website Ever Hosted Is Still Online",
-    "fact": "Created by Tim Berners-Lee at CERN in 1991, the world's very first website (info.cern.ch) remains active today.",
-    "category": "Technology",
-    "image": "nfact_9021.jpg"
-  },
-  {
-    "id": "nfact_9022_b1",
-    "title": "Quantum Computers Use Superposition of Qubits",
-    "fact": "Unlike classical bits that are either 0 or 1, quantum qubits can exist simultaneously in a state of 0 and 1, enabling parallel calculations.",
-    "category": "Technology",
-    "image": "nfact_9022.jpg"
-  },
-  {
-    "id": "nfact_9023_b1",
-    "title": "GPS Satellites Account for Einstein's Relativity",
-    "fact": "Atomic clocks on GPS satellites gain about 38 microseconds per day due to general relativity and must be corrected daily to ensure accurate location tracking.",
-    "category": "Technology",
-    "image": "nfact_9023.jpg"
-  },
-  {
-    "id": "nfact_9024_b1",
-    "title": "Wi-Fi Signal Was Invented During Radio Astronomy",
-    "fact": "Radio astronomer John O'Sullivan developed the core technology for Wi-Fi while searching for mini black holes in deep space.",
-    "category": "Technology",
-    "image": "nfact_9024.jpg"
-  },
-  {
-    "id": "nfact_9025_b1",
-    "title": "CAPTCHA Stands for a Long Acronym",
-    "fact": "CAPTCHA stands for 'Completely Automated Public Turing test to tell Computers and Humans Apart'.",
-    "category": "Technology",
-    "image": "nfact_9025.jpg"
-  },
-  {
-    "id": "nfact_9026_b1",
-    "title": "Optical Fiber Transmitting Petabits Per Second",
-    "fact": "Modern multi-core optical fibers can transmit over 1 petabit (1,000,000 gigabits) of data per second over single strands of glass.",
-    "category": "Technology",
-    "image": "nfact_9026.jpg"
-  },
-  {
-    "id": "nfact_9027_b1",
-    "title": "First Hard Drive Weighted Over One Ton",
-    "fact": "IBM's 305 RAMAC, built in 1956, was the first commercial computer with a hard drive. It stored 5 MB of data and weighed over 2,000 pounds.",
-    "category": "Technology",
-    "image": "nfact_9027.jpg"
-  },
-  {
-    "id": "nfact_9028_b1",
-    "title": "Li-Fi Transmits Data Using Visible Light",
-    "fact": "Li-Fi technology uses light-emitting diodes (LEDs) to transmit wireless data at speeds up to 100 times faster than conventional Wi-Fi.",
-    "category": "Technology",
-    "image": "nfact_9028.jpg"
-  },
-  {
-    "id": "nfact_9029_b1",
-    "title": "The World Wide Web Is Not the Internet",
-    "fact": "The Internet is the global network of connected computers, while the World Wide Web is an application layer of websites accessed via HTTP.",
-    "category": "Technology",
-    "image": "nfact_9029.jpg"
-  },
-  {
-    "id": "nfact_9030_b1",
-    "title": "Computer Mice Were Originally Made of Wood",
-    "fact": "Douglas Engelbart invented the first computer mouse in 1964, constructed out of a carved wooden shell with two metal wheels.",
-    "category": "Technology",
-    "image": "nfact_9030.jpg"
-  },
-  {
-    "id": "nfact_9031_b1",
-    "title": "Supercomputers Require Megawatts of Power",
-    "fact": "Frontier, the world's first exascale supercomputer, consumes over 21 megawatts of power—enough to power a small town.",
-    "category": "Technology",
-    "image": "nfact_9031.jpg"
-  },
-  {
-    "id": "nfact_9032_b1",
-    "title": "CAPTCHA Has Been Solved by AI Neural Networks",
-    "fact": "Advanced deep neural networks now solve traditional text and image CAPTCHAs with higher accuracy and speed than human users.",
-    "category": "Technology",
-    "image": "nfact_9032.jpg"
-  },
-  {
-    "id": "nfact_9033_b1",
-    "title": "Crows Can Recognize and Remember Human Faces",
-    "fact": "Research shows crows remember human faces that posed a threat to them and can transmit this information to their offspring.",
-    "category": "Animals",
-    "image": "nfact_9033.jpg"
-  },
-  {
-    "id": "nfact_9034_b1",
-    "title": "Honeybees Perform a Waggle Dance",
-    "fact": "When a honeybee discovers a rich source of nectar, it returns to the hive and performs a precise 'waggle dance' to communicate direction and distance.",
-    "category": "Animals",
-    "image": "nfact_9034.jpg"
-  },
-  {
-    "id": "nfact_9035_b1",
-    "title": "Electric Eels Produce Up to 860 Volts",
-    "fact": "The electric eel (Electrophorus voltai) can discharge an electric shock of up to 860 volts, enough to stun large predators.",
-    "category": "Animals",
-    "image": "nfact_9035.jpg"
-  },
-  {
-    "id": "nfact_9036_b1",
-    "title": "Flamingos Are Born Gray and Turn Pink from Food",
-    "fact": "Flamingos derive their pink coloration from beta-carotene pigments present in the brine shrimp and microscopic algae they eat.",
-    "category": "Animals",
-    "image": "nfact_9036.jpg"
-  },
-  {
-    "id": "nfact_9037_b1",
-    "title": "Pistol Shrimp Create Temperatures Near the Sun's Surface",
-    "fact": "When a pistol shrimp snaps its claw shut, it shoots a bubble that collapses with a bang reaching 4,700°C (8,500°F) and 218 decibels.",
-    "category": "Animals",
-    "image": "nfact_9037.jpg"
-  },
-  {
-    "id": "nfact_9038_b1",
-    "title": "Tardigrades Can Survive the Vacuum of Space",
-    "fact": "Tardigrades (water bears) enter a state called cryptobiosis, allowing them to survive extreme radiation, freezing cold, and cosmic vacuum.",
-    "category": "Animals",
-    "image": "nfact_9038.jpg"
-  },
-  {
-    "id": "nfact_9039_b1",
-    "title": "Monarch Butterflies Migrate Over 3,000 Miles",
-    "fact": "Monarch butterflies complete a multi-generational migration from Canada to central Mexico, navigating using sun compasses.",
-    "category": "Animals",
-    "image": "nfact_9039.jpg"
-  },
-  {
-    "id": "nfact_9040_b1",
-    "title": "Cheetahs Cannot Roar",
-    "fact": "Cheetahs lack a two-piece hyoid bone in their throat, so instead of roaring like lions or tigers, they purr, chirp, and meow.",
-    "category": "Animals",
-    "image": "nfact_9040.jpg"
-  },
-  {
-    "id": "nfact_9041_b1",
-    "title": "Koalas Have Unique Human-Like Fingerprints",
-    "fact": "Koala fingerprints have loops and ridges so identical to human fingerprints that they have confused crime scene investigators.",
-    "category": "Animals",
-    "image": "nfact_9041.jpg"
-  },
-  {
-    "id": "nfact_9042",
-    "title": "Archerfish Shoot Water Drops to Hunt Insects",
-    "fact": "Archerfish knock down land insects perching on plants above water by spitting precise jets of water up to 2 meters away.",
-    "category": "Animals",
-    "image": "nfact_9042.jpg"
-  },
-  {
-    "id": "nfact_9043",
-    "title": "Wombat Poo Is Cube-Shaped",
-    "fact": "Wombats are the only animals in the world that produce cube-shaped droppings, preventing the scat from rolling off rocks and territory markers.",
-    "category": "Animals",
-    "image": "nfact_9043.jpg"
-  },
-  {
-    "id": "nfact_9044",
-    "title": "Hummingbirds Fly Backwards and Inverted",
-    "fact": "Hummingbirds are the only birds capable of flying backwards, sideways, and hovering in mid-air due to unique ball-and-socket wing joints.",
-    "category": "Animals",
-    "image": "nfact_9044.jpg"
-  },
-  {
-    "id": "nfact_9045",
-    "title": "Blue Whale's Tongue Weighs as Much as an Elephant",
-    "fact": "The tongue of an adult blue whale can weigh around 2.7 metric tons, equivalent to the mass of a full-grown female Asian elephant.",
-    "category": "Animals",
-    "image": "nfact_9045.jpg"
-  },
-  {
-    "id": "nfact_9046",
-    "title": "Axolotls Regenerate Entire Limbs and Organs",
-    "fact": "Axolotls can fully regenerate lost legs, tails, spinal cord segments, heart muscle, and even parts of their brain without scarring.",
-    "category": "Animals",
-    "image": "nfact_9046.jpg"
-  },
-  {
-    "id": "nfact_9047",
-    "title": "Penguins Have a Salt-Excreting Gland",
-    "fact": "Penguins can drink seawater because their supraorbital gland behind their eyes filters excess salt directly out of their bloodstream.",
-    "category": "Animals",
-    "image": "nfact_9047.jpg"
-  },
-  {
-    "id": "nfact_9048",
-    "title": "Beavers Have Iron-Enriched Orange Teeth",
-    "fact": "Beavers have orange tooth enamel reinforced with iron, making their incisors extraordinarily tough and acid-resistant for chewing wood.",
-    "category": "Animals",
-    "image": "nfact_9048.jpg"
-  },
-  {
-    "id": "nfact_9049",
-    "title": "Dolphins Sleep with One Brain Hemisphere Awake",
-    "fact": "Dolphins practice unihemispheric slow-wave sleep, keeping one eye open and half their brain alert to surface for air and watch for sharks.",
-    "category": "Animals",
-    "image": "nfact_9049.jpg"
-  },
-  {
-    "id": "nfact_9050",
-    "title": "Cornea Is the Only Tissue Without Blood Vessels",
-    "fact": "The human cornea receives oxygen directly from the air and nutrient fluid from aqueous humor, containing no blood vessels.",
+    "id": "1258",
+    "title": "Your Brain Uses 20% of Body Energy",
+    "fact": "Despite being only 2% of body weight, the brain uses 20% of the body's energy. This makes it vulnerable to low blood sugar.",
     "category": "Human Body",
-    "image": "nfact_9050.jpg"
+    "image": "1258.jpg"
   },
   {
-    "id": "nfact_9051",
-    "title": "Your Stomach Linings Renew Every Few Days",
-    "fact": "To prevent self-digestion by hydrochloric acid, the human stomach lining replaces its epithelial cells every 3 to 5 days.",
+    "id": "1263",
+    "title": "The Berlin Wall Fell in 1989",
+    "fact": "The Berlin Wall fell on November 9, 1989, after standing for 28 years. Its fall symbolized the end of the Cold War division of Europe.",
+    "category": "History",
+    "image": "1263.jpg"
+  },
+  {
+    "id": "1268",
+    "title": "A Group of Bears Is Called a Sleuth",
+    "fact": "A group of bears is called a sleuth or sloth. Polar bears are the largest land carnivores, reaching up to 1,500 pounds.",
+    "category": "Animals",
+    "image": "1268.jpg"
+  },
+  {
+    "id": "1269",
+    "title": "GPS Satellites Need Constant Time Corrections",
+    "fact": "GPS satellites experience time dilation due to their speed and weaker gravity, causing clocks to tick faster by 45 microseconds per day.",
+    "category": "Technology",
+    "image": "1269.jpg"
+  },
+  {
+    "id": "1270",
+    "title": "Forests Can Take 100 Years to Recover",
+    "fact": "After clear-cutting, a forest can take 100-200 years to fully recover its biodiversity and ecological functions.",
+    "category": "Nature",
+    "image": "1270.jpg"
+  },
+  {
+    "id": "1275",
+    "title": "The Sahara Desert Is Growing",
+    "fact": "The Sahara Desert is expanding southward by about 30-60 miles per decade due to climate change and reduced rainfall in the Sahel region.",
+    "category": "Geography",
+    "image": "1275.jpg"
+  },
+  {
+    "id": "1277",
+    "title": "JavaScript Was Created in 10 Days",
+    "fact": "Brendan Eich created JavaScript in 10 days in 1995. Originally called LiveScript, it became one of the most widely used programming languages.",
+    "category": "Technology",
+    "image": "1277.jpg"
+  },
+  {
+    "id": "1280",
+    "title": "A Group of Hares Is Called a Husk",
+    "fact": "A group of hares is called a husk. Arctic hares can reach speeds of 40 mph to escape predators.",
+    "category": "Animals",
+    "image": "1280.jpg"
+  },
+  {
+    "id": "1282",
+    "title": "Your Stomach Produces 2 Liters of Acid Daily",
+    "fact": "Your stomach produces about 2 liters of hydrochloric acid daily. This powerful acid has a pH of 1-2.",
     "category": "Human Body",
-    "image": "nfact_9051.jpg"
+    "image": "1282.jpg"
   },
   {
-    "id": "nfact_9052",
-    "title": "Human Bones Are Stronger Than Concrete",
-    "fact": "Gram for gram, human bone tissue (specifically compact bone) has higher tensile strength than reinforced concrete.",
-    "category": "Human Body",
-    "image": "nfact_9052.jpg"
+    "id": "1283",
+    "title": "Canada Has 60% of World's Lakes",
+    "fact": "Canada has about 60% of all the lakes in the world, with over 2 million lakes covering about 9% of its territory.",
+    "category": "Geography",
+    "image": "1283.jpg"
   },
   {
-    "id": "nfact_9053",
-    "title": "Nerve Impulses Travel Over 250 Miles Per Hour",
-    "fact": "Myelinated motor neurons transmit electrical impulses through the nervous system at speeds up to 120 meters per second (268 mph).",
-    "category": "Human Body",
-    "image": "nfact_9053.jpg"
+    "id": "1285",
+    "title": "The First Computer Bug Was an Actual Moth",
+    "fact": "In 1947, a moth was found dead in the Harvard Mark II computer, causing a malfunction. The log entry reads 'First actual case of bug being found.'",
+    "category": "Technology",
+    "image": "1285.jpg"
   },
   {
-    "id": "nfact_9054",
-    "title": "Lungs Have a Surface Area of a Tennis Court",
-    "fact": "The tiny sacs in human lungs called alveoli provide a total surface area of approximately 70 square meters for gas exchange.",
-    "category": "Human Body",
-    "image": "nfact_9054.jpg"
+    "id": "1288",
+    "title": "A Group of Elephants Is Called a Herd",
+    "fact": "A group of elephants is called a herd. Female elephants live in matriarchal societies led by the oldest female.",
+    "category": "Animals",
+    "image": "1288.jpg"
   },
   {
-    "id": "nfact_9055",
-    "title": "Human Eye Can Distinguish 10 Million Colors",
-    "fact": "Cones in the human retina detect red, green, and blue wavelengths, allowing the brain to distinguish nearly 10 million distinct color shades.",
-    "category": "Human Body",
-    "image": "nfact_9055.jpg"
+    "id": "1289",
+    "title": "The Moon Has Quakes That Last 10 Minutes",
+    "fact": "The Moon experiences moonquakes that can last up to 10 minutes, much longer than earthquakes. Some are caused by Earth's gravitational pull.",
+    "category": "Space",
+    "image": "1289.jpg"
   },
   {
-    "id": "nfact_9056",
-    "title": "Enamel Is the Hardest Substance in the Body",
-    "fact": "Tooth enamel consists of 96% mineralized hydroxyapatite crystals, making it harder than fingernails, bone, and iron.",
-    "category": "Human Body",
-    "image": "nfact_9056.jpg"
+    "id": "1292",
+    "title": "A Group of Crows Is Called a Murder",
+    "fact": "A group of crows is called a murder. Crows are highly intelligent and can recognize human faces for years.",
+    "category": "Animals",
+    "image": "1292.jpg"
   },
   {
-    "id": "nfact_9057",
-    "title": "Blood Vessels in One Body Stretch 60,000 Miles",
-    "fact": "If all blood vessels (capillaries, veins, and arteries) in an adult human were laid end to end, they would wrap around Earth twice.",
-    "category": "Human Body",
-    "image": "nfact_9057.jpg"
+    "id": "1295",
+    "title": "The French Revolution Started in 1789",
+    "fact": "The French Revolution began on July 14, 1789, with the storming of the Bastille. It transformed France from a monarchy to a republic.",
+    "category": "History",
+    "image": "1295.jpg"
   },
   {
-    "id": "nfact_9058",
-    "title": "Shedding 30,000 Dead Skin Cells Every Minute",
-    "fact": "The epidermis continuously sheds dead keratinocytes; humans lose between 30,000 and 40,000 skin cells every minute.",
-    "category": "Human Body",
-    "image": "nfact_9058.jpg"
+    "id": "1299",
+    "title": "The Great Barrier Reef Is 1,400 Miles Long",
+    "fact": "The Great Barrier Reef in Australia stretches over 1,400 miles. It is the world's largest coral reef system.",
+    "category": "Geography",
+    "image": "1299.jpg"
   },
   {
-    "id": "nfact_9059",
-    "title": "Your Heart Beats Over 100,000 Times a Day",
-    "fact": "An average adult heart pumps about 2,000 gallons of blood daily, completing roughly 35 million beats every year.",
-    "category": "Human Body",
-    "image": "nfact_9059.jpg"
+    "id": "1301",
+    "title": "USB Drives Can Hold Up to 2 Terabytes",
+    "fact": "USB flash drives can now hold up to 2 TB of data, though 64-256 GB are most common. They can store thousands of photos, videos, and documents.",
+    "category": "Technology",
+    "image": "1301.jpg"
   },
   {
-    "id": "nfact_9060",
-    "title": "Liver Is the Only Organ That Fully Regenerates",
-    "fact": "The human liver can fully regenerate back to its original mass even after up to 75% of its tissue has been surgically removed.",
-    "category": "Human Body",
-    "image": "nfact_9060.jpg"
-  },
-  {
-    "id": "nfact_9061",
-    "title": "Your Brain Produces Enough Electricity to Light a Bulb",
-    "fact": "When awake, the human brain generates between 10 and 23 watts of electric power—enough to run a low-wattage LED bulb.",
-    "category": "Human Body",
-    "image": "nfact_9061.jpg"
-  },
-  {
-    "id": "nfact_9062",
-    "title": "The Hyoid Bone Disconnects from All Other Bones",
-    "fact": "The U-shaped hyoid bone in the neck is the only bone in the human skeleton that does not articulate with any other bone.",
-    "category": "Human Body",
-    "image": "nfact_9062.jpg"
-  },
-  {
-    "id": "nfact_9063",
-    "title": "Fingernails Grow Faster Than Toenails",
-    "fact": "Fingernails grow roughly 3 to 4 millimeters per month, about three times faster than toenails, with dominant hand nails growing fastest.",
-    "category": "Human Body",
-    "image": "nfact_9063.jpg"
-  },
-  {
-    "id": "nfact_9064",
-    "title": "Small Intestine Is 20 Feet Long",
-    "fact": "Despite being called 'small' due to its narrow diameter, the human small intestine averages 6 meters (20 feet) in total length.",
-    "category": "Human Body",
-    "image": "nfact_9064.jpg"
-  },
-  {
-    "id": "nfact_9065",
-    "title": "Water Can Boil and Freeze at the Same Time",
-    "fact": "At the 'triple point' of temperature and pressure (0.01°C and 611.65 Pa), liquid water, ice, and steam exist in thermodynamic equilibrium.",
-    "category": "Science",
-    "image": "nfact_9065.jpg"
+    "id": "1302",
+    "title": "Forests Create Their Own Weather",
+    "fact": "Large forests create weather systems through transpiration, releasing huge amounts of water vapor that can form clouds and generate rainfall.",
+    "category": "Nature",
+    "image": "1302.jpg"
   }
 ]

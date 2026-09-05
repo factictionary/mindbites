@@ -1,0 +1,415 @@
+[
+  {
+    "id": "fact_40019",
+    "title": "Voyager 1 Is Over 15 Billion Miles Away from Earth",
+    "fact": "Launched in 1977, Voyager 1 is the most distant human-made object, traveling through interstellar space outside our solar heliosphere.",
+    "category": "Space",
+    "image": "fact_40019.jpg"
+  },
+  {
+    "id": "fact_40020",
+    "title": "Ganymede Is the Largest Moon in the Solar System",
+    "fact": "Jupiter's moon Ganymede is larger than planet Mercury and dwarf planet Pluto, boasting its own intrinsic magnetic field.",
+    "category": "Space",
+    "image": "fact_40020.jpg"
+  },
+  {
+    "id": "fact_40021",
+    "title": "Honeybees Perform a Waggle Dance to Communicate Flower Locations",
+    "fact": "Returning worker bees execute figure-eight dances inside the hive, signaling distance, direction, and nectar quality via angle to the Sun.",
+    "category": "Animals",
+    "image": "fact_40021.jpg"
+  },
+  {
+    "id": "fact_40022",
+    "title": "Sloths Spend Up to 90% of Their Lives Hanging Upside Down",
+    "fact": "Specialized vascular valves and tendon locks enable sloths to sleep and feed suspended from branches with zero muscle exertion.",
+    "category": "Animals",
+    "image": "fact_40022.jpg"
+  },
+  {
+    "id": "fact_40023",
+    "title": "Electric Eels Can Discharge Up to 860 Volts of Electricity",
+    "fact": "Thousands of electrocyte muscle cells stacked like battery plates fire simultaneously to stun prey and deter river predators.",
+    "category": "Animals",
+    "image": "fact_40023.jpg"
+  },
+  {
+    "id": "fact_40024",
+    "title": "Sloths Move So Slowly That Green Algae Grows in Their Fur",
+    "fact": "Grooves in sloth hair shafts hold moisture, hosting symbiotic green algae (Trichophilus) that provides camouflage and extra nutrients.",
+    "category": "Animals",
+    "image": "fact_40024.jpg"
+  },
+  {
+    "id": "fact_40025",
+    "title": "Sea Otters Hold Hands While Sleeping to Prevent Floating Away",
+    "fact": "Floating rafts of sea otters entangle themselves in kelp beds and hold forepaws together while napping in ocean swells.",
+    "category": "Animals",
+    "image": "fact_40025.jpg"
+  },
+  {
+    "id": "fact_40026",
+    "title": "Crows Can Remember Human Faces for Years",
+    "fact": "Cognitive studies demonstrate crows recognize specific human faces that threatened them and pass threat warnings to their offspring.",
+    "category": "Animals",
+    "image": "fact_40026.jpg"
+  },
+  {
+    "id": "fact_40027",
+    "title": "Flamingos Turn Pink from Beta-Carotene Pigments in Their Food",
+    "fact": "Brine shrimp and cyanobacteria in flamingo diets contain carotenoid pigments that deposit in growing feathers, turning them pink.",
+    "category": "Animals",
+    "image": "fact_40027.jpg"
+  },
+  {
+    "id": "fact_40028",
+    "title": "Pistol Shrimp Create Temperatures of 4,700°C When Snapping Claws",
+    "fact": "Rapid claw closure creates a high-velocity water jet and collapsing cavitation bubble that produces intense heat and loud acoustic snaps.",
+    "category": "Animals",
+    "image": "fact_40028.jpg"
+  },
+  {
+    "id": "fact_40029",
+    "title": "Tardigrades Can Survive Vacuum, Radiation, and Freezing in Cryptobiosis",
+    "fact": "Water bears dehydrate into a tun state, replacing cell water with protective trehalose glass to survive extreme cosmic hazards.",
+    "category": "Animals",
+    "image": "fact_40029.jpg"
+  },
+  {
+    "id": "fact_40030",
+    "title": "Monarch Butterflies Complete 3,000-Mile Migrations Over Generations",
+    "fact": "Four successive generations of monarch butterflies participate in a annual round-trip migration between Canada and Mexican forests.",
+    "category": "Animals",
+    "image": "fact_40030.jpg"
+  },
+  {
+    "id": "fact_40031",
+    "title": "Cornea Is the Only Human Tissue Without Blood Vessels",
+    "fact": "The outer eye lens receives oxygen directly from atmospheric air and nutrient fluids, maintaining optical clarity.",
+    "category": "Human Body",
+    "image": "fact_40031.jpg"
+  },
+  {
+    "id": "fact_40032",
+    "title": "Your Stomach Secretes Hydrochloric Acid Strong Enough to Dissolve Metal",
+    "fact": "Parietal gastric cells secrete concentrated HCl at pH 1.5, digesting tough protein fibers and destroying pathogens.",
+    "category": "Human Body",
+    "image": "fact_40032.jpg"
+  },
+  {
+    "id": "fact_40033",
+    "title": "Human Bone Is Stronger Than Steel Gram for Gram",
+    "fact": "Compact bone tissue reinforced with hydroxyapatite crystals has higher tensile strength than structural steel of equal weight.",
+    "category": "Human Body",
+    "image": "fact_40033.jpg"
+  },
+  {
+    "id": "fact_40034",
+    "title": "Nerve Signals Travel Through the Body at Speeds Over 250 MPH",
+    "fact": "Myelinated axon fibers transmit electrical action potentials rapidly via saltatory conduction between nodes of Ranvier.",
+    "category": "Human Body",
+    "image": "fact_40034.jpg"
+  },
+  {
+    "id": "fact_40035",
+    "title": "Human Lungs Have a Total Surface Area Equivalent to a Tennis Court",
+    "fact": "300 million tiny alveoli sacs expand internal lung surface area to 70 square meters for efficient oxygen-CO2 gas exchange.",
+    "category": "Human Body",
+    "image": "fact_40035.jpg"
+  },
+  {
+    "id": "fact_40036",
+    "title": "Human Eye Can Distinguish Approximately 10 Million Colors",
+    "fact": "Cones in the human retina process red, green, and blue light spectrum combinations into millions of subtle color shades.",
+    "category": "Human Body",
+    "image": "fact_40036.jpg"
+  },
+  {
+    "id": "fact_40037",
+    "title": "Tooth Enamel Is the Hardest Substance in the Human Body",
+    "fact": "Composed of 96% mineralized calcium phosphate hydroxyapatite crystals, tooth enamel resists immense chewing forces.",
+    "category": "Human Body",
+    "image": "fact_40037.jpg"
+  },
+  {
+    "id": "fact_40038",
+    "title": "Human Body Contains Over 60,000 Miles of Blood Vessels",
+    "fact": "Extensive networks of capillaries, arterioles, and veins connect every tissue cell to systemic cardiac blood circulation.",
+    "category": "Human Body",
+    "image": "fact_40038.jpg"
+  },
+  {
+    "id": "fact_40039",
+    "title": "Human Skin Sheds 30,000 to 40,000 Dead Cells Every Minute",
+    "fact": "Epidermal cell division continuously pushes keratinized dead skin cells outward, completely replacing skin layers every 28 days.",
+    "category": "Human Body",
+    "image": "fact_40039.jpg"
+  },
+  {
+    "id": "fact_40040",
+    "title": "Human Heart Beats Over 100,000 Times Every Day",
+    "fact": "An adult cardiac muscle contracts roughly 70 times per minute, pumping 2,000 gallons of oxygenated blood daily.",
+    "category": "Human Body",
+    "image": "fact_40040.jpg"
+  },
+  {
+    "id": "fact_40041",
+    "title": "Water Can Exist simultaneously as Solid, Liquid, and Gas at the Triple Point",
+    "fact": "At 0.01°C and 611.65 pascals of pressure, pure water reaches thermodynamic equilibrium across ice, liquid, and steam states.",
+    "category": "Science",
+    "image": "fact_40041.jpg"
+  },
+  {
+    "id": "fact_40042",
+    "title": "Liquid Helium-4 Becomes a Superfluid Near Absolute Zero",
+    "fact": "Cooled below 2.17 Kelvin, liquid helium loses all internal viscosity, creeping up glass container walls against gravity.",
+    "category": "Science",
+    "image": "fact_40042.jpg"
+  },
+  {
+    "id": "fact_40043",
+    "title": "Graphene Is 200 Times Stronger Than Steel and Single Atom Thick",
+    "fact": "Hexagonal 2D carbon lattices demonstrate exceptional tensile strength, thermal conductivity, and electrical electron mobility.",
+    "category": "Science",
+    "image": "fact_40043.jpg"
+  },
+  {
+    "id": "fact_40044",
+    "title": "Light Takes 8 Minutes and 20 Seconds to Travel from Sun to Earth",
+    "fact": "Traveling at 299,792 km/s in space vacuum, photons traverse 150 million kilometers in roughly 500 seconds.",
+    "category": "Science",
+    "image": "fact_40044.jpg"
+  },
+  {
+    "id": "fact_40045",
+    "title": "Sound Cannot Travel Through Outer Space Vacuum",
+    "fact": "Because sound is a mechanical wave requiring atomic collisions, space vacuum absorbs zero acoustic vibrations.",
+    "category": "Science",
+    "image": "fact_40045.jpg"
+  },
+  {
+    "id": "fact_40046",
+    "title": "Diamonds Are Composed Entirely of Pure Carbon Atoms",
+    "fact": "Formed deep within Earth's mantle under 45,000 atmospheres of pressure, carbon crystallizes into rigid 3D tetrahedral structures.",
+    "category": "Science",
+    "image": "fact_40046.jpg"
+  },
+  {
+    "id": "fact_40047",
+    "title": "Absolute Zero Is Equivalent to -273.15 Degrees Celsius",
+    "fact": "At 0 Kelvin, molecular thermal kinetic motion drops to its theoretical quantum minimum limit.",
+    "category": "Science",
+    "image": "fact_40047.jpg"
+  },
+  {
+    "id": "fact_40048",
+    "title": "Antimatter Is the Most Expensive Material on Earth",
+    "fact": "Generating one gram of antihydrogen using particle accelerators requires an estimated $62.5 trillion in electrical energy.",
+    "category": "Science",
+    "image": "fact_40048.jpg"
+  },
+  {
+    "id": "fact_40049",
+    "title": "Glass Is an Amorphous Solid with Disordered Atomic Structure",
+    "fact": "Glass solidifies without forming a crystalline lattice, maintaining disordered atomic structures similar to frozen liquids.",
+    "category": "Science",
+    "image": "fact_40049.jpg"
+  },
+  {
+    "id": "fact_40050",
+    "title": "Great Pyramid Was Built 4,500 Years Ago for Pharaoh Khufu",
+    "fact": "Constructed using 2.3 million limestone blocks, the Great Pyramid of Giza was the tallest man-made structure for 3,800 years.",
+    "category": "History",
+    "image": "fact_40050.jpg"
+  },
+  {
+    "id": "fact_40051",
+    "title": "Rosetta Stone Unlocked Ancient Egyptian Hieroglyphs",
+    "fact": "Carved in 196 BC with Greek, Demotic, and Hieroglyphic scripts, it enabled Champollion to decipher Egyptian writing in 1822.",
+    "category": "History",
+    "image": "fact_40051.jpg"
+  },
+  {
+    "id": "fact_40052",
+    "title": "Cleopatra Lived Closer in Time to the Moon Landing Than Pyramids",
+    "fact": "Cleopatra VII ruled around 30 BC—2,500 years after Giza pyramids were built, but only 2,000 years before Apollo 11.",
+    "category": "History",
+    "image": "fact_40052.jpg"
+  },
+  {
+    "id": "fact_40053",
+    "title": "The Shortest War in Recorded History Lasted 38 Minutes",
+    "fact": "The Anglo-Zanzibar War of August 27, 1896, ended in under 40 minutes following British naval bombardment of the palace.",
+    "category": "History",
+    "image": "fact_40053.jpg"
+  },
+  {
+    "id": "fact_40054",
+    "title": "Viking Warriors Did Not Wear Horned Helmets",
+    "fact": "19th-century opera costume designs popularized horned helmets; historical Norse warriors wore smooth iron caps.",
+    "category": "History",
+    "image": "fact_40054.jpg"
+  },
+  {
+    "id": "fact_40055",
+    "title": "Gutenberg Printing Press Ignited the European Renaissance",
+    "fact": "Invented in 1440, movable metal type democratized access to books, accelerating scientific and cultural development.",
+    "category": "History",
+    "image": "fact_40055.jpg"
+  },
+  {
+    "id": "fact_40056",
+    "title": "Ancient Roman Concrete Self-Healed Using Quicklime Inclusions",
+    "fact": "Volcanic ash and quicklime formed mineral clasts that dissolved during rainwater leaks, sealing structural cracks.",
+    "category": "History",
+    "image": "fact_40056.jpg"
+  },
+  {
+    "id": "fact_40057",
+    "title": "Library of Alexandria Declined Slowly Over Centuries",
+    "fact": "Rather than burning down in a single night, the library suffered gradual budget cuts, fires, and political decline.",
+    "category": "History",
+    "image": "fact_40057.jpg"
+  },
+  {
+    "id": "fact_40058",
+    "title": "Napoleon Bonaparte Was Average Height for His Era",
+    "fact": "At 5 feet 6 inches (1.68 m), Napoleon was average height for an 18th-century Frenchman; British propaganda exaggerated his short stature.",
+    "category": "History",
+    "image": "fact_40058.jpg"
+  },
+  {
+    "id": "fact_40059",
+    "title": "Dead Sea Shoreline Is the Lowest Dry Land Elevation on Earth",
+    "fact": "Sitting 430 meters below ocean sea level, the Dead Sea shores form Earth's deepest land depression.",
+    "category": "Geography",
+    "image": "fact_40059.jpg"
+  },
+  {
+    "id": "fact_40060",
+    "title": "Antarctica Is Classified as Earth's Largest Desert",
+    "fact": "Receiving less than 50 mm of precipitation annually in the interior, Antarctica is technically a polar desert.",
+    "category": "Geography",
+    "image": "fact_40060.jpg"
+  },
+  {
+    "id": "fact_40061",
+    "title": "Mount Chimborazo Summit Is the Farthest Point from Earth's Core",
+    "fact": "Earth's rotational equatorial bulge pushes Ecuador's Chimborazo peak further from the planetary core than Everest.",
+    "category": "Geography",
+    "image": "fact_40061.jpg"
+  },
+  {
+    "id": "fact_40062",
+    "title": "Iceland Has No Mosquitoes Due to Freeze-Thaw Cycles",
+    "fact": "Rapid winter temperature fluctuations prevent mosquito larvae from completing their life cycle in Icelandic ponds.",
+    "category": "Geography",
+    "image": "fact_40062.jpg"
+  },
+  {
+    "id": "fact_40063",
+    "title": "Amazon Rainforest Produces Billions of Tons of Moisture Daily",
+    "fact": "Evapotranspiration across the Amazon basin creates atmospheric 'flying rivers' that supply rainfall to South America.",
+    "category": "Geography",
+    "image": "fact_40063.jpg"
+  },
+  {
+    "id": "fact_40064",
+    "title": "Marianas Trench Is Deeper Than Mount Everest Is Tall",
+    "fact": "Challenger Deep reaches 11,000 meters down, deeper than Mount Everest's 8,848-meter elevation.",
+    "category": "Geography",
+    "image": "fact_40064.jpg"
+  },
+  {
+    "id": "fact_40065",
+    "title": "Kuroshio Current Carries Warm Water Across the Pacific",
+    "fact": "The Kuroshio ocean current transports warm tropical waters northward past Japan, shaping North Pacific climates.",
+    "category": "Geography",
+    "image": "fact_40065.jpg"
+  },
+  {
+    "id": "fact_40066",
+    "title": "Placebo Effect Produces Real Physiological Brain Changes",
+    "fact": "Brain imaging shows placebos trigger genuine endorphin release and reduced pain pathway signaling.",
+    "category": "Psychology",
+    "image": "fact_40066.jpg"
+  },
+  {
+    "id": "fact_40067",
+    "title": "Zeigarnik Effect Keeps Unfinished Tasks Active in Memory",
+    "fact": "Cognitive tension from incomplete tasks keeps memory traces active until the goal is accomplished.",
+    "category": "Psychology",
+    "image": "fact_40067.jpg"
+  },
+  {
+    "id": "fact_40068",
+    "title": "Dunbar's Number Limits Stable Relationships to 150 People",
+    "fact": "Neocortex size constraints suggest humans can comfortably maintain about 150 stable social connections.",
+    "category": "Psychology",
+    "image": "fact_40068.jpg"
+  },
+  {
+    "id": "fact_40069",
+    "title": "Dunning-Kruger Effect Explains Why Beginners Overestimate Competence",
+    "fact": "Lack of domain expertise prevents beginners from recognizing their own mistakes and skill gaps.",
+    "category": "Psychology",
+    "image": "fact_40069.jpg"
+  },
+  {
+    "id": "fact_40070",
+    "title": "Neuroplasticity Allows the Brain to Rewire Throughout Life",
+    "fact": "Synaptic connections continuously reorganize based on learning, motor training, and environmental changes.",
+    "category": "Psychology",
+    "image": "fact_40070.jpg"
+  },
+  {
+    "id": "fact_40071",
+    "title": "Confirmation Bias Drives Searching for Agreeable Information",
+    "fact": "People naturally seek out facts that confirm pre-existing beliefs while ignoring counter-evidence.",
+    "category": "Psychology",
+    "image": "fact_40071.jpg"
+  },
+  {
+    "id": "fact_40072",
+    "title": "Spotlight Effect Makes You Overestimate How Much Others Notice You",
+    "fact": "Individuals consistently overestimate how much surrounding people pay attention to their actions and appearance.",
+    "category": "Psychology",
+    "image": "fact_40072.jpg"
+  },
+  {
+    "id": "fact_40073",
+    "title": "Pareidolia Causes People to See Human Faces in Objects",
+    "fact": "Evolutionary visual processing prioritizes facial recognition, causing us to spot faces in clouds and car grilles.",
+    "category": "Psychology",
+    "image": "fact_40073.jpg"
+  },
+  {
+    "id": "fact_40074",
+    "title": "Chocolate Was Used as Currency by Ancient Mayans and Aztecs",
+    "fact": "Mesoamerican civilizations traded cacao seeds as official currency and drank frothy spiced chocolate beverages.",
+    "category": "Food",
+    "image": "fact_40074.jpg"
+  },
+  {
+    "id": "fact_40075",
+    "title": "Wasabi Served in Restaurants Is Usually Dyed Horseradish",
+    "fact": "Authentic Wasabia japonica is rare and costly; commercial green paste is made of horseradish and mustard seed.",
+    "category": "Food",
+    "image": "fact_40075.jpg"
+  },
+  {
+    "id": "fact_40076",
+    "title": "Pineapples Require Two Years to Grow One Fruit",
+    "fact": "Each bromeliad pineapple plant produces a single fruit after 18 to 24 months of careful agricultural growth.",
+    "category": "Food",
+    "image": "fact_40076.jpg"
+  },
+  {
+    "id": "fact_40077",
+    "title": "Maple Syrup Takes 40 Gallons of Sap to Produce 1 Gallon",
+    "fact": "Sugar maple tree sap is 98% water; boiling concentrates sap by 40 to 1 into pure maple syrup.",
+    "category": "Food",
+    "image": "fact_40077.jpg"
+  }
+]

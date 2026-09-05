@@ -1,702 +1,702 @@
 [
   {
-    "id": "1587",
-    "title": "Tardigrades Can Survive in Space",
-    "fact": "Tardigrades (water bears) are the only animals known to survive the vacuum and radiation of outer space. They can enter a state of suspended animation for years.",
-    "category": "Animals",
-    "image": "1587.jpg"
-  },
-  {
-    "id": "1589",
-    "title": "The Dead Sea Is Getting Smaller",
-    "fact": "The Dead Sea is shrinking at a rate of about 1 meter per year due to water being diverted from the Jordan River, losing about a third of its surface area since 1930.",
-    "category": "Geography",
-    "image": "1589.jpg"
-  },
-  {
-    "id": "1590",
-    "title": "Some Worms Can Survive 24 Years Without Food",
-    "fact": "Some species of nematodes and other worms can enter a state of suspended animation and survive without food for up to 24 years, waiting for favorable conditions.",
-    "category": "Animals",
-    "image": "1590.jpg"
-  },
-  {
-    "id": "1591",
-    "title": "GPS Satellites Experience Time Dilation",
-    "fact": "GPS satellites experience time dilation due to both their velocity and distance from Earth's gravity, requiring atomic clocks to be synchronized daily to maintain accuracy.",
-    "category": "Technology",
-    "image": "1591.jpg"
-  },
-  {
-    "id": "1592",
-    "title": "Rivers Can Be Older Than Mountains",
-    "fact": "Some rivers, like the Finke River in Australia, are over 300 million years old and predate the mountain ranges they flow through, which are much younger geologically.",
-    "category": "Geography",
-    "image": "1592.jpg"
-  },
-  {
-    "id": "1593",
-    "title": "A Single Tree Can Have 200,000 Leaves",
-    "fact": "A mature tree can have between 200,000 to 2 million leaves, depending on the species. A single large oak tree may have 200,000 leaves.",
-    "category": "Nature",
-    "image": "1593.jpg"
-  },
-  {
-    "id": "1594",
-    "title": "The Moon Is the Quietest Place",
-    "fact": "With no atmosphere to transmit sound waves, the Moon is completely silent. The quietest place on Earth, an anechoic chamber, measures about -9.4 decibels.",
-    "category": "Space",
-    "image": "1594.jpg"
-  },
-  {
-    "id": "1595",
-    "title": "Human Teeth Are Stronger Than Steel",
-    "fact": "Human tooth enamel is the hardest substance in the human body, made of calcium phosphate, and can withstand forces of 30-100 kilograms. Enamel ranks 5 on the Mohs scale.",
+    "id": "fact_20066",
+    "title": "Human Skin Sheds 40,000 Dead Cells Every Minute",
+    "fact": "The epidermis continuously sloughs off dead keratinized skin cells, producing roughly 4 kilograms (9 lbs) of shed skin dust every year.",
     "category": "Human Body",
-    "image": "1595.jpg"
+    "image": "fact_20066.jpg"
   },
   {
-    "id": "1596",
-    "title": "The Printing Press Changed Everything",
-    "fact": "Johannes Gutenberg's printing press (1450) made books affordable and spread literacy. By 1500, over 20 million volumes had been printed in Europe.",
-    "category": "History",
-    "image": "1596.jpg"
-  },
-  {
-    "id": "1597",
-    "title": "Atypical Pneumonia Means Walking Pneumonia",
-    "fact": "The term 'walking pneumonia' comes from 'atypical pneumonia,' which refers to a milder form of lung infection that doesn't require bed rest.",
+    "id": "fact_20067",
+    "title": "Your Stomach Hydrochloric Acid Has a pH of 1.5 to 2.0",
+    "fact": "Gastric acid is strong enough to sanitize food, kill bacteria, and activate pepsinogen into protein-digesting pepsin enzymes.",
     "category": "Human Body",
-    "image": "1597.jpg"
+    "image": "fact_20067.jpg"
   },
   {
-    "id": "1598",
-    "title": "Whale Songs Can Travel 1,000 Miles",
-    "fact": "Blue whale calls can be detected over 1,000 miles away. These low-frequency sounds can penetrate deep into the ocean, traveling further than any other animal vocalization.",
-    "category": "Animals",
-    "image": "1598.jpg"
-  },
-  {
-    "id": "1599",
-    "title": "The Mariana Trench Is Darker Than Night",
-    "fact": "Below 1,000 meters in the Mariana Trench, no sunlight penetrates. At the bottom (11,000m), pressure is 1,086 bars and temperature is 1-4°C.",
-    "category": "Geography",
-    "image": "1599.jpg"
-  },
-  {
-    "id": "1600",
-    "title": "The Sun Produces Energy Like a Bomb",
-    "fact": "The Sun converts 4 million tons of matter into energy every second through nuclear fusion, producing as much energy as billions of nuclear bombs.",
-    "category": "Space",
-    "image": "1600.jpg"
-  },
-  {
-    "id": "1602",
-    "title": "The Coldest Place in Universe Is on Earth",
-    "fact": "The Boomerang Nebula holds the record for the coldest known natural place in the universe at -458°F (-272°C), colder than empty space which is -455°F (-270°C).",
-    "category": "Space",
-    "image": "1602.jpg"
-  },
-  {
-    "id": "1603",
-    "title": "The Average Person Walks 5 Times Around Earth",
-    "fact": "The average person walks about 110,000 miles in their lifetime, equivalent to walking around the Earth 5 times at the equator.",
+    "id": "fact_20068",
+    "title": "The Human Brain Contains 86 Billion Neurons",
+    "fact": "Neuroscientists estimate the adult human brain harbors 86 billion neurons connected by over 100 trillion synaptic junctions.",
     "category": "Human Body",
-    "image": "1603.jpg"
+    "image": "fact_20068.jpg"
   },
   {
-    "id": "1605",
-    "title": "The Eiffel Tower Can Be 15cm Taller in Summer",
-    "fact": "The Eiffel Tower can grow up to 15 centimeters (6 inches) taller during hot summer days due to thermal expansion of the iron structure.",
+    "id": "fact_20069",
+    "title": "A Single Human Sperm Contains 37.5 Megabytes of DNA Data",
+    "fact": "One human sperm cell carries 3.3 billion base pairs of genomic data, representing roughly 37.5 MB of uncompressed genetic info.",
+    "category": "Human Body",
+    "image": "fact_20069.jpg"
+  },
+  {
+    "id": "fact_20070",
+    "title": "Your Heart Pumps 7,500 Liters of Blood Every Day",
+    "fact": "An adult heart pumps roughly 5 liters of blood per minute through systemic circulation, totaling over 2,000 gallons daily.",
+    "category": "Human Body",
+    "image": "fact_20070.jpg"
+  },
+  {
+    "id": "fact_20071",
+    "title": "Small Intestine Villi Provide Surface Area of a Tennis Court",
+    "fact": "Millions of microscopic intestinal villi and microvilli expand nutrient absorption surface area to roughly 30 square meters.",
+    "category": "Human Body",
+    "image": "fact_20071.jpg"
+  },
+  {
+    "id": "fact_20072",
+    "title": "Nerve Impulses Travel at Speeds Up to 268 MPH",
+    "fact": "Myelinated motor neurons transmit electrical action potentials along nerve axons at speeds up to 120 meters per second.",
+    "category": "Human Body",
+    "image": "fact_20072.jpg"
+  },
+  {
+    "id": "fact_20073",
+    "title": "Human Skeletal Muscle Accounts for 40% of Total Body Mass",
+    "fact": "Over 600 skeletal muscles work in antagonistic pairs to produce movement, generate body heat, and maintain posture.",
+    "category": "Human Body",
+    "image": "fact_20073.jpg"
+  },
+  {
+    "id": "fact_20074",
+    "title": "Your Brain Burns 20% of Daily Glucose and Oxygen",
+    "fact": "Despite representing just 2% of total body weight, the human brain consumes one fifth of your daily basal energy intake.",
+    "category": "Human Body",
+    "image": "fact_20074.jpg"
+  },
+  {
+    "id": "fact_20075",
+    "title": "The Femur Is the Longest and Strongest Bone in the Human Body",
+    "fact": "The thigh bone (femur) can support up to 30 times an adult's body weight in compression force without fracturing.",
+    "category": "Human Body",
+    "image": "fact_20075.jpg"
+  },
+  {
+    "id": "fact_20076",
+    "title": "Human Saliva Contains Digestive Enzymes and Antibodies",
+    "fact": "Salivary glands produce 1.5 liters of fluid daily containing salivary amylase for starch breakdown and IgA antibodies to fight bacteria.",
+    "category": "Human Body",
+    "image": "fact_20076.jpg"
+  },
+  {
+    "id": "fact_20077",
+    "title": "Your Kidneys Filter 180 Liters of Blood Daily",
+    "fact": "Nephrons inside the twin kidneys filter your entire blood volume 30 times a day, producing 1 to 2 liters of concentrated urine waste.",
+    "category": "Human Body",
+    "image": "fact_20077.jpg"
+  },
+  {
+    "id": "fact_20078",
+    "title": "The Hyoid Bone In the Neck Is Not Attached to Any Other Bone",
+    "fact": "Supported entirely by neck muscles and ligaments, the U-shaped hyoid bone anchors the tongue and aids in human speech articulation.",
+    "category": "Human Body",
+    "image": "fact_20078.jpg"
+  },
+  {
+    "id": "fact_20079",
+    "title": "Human Retina Contains 120 Million Rods and 6 Million Cones",
+    "fact": "Photoreceptor rod cells detect low-light monochrome vision, while cone cells in the fovea distinguish color and high-detail central focus.",
+    "category": "Human Body",
+    "image": "fact_20079.jpg"
+  },
+  {
+    "id": "fact_20080",
+    "title": "Skin Is the Largest Human Organ by Weight and Surface Area",
+    "fact": "An adult's skin weighs roughly 5 kg (11 lbs) and covers approximately 2 square meters (22 sq ft) of outer body surface.",
+    "category": "Human Body",
+    "image": "fact_20080.jpg"
+  },
+  {
+    "id": "fact_20081",
+    "title": "Cherenkov Light Is the Optical Shockwave of Fast Particles",
+    "fact": "When charged subatomic particles travel through water faster than the speed of light in water, they emit a glowing blue shockwave.",
     "category": "Science",
-    "image": "1605.jpg"
+    "image": "fact_20081.jpg"
   },
   {
-    "id": "1606",
-    "title": "Russia Has 11 Time Zones",
-    "fact": "Russia spans 11 time zones, more than any other country, stretching about 5,800 miles from Kaliningrad to the Bering Strait.",
-    "category": "Geography",
-    "image": "1606.jpg"
-  },
-  {
-    "id": "1607",
-    "title": "Mars Sunsets Are Blue",
-    "fact": "Due to the fine dust particles in Mars' atmosphere that scatter blue light, sunsets on Mars appear blue instead of the orange/red sunsets we see on Earth.",
-    "category": "Space",
-    "image": "1607.jpg"
-  },
-  {
-    "id": "1608",
-    "title": "The Heart Pumps 2,000 Gallons Daily",
-    "fact": "The human heart pumps about 2,000 gallons (7,500 liters) of blood through 60,000 miles of blood vessels every day, circulating blood every 60 seconds.",
-    "category": "Human Body",
-    "image": "1608.jpg"
-  },
-  {
-    "id": "1609",
-    "title": "The Titanic Sank in 1912 With Modern Consequences",
-    "fact": "The Titanic sank in 1912, and all 1,517 victims died, yet it occurred during the 100th anniversary of the modern Olympics being revived.",
-    "category": "History",
-    "image": "1609.jpg"
-  },
-  {
-    "id": "1610",
-    "title": "A Cockroach Can Live Without Its Head",
-    "fact": "A cockroach can survive for weeks without its head because its brain is not located in its head and it breathes through holes in its body segments.",
-    "category": "Animals",
-    "image": "1610.jpg"
-  },
-  {
-    "id": "1611",
-    "title": "LED Lights Are 90% More Efficient",
-    "fact": "LED lights use up to 90% less energy and last 25 times longer than traditional incandescent bulbs, potentially lasting 25,000-50,000 hours.",
-    "category": "Technology",
-    "image": "1611.jpg"
-  },
-  {
-    "id": "1612",
-    "title": "Greenland Is Mostly Ice, Not Green",
-    "fact": "Greenland is 81% covered by ice, making it the largest island covered by ice. If all ice melted, global sea levels would rise about 24 feet.",
-    "category": "Geography",
-    "image": "1612.jpg"
-  },
-  {
-    "id": "1613",
-    "title": "The Longest Bone Is the Femur",
-    "fact": "The femur (thigh bone) is the longest, largest, and strongest bone in the human body, supporting half the body's weight and measuring about 26% of a person's height.",
-    "category": "Human Body",
-    "image": "1613.jpg"
-  },
-  {
-    "id": "1614",
-    "title": "Butterflies Have 12,000 Eyes",
-    "fact": "Butterflies have compound eyes with thousands of lenses, each providing a small image. They can see ultraviolet light that humans cannot perceive.",
-    "category": "Animals",
-    "image": "1614.jpg"
-  },
-  {
-    "id": "1615",
-    "title": "Water Can Boil and Freeze Simultaneously",
-    "fact": "At certain pressure conditions, water can exist in a 'triple point' where it boils, freezes, and melts simultaneously, known as the Leidenfrost effect.",
+    "id": "fact_20082",
+    "title": "Graphene Conducts Electricity Better Than Copper",
+    "fact": "Single-layer carbon graphene exhibits electron mobility over 200,000 cm²/Vs, conducting electricity with minimal resistive heat loss.",
     "category": "Science",
-    "image": "1615.jpg"
+    "image": "fact_20082.jpg"
   },
   {
-    "id": "1616",
-    "title": "The First Message on Twitter Was 2006",
-    "fact": "Jack Dorsey sent the first tweet on March 21, 2006: 'just setting up my twttr.' Twitter was originally called 'twttr' without vowels.",
-    "category": "Technology",
-    "image": "1616.jpg"
-  },
-  {
-    "id": "1617",
-    "title": "The K2 Mountain Kills 1 in 4 Climbers",
-    "fact": "Mount K2 has a fatality rate of about 25%, making it one of the most dangerous mountains to climb, second only to Annapurna I.",
-    "category": "Geography",
-    "image": "1617.jpg"
-  },
-  {
-    "id": "1618",
-    "title": "The Heart Symbol Wasn't Always Romantic",
-    "fact": "The heart shape as we know it appeared on ancient coins and art for centuries before being associated with love in medieval times.",
-    "category": "History",
-    "image": "1618.jpg"
-  },
-  {
-    "id": "1619",
-    "title": "Your Body Has Enough Iron to Make a Nail",
-    "fact": "The human body contains about 3-4 grams of iron, enough to make a small nail. Most iron is found in hemoglobin, which carries oxygen in the blood.",
-    "category": "Human Body",
-    "image": "1619.jpg"
-  },
-  {
-    "id": "1620",
-    "title": "The Sun Makes a Sound We Can't Hear",
-    "fact": "The Sun produces sound waves that generate pressure waves through the solar corona, though these frequencies are far below human hearing range of 20Hz.",
-    "category": "Space",
-    "image": "1620.jpg"
-  },
-  {
-    "id": "1621",
-    "title": "Komodo Dragons Have Venomous Bite",
-    "fact": "Komodo dragons kill using bacteria-laden saliva and venom that prevents blood clotting. A single bite can bring down a water buffalo.",
-    "category": "Animals",
-    "image": "1621.jpg"
-  },
-  {
-    "id": "1622",
-    "title": "The Deepest Lake Is in Siberia",
-    "fact": "Lake Baikal in Siberia is the deepest lake in the world at 5,387 feet (1,642 meters), containing 20% of the world's unfrozen freshwater.",
-    "category": "Geography",
-    "image": "1622.jpg"
-  },
-  {
-    "id": "1623",
-    "title": "Humans Share 60% DNA With Fruit Flies",
-    "fact": "Despite 600 million years of evolutionary distance, humans and fruit flies share about 60% of genes related to human diseases.",
+    "id": "fact_20083",
+    "title": "Water Has Highest Specific Heat Capacity of Common Liquids",
+    "fact": "Water requires 4,184 Joules of heat to raise 1 kg by 1°C, allowing Earth's oceans to buffer planetary climate changes.",
     "category": "Science",
-    "image": "1623.jpg"
+    "image": "fact_20083.jpg"
   },
   {
-    "id": "1624",
-    "title": "The Internet Was Created for Nuclear War",
-    "fact": "ARPANET, the precursor to the internet, was developed in 1969 to maintain communication during nuclear war by routing around damaged network nodes.",
-    "category": "Technology",
-    "image": "1624.jpg"
+    "id": "fact_20084",
+    "title": "Superfluid Helium Flows Upward Against Gravity",
+    "fact": "Below 2.17 Kelvin, liquid Helium-4 enters a zero-viscosity state, creeping up and over beaker walls in a thin Rollin film.",
+    "category": "Science",
+    "image": "fact_20084.jpg"
   },
   {
-    "id": "1625",
-    "title": "Cleopatra Lived Closer to Pizza Hut Than Pyramids",
-    "fact": "Cleopatra lived in 30 BCE, the first Pizza Hut opened in 1958, and the Pyramids were built around 2560 BCE. Time perspective shows she's closer to modern inventions.",
+    "id": "fact_20085",
+    "title": "Sound Waves Cannot Propagate in Outer Space",
+    "fact": "Because sound requires mechanical medium vibrations (gas or liquid atoms), outer space vacuum is completely silent.",
+    "category": "Science",
+    "image": "fact_20085.jpg"
+  },
+  {
+    "id": "fact_20086",
+    "title": "Diamond and Graphite Are Carbon Allotropes",
+    "fact": "Diamond features 3D tetrahedral sp3 carbon bonds, while graphite consists of stacked hexagonal sp2 carbon sheets.",
+    "category": "Science",
+    "image": "fact_20086.jpg"
+  },
+  {
+    "id": "fact_20087",
+    "title": "Air Exerts 14.7 Pounds Per Square Inch Pressure at Sea Level",
+    "fact": "Gravitational pull on atmospheric nitrogen and oxygen molecules creates 101.3 kPa of ambient atmospheric pressure on Earth's surface.",
+    "category": "Science",
+    "image": "fact_20087.jpg"
+  },
+  {
+    "id": "fact_20088",
+    "title": "Light Waves Refract When Passing Through Glass",
+    "fact": "Light slows down from 300,000 km/s in vacuum to 200,000 km/s in optical glass, bending light rays toward the normal angle.",
+    "category": "Science",
+    "image": "fact_20088.jpg"
+  },
+  {
+    "id": "fact_20089",
+    "title": "Bose-Einstein Condensate Exhibits Quantum Effects at Macroscopic Scale",
+    "fact": "Cooling atomic gases near absolute zero forces individual atoms to overlap into a single super-atom wave function.",
+    "category": "Science",
+    "image": "fact_20089.jpg"
+  },
+  {
+    "id": "fact_20090",
+    "title": "Great Pyramid of Giza Stood as Tallest Structure for 3,800 Years",
+    "fact": "Constructed for Pharaoh Khufu around 2560 BC, its 146.6-meter original height was not surpassed until Lincoln Cathedral was built in 1311 AD.",
     "category": "History",
-    "image": "1625.jpg"
+    "image": "fact_20090.jpg"
   },
   {
-    "id": "1626",
-    "title": "Your Brain Uses 10% While Sleeping",
-    "fact": "The sleeping brain is highly active, using about 10% more energy than when awake. During REM sleep, the brain is as active as during waking hours.",
-    "category": "Human Body",
-    "image": "1626.jpg"
+    "id": "fact_20091",
+    "title": "Rosetta Stone Contained Decrees in Three Scripts",
+    "fact": "Discovered in 1799, the trilingual inscription in Hieroglyphs, Demotic, and Ancient Greek allowed scholars to decipher ancient Egyptian hieroglyphic writing.",
+    "category": "History",
+    "image": "fact_20091.jpg"
   },
   {
-    "id": "1627",
-    "title": "Neutron Stars Are Extremely Dense",
-    "fact": "A teaspoon of neutron star material would weigh about 6 billion tons on Earth. These stars are so dense that atoms are crushed into their nuclei.",
-    "category": "Space",
-    "image": "1627.jpg"
+    "id": "fact_20092",
+    "title": "Oxford University Taught Students Before the Aztec Empire Founded",
+    "fact": "Teaching at Oxford existed by 1096, while the Aztec capital Tenochtitlan was founded more than two centuries later in 1325.",
+    "category": "History",
+    "image": "fact_20092.jpg"
   },
   {
-    "id": "1629",
-    "title": "The Amazon River Is Wider Than the Moon Is Tall",
-    "fact": "The Amazon River's width can reach up to 202 miles (325 km) during the rainy season, which is greater than the Moon's diameter of 215 miles.",
+    "id": "fact_20093",
+    "title": "Roman Concrete Self-Healed Cracks Using Quicklime Clasts",
+    "fact": "Ancient Roman marine concrete contained lime clasts that dissolved during water intrusion, recrystallizing to seal cracks automatically.",
+    "category": "History",
+    "image": "fact_20093.jpg"
+  },
+  {
+    "id": "fact_20094",
+    "title": "Viking Warriors Never Wore Horned Helmets",
+    "fact": "19th-century romantic opera costume designers invented horned Viking helmets; historical Norse helmets were smooth iron caps with nasal guards.",
+    "category": "History",
+    "image": "fact_20094.jpg"
+  },
+  {
+    "id": "fact_20095",
+    "title": "The Library of Alexandria Declined Over Centuries",
+    "fact": "Popular myth suggests the library burned overnight, but historical records show it declined gradually due to budget cuts, war, and fires.",
+    "category": "History",
+    "image": "fact_20095.jpg"
+  },
+  {
+    "id": "fact_20096",
+    "title": "Cleopatra Lived Closer in Time to Apollo 11 Than the Great Pyramid Construction",
+    "fact": "Cleopatra VII lived around 30 BC—2,500 years after the Great Pyramid was built, but only 2,000 years before Neil Armstrong walked on the Moon.",
+    "category": "History",
+    "image": "fact_20096.jpg"
+  },
+  {
+    "id": "fact_20097",
+    "title": "Printing Press Was Invented by Johannes Gutenberg in 1440",
+    "fact": "Gutenberg's movable metal type press democratized book production, triggering the European Renaissance, Scientific Revolution, and Reformation.",
+    "category": "History",
+    "image": "fact_20097.jpg"
+  },
+  {
+    "id": "fact_20098",
+    "title": "Terracotta Army Was Discovered by Farmers Digging a Well in 1974",
+    "fact": "Over 8,000 life-sized terracotta soldiers, horses, and chariots were uncovered near Xi'an, built to guard Qin Shi Huang in the afterlife.",
+    "category": "History",
+    "image": "fact_20098.jpg"
+  },
+  {
+    "id": "fact_20099",
+    "title": "Dead Sea Shoreline Is the Lowest Point of Dry Land on Earth",
+    "fact": "Sitting at 430 meters (1,410 feet) below sea level, the Dead Sea shore is Earth's lowest terrestrial land elevation.",
     "category": "Geography",
-    "image": "1629.jpg"
+    "image": "fact_20099.jpg"
   },
   {
-    "id": "1630",
-    "title": "Goldfish Can Remember Things for Months",
-    "fact": "Contrary to popular belief, goldfish have memories that can last for months, not seconds. They can be trained to perform tasks and respond to cues.",
-    "category": "Animals",
-    "image": "1630.jpg"
-  },
-  {
-    "id": "1631",
-    "title": "The Human Body Has 60,000 Miles of Blood Vessels",
-    "fact": "If all blood vessels in the human body were laid end to end, they would stretch about 60,000 miles, enough to circle the Earth 2.5 times.",
-    "category": "Human Body",
-    "image": "1631.jpg"
-  },
-  {
-    "id": "1632",
-    "title": "The First Computer Programmer Was a Woman",
-    "fact": "Ada Lovelace, born in 1815, is considered the first computer programmer. She wrote algorithms for Charles Babbage's Analytical Engine.",
-    "category": "History",
-    "image": "1632.jpg"
-  },
-  {
-    "id": "1633",
-    "title": "Some Mushrooms Glow in the Dark",
-    "fact": "Over 70 species of bioluminescent mushrooms glow green, using a chemical reaction involving luciferin and luciferase to produce this ghostly light.",
-    "category": "Nature",
-    "image": "1633.jpg"
-  },
-  {
-    "id": "1634",
-    "title": "GPS Satellites Have Atomic Clocks",
-    "fact": "GPS satellites carry atomic clocks accurate to within a billionth of a second. Without relativity corrections, GPS would be off by about 6 miles daily.",
-    "category": "Technology",
-    "image": "1634.jpg"
-  },
-  {
-    "id": "1635",
-    "title": "Mount Everest Was Once an Ocean Floor",
-    "fact": "About 450 million years ago, the limestone on Mount Everest's summit was part of an ancient seabed, compressed and thrust upward by tectonic forces.",
+    "id": "fact_20100",
+    "title": "Lake Baikal Holds 20% of Earth's Unfrozen Fresh Water",
+    "fact": "Located in Siberia, Lake Baikal is Earth's deepest (1,642 m) and oldest lake, containing more liquid freshwater than all Great Lakes combined.",
     "category": "Geography",
-    "image": "1635.jpg"
+    "image": "fact_20100.jpg"
   },
   {
-    "id": "1636",
-    "title": "Electric Eels Have Predated Prey for Millions of Years",
-    "fact": "Electric eels (Electrophorus electricus) evolved electric organs over 10 times independently in different fish lineages, first appearing about 10-15 million years ago.",
-    "category": "Animals",
-    "image": "1636.jpg"
-  },
-  {
-    "id": "1637",
-    "title": "Water Exists on Other Planets",
-    "fact": "Water ice exists on Mars, the Moon, and Mercury. Europa, Jupiter's moon, has more liquid water than all of Earth's oceans combined.",
-    "category": "Space",
-    "image": "1637.jpg"
-  },
-  {
-    "id": "1639",
-    "title": "The Term Robot Comes from Czech",
-    "fact": "The word 'robot' comes from the Czech word 'robota,' meaning forced labor or drudgery, first used in Karel Čapek's 1920 play R.U.R.",
-    "category": "Technology",
-    "image": "1639.jpg"
-  },
-  {
-    "id": "1640",
-    "title": "Lightning Strikes Earth 8 Million Times Daily",
-    "fact": "There are approximately 8 million lightning strikes per day worldwide, with about 100 strikes occurring every second across the planet.",
-    "category": "Nature",
-    "image": "1640.jpg"
-  },
-  {
-    "id": "1641",
-    "title": "The Great Sphinx Has No Nose",
-    "fact": "The Great Sphinx of Giza lost its nose sometime between the 3rd and 10th century CE. The popular myth that Napoleon shot it off is historically inaccurate.",
-    "category": "History",
-    "image": "1641.jpg"
-  },
-  {
-    "id": "1642",
-    "title": "Trees Can Communicate Through Their Roots",
-    "fact": "Trees in forests are connected by underground fungal networks called mycorrhizal networks, sharing water and nutrients with each other through their root systems.",
-    "category": "Nature",
-    "image": "1642.jpg"
-  },
-  {
-    "id": "1643",
-    "title": "The Heart Beats 100,000 Times Per Day",
-    "fact": "The human heart beats approximately 100,000 times per day, pumping about 2,000 gallons of blood through the body, equivalent to 5 liters per minute.",
-    "category": "Human Body",
-    "image": "1643.jpg"
-  },
-  {
-    "id": "1644",
-    "title": "Saturn's Rings Are Mostly Ice",
-    "fact": "Saturn's rings are about 90-95% water ice, with particles ranging in size from microscopic to as large as houses. They span up to 282,000 km from the planet.",
-    "category": "Space",
-    "image": "1644.jpg"
-  },
-  {
-    "id": "1645",
-    "title": "The Human Body Has 37.2 Trillion Cells",
-    "fact": "The average human body contains approximately 37.2 trillion cells, though this number varies based on body size, age, and how cells are counted.",
-    "category": "Human Body",
-    "image": "1645.jpg"
-  },
-  {
-    "id": "1646",
-    "title": "Crows Can Solve Complex Puzzles",
-    "fact": "Crows have demonstrated abilities to solve multi-step puzzles, use tools, and even plan for future events, showing cognitive abilities rivaling great apes.",
-    "category": "Animals",
-    "image": "1646.jpg"
-  },
-  {
-    "id": "1647",
-    "title": "The Roman Empire Lasted 500 Years",
-    "fact": "The Western Roman Empire lasted from 27 BCE to 476 CE (about 500 years), while the Eastern Roman Empire (Byzantine) continued until 1453 CE.",
-    "category": "History",
-    "image": "1647.jpg"
-  },
-  {
-    "id": "1648",
-    "title": "Atypical Pneumonia Affects 2 Million Yearly",
-    "fact": "Atypical pneumonia, caused by bacteria like Mycoplasma pneumoniae, affects about 1-2 million people in the US annually, accounting for 10-15% of all pneumonia cases.",
-    "category": "Human Body",
-    "image": "1648.jpg"
-  },
-  {
-    "id": "1649",
-    "title": "The First Smartphone Was 1994",
-    "fact": "The IBM Simon Personal Communicator, released in 1994, is considered the first smartphone, featuring a touchscreen, calendar, and email capabilities.",
-    "category": "Technology",
-    "image": "1649.jpg"
-  },
-  {
-    "id": "1650",
-    "title": "The Dead Sea Is 10x Saltier Than the Ocean",
-    "fact": "The Dead Sea has a salinity of about 34%, compared to the ocean's average of 3.5%, making it one of the saltiest bodies of water on Earth.",
+    "id": "fact_20101",
+    "title": "Atacama Desert Is the Driest Non-Polar Desert on Earth",
+    "fact": "Some weather stations in Chile's Atacama Desert have never recorded rain in history, due to rain shadow effects from the Andes.",
     "category": "Geography",
-    "image": "1650.jpg"
+    "image": "fact_20101.jpg"
   },
   {
-    "id": "1651",
-    "title": "Tardigrades Can Survive Extremes",
-    "fact": "Tardigrades can survive temperatures from -272°C to 150°C, the vacuum of space, radiation 1,000 times fatal to humans, and pressures 6 times greater than ocean trenches.",
-    "category": "Animals",
-    "image": "1651.jpg"
-  },
-  {
-    "id": "1652",
-    "title": "The Moon Is Slowly Drifting Away",
-    "fact": "The Moon moves about 3.8 cm away from Earth every year. In about 600 million years, it will be too far away to completely cover the Sun during eclipses.",
-    "category": "Space",
-    "image": "1652.jpg"
-  },
-  {
-    "id": "1653",
-    "title": "Your Brain Shrinks While You Sleep",
-    "fact": "During sleep, your brain physically shrinks by about 1% to 2%, allowing cerebrospinal fluid to flush out toxins accumulated during waking hours.",
-    "category": "Human Body",
-    "image": "1653.jpg"
-  },
-  {
-    "id": "1654",
-    "title": "The Pyramids Were Built by Paid Workers",
-    "fact": "Contrary to popular belief, the pyramids were built by paid workers (about 5,000) who lived in nearby villages, not slaves as depicted in Hollywood films.",
-    "category": "History",
-    "image": "1654.jpg"
-  },
-  {
-    "id": "1655",
-    "title": "Bamboo Is the Fastest Growing Plant",
-    "fact": "Bamboo can grow up to 35 inches (91 cm) per day, making it the fastest growing plant on Earth. Some species can add 1.5 inches in height every hour.",
-    "category": "Nature",
-    "image": "1655.jpg"
-  },
-  {
-    "id": "1656",
-    "title": "The Deepest Part of the Ocean Is 7 Miles",
-    "fact": "The Mariana Trench's Challenger Deep is the deepest point in the ocean at 36,070 feet (10,994 meters), deeper than Mount Everest is tall.",
+    "id": "fact_20102",
+    "title": "Antarctica Is Classified as the World's Largest Desert",
+    "fact": "Receiving less than 50 millimeters (2 inches) of precipitation annually in the interior, Antarctica is technically a polar desert.",
     "category": "Geography",
-    "image": "1656.jpg"
+    "image": "fact_20102.jpg"
   },
   {
-    "id": "1657",
-    "title": "Sharks Have Been on Earth 450 Million Years",
-    "fact": "Sharks evolved about 50 million years before the first trees and 200 million years before dinosaurs, making them one of the oldest vertebrate species.",
-    "category": "Animals",
-    "image": "1657.jpg"
-  },
-  {
-    "id": "1658",
-    "title": "Your Stomach Acid Dissolves Metal",
-    "fact": "Gastric acid in your stomach has a pH of 1-2, strong enough to dissolve metal. The stomach lining protects itself with a layer of mucus renewed every few days.",
-    "category": "Human Body",
-    "image": "1658.jpg"
-  },
-  {
-    "id": "1659",
-    "title": "The Milky Way Has 100 Billion Stars",
-    "fact": "Our galaxy, the Milky Way, contains an estimated 100-400 billion stars, with most stars having planets, suggesting billions of solar systems exist.",
-    "category": "Space",
-    "image": "1659.jpg"
-  },
-  {
-    "id": "1660",
-    "title": "WiFi Was Invented by Australian Team",
-    "fact": "WiFi technology was developed by CSIRO's Dr. John O'Sullivan and team in Australia in the early 1990s, with the first patent granted in 1996.",
-    "category": "Technology",
-    "image": "1660.jpg"
-  },
-  {
-    "id": "1661",
-    "title": "The Romans Used Urine as Mouthwash",
-    "fact": "Ancient Romans used urine as a mouthwash and tooth whitener because of its ammonia content, which acts as a cleaning agent.",
-    "category": "History",
-    "image": "1661.jpg"
-  },
-  {
-    "id": "1662",
-    "title": "The Human Eye Can Detect a Candle 30 Miles",
-    "fact": "Under perfect darkness conditions, a human eye can detect a single photon of light. A candle flame can be seen up to 30 miles away on a clear night.",
-    "category": "Human Body",
-    "image": "1662.jpg"
-  },
-  {
-    "id": "1663",
-    "title": "The Sun Produces Energy for 5 Billion Years",
-    "fact": "The Sun has been producing energy through nuclear fusion for about 4.6 billion years and has enough hydrogen fuel to continue for another 5 billion years.",
-    "category": "Space",
-    "image": "1663.jpg"
-  },
-  {
-    "id": "1664",
-    "title": "Octopuses Have Three Hearts and Blue Blood",
-    "fact": "Octopuses have three hearts: two pump blood to the gills, while the third pumps it to the body. Their copper-based blood appears blue, more efficient in cold water.",
-    "category": "Animals",
-    "image": "1664.jpg"
-  },
-  {
-    "id": "1667",
-    "title": "Africa Contains 54 Countries",
-    "fact": "Africa is the second-largest continent with 54 countries (including Sudan and South Sudan separately), more than any other continent.",
+    "id": "fact_20103",
+    "title": "Mount Chimborazo Summit Is the Farthest Point from Earth's Center",
+    "fact": "Because Earth bulges at the equator due to rotation, Ecuador's Chimborazo peak (6,263 m) is 2,072 meters further from Earth's core than Everest.",
     "category": "Geography",
-    "image": "1667.jpg"
+    "image": "fact_20103.jpg"
   },
   {
-    "id": "1668",
-    "title": "Humans Can Hold Their Breath for 11 Minutes",
-    "fact": "The longest voluntary breath-holding record is 11 minutes and 35 seconds, set by Chile's Alessandro De La Vega in 2016.",
-    "category": "Human Body",
-    "image": "1668.jpg"
-  },
-  {
-    "id": "1669",
-    "title": "Antarctica Is the Driest Continent",
-    "fact": "Antarctica is technically the driest continent, with some regions receiving less than 2 inches of precipitation annually, less than the Sahara Desert.",
+    "id": "fact_20104",
+    "title": "The Pacific Ocean Covers More Area Than All Land Masses Combined",
+    "fact": "Spanning 165.2 million square kilometers, the Pacific Ocean covers 32% of Earth's total surface, exceeding all continental land.",
     "category": "Geography",
-    "image": "1669.jpg"
+    "image": "fact_20104.jpg"
   },
   {
-    "id": "1670",
-    "title": "Venus Spins Backwards",
-    "fact": "Venus rotates in the opposite direction to most planets, including Earth, meaning the Sun rises in the west and sets in the east on Venus.",
-    "category": "Space",
-    "image": "1670.jpg"
-  },
-  {
-    "id": "1671",
-    "title": "Bees Can Recognize Human Faces",
-    "fact": "Honeybees can learn to recognize and remember human faces, using a method similar to humans by processing facial features holistically.",
-    "category": "Animals",
-    "image": "1671.jpg"
-  },
-  {
-    "id": "1672",
-    "title": "The Pyramids Align With Orion's Belt",
-    "fact": "The three main pyramids of Giza are aligned to mirror the three stars of Orion's Belt, which the Egyptians associated with their god Osiris.",
-    "category": "History",
-    "image": "1672.jpg"
-  },
-  {
-    "id": "1673",
-    "title": "Your Brain Generates 25 Watts While Awake",
-    "fact": "The human brain generates about 25 watts of electrical power while awake, enough to power a low-wattage LED light bulb.",
-    "category": "Human Body",
-    "image": "1673.jpg"
-  },
-  {
-    "id": "1674",
-    "title": "The Longest Bone Is Longer Than You Think",
-    "fact": "The femur is the longest bone in the human body, comprising about 26% of a person's height and strong enough to support 30 times the weight of the body.",
-    "category": "Human Body",
-    "image": "1674.jpg"
-  },
-  {
-    "id": "1675",
-    "title": "The Sun Is Yellow Dwarf Misnomer",
-    "fact": "The Sun is classified as a G-type main-sequence star, but it's actually white. It appears yellow through Earth's atmosphere, which scatters blue light.",
-    "category": "Space",
-    "image": "1675.jpg"
-  },
-  {
-    "id": "1676",
-    "title": "The First Computer Bug Was a Moth",
-    "fact": "The term 'computer bug' originated from an actual moth found trapped in Harvard Mark II computer relay in 1947, the first documented computer bug.",
-    "category": "Technology",
-    "image": "1676.jpg"
-  },
-  {
-    "id": "1677",
-    "title": "The Sahara Desert Was Green 6,000 Years Ago",
-    "fact": "About 6,000 years ago, the Sahara Desert had grasslands, lakes, and rivers due to monsoon rains, before the Earth's orbit shifted and dried it out.",
+    "id": "fact_20105",
+    "title": "Amazon Rainforest Produces 20% of Earth's Oxygen",
+    "fact": "Dense foliage across the 5.5-million-square-kilometer Amazon basin generates roughly one fifth of planetary atmospheric oxygen.",
     "category": "Geography",
-    "image": "1677.jpg"
+    "image": "fact_20105.jpg"
   },
   {
-    "id": "1678",
-    "title": "Horses Can Sleep Standing Up",
-    "fact": "Horses have a stay apparatus in their legs that allows them to lock their knees and sleep standing up, though they lie down for REM sleep.",
-    "category": "Animals",
-    "image": "1678.jpg"
-  },
-  {
-    "id": "1680",
-    "title": "Napoleon Was Attacked by Bunnies",
-    "fact": "During a rabbit hunt for Napoleon Bonaparte, King Francis I accidentally released thousands of rabbits that charged at Napoleon, who reportedly climbed a tree.",
-    "category": "History",
-    "image": "1680.jpg"
-  },
-  {
-    "id": "1681",
-    "title": "The Human Body Contains 206 Bones",
-    "fact": "Adults have 206 bones, down from about 300 at birth as many fuse together. The smallest bone is the stapes in the ear, about the size of a grain of rice.",
-    "category": "Human Body",
-    "image": "1681.jpg"
-  },
-  {
-    "id": "1682",
-    "title": "Atypical Pneumonia Affects Young People More",
-    "fact": "Mycoplasma pneumonia, causing atypical pneumonia, most commonly affects children and young adults, often spreading in schools and households.",
-    "category": "Human Body",
-    "image": "1682.jpg"
-  },
-  {
-    "id": "1683",
-    "title": "The First 4G Network Launched in 2009",
-    "fact": "The first commercial 4G LTE networks launched in Stockholm and Oslo in 2009, offering download speeds up to 100 Mbps, revolutionizing mobile internet.",
-    "category": "Technology",
-    "image": "1683.jpg"
-  },
-  {
-    "id": "1684",
-    "title": "Africa Could Fit Inside Asia Twice",
-    "fact": "Asia is the largest continent, covering 44.58 million km². Africa covers 30.37 million km², so Asia is about 1.5 times larger than Africa.",
+    "id": "fact_20106",
+    "title": "Iceland Has Zero Native Mosquitoes",
+    "fact": "Iceland's oceanic climate experiences multiple freeze-thaw cycles every winter, preventing mosquito larvae from maturing in shallow ponds.",
     "category": "Geography",
-    "image": "1684.jpg"
+    "image": "fact_20106.jpg"
   },
   {
-    "id": "1685",
-    "title": "Dolphins Have Names for Each Other",
-    "fact": "Bottlenose dolphins develop unique signature whistles within their first year of life, essentially names they use to identify and call each other.",
-    "category": "Animals",
-    "image": "1685.jpg"
-  },
-  {
-    "id": "1687",
-    "title": "The Shortest War Lasted 38 Minutes",
-    "fact": "The Anglo-Zanzibar War on August 27, 1896, lasted 38-45 minutes, making it the shortest war in history. Zanzibar surrendered to Britain.",
-    "category": "History",
-    "image": "1687.jpg"
-  },
-  {
-    "id": "1690",
-    "title": "One Tree Produces 260 Pounds of Oxygen",
-    "fact": "A single mature tree produces about 260 pounds of oxygen per year, enough for two people to breathe. It also absorbs about 48 pounds of CO2 annually.",
-    "category": "Nature",
-    "image": "1690.jpg"
-  },
-  {
-    "id": "1691",
-    "title": "The Great Wall Can't Be Seen From Space",
-    "fact": "The Great Wall of China is not visible to the naked eye from space, despite the common myth. It's too narrow and follows terrain too closely to be seen.",
-    "category": "History",
-    "image": "1691.jpg"
-  },
-  {
-    "id": "1692",
-    "title": "The Moon Is Drifting Away at 1.5 Inches Per Year",
-    "fact": "The Moon moves away from Earth at about 3.78 cm (1.5 inches) per year, and Earth's rotation is slowing correspondingly.",
-    "category": "Space",
-    "image": "1692.jpg"
-  },
-  {
-    "id": "1693",
-    "title": "Electric Eels Can Leap Out of Water",
-    "fact": "Electric eels can launch themselves out of water to deliver electrical shocks directly to threats, bypassing water resistance to deliver higher voltage.",
-    "category": "Animals",
-    "image": "1693.jpg"
-  },
-  {
-    "id": "1694",
-    "title": "The Human Body Has 60,000 Miles of Vessels",
-    "fact": "The human circulatory system contains about 60,000 miles of blood vessels if laid end to end, enough to circle Earth twice.",
-    "category": "Human Body",
-    "image": "1694.jpg"
-  },
-  {
-    "id": "1696",
-    "title": "The Amazon River Flows Into the Atlantic",
-    "fact": "The Amazon River empties into the Atlantic Ocean with such force that its fresh water pushes 150 miles out to sea, detectable by satellites.",
+    "id": "fact_20107",
+    "title": "The Marianas Trench Is 11,000 Meters Deep",
+    "fact": "Challenger Deep reaches nearly 36,000 feet down in the western Pacific; placing Mount Everest inside would leave over 2 km of water above its peak.",
     "category": "Geography",
-    "image": "1696.jpg"
+    "image": "fact_20107.jpg"
   },
   {
-    "id": "1697",
-    "title": "Trees Communicate Through Fungi Networks",
-    "fact": "Trees share nutrients and chemical signals through mycorrhizal fungal networks, sometimes called the 'Wood Wide Web,' supporting young seedlings.",
-    "category": "Nature",
-    "image": "1697.jpg"
+    "id": "fact_20108",
+    "title": "Salar de Uyuni Is the Largest Salt Flat on Earth",
+    "fact": "Spanning 10,582 square kilometers in Bolivia, this prehistoric dried lake bed turns into a giant optical mirror during rainy season.",
+    "category": "Geography",
+    "image": "fact_20108.jpg"
   },
   {
-    "id": "1698",
-    "title": "Mars Has the Largest Volcano",
-    "fact": "Olympus Mons on Mars is the largest volcano in the solar system, standing 72,000 feet (22 km) high, nearly 3 times the height of Mount Everest.",
-    "category": "Space",
-    "image": "1698.jpg"
+    "id": "fact_20109",
+    "title": "Placebo Effect Produces Real Physiological Changes in the Body",
+    "fact": "Brain scans show placebo treatments trigger actual endorphin release and reduced neural activity in pain processing centers.",
+    "category": "Psychology",
+    "image": "fact_20109.jpg"
+  },
+  {
+    "id": "fact_20110",
+    "title": "Zeigarnik Effect Causes Brain to Retain Unfinished Tasks",
+    "fact": "Interrupted or incomplete tasks generate cognitive tension, keeping them active in working memory until completed.",
+    "category": "Psychology",
+    "image": "fact_20110.jpg"
+  },
+  {
+    "id": "fact_20111",
+    "title": "Dunbar's Number Limits Stable Human Relationships to 150",
+    "fact": "Anthropologist Robin Dunbar demonstrated that human neocortex size limits stable social group sizes to roughly 150 individuals.",
+    "category": "Psychology",
+    "image": "fact_20111.jpg"
+  },
+  {
+    "id": "fact_20112",
+    "title": "Dunning-Kruger Effect Explains Overconfidence in Beginners",
+    "fact": "Individuals with low expertise in a domain tend to overestimate their competence because they lack the metacognition to recognize mistakes.",
+    "category": "Psychology",
+    "image": "fact_20112.jpg"
+  },
+  {
+    "id": "fact_20113",
+    "title": "Neuroplasticity Allows Brain to Rewire Neural Pathways Throughout Life",
+    "fact": "Synaptic connections continuously strengthen or prune based on new experiences, motor practice, and cognitive learning throughout adulthood.",
+    "category": "Psychology",
+    "image": "fact_20113.jpg"
+  },
+  {
+    "id": "fact_20114",
+    "title": "Confirmation Bias Leads People to Search for Information Supporting Existing Beliefs",
+    "fact": "Cognitive bias causes individuals to favor evidence agreeing with pre-existing views while discounting contradictory facts.",
+    "category": "Psychology",
+    "image": "fact_20114.jpg"
+  },
+  {
+    "id": "fact_20115",
+    "title": "Spotlight Effect Makes You Believe Everyone Is Watching You",
+    "fact": "People consistently overestimate how much others notice their social blunders, outfit choices, and physical appearance.",
+    "category": "Psychology",
+    "image": "fact_20115.jpg"
+  },
+  {
+    "id": "fact_20116",
+    "title": "Dopamine Is Released in Anticipation of Rewards",
+    "fact": "Dopamine functions primarily as a motivation neurotransmitter, driving reward-seeking behavior before the actual reward is received.",
+    "category": "Psychology",
+    "image": "fact_20116.jpg"
+  },
+  {
+    "id": "fact_20117",
+    "title": "Pareidolia Causes People to See Faces in Random Patterns",
+    "fact": "Human visual cortex processing evolutionary prioritizes facial recognition, causing us to spot faces in clouds, burnt toast, and car grilles.",
+    "category": "Psychology",
+    "image": "fact_20117.jpg"
+  },
+  {
+    "id": "fact_20118",
+    "title": "Sleep Consolidates Short-Term Memories into Long-Term Memory",
+    "fact": "During REM and deep slow-wave sleep, the hippocampus replays daily experiences, transferring key memories to neocortical storage.",
+    "category": "Psychology",
+    "image": "fact_20118.jpg"
+  },
+  {
+    "id": "fact_20119",
+    "title": "Great Barrier Reef Can Be Seen from Outer Space",
+    "fact": "Stretching 2,300 km along Queensland, Australia, the Great Barrier Reef is the largest living organism structure visible from orbit.",
+    "category": "Ocean",
+    "image": "fact_20119.jpg"
+  },
+  {
+    "id": "fact_20120",
+    "title": "Deep-Sea Hydrothermal Vents Host Ecosystems Living Without Sunlight",
+    "fact": "Chemosynthetic bacteria harvest chemical energy from toxic hydrogen sulfide venting at 400°C to fuel abyssal food webs.",
+    "category": "Ocean",
+    "image": "fact_20120.jpg"
+  },
+  {
+    "id": "fact_20121",
+    "title": "Rogue Waves Spontaneously Rise Over 80 Feet High",
+    "fact": "Spontaneous giant ocean waves—once dismissed as sea folklore—were confirmed by satellite radar, forming when wave crests merge.",
+    "category": "Ocean",
+    "image": "fact_20121.jpg"
+  },
+  {
+    "id": "fact_20122",
+    "title": "The Sargasso Sea Has No Land Boundary",
+    "fact": "Located in the North Atlantic Gyre, the Sargasso Sea is bounded entirely by four ocean currents rather than land coastlines.",
+    "category": "Ocean",
+    "image": "fact_20122.jpg"
+  },
+  {
+    "id": "fact_20123",
+    "title": "Deep Ocean Trenches Harbor Pressure 1,000 Times Greater Than Sea Level",
+    "fact": "Water pressure at the bottom of the Mariana Trench exceeds 8 tons per square inch, equivalent to an elephant standing on your thumb.",
+    "category": "Ocean",
+    "image": "fact_20123.jpg"
+  },
+  {
+    "id": "fact_20124",
+    "title": "Bioluminescent Sea Sparkle Glows Neon Blue",
+    "fact": "Disturbing Noctiluca scintillans dinoflagellates triggers a luciferin-luciferase reaction, illuminating ocean waves in bright cyan light.",
+    "category": "Ocean",
+    "image": "fact_20124.jpg"
+  },
+  {
+    "id": "fact_20125",
+    "title": "The Gulf Stream Carries 30 Times More Water Than All World Rivers",
+    "fact": "This powerful Atlantic warm current transports 30 million cubic meters of warm water per second toward Northern Europe.",
+    "category": "Ocean",
+    "image": "fact_20125.jpg"
+  },
+  {
+    "id": "fact_20126",
+    "title": "Blue Ocean Water Is Caused by Selective Red Light Absorption",
+    "fact": "Water molecules absorb long red light wavelengths, allowing blue wavelengths to scatter back to human eyes.",
+    "category": "Ocean",
+    "image": "fact_20126.jpg"
+  },
+  {
+    "id": "fact_20127",
+    "title": "Pistol Shrimp Snap Claws to Create 4,700°C Heat Bubbles",
+    "fact": "Snapping claws close so quickly they produce cavitation bubbles that collapse with acoustic shockwaves reaching sun-like temperatures.",
+    "category": "Ocean",
+    "image": "fact_20127.jpg"
+  },
+  {
+    "id": "fact_20128",
+    "title": "Whale Song Frequencies Can Travel Across Entire Oceans",
+    "fact": "Low-frequency blue and fin whale calls carry through the SOFAR ocean channel, traveling thousands of miles underwater.",
+    "category": "Ocean",
+    "image": "fact_20128.jpg"
+  },
+  {
+    "id": "fact_20129",
+    "title": "Honey Excavated from 3,000-Year-Old Egyptian Tombs Is Still Edible",
+    "fact": "Low moisture content, high osmotic pressure, and trace hydrogen peroxide prevent bacterial growth, preserving honey indefinitely.",
+    "category": "Food",
+    "image": "fact_20129.jpg"
+  },
+  {
+    "id": "fact_20130",
+    "title": "Saffron Is Harvested by Hand from Crocus Flower Stigmas",
+    "fact": "It takes over 75,000 Crocus sativus flowers to yield one pound of dried crimson saffron spice, making it the world's most expensive spice.",
+    "category": "Food",
+    "image": "fact_20130.jpg"
+  },
+  {
+    "id": "fact_20131",
+    "title": "Chocolate Was Used as Currency by Ancient Aztecs",
+    "fact": "Aztecs valued cocoa beans so highly they used them to pay taxes, buy food, and brew spiced chocolate drinks for royalty.",
+    "category": "Food",
+    "image": "fact_20131.jpg"
+  },
+  {
+    "id": "fact_20132",
+    "title": "Apples, Pears, Peaches, and Strawberries Belong to the Rose Family",
+    "fact": "Rosaceae botanical family encompasses major fruit trees alongside ornamental roses, sharing similar floral structures.",
+    "category": "Food",
+    "image": "fact_20132.jpg"
+  },
+  {
+    "id": "fact_20133",
+    "title": "Wasabi Served in Most Restaurants Is Dyed Horseradish",
+    "fact": "Authentic Wasabia japonica is difficult and costly to grow; commercial paste usually consists of European horseradish and green dye.",
+    "category": "Food",
+    "image": "fact_20133.jpg"
+  },
+  {
+    "id": "fact_20134",
+    "title": "Pineapples Require Almost 2 Years to Mature One Fruit",
+    "fact": "Each pineapple plant produces just a single pineapple after 18 to 24 months of cultivation from crown planting.",
+    "category": "Food",
+    "image": "fact_20134.jpg"
+  },
+  {
+    "id": "fact_20135",
+    "title": "Coffee Is the Second Most Traded Commodity Worldwide",
+    "fact": "Global coffee production fuels a multi-billion-dollar market second only to crude oil in global commodity trading volume.",
+    "category": "Food",
+    "image": "fact_20135.jpg"
+  },
+  {
+    "id": "fact_20136",
+    "title": "Cashews Grow Attached to the Bottom of Cashew Apples",
+    "fact": "Cashew nuts grow inside a kidney-shaped shell hanging below a swollen pseudo-fruit called a cashew apple.",
+    "category": "Food",
+    "image": "fact_20136.jpg"
+  },
+  {
+    "id": "fact_20137",
+    "title": "Garlic Produces Allicin Only When Chopped or Crushed",
+    "fact": "Crushing garlic breaks cell walls, bringing alliin into contact with alliinase enzymes to synthesize potent antimicrobial allicin.",
+    "category": "Food",
+    "image": "fact_20137.jpg"
+  },
+  {
+    "id": "fact_20138",
+    "title": "Rhubarb Leaves Are Toxic Due to High Oxalic Acid",
+    "fact": "While rhubarb stalks are baked into pies, its large green leaves contain dangerous concentrations of nephrotoxic oxalic acid.",
+    "category": "Food",
+    "image": "fact_20138.jpg"
+  },
+  {
+    "id": "fact_10107",
+    "title": "The Grand Canyon Exposes 2 Billion Years of Rock History",
+    "fact": "Carved over millions of years by the Colorado River, the Grand Canyon's exposed stratigraphy reveals nearly half of Earth's geologic history.",
+    "category": "Geography",
+    "image": "fact_10107.jpg"
+  },
+  {
+    "id": "fact_10108",
+    "title": "Lake Superior Holds Enough Water to Cover the Americas",
+    "fact": "With 12,100 cubic kilometers of water, Lake Superior contains enough volume to cover all of North and South America under 1 foot of liquid.",
+    "category": "Geography",
+    "image": "fact_10108.jpg"
+  },
+  {
+    "id": "fact_10109",
+    "title": "Tristan da Cunha Is the Most Remote Inhabited Island",
+    "fact": "Located in the South Atlantic Ocean 1,500 miles from the nearest mainland (South Africa), Tristan da Cunha is accessible only by a 6-day boat trip.",
+    "category": "Geography",
+    "image": "fact_10109.jpg"
+  },
+  {
+    "id": "fact_10110",
+    "title": "Mount Nyiragongo Has Earth's Largest Lava Lake",
+    "fact": "Located in the Democratic Republic of the Congo, Nyiragongo's active summit crater contains an extremely fluid, boiling lava lake.",
+    "category": "Geography",
+    "image": "fact_10110.jpg"
+  },
+  {
+    "id": "fact_10111",
+    "title": "Atmospheric Jet Streams Travel Over 250 MPH",
+    "fact": "Narrow bands of high-altitude meandered winds near the troposphere blow from west to east at speeds exceeding 275 miles per hour.",
+    "category": "Geography",
+    "image": "fact_10111.jpg"
+  },
+  {
+    "id": "fact_10112",
+    "title": "The Pygmalion Effect Shows High Expectations Drive Performance",
+    "fact": "Psychological research demonstrates that higher expectations placed on students or employees lead directly to improved performance outcomes.",
+    "category": "Psychology",
+    "image": "fact_10112.jpg"
+  },
+  {
+    "id": "fact_10113",
+    "title": "Decoy Effect Influences Consumer Purchasing Choices",
+    "fact": "Adding an inferior third option ('decoy') to consumer product lines subtly manipulates shoppers into choosing the more expensive target item.",
+    "category": "Psychology",
+    "image": "fact_10113.jpg"
+  },
+  {
+    "id": "fact_10114",
+    "title": "Framing Effect Alters Decision-Making Based on Wording",
+    "fact": "People react differently to choices based on whether options are presented as potential gains ('90% survival') or losses ('10% mortality').",
+    "category": "Psychology",
+    "image": "fact_10114.jpg"
+  },
+  {
+    "id": "fact_10115",
+    "title": "Hyperbolic Discounting Prefers Immediate Rewards",
+    "fact": "Human cognitive bias consistently overvalues immediate smaller rewards over significantly larger long-term future payoffs.",
+    "category": "Psychology",
+    "image": "fact_10115.jpg"
+  },
+  {
+    "id": "fact_10116",
+    "title": "Illusion of Explanatory Depth Tricks Your Understanding",
+    "fact": "Most people believe they understand how everyday mechanisms (like zippers or toilets) work until asked to write out step-by-step explanations.",
+    "category": "Psychology",
+    "image": "fact_10116.jpg"
+  },
+  {
+    "id": "fact_10117",
+    "title": "Forer Effect Explains Why Horoscopes Feel Personal",
+    "fact": "Individuals attribute high accuracy to vague, general personality descriptions that could apply to virtually anyone in the population.",
+    "category": "Psychology",
+    "image": "fact_10117.jpg"
+  },
+  {
+    "id": "fact_10118",
+    "title": "Capgras Delusion Causes Belief That Loved Ones Are Imposters",
+    "fact": "A rare neuro-psychiatric condition causes individuals to hold a firm belief that a spouse or close family member has been replaced by a clone.",
+    "category": "Psychology",
+    "image": "fact_10118.jpg"
+  },
+  {
+    "id": "fact_10119",
+    "title": "Social Loafing Reduces Individual Effort in Groups",
+    "fact": "People exert less physical or cognitive effort when working collectively on a team task than when working individually.",
+    "category": "Psychology",
+    "image": "fact_10119.jpg"
+  },
+  {
+    "id": "fact_10120",
+    "title": "Bystander Effect Decreases Help in Crowded Spaces",
+    "fact": "The presence of multiple bystanders diffuses personal responsibility, reducing the statistical likelihood that any single person offers aid.",
+    "category": "Psychology",
+    "image": "fact_10120.jpg"
+  },
+  {
+    "id": "fact_10121",
+    "title": "Cognitive Dissonance Causes Psychological Discomfort",
+    "fact": "Holding two conflicting beliefs simultaneously generates mental stress, driving people to rationalize or change beliefs to resolve dissonance.",
+    "category": "Psychology",
+    "image": "fact_10121.jpg"
+  },
+  {
+    "id": "fact_10122",
+    "title": "Bioluminescent Dinoflagellates Cause Glowing Blue Waves",
+    "fact": "Microscopic plankton (Pyrocystis fusiformis) emit pulses of blue light when agitated by wave action to startle predatory grazers.",
+    "category": "Ocean",
+    "image": "fact_10122.jpg"
+  },
+  {
+    "id": "fact_10123",
+    "title": "Giant Kelp Forests Can Grow 2 Feet Per Day",
+    "fact": "Under optimal sunlight and nutrient-rich cold upwelling currents, giant kelp (Macrocystis pyrifera) grows up to 60 cm (24 inches) daily.",
+    "category": "Ocean",
+    "image": "fact_10123.jpg"
+  },
+  {
+    "id": "fact_10124",
+    "title": "Moray Eels Have a Second Set of Pharyngeal Jaws",
+    "fact": "Moray eels possess a secondary set of tooth-bearing jaws inside their throat that launch forward to drag prey down their esophagus.",
+    "category": "Ocean",
+    "image": "fact_10124.jpg"
+  },
+  {
+    "id": "fact_10125",
+    "title": "Nautilus Shells Are Perfect Logarithmic Spirals",
+    "fact": "The multi-chambered shell of the nautilus expands in size following a precise golden ratio logarithmic spiral to maintain neutral buoyancy.",
+    "category": "Ocean",
+    "image": "fact_10125.jpg"
+  },
+  {
+    "id": "fact_10126",
+    "title": "Hydrothermal Chimneys Can Reach 100 Feet in Height",
+    "fact": "Mineral-rich black smoker chimneys formed by oceanic crust venting precipitate metal sulfides into towering abyssal towers.",
+    "category": "Ocean",
+    "image": "fact_10126.jpg"
+  },
+  {
+    "id": "fact_10127",
+    "title": "Whale Fall Ecosystems Support Life for Decades",
+    "fact": "When a massive whale carcass sinks to the barren abyssal plain, it provides a organic feast supporting deep-sea life for over 50 to 100 years.",
+    "category": "Ocean",
+    "image": "fact_10127.jpg"
+  },
+  {
+    "id": "fact_10128",
+    "title": "Box Jellyfish Have 24 Eyes and Lethal Venom",
+    "fact": "Chironex fleckeri possesses 24 eyes capable of tracking light and motion; its potent neurotoxin can cause cardiac arrest in minutes.",
+    "category": "Ocean",
+    "image": "fact_10128.jpg"
+  },
+  {
+    "id": "fact_10129",
+    "title": "Giant Isopods Are Abyssal Relatives of Pillbugs",
+    "fact": "Living 2,000 feet deep in cold Atlantic ocean waters, giant isopods (Bathynomus) grow up to 20 inches long due to deep-sea gigantism.",
+    "category": "Ocean",
+    "image": "fact_10129.jpg"
+  },
+  {
+    "id": "fact_10130",
+    "title": "Great White Sharks Can Detect One Drop of Blood in 25 Gallons",
+    "fact": "Olfactory bulbs in great white sharks detect minute concentrations of amino acid blood proteins from up to 3 miles away.",
+    "category": "Ocean",
+    "image": "fact_10130.jpg"
+  },
+  {
+    "id": "fact_10131",
+    "title": "Corals Are Colonial Animals, Not Plants or Rocks",
+    "fact": "Coral reefs consist of millions of tiny genetically identical soft polyps that secrete calcium carbonate skeletons around their bases.",
+    "category": "Ocean",
+    "image": "fact_10131.jpg"
+  },
+  {
+    "id": "fact_10132",
+    "title": "Vanilla Is Extracted from the Pods of Orchids",
+    "fact": "Vanilla beans are the cured seed pods of Vanilla planifolia, the only orchid species cultivated for human food production.",
+    "category": "Food",
+    "image": "fact_10132.jpg"
+  },
+  {
+    "id": "fact_10133",
+    "title": "Maple Syrup Requires 40 Gallons of Sap to Make 1 Gallon",
+    "fact": "Sap collected from sugar maple trees contains 98% water; boiling concentrates sap down by 40 to 1 to yield pure amber syrup.",
+    "category": "Food",
+    "image": "fact_10133.jpg"
   }
 ]
