@@ -1,0 +1,702 @@
+[
+  {
+    "id": "fact_40501",
+    "title": "Albatrosses Can Fly 500 Miles Per Day Without Flapping",
+    "fact": "These seabirds use dynamic soaring to glide on ocean winds for thousands of miles while expending minimal energy.",
+    "category": "Animals",
+    "image": "fact_40501.jpg"
+  },
+  {
+    "id": "fact_40502",
+    "title": "Your Eyes Have 576 Megapixels of Resolution",
+    "fact": "Human vision achieves approximately 576 megapixels across the visual field, though only 7 megapixels in sharp central focus.",
+    "category": "Human Body",
+    "image": "fact_40502.jpg"
+  },
+  {
+    "id": "fact_40503",
+    "title": "Sourdough Bread Uses Wild Yeast for Fermentation",
+    "fact": "Unlike commercial bread, sourdough relies on naturally occurring lactobacillus and wild yeast captured from the environment.",
+    "category": "Food",
+    "image": "fact_40503.jpg"
+  },
+  {
+    "id": "fact_40504",
+    "title": "Alpha Centauri Is Actually Three Stars",
+    "fact": "Our nearest stellar neighbor is a triple star system with Alpha Centauri A, B, and Proxima Centauri orbiting each other.",
+    "category": "Space",
+    "image": "fact_40504.jpg"
+  },
+  {
+    "id": "fact_40505",
+    "title": "Microprocessors Can Execute 5 Billion Instructions Per Second",
+    "fact": "Modern CPUs operate at gigahertz frequencies, processing billions of calculations per second across multiple cores.",
+    "category": "Technology",
+    "image": "fact_40505.jpg"
+  },
+  {
+    "id": "fact_40506",
+    "title": "The Mali Empire Was Wealthier Than Any European Kingdom",
+    "fact": "In the 14th century, Mansa Musa's Mali Empire controlled immense gold reserves, making him history's wealthiest person.",
+    "category": "History",
+    "image": "fact_40506.jpg"
+  },
+  {
+    "id": "fact_40507",
+    "title": "Electric Eels Can Produce 860-Volt Shocks",
+    "fact": "These fish generate high-voltage electricity through specialized electrocyte cells stacked like biological batteries.",
+    "category": "Animals",
+    "image": "fact_40507.jpg"
+  },
+  {
+    "id": "fact_40508",
+    "title": "The Yangtze River Is Asia's Longest at 3,915 Miles",
+    "fact": "Flowing through China for 6,300 kilometers, the Yangtze is the world's third-longest river and busiest waterway.",
+    "category": "Geography",
+    "image": "fact_40508.jpg"
+  },
+  {
+    "id": "fact_40509",
+    "title": "Tides Are Caused by Moon's Gravitational Pull",
+    "fact": "Lunar gravity creates tidal bulges on Earth's oceans, producing two high tides daily as our planet rotates.",
+    "category": "Nature",
+    "image": "fact_40509.jpg"
+  },
+  {
+    "id": "fact_40510",
+    "title": "Your Pancreas Produces 8 Liters of Digestive Juice Daily",
+    "fact": "This organ secretes enzymes and bicarbonate to neutralize stomach acid and digest proteins, fats, and carbohydrates.",
+    "category": "Human Body",
+    "image": "fact_40510.jpg"
+  },
+  {
+    "id": "fact_40511",
+    "title": "Aerogel Is the World's Lightest Solid Material",
+    "fact": "This silicon-based substance is 99.8% air, so light it appears to float and can support 2,000 times its weight.",
+    "category": "Science",
+    "image": "fact_40511.jpg"
+  },
+  {
+    "id": "fact_40512",
+    "title": "Crows Can Hold Grudges for Years Against Specific People",
+    "fact": "Research shows crows remember threatening humans for at least five years and teach offspring to recognize them.",
+    "category": "Animals",
+    "image": "fact_40512.jpg"
+  },
+  {
+    "id": "fact_40513",
+    "title": "The Lewis and Clark Expedition Took 28 Months",
+    "fact": "From 1804-1806, this expedition mapped 8,000 miles across North America, reaching the Pacific Ocean and returning.",
+    "category": "History",
+    "image": "fact_40513.jpg"
+  },
+  {
+    "id": "fact_40514",
+    "title": "Monsoons Reverse Wind Direction Seasonally",
+    "fact": "These massive seasonal wind patterns bring heavy rains to South Asia, driven by temperature differences between land and ocean.",
+    "category": "Nature",
+    "image": "fact_40514.jpg"
+  },
+  {
+    "id": "fact_40515",
+    "title": "Maple Syrup Grades Indicate Color, Not Quality",
+    "fact": "Grade A syrups range from Golden to Very Dark based on light transmission, reflecting harvest timing rather than sweetness.",
+    "category": "Food",
+    "image": "fact_40515.jpg"
+  },
+  {
+    "id": "fact_40516",
+    "title": "Kepler-452b Is the Most Earth-Like Exoplanet",
+    "fact": "Located 1,400 light-years away, this planet orbits a Sun-like star in the habitable zone with a 385-day year.",
+    "category": "Space",
+    "image": "fact_40516.jpg"
+  },
+  {
+    "id": "fact_40517",
+    "title": "Cloud Computing Stores Data on Remote Servers",
+    "fact": "Rather than local storage, cloud services maintain data across distributed server farms accessible via internet.",
+    "category": "Technology",
+    "image": "fact_40517.jpg"
+  },
+  {
+    "id": "fact_40518",
+    "title": "Your Red Blood Cells Make 75,000 Trips Through Your Body",
+    "fact": "During their 120-day lifespan, erythrocytes complete approximately 75,000 circulations through the cardiovascular system.",
+    "category": "Human Body",
+    "image": "fact_40518.jpg"
+  },
+  {
+    "id": "fact_40519",
+    "title": "The Congo Basin Contains the World's Second-Largest Rainforest",
+    "fact": "Spanning six countries, this 500 million-acre forest absorbs 4% of global carbon dioxide and generates regional rainfall.",
+    "category": "Geography",
+    "image": "fact_40519.jpg"
+  },
+  {
+    "id": "fact_40520",
+    "title": "Dolphins Give Themselves Names Through Unique Whistles",
+    "fact": "Each dolphin develops a signature whistle during first year of life, functioning as a personal name used by pod members.",
+    "category": "Animals",
+    "image": "fact_40520.jpg"
+  },
+  {
+    "id": "fact_40521",
+    "title": "The Code of Hammurabi Contained 282 Laws",
+    "fact": "Created around 1750 BCE, this Babylonian legal code established 'eye for an eye' justice and protected property rights.",
+    "category": "History",
+    "image": "fact_40521.jpg"
+  },
+  {
+    "id": "fact_40522",
+    "title": "Metamorphic Rocks Form Under Heat and Pressure",
+    "fact": "Extreme conditions deep underground transform existing rocks into new types like marble from limestone or slate from shale.",
+    "category": "Nature",
+    "image": "fact_40522.jpg"
+  },
+  {
+    "id": "fact_40523",
+    "title": "Champagne Bottles Contain 6 Atmospheres of Pressure",
+    "fact": "Sparkling wine fermentation creates 90 PSI internal pressure—triple car tires—requiring reinforced glass bottles.",
+    "category": "Food",
+    "image": "fact_40523.jpg"
+  },
+  {
+    "id": "fact_40524",
+    "title": "Black Holes Can Spin at 99.9% the Speed of Light",
+    "fact": "Rapidly rotating black holes drag spacetime around them, with event horizons spinning near light speed.",
+    "category": "Space",
+    "image": "fact_40524.jpg"
+  },
+  {
+    "id": "fact_40525",
+    "title": "RAM Loses All Data When Power Is Disconnected",
+    "fact": "Random Access Memory provides volatile storage, requiring constant electricity to maintain data unlike permanent storage drives.",
+    "category": "Technology",
+    "image": "fact_40525.jpg"
+  },
+  {
+    "id": "fact_40526",
+    "title": "Your Body Produces 1.5 Liters of Saliva Daily",
+    "fact": "Salivary glands constantly secrete fluid containing enzymes that begin digestion and antibodies that fight bacteria.",
+    "category": "Human Body",
+    "image": "fact_40526.jpg"
+  },
+  {
+    "id": "fact_40527",
+    "title": "Lake Baikal Is 25 Million Years Old",
+    "fact": "Earth's oldest and deepest lake formed in a rift valley, containing 1,700 species found nowhere else including freshwater seals.",
+    "category": "Geography",
+    "image": "fact_40527.jpg"
+  },
+  {
+    "id": "fact_40528",
+    "title": "Sloths Only Defecate Once Per Week",
+    "fact": "Their extremely slow metabolism means sloths descend from trees weekly to defecate, losing up to 30% of body weight.",
+    "category": "Animals",
+    "image": "fact_40528.jpg"
+  },
+  {
+    "id": "fact_40529",
+    "title": "The First Successful Heart Transplant Occurred in 1967",
+    "fact": "Dr. Christiaan Barnard performed the pioneering surgery in South Africa; the patient survived 18 days.",
+    "category": "History",
+    "image": "fact_40529.jpg"
+  },
+  {
+    "id": "fact_40530",
+    "title": "Stalactites and Stalagmites Take 100 Years to Grow 1 Inch",
+    "fact": "Mineral deposits from dripping water slowly build cave formations at rates of 0.13mm annually in typical conditions.",
+    "category": "Nature",
+    "image": "fact_40530.jpg"
+  },
+  {
+    "id": "fact_40531",
+    "title": "Ghost Peppers Rate Over 1 Million Scoville Units",
+    "fact": "Bhut jolokia peppers measure 1,000,000+ SHU, over 400 times hotter than Tabasco sauce's 2,500 SHU.",
+    "category": "Food",
+    "image": "fact_40531.jpg"
+  },
+  {
+    "id": "fact_40532",
+    "title": "The Great Attractor Pulls Our Galaxy at 600 km/s",
+    "fact": "This gravitational anomaly 250 million light-years away pulls the Milky Way and surrounding galaxies toward it.",
+    "category": "Space",
+    "image": "fact_40532.jpg"
+  },
+  {
+    "id": "fact_40533",
+    "title": "Transistors Revolutionized Electronics by Replacing Vacuum Tubes",
+    "fact": "Invented in 1947, solid-state transistors enabled miniaturization, creating modern computers and electronic devices.",
+    "category": "Technology",
+    "image": "fact_40533.jpg"
+  },
+  {
+    "id": "fact_40534",
+    "title": "Your Muscles Contain Enough Energy to Boil 1 Liter of Water",
+    "fact": "Muscles store glycogen and ATP providing approximately 400,000 joules—enough energy to boil a liter of water.",
+    "category": "Human Body",
+    "image": "fact_40534.jpg"
+  },
+  {
+    "id": "fact_40535",
+    "title": "The Rhine River Flows Through Six Countries",
+    "fact": "This 760-mile European waterway originates in Swiss Alps, flowing through Germany, France, and Netherlands to the North Sea.",
+    "category": "Geography",
+    "image": "fact_40535.jpg"
+  },
+  {
+    "id": "fact_40536",
+    "title": "Orcas Have Complex Social Structures and Dialects",
+    "fact": "Killer whale pods develop unique vocalizations and hunting techniques passed down through generations culturally.",
+    "category": "Animals",
+    "image": "fact_40536.jpg"
+  },
+  {
+    "id": "fact_40537",
+    "title": "The Rosetta Mission Landed on a Comet",
+    "fact": "In 2014, Philae probe successfully landed on Comet 67P after 10-year journey, first spacecraft to accomplish this feat.",
+    "category": "History",
+    "image": "fact_40537.jpg"
+  },
+  {
+    "id": "fact_40538",
+    "title": "The Jet Stream Flows at 250 MPH",
+    "fact": "These high-altitude air currents at 30,000-40,000 feet significantly affect weather patterns and flight times.",
+    "category": "Nature",
+    "image": "fact_40538.jpg"
+  },
+  {
+    "id": "fact_40539",
+    "title": "Beluga Caviar Can Cost $10,000 Per Kilogram",
+    "fact": "Sturgeon roe from the Caspian Sea ranks among Earth's most expensive foods due to rarity and 20-year maturation.",
+    "category": "Food",
+    "image": "fact_40539.jpg"
+  },
+  {
+    "id": "fact_40540",
+    "title": "Quasars Are the Brightest Objects in the Universe",
+    "fact": "Powered by supermassive black holes consuming matter, quasars emit more energy than entire galaxies from tiny regions.",
+    "category": "Space",
+    "image": "fact_40540.jpg"
+  },
+  {
+    "id": "fact_40541",
+    "title": "Batteries Convert Chemical Energy Into Electricity",
+    "fact": "Electrochemical reactions transfer electrons between anode and cathode through external circuits, generating electrical current.",
+    "category": "Technology",
+    "image": "fact_40541.jpg"
+  },
+  {
+    "id": "fact_40542",
+    "title": "Your Diaphragm Moves 3 Inches When You Breathe",
+    "fact": "This dome-shaped muscle contracts downward 7-8 cm during inhalation, creating negative pressure that draws air into lungs.",
+    "category": "Human Body",
+    "image": "fact_40542.jpg"
+  },
+  {
+    "id": "fact_40543",
+    "title": "The Dead Sea Is 9.6 Times Saltier Than Ocean Water",
+    "fact": "At 34% salinity versus ocean's 3.5%, the hypersaline water makes swimmers extremely buoyant and prevents most life.",
+    "category": "Geography",
+    "image": "fact_40543.jpg"
+  },
+  {
+    "id": "fact_40544",
+    "title": "Box Jellyfish Venom Can Kill Humans in Minutes",
+    "fact": "Chironex fleckeri tentacles contain toxins affecting heart, nervous system, and skin cells, potentially fatal within 3 minutes.",
+    "category": "Animals",
+    "image": "fact_40544.jpg"
+  },
+  {
+    "id": "fact_40545",
+    "title": "The Human Genome Was Fully Sequenced in 2003",
+    "fact": "The Human Genome Project identified all 3 billion DNA base pairs and 20,000-25,000 genes in human DNA.",
+    "category": "Science",
+    "image": "fact_40545.jpg"
+  },
+  {
+    "id": "fact_40546",
+    "title": "Continental Drift Moves Continents 2-4 Inches Annually",
+    "fact": "Tectonic plates float on mantle, moving at rates similar to fingernail growth, dramatically reshaping Earth over millions of years.",
+    "category": "Nature",
+    "image": "fact_40546.jpg"
+  },
+  {
+    "id": "fact_40547",
+    "title": "Aged Cheese Contains Crystals of Amino Acids",
+    "fact": "Crunchy white specks in aged cheese are tyrosine and leucine crystals forming during extended maturation periods.",
+    "category": "Food",
+    "image": "fact_40547.jpg"
+  },
+  {
+    "id": "fact_40548",
+    "title": "Red Dwarfs Will Shine for Trillions of Years",
+    "fact": "These small, cool stars burn hydrogen so slowly they'll outlast all other star types, surviving trillions of years.",
+    "category": "Space",
+    "image": "fact_40548.jpg"
+  },
+  {
+    "id": "fact_40549",
+    "title": "Touchscreens Detect Electrical Conductivity of Skin",
+    "fact": "Capacitive screens sense finger position by detecting changes in electrical field caused by conductive human tissue.",
+    "category": "Technology",
+    "image": "fact_40549.jpg"
+  },
+  {
+    "id": "fact_40550",
+    "title": "Your Thyroid Regulates Metabolism Through Hormones",
+    "fact": "This butterfly-shaped gland produces hormones controlling metabolic rate, body temperature, and energy consumption.",
+    "category": "Human Body",
+    "image": "fact_40550.jpg"
+  },
+  {
+    "id": "fact_40551",
+    "title": "The Gobi Desert Expands 1,400 Square Miles Annually",
+    "fact": "Desertification causes this Asian desert to grow 3,600 square kilometers yearly, threatening agricultural land.",
+    "category": "Geography",
+    "image": "fact_40551.jpg"
+  },
+  {
+    "id": "fact_40552",
+    "title": "Leafcutter Ants Farm Fungus for Food",
+    "fact": "These insects harvest leaves to feed underground fungus gardens, cultivating their only food source for 50 million years.",
+    "category": "Animals",
+    "image": "fact_40552.jpg"
+  },
+  {
+    "id": "fact_40553",
+    "title": "The First Transatlantic Cable Was Laid in 1858",
+    "fact": "This telegraph cable connected North America to Europe, reducing message transmission from weeks to minutes.",
+    "category": "History",
+    "image": "fact_40553.jpg"
+  },
+  {
+    "id": "fact_40554",
+    "title": "The Stratosphere Contains the Ozone Layer",
+    "fact": "Between 10-50 km altitude, ozone molecules absorb 97-99% of harmful ultraviolet radiation from the Sun.",
+    "category": "Nature",
+    "image": "fact_40554.jpg"
+  },
+  {
+    "id": "fact_40555",
+    "title": "Kobe Beef Cattle Are Fed Beer and Given Massages",
+    "fact": "While exaggerated, some Wagyu cattle receive beer during summer and massage to distribute marbling for tender, expensive beef.",
+    "category": "Food",
+    "image": "fact_40555.jpg"
+  },
+  {
+    "id": "fact_40556",
+    "title": "The Pillars of Creation Are 6,500 Light-Years Away",
+    "fact": "This iconic Hubble image shows star-forming gas columns in the Eagle Nebula, though they may have been destroyed already.",
+    "category": "Space",
+    "image": "fact_40556.jpg"
+  },
+  {
+    "id": "fact_40557",
+    "title": "Smartphones Have More Computing Power Than Apollo 11",
+    "fact": "Modern phones process millions of times more instructions than computers guiding the 1969 moon landing.",
+    "category": "Technology",
+    "image": "fact_40557.jpg"
+  },
+  {
+    "id": "fact_40558",
+    "title": "Your Intestines Contain 100 Trillion Bacteria",
+    "fact": "The gut microbiome harbors more microbial cells than human cells, affecting digestion, immunity, and even mood.",
+    "category": "Human Body",
+    "image": "fact_40558.jpg"
+  },
+  {
+    "id": "fact_40559",
+    "title": "The Volga Is Europe's Longest River at 2,294 Miles",
+    "fact": "Flowing 3,692 kilometers through Russia, the Volga drains into the Caspian Sea and supports 40% of Russia's population.",
+    "category": "Geography",
+    "image": "fact_40559.jpg"
+  },
+  {
+    "id": "fact_40560",
+    "title": "Bombardier Beetles Spray Boiling Chemical Defense",
+    "fact": "These insects mix chemicals in special chambers, producing 212°F defensive spray explosively ejected at attackers.",
+    "category": "Animals",
+    "image": "fact_40560.jpg"
+  },
+  {
+    "id": "fact_40561",
+    "title": "The Silk Road Connected East and West for 1,500 Years",
+    "fact": "This trade network from 130 BCE to 1453 CE exchanged goods, ideas, and technology between Asia and Mediterranean.",
+    "category": "History",
+    "image": "fact_40561.jpg"
+  },
+  {
+    "id": "fact_40562",
+    "title": "Sinkholes Form When Underground Limestone Dissolves",
+    "fact": "Acidic groundwater slowly erodes limestone bedrock, creating voids that suddenly collapse into surface depressions.",
+    "category": "Nature",
+    "image": "fact_40562.jpg"
+  },
+  {
+    "id": "fact_40563",
+    "title": "Molecular Gastronomy Uses Science to Transform Food Textures",
+    "fact": "Chefs apply chemistry and physics principles to create foams, gels, and spheres with unexpected flavors and presentations.",
+    "category": "Food",
+    "image": "fact_40563.jpg"
+  },
+  {
+    "id": "fact_40564",
+    "title": "Type Ia Supernovae Are Standard Candles for Distance Measurement",
+    "fact": "These explosions have consistent brightness, enabling astronomers to calculate distances to distant galaxies accurately.",
+    "category": "Space",
+    "image": "fact_40564.jpg"
+  },
+  {
+    "id": "fact_40565",
+    "title": "GPS Satellites Must Account for Relativistic Time Dilation",
+    "fact": "Without Einstein's corrections, GPS would accumulate 10 kilometers of error daily due to gravity and velocity affecting time.",
+    "category": "Technology",
+    "image": "fact_40565.jpg"
+  },
+  {
+    "id": "fact_40566",
+    "title": "Your Femur Can Support 30 Times Your Body Weight",
+    "fact": "The thigh bone is the largest and strongest in your body, withstanding compression forces exceeding 1,800 pounds.",
+    "category": "Human Body",
+    "image": "fact_40566.jpg"
+  },
+  {
+    "id": "fact_40567",
+    "title": "The Parana River Delta Is South America's Largest",
+    "fact": "This 14,000 square kilometer wetland where river meets Atlantic Ocean hosts unique biodiversity and floating islands.",
+    "category": "Geography",
+    "image": "fact_40567.jpg"
+  },
+  {
+    "id": "fact_40568",
+    "title": "Pistol Shrimp and Gobies Form Symbiotic Partnerships",
+    "fact": "Blind shrimp dig burrows while goby fish act as lookouts, tapping shrimp with their tails to warn of danger.",
+    "category": "Animals",
+    "image": "fact_40568.jpg"
+  },
+  {
+    "id": "fact_40569",
+    "title": "The Magna Carta Established Rule of Law in 1215",
+    "fact": "English barons forced King John to sign this charter limiting royal power and establishing that monarchs obey laws.",
+    "category": "History",
+    "image": "fact_40569.jpg"
+  },
+  {
+    "id": "fact_40570",
+    "title": "Diamonds Form 90-120 Miles Below Earth's Surface",
+    "fact": "Extreme pressure and 2,000°F temperatures in the mantle transform carbon into diamonds over billions of years.",
+    "category": "Nature",
+    "image": "fact_40570.jpg"
+  },
+  {
+    "id": "fact_40571",
+    "title": "Tempura Batter Was Introduced to Japan by Portuguese",
+    "fact": "16th-century Portuguese missionaries brought frying techniques to Japan, evolving into the light tempura coating.",
+    "category": "Food",
+    "image": "fact_40571.jpg"
+  },
+  {
+    "id": "fact_40572",
+    "title": "The Wow! Signal May Have Been from Extraterrestrials",
+    "fact": "This 1977 radio signal lasted 72 seconds with characteristics suggesting intelligent origin, never detected again.",
+    "category": "Space",
+    "image": "fact_40572.jpg"
+  },
+  {
+    "id": "fact_40573",
+    "title": "Silicon Chips Are Made from Ultra-Pure Sand",
+    "fact": "Semiconductor fabrication purifies sand's silicon to 99.9999999% purity, etching billions of transistors onto wafers.",
+    "category": "Technology",
+    "image": "fact_40573.jpg"
+  },
+  {
+    "id": "fact_40574",
+    "title": "Your Cerebellum Contains 80% of Brain's Neurons",
+    "fact": "Despite being only 10% of brain volume, the cerebellum houses 69 billion of the brain's 86 billion neurons.",
+    "category": "Human Body",
+    "image": "fact_40574.jpg"
+  },
+  {
+    "id": "fact_40575",
+    "title": "Lake Maracaibo Has 260 Lightning Days Per Year",
+    "fact": "Venezuela's Lake Maracaibo experiences the most lightning on Earth, with Catatumbo lightning flashing 28 times per minute.",
+    "category": "Geography",
+    "image": "fact_40575.jpg"
+  },
+  {
+    "id": "fact_40576",
+    "title": "Mimic Octopuses Can Impersonate 15 Different Species",
+    "fact": "These cephalopods change shape, color, and behavior to mimic lionfish, sea snakes, jellyfish, and other marine creatures.",
+    "category": "Animals",
+    "image": "fact_40576.jpg"
+  },
+  {
+    "id": "fact_40577",
+    "title": "The Space Age Began with Sputnik in 1957",
+    "fact": "Soviet Union launched Earth's first artificial satellite on October 4, 1957, initiating the space race with the United States.",
+    "category": "History",
+    "image": "fact_40577.jpg"
+  },
+  {
+    "id": "fact_40578",
+    "title": "Phosphorescence Makes Things Glow Without Heat",
+    "fact": "Materials absorb energy and slowly re-emit it as visible light, creating glow-in-the-dark effects lasting hours.",
+    "category": "Science",
+    "image": "fact_40578.jpg"
+  },
+  {
+    "id": "fact_40579",
+    "title": "Escamoles Are Ant Larvae Harvested as Mexican Delicacy",
+    "fact": "These 'insect caviar' eggs from agave plants are collected from ant nests and served in tacos or omelets.",
+    "category": "Food",
+    "image": "fact_40579.jpg"
+  },
+  {
+    "id": "fact_40580",
+    "title": "Gravitational Waves Ripple Through Spacetime",
+    "fact": "Massive cosmic events like colliding black holes create ripples in space-time fabric, first detected in 2015.",
+    "category": "Space",
+    "image": "fact_40580.jpg"
+  },
+  {
+    "id": "fact_40581",
+    "title": "Liquid Crystal Displays Use Polarized Light",
+    "fact": "LCD screens manipulate liquid crystal molecules to control light passage, creating images with minimal power consumption.",
+    "category": "Technology",
+    "image": "fact_40581.jpg"
+  },
+  {
+    "id": "fact_40582",
+    "title": "Your Adrenal Glands Produce Over 50 Hormones",
+    "fact": "These walnut-sized glands above kidneys secrete cortisol, adrenaline, and other hormones regulating stress, metabolism, and blood pressure.",
+    "category": "Human Body",
+    "image": "fact_40582.jpg"
+  },
+  {
+    "id": "fact_40583",
+    "title": "Mount Kilimanjaro Has Three Volcanic Cones",
+    "fact": "Kibo, Mawenzi, and Shira cones form this stratovolcano, with Kibo's 19,341-foot Uhuru Peak being Africa's highest point.",
+    "category": "Geography",
+    "image": "fact_40583.jpg"
+  },
+  {
+    "id": "fact_40584",
+    "title": "Cuttlefish Have W-Shaped Pupils",
+    "fact": "Distinctive pupils allow cuttlefish to see in front and behind simultaneously while maintaining depth perception.",
+    "category": "Animals",
+    "image": "fact_40584.jpg"
+  },
+  {
+    "id": "fact_40585",
+    "title": "The Enigma Machine Was Cracked at Bletchley Park",
+    "fact": "Alan Turing and team decoded Nazi communications using early computers, shortening WWII by an estimated 2 years.",
+    "category": "History",
+    "image": "fact_40585.jpg"
+  },
+  {
+    "id": "fact_40586",
+    "title": "Fulgurites Are Glass Tubes Created by Lightning",
+    "fact": "When lightning strikes sand, temperatures reach 30,000°F, instantly fusing silica into hollow glass tubes called fulgurites.",
+    "category": "Nature",
+    "image": "fact_40586.jpg"
+  },
+  {
+    "id": "fact_40587",
+    "title": "Peppers Evolved Capsaicin to Deter Mammals, Not Birds",
+    "fact": "Birds lack capsaicin receptors and spread seeds farther, while mammals damage seeds with their teeth, explaining pepper heat.",
+    "category": "Food",
+    "image": "fact_40587.jpg"
+  },
+  {
+    "id": "fact_40588",
+    "title": "Voyager Probes Carry Golden Records with Earth Sounds",
+    "fact": "These phonograph records contain 115 images and sounds representing Earth's diversity for potential extraterrestrial discovery.",
+    "category": "Space",
+    "image": "fact_40588.jpg"
+  },
+  {
+    "id": "fact_40589",
+    "title": "Superconductors Have Zero Electrical Resistance",
+    "fact": "Certain materials cooled near absolute zero conduct electricity without energy loss, enabling powerful magnets and levitation.",
+    "category": "Technology",
+    "image": "fact_40589.jpg"
+  },
+  {
+    "id": "fact_40590",
+    "title": "Your Eyelashes Last Only 3 Months Before Falling Out",
+    "fact": "Each eyelash has a 90-day growth cycle before shedding and being replaced by new lashes growing from follicles.",
+    "category": "Human Body",
+    "image": "fact_40590.jpg"
+  },
+  {
+    "id": "fact_40591",
+    "title": "The Tibetan Plateau Is Called the 'Roof of the World'",
+    "fact": "Averaging 14,800 feet elevation across 965,000 square miles, this plateau contains the sources of Asia's major rivers.",
+    "category": "Geography",
+    "image": "fact_40591.jpg"
+  },
+  {
+    "id": "fact_40592",
+    "title": "Pistol Shrimp Clicks Can Reach 218 Decibels",
+    "fact": "These underwater sounds exceed jet engines and can stun or kill prey through shockwaves alone, not direct contact.",
+    "category": "Animals",
+    "image": "fact_40592.jpg"
+  },
+  {
+    "id": "fact_40593",
+    "title": "The First Photograph of a Person Was Taken in 1838",
+    "fact": "Louis Daguerre's 10-minute exposure captured a man getting his shoes shined on Paris's Boulevard du Temple.",
+    "category": "History",
+    "image": "fact_40593.jpg"
+  },
+  {
+    "id": "fact_40594",
+    "title": "Bioluminescent Waves Are Caused by Dinoflagellates",
+    "fact": "Microscopic plankton produce light through chemical reactions when disturbed, creating glowing blue waves at night.",
+    "category": "Nature",
+    "image": "fact_40594.jpg"
+  },
+  {
+    "id": "fact_40595",
+    "title": "Century Eggs Are Preserved for Weeks to Months",
+    "fact": "Chinese delicacy preserves eggs in alkaline clay mixture, turning whites dark and translucent with creamy yolks.",
+    "category": "Food",
+    "image": "fact_40595.jpg"
+  },
+  {
+    "id": "fact_40596",
+    "title": "The Cosmic Web Connects All Large-Scale Structures",
+    "fact": "Filaments of dark matter and galaxies form vast networks spanning billions of light-years throughout the universe.",
+    "category": "Space",
+    "image": "fact_40596.jpg"
+  },
+  {
+    "id": "fact_40597",
+    "title": "Fingerprint Scanners Read Electrical Conductivity Patterns",
+    "fact": "Capacitive sensors map ridges and valleys by detecting conductivity differences in skin, creating unique identification.",
+    "category": "Technology",
+    "image": "fact_40597.jpg"
+  },
+  {
+    "id": "fact_40598",
+    "title": "Your Pineal Gland Produces Melatonin for Sleep Cycles",
+    "fact": "This pea-sized brain structure regulates circadian rhythms by releasing melatonin in response to darkness.",
+    "category": "Human Body",
+    "image": "fact_40598.jpg"
+  },
+  {
+    "id": "fact_40599",
+    "title": "The Ganges Delta Is the World's Largest at 41,000 Square Miles",
+    "fact": "Where Ganges, Brahmaputra, and Meghna rivers meet the Bay of Bengal, forming massive fertile wetlands.",
+    "category": "Geography",
+    "image": "fact_40599.jpg"
+  },
+  {
+    "id": "fact_40600",
+    "title": "Axolotls Can Regenerate Brain and Spinal Cord Tissue",
+    "fact": "These salamanders regrow complete limbs, organs, and even portions of brain without scarring, defying typical healing limits.",
+    "category": "Animals",
+    "image": "fact_40600.jpg"
+  }
+]

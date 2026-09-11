@@ -1,0 +1,702 @@
+[
+  {
+    "id": "fact_40301",
+    "title": "Octopuses Have Nine Brains",
+    "fact": "Octopuses possess one central brain and a mini-brain in each of their eight arms, allowing independent arm movement and problem-solving.",
+    "category": "Animals",
+    "image": "fact_40301.jpg"
+  },
+  {
+    "id": "fact_40302",
+    "title": "The Speed of Light Is 186,282 Miles Per Second",
+    "fact": "Light travels at 299,792,458 meters per second in a vacuum, the universal speed limit according to Einstein's theory of relativity.",
+    "category": "Science",
+    "image": "fact_40302.jpg"
+  },
+  {
+    "id": "fact_40303",
+    "title": "Avocados Were Called 'Alligator Pears' by English Colonists",
+    "fact": "English speakers in the Caribbean called avocados 'alligator pears' due to their bumpy skin and pear-like shape before adopting the Aztec name.",
+    "category": "Food",
+    "image": "fact_40303.jpg"
+  },
+  {
+    "id": "fact_40304",
+    "title": "Your Lungs Have 300 Million Alveoli",
+    "fact": "Tiny air sacs called alveoli number approximately 300 million in adult lungs, providing massive surface area for oxygen-carbon dioxide exchange.",
+    "category": "Human Body",
+    "image": "fact_40304.jpg"
+  },
+  {
+    "id": "fact_40305",
+    "title": "The Atacama Desert Has Soil Similar to Mars",
+    "fact": "NASA uses Chile's Atacama Desert to test Mars rovers because its extremely dry, oxidizing soil closely mimics Martian surface conditions.",
+    "category": "Geography",
+    "image": "fact_40305.jpg"
+  },
+  {
+    "id": "fact_40306",
+    "title": "The First Photograph Took 8 Hours to Expose",
+    "fact": "Joseph Nicéphore Niépce's 1826 photograph 'View from the Window at Le Gras' required an 8-hour exposure time to capture the image.",
+    "category": "History",
+    "image": "fact_40306.jpg"
+  },
+  {
+    "id": "fact_40307",
+    "title": "Jellyfish Have Existed for 500 Million Years",
+    "fact": "Jellyfish fossils date back to the Cambrian period 500 million years ago, making them older than dinosaurs and most other animal groups.",
+    "category": "Animals",
+    "image": "fact_40307.jpg"
+  },
+  {
+    "id": "fact_40308",
+    "title": "Solar Panels Convert Sunlight to Electricity at 15-22% Efficiency",
+    "fact": "Modern commercial solar cells convert 15-22% of sunlight into electricity, with laboratory cells reaching over 47% using multi-junction technology.",
+    "category": "Technology",
+    "image": "fact_40308.jpg"
+  },
+  {
+    "id": "fact_40309",
+    "title": "Butterflies Can See Ultraviolet Light",
+    "fact": "Butterfly eyes detect UV wavelengths invisible to humans, revealing hidden patterns on flowers that guide them to nectar sources.",
+    "category": "Animals",
+    "image": "fact_40309.jpg"
+  },
+  {
+    "id": "fact_40310",
+    "title": "The Sound Barrier Was First Broken in 1947",
+    "fact": "Chuck Yeager became the first person to exceed Mach 1 on October 14, 1947, flying the Bell X-1 rocket plane at 700 mph.",
+    "category": "History",
+    "image": "fact_40310.jpg"
+  },
+  {
+    "id": "fact_40311",
+    "title": "Mount Kilimanjaro Is the Tallest Free-Standing Mountain",
+    "fact": "Rising 19,341 feet from African plains without being part of a mountain range, Kilimanjaro is Earth's tallest free-standing mountain.",
+    "category": "Geography",
+    "image": "fact_40311.jpg"
+  },
+  {
+    "id": "fact_40312",
+    "title": "Your Nose Can Detect Over 1 Trillion Scents",
+    "fact": "Recent research shows humans can distinguish at least 1 trillion different odors, far exceeding previous estimates of 10,000.",
+    "category": "Human Body",
+    "image": "fact_40312.jpg"
+  },
+  {
+    "id": "fact_40313",
+    "title": "Wildfires Can Create Their Own Weather Systems",
+    "fact": "Intense wildfires generate pyrocumulonimbus clouds that produce lightning, strong winds, and fire tornadoes through convective heating.",
+    "category": "Nature",
+    "image": "fact_40313.jpg"
+  },
+  {
+    "id": "fact_40314",
+    "title": "Cinnamon Comes from Tree Bark",
+    "fact": "Cinnamon spice is made by drying the inner bark of Cinnamomum trees, which curls into the familiar quill shape as it dries.",
+    "category": "Food",
+    "image": "fact_40314.jpg"
+  },
+  {
+    "id": "fact_40315",
+    "title": "The Kuiper Belt Contains Trillions of Icy Objects",
+    "fact": "Beyond Neptune, the Kuiper Belt extends to 50 AU and contains trillions of icy bodies including dwarf planets like Pluto and Eris.",
+    "category": "Space",
+    "image": "fact_40315.jpg"
+  },
+  {
+    "id": "fact_40316",
+    "title": "Humpback Whales Sing Complex Songs Lasting 20 Minutes",
+    "fact": "Male humpback whales compose elaborate songs with distinct phrases and themes, repeating sequences for up to 20 minutes continuously.",
+    "category": "Animals",
+    "image": "fact_40316.jpg"
+  },
+  {
+    "id": "fact_40317",
+    "title": "Transistors in Modern CPUs Are Smaller Than Viruses",
+    "fact": "Cutting-edge processors use 3-nanometer transistors, smaller than most viruses and containing billions on a single chip.",
+    "category": "Technology",
+    "image": "fact_40317.jpg"
+  },
+  {
+    "id": "fact_40318",
+    "title": "The Colossus of Rhodes Stood for Only 56 Years",
+    "fact": "This ancient wonder was completed in 280 BCE and destroyed by an earthquake in 226 BCE, standing for barely half a century.",
+    "category": "History",
+    "image": "fact_40318.jpg"
+  },
+  {
+    "id": "fact_40319",
+    "title": "Your Fingernails Grow Faster on Your Dominant Hand",
+    "fact": "Increased blood flow from frequent use causes fingernails to grow slightly faster on the hand you use most often.",
+    "category": "Human Body",
+    "image": "fact_40319.jpg"
+  },
+  {
+    "id": "fact_40320",
+    "title": "The Amazon River Discharges 209,000 Cubic Meters Per Second",
+    "fact": "The Amazon's discharge is greater than the next seven largest rivers combined, dumping 55 million gallons per second into the Atlantic.",
+    "category": "Geography",
+    "image": "fact_40320.jpg"
+  },
+  {
+    "id": "fact_40321",
+    "title": "Volcanoes Can Trigger Lightning Through Ash Particle Friction",
+    "fact": "Volcanic lightning occurs when ash particles collide during eruptions, generating static electricity that creates spectacular lightning bolts.",
+    "category": "Nature",
+    "image": "fact_40321.jpg"
+  },
+  {
+    "id": "fact_40322",
+    "title": "Black Pepper Was Once Worth More Than Gold",
+    "fact": "During medieval times, black pepper was so valuable it was used as currency and counted peppercorn by peppercorn in trade deals.",
+    "category": "Food",
+    "image": "fact_40322.jpg"
+  },
+  {
+    "id": "fact_40323",
+    "title": "Proxima Centauri Is the Closest Star to Our Solar System",
+    "fact": "Located 4.24 light-years away, Proxima Centauri is a red dwarf star in the Alpha Centauri system, our nearest stellar neighbor.",
+    "category": "Space",
+    "image": "fact_40323.jpg"
+  },
+  {
+    "id": "fact_40324",
+    "title": "Dolphins Sleep with One Eye Open",
+    "fact": "Unihemispheric slow-wave sleep allows dolphins to rest one brain hemisphere while the other maintains awareness and controls breathing.",
+    "category": "Animals",
+    "image": "fact_40324.jpg"
+  },
+  {
+    "id": "fact_40325",
+    "title": "The First Domain Name Was Registered in 1985",
+    "fact": "Symbolics.com became the first registered domain name on March 15, 1985, preceding the World Wide Web by six years.",
+    "category": "Technology",
+    "image": "fact_40325.jpg"
+  },
+  {
+    "id": "fact_40326",
+    "title": "The Berlin Wall Stood for 28 Years",
+    "fact": "Erected in 1961 and demolished in 1989, the Berlin Wall divided East and West Germany for 10,316 days during the Cold War.",
+    "category": "History",
+    "image": "fact_40326.jpg"
+  },
+  {
+    "id": "fact_40327",
+    "title": "Your Blood Makes a Complete Circuit in 60 Seconds",
+    "fact": "Blood completes one full circulation through your entire body—from heart to organs and back—in approximately one minute.",
+    "category": "Human Body",
+    "image": "fact_40327.jpg"
+  },
+  {
+    "id": "fact_40328",
+    "title": "The Caspian Sea Is Actually the World's Largest Lake",
+    "fact": "Despite its name, the Caspian Sea is a landlocked body of water covering 143,000 square miles, making it Earth's largest lake.",
+    "category": "Geography",
+    "image": "fact_40328.jpg"
+  },
+  {
+    "id": "fact_40329",
+    "title": "Snowflakes Can Have Identical Twins",
+    "fact": "While rare, scientists have found matching snowflake pairs forming under identical atmospheric conditions, challenging the uniqueness myth.",
+    "category": "Nature",
+    "image": "fact_40329.jpg"
+  },
+  {
+    "id": "fact_40330",
+    "title": "Blue Cheese Gets Its Color from Penicillium Mold",
+    "fact": "Penicillium roqueforti bacteria create blue-green veins in cheese, producing distinctive flavors and colors during the aging process.",
+    "category": "Food",
+    "image": "fact_40330.jpg"
+  },
+  {
+    "id": "fact_40331",
+    "title": "Jupiter Has 95 Known Moons",
+    "fact": "As of 2023, Jupiter has 95 confirmed moons, including the four large Galilean moons discovered in 1610 and dozens of tiny irregular satellites.",
+    "category": "Space",
+    "image": "fact_40331.jpg"
+  },
+  {
+    "id": "fact_40332",
+    "title": "Arctic Terns Migrate 44,000 Miles Annually",
+    "fact": "Arctic terns fly from Arctic to Antarctic and back each year, experiencing two summers and more daylight than any other creature.",
+    "category": "Animals",
+    "image": "fact_40332.jpg"
+  },
+  {
+    "id": "fact_40333",
+    "title": "Quantum Supremacy Was Achieved in 2019",
+    "fact": "Google's Sycamore processor performed a calculation in 200 seconds that would take classical supercomputers 10,000 years.",
+    "category": "Technology",
+    "image": "fact_40333.jpg"
+  },
+  {
+    "id": "fact_40334",
+    "title": "The Battle of Hastings Changed English Language Forever",
+    "fact": "The Norman conquest in 1066 introduced thousands of French words into English, fundamentally transforming the language's vocabulary.",
+    "category": "History",
+    "image": "fact_40334.jpg"
+  },
+  {
+    "id": "fact_40335",
+    "title": "Your Bones Are 5 Times Stronger Than Steel by Weight",
+    "fact": "Bone tissue has a tensile strength of 150 MPa compared to steel's 400-500 MPa, but bone weighs much less for equivalent strength.",
+    "category": "Human Body",
+    "image": "fact_40335.jpg"
+  },
+  {
+    "id": "fact_40336",
+    "title": "The Danakil Depression Is One of Earth's Hottest Places",
+    "fact": "Ethiopia's Danakil Depression averages 94°F year-round, with temperatures regularly exceeding 120°F in this colorful volcanic landscape.",
+    "category": "Geography",
+    "image": "fact_40336.jpg"
+  },
+  {
+    "id": "fact_40337",
+    "title": "Mangrove Forests Protect Coastlines from Storm Surge",
+    "fact": "Dense mangrove root systems absorb wave energy, reducing tsunami and hurricane damage by up to 66% for coastal communities.",
+    "category": "Nature",
+    "image": "fact_40337.jpg"
+  },
+  {
+    "id": "fact_40338",
+    "title": "Artichokes Are Actually Flower Buds",
+    "fact": "The edible part of an artichoke is the immature flower bud, harvested before the purple blossom emerges from the center.",
+    "category": "Food",
+    "image": "fact_40338.jpg"
+  },
+  {
+    "id": "fact_40339",
+    "title": "Io Is the Most Volcanically Active Body in the Solar System",
+    "fact": "Jupiter's moon Io has over 400 active volcanoes due to intense tidal heating, with eruptions reaching 190 miles high.",
+    "category": "Space",
+    "image": "fact_40339.jpg"
+  },
+  {
+    "id": "fact_40340",
+    "title": "Snakes Smell with Their Tongues",
+    "fact": "Snakes collect airborne particles on their forked tongues and transfer them to the Jacobson's organ for chemical analysis.",
+    "category": "Animals",
+    "image": "fact_40340.jpg"
+  },
+  {
+    "id": "fact_40341",
+    "title": "Laser Stands for Light Amplification by Stimulated Emission of Radiation",
+    "fact": "Theodore Maiman built the first functional laser in 1960, using a synthetic ruby crystal to produce coherent light beams.",
+    "category": "Technology",
+    "image": "fact_40341.jpg"
+  },
+  {
+    "id": "fact_40342",
+    "title": "Genghis Khan Diverted Rivers to Destroy Enemy Cities",
+    "fact": "Mongol armies redirected entire rivers to flood cities, erase their locations from maps, and demonstrate absolute military dominance.",
+    "category": "History",
+    "image": "fact_40342.jpg"
+  },
+  {
+    "id": "fact_40343",
+    "title": "Your Immune System Destroys Cancerous Cells Daily",
+    "fact": "Natural killer cells patrol your body constantly, identifying and eliminating thousands of potentially cancerous cells every day.",
+    "category": "Human Body",
+    "image": "fact_40343.jpg"
+  },
+  {
+    "id": "fact_40344",
+    "title": "Point Nemo Is the Most Remote Place on Earth",
+    "fact": "Located in the Pacific Ocean, Point Nemo is 1,670 miles from the nearest land, further from civilization than the International Space Station.",
+    "category": "Geography",
+    "image": "fact_40344.jpg"
+  },
+  {
+    "id": "fact_40345",
+    "title": "Sand Can Sing or Boom When It Moves",
+    "fact": "Certain sand dunes produce low-frequency sounds ranging from hums to booms when avalanching, caused by grain friction and resonance.",
+    "category": "Nature",
+    "image": "fact_40345.jpg"
+  },
+  {
+    "id": "fact_40346",
+    "title": "Quinoa Is a Complete Protein Source",
+    "fact": "Unlike most plant foods, quinoa contains all nine essential amino acids, making it nutritionally equivalent to meat or eggs.",
+    "category": "Food",
+    "image": "fact_40346.jpg"
+  },
+  {
+    "id": "fact_40347",
+    "title": "There Are More Potentially Habitable Exoplanets Than Stars",
+    "fact": "Statistical analysis suggests billions of Earth-sized planets exist in habitable zones, potentially outnumbering visible stars.",
+    "category": "Space",
+    "image": "fact_40347.jpg"
+  },
+  {
+    "id": "fact_40348",
+    "title": "Sperm Whales Have the Largest Brain of Any Animal",
+    "fact": "Sperm whale brains weigh up to 20 pounds—six times heavier than human brains—supporting complex social communication and echolocation.",
+    "category": "Animals",
+    "image": "fact_40348.jpg"
+  },
+  {
+    "id": "fact_40349",
+    "title": "The First Computer Programmer Was a Woman",
+    "fact": "Ada Lovelace wrote the first algorithm intended for machine processing in 1843, a century before modern computers existed.",
+    "category": "Technology",
+    "image": "fact_40349.jpg"
+  },
+  {
+    "id": "fact_40350",
+    "title": "The Rosetta Stone Was Found by French Soldiers in 1799",
+    "fact": "Napoleon's troops discovered this linguistic key in Egypt, enabling scholars to finally decipher ancient Egyptian hieroglyphics.",
+    "category": "History",
+    "image": "fact_40350.jpg"
+  },
+  {
+    "id": "fact_40351",
+    "title": "Your Body Produces 25 Million New Cells Every Second",
+    "fact": "Cell division occurs continuously throughout your body, producing approximately 25 million new cells each second to replace dying ones.",
+    "category": "Human Body",
+    "image": "fact_40351.jpg"
+  },
+  {
+    "id": "fact_40352",
+    "title": "Lake Vostok Lies Beneath 2.5 Miles of Antarctic Ice",
+    "fact": "This subglacial lake has been isolated for 15 million years beneath Antarctic ice, potentially harboring unique microbial life.",
+    "category": "Geography",
+    "image": "fact_40352.jpg"
+  },
+  {
+    "id": "fact_40353",
+    "title": "The Moon Is Moving Away from Earth at 1.5 Inches Per Year",
+    "fact": "Tidal interactions transfer Earth's rotational energy to the Moon, causing it to spiral outward approximately 3.8 cm annually.",
+    "category": "Space",
+    "image": "fact_40353.jpg"
+  },
+  {
+    "id": "fact_40354",
+    "title": "Pistol Shrimp Can Stun Prey with Sound Waves",
+    "fact": "By rapidly closing their specialized claw, pistol shrimp create cavitation bubbles producing 218-decibel shockwaves that stun or kill prey.",
+    "category": "Animals",
+    "image": "fact_40354.jpg"
+  },
+  {
+    "id": "fact_40355",
+    "title": "Coral Reefs Are Dying at Unprecedented Rates",
+    "fact": "Rising ocean temperatures have caused 50% of coral reefs to die since 1980, threatening marine biodiversity and coastal protection.",
+    "category": "Nature",
+    "image": "fact_40355.jpg"
+  },
+  {
+    "id": "fact_40356",
+    "title": "Fermented Foods Contain Trillions of Beneficial Bacteria",
+    "fact": "Kimchi, yogurt, and sauerkraut contain live probiotic bacteria that improve digestion and support immune function.",
+    "category": "Food",
+    "image": "fact_40356.jpg"
+  },
+  {
+    "id": "fact_40357",
+    "title": "Nanotechnology Manipulates Matter at Atomic Scale",
+    "fact": "Nanotech works with structures between 1-100 nanometers, engineering materials and devices at molecular and atomic levels.",
+    "category": "Technology",
+    "image": "fact_40357.jpg"
+  },
+  {
+    "id": "fact_40358",
+    "title": "Cleopatra's Needle Obelisks Were 1,500 Years Old When She Ruled",
+    "fact": "The Egyptian obelisks called Cleopatra's Needles were actually erected around 1450 BCE, 1,400 years before Cleopatra's reign.",
+    "category": "History",
+    "image": "fact_40358.jpg"
+  },
+  {
+    "id": "fact_40359",
+    "title": "Goosebumps Are a Vestigial Reflex from Evolution",
+    "fact": "When ancestors had more body hair, piloerection made them appear larger and trapped warm air; humans retain this useless reflex.",
+    "category": "Human Body",
+    "image": "fact_40359.jpg"
+  },
+  {
+    "id": "fact_40360",
+    "title": "The Dead Sea Is Shrinking 3 Feet Per Year",
+    "fact": "Water diversion and evaporation cause the Dead Sea to recede approximately 1 meter annually, having lost one-third of its surface since 1960.",
+    "category": "Geography",
+    "image": "fact_40360.jpg"
+  },
+  {
+    "id": "fact_40361",
+    "title": "Bioluminescent Organisms Create 90% Efficient Light",
+    "fact": "Biological light production through chemical reactions achieves nearly 100% energy efficiency, vastly exceeding artificial lighting.",
+    "category": "Nature",
+    "image": "fact_40361.jpg"
+  },
+  {
+    "id": "fact_40362",
+    "title": "The World's Most Expensive Coffee Passes Through Civet Digestive Systems",
+    "fact": "Kopi luwak coffee beans are eaten and excreted by civets, with enzymatic digestion supposedly improving flavor; it sells for $600 per pound.",
+    "category": "Food",
+    "image": "fact_40362.jpg"
+  },
+  {
+    "id": "fact_40363",
+    "title": "Voyager 1 Has Entered Interstellar Space",
+    "fact": "In 2012, Voyager 1 became the first human-made object to exit the heliosphere and enter interstellar space 11.7 billion miles from Earth.",
+    "category": "Space",
+    "image": "fact_40363.jpg"
+  },
+  {
+    "id": "fact_40364",
+    "title": "Termites Outweigh All Humans Combined",
+    "fact": "Earth's termite biomass totals approximately 445 million tons, exceeding the combined weight of all 8 billion humans.",
+    "category": "Animals",
+    "image": "fact_40364.jpg"
+  },
+  {
+    "id": "fact_40365",
+    "title": "Nuclear Fusion Powers the Sun Through Hydrogen Conversion",
+    "fact": "Every second, the Sun fuses 620 million tons of hydrogen into helium, releasing energy equivalent to 100 billion nuclear bombs.",
+    "category": "Science",
+    "image": "fact_40365.jpg"
+  },
+  {
+    "id": "fact_40366",
+    "title": "The Gutenberg Bible Was the First Major Book Printed in Europe",
+    "fact": "Printed in 1455, approximately 180 copies were produced using movable type, revolutionizing book production and literacy.",
+    "category": "History",
+    "image": "fact_40366.jpg"
+  },
+  {
+    "id": "fact_40367",
+    "title": "Your Mitochondria Have Their Own DNA",
+    "fact": "Mitochondria contain separate circular DNA inherited only from mothers, supporting the theory they evolved from ancient bacteria.",
+    "category": "Human Body",
+    "image": "fact_40367.jpg"
+  },
+  {
+    "id": "fact_40368",
+    "title": "Angel Falls Is 15 Times Taller Than Niagara Falls",
+    "fact": "Venezuela's Angel Falls plunges 3,212 feet, making it the world's tallest uninterrupted waterfall and 15 times higher than Niagara.",
+    "category": "Geography",
+    "image": "fact_40368.jpg"
+  },
+  {
+    "id": "fact_40369",
+    "title": "Peregrine Falcons Dive at 240 MPH When Hunting",
+    "fact": "During hunting stoop dives, peregrine falcons reach 240 mph, making them the fastest animals on Earth.",
+    "category": "Animals",
+    "image": "fact_40369.jpg"
+  },
+  {
+    "id": "fact_40370",
+    "title": "Desert Locusts Form Swarms Covering 460 Square Miles",
+    "fact": "Massive locust swarms can contain 80 million insects per square kilometer, devastating crops across entire regions.",
+    "category": "Nature",
+    "image": "fact_40370.jpg"
+  },
+  {
+    "id": "fact_40371",
+    "title": "The Invention of the Can Opener Came 48 Years After Canned Food",
+    "fact": "Tin cans were invented in 1810, but the dedicated can opener wasn't patented until 1858; people used hammers and chisels instead.",
+    "category": "Food",
+    "image": "fact_40371.jpg"
+  },
+  {
+    "id": "fact_40372",
+    "title": "Gene Editing Can Permanently Alter DNA Sequences",
+    "fact": "CRISPR technology enables precise DNA modifications, offering potential cures for genetic diseases and agricultural improvements.",
+    "category": "Technology",
+    "image": "fact_40372.jpg"
+  },
+  {
+    "id": "fact_40373",
+    "title": "The Library of Ashurbanipal Contained 30,000 Clay Tablets",
+    "fact": "Established around 650 BCE in Nineveh, this library preserved Mesopotamian knowledge including the Epic of Gilgamesh.",
+    "category": "History",
+    "image": "fact_40373.jpg"
+  },
+  {
+    "id": "fact_40374",
+    "title": "Your Ribs Move 5 Million Times Per Year During Breathing",
+    "fact": "Taking approximately 20,000 breaths daily, your ribcage expands and contracts roughly 5 million times annually.",
+    "category": "Human Body",
+    "image": "fact_40374.jpg"
+  },
+  {
+    "id": "fact_40375",
+    "title": "Tristan da Cunha Is the Most Remote Inhabited Island",
+    "fact": "This volcanic island sits 1,750 miles from the nearest mainland, housing 250 residents in Earth's most isolated human settlement.",
+    "category": "Geography",
+    "image": "fact_40375.jpg"
+  },
+  {
+    "id": "fact_40376",
+    "title": "Saturn Could Float in Water Due to Low Density",
+    "fact": "With a density of 0.687 g/cm³, Saturn would theoretically float in a sufficiently large ocean, being less dense than water.",
+    "category": "Space",
+    "image": "fact_40376.jpg"
+  },
+  {
+    "id": "fact_40377",
+    "title": "Tardigrades Can Survive Being Frozen for 30 Years",
+    "fact": "These microscopic creatures can endure extreme cold, vacuum, radiation, and pressure, surviving frozen for decades then reviving.",
+    "category": "Animals",
+    "image": "fact_40377.jpg"
+  },
+  {
+    "id": "fact_40378",
+    "title": "Rainbows Are Actually Full Circles",
+    "fact": "From ground level we see arcs, but from airplanes or mountains, observers can see rainbows as complete 360-degree circles.",
+    "category": "Nature",
+    "image": "fact_40378.jpg"
+  },
+  {
+    "id": "fact_40379",
+    "title": "Truffles Can Cost $3,600 Per Pound",
+    "fact": "White Alba truffles are among Earth's most expensive foods, requiring specially trained dogs or pigs to locate them underground.",
+    "category": "Food",
+    "image": "fact_40379.jpg"
+  },
+  {
+    "id": "fact_40380",
+    "title": "Graphene Is 200 Times Stronger Than Steel",
+    "fact": "A single-atom-thick sheet of carbon arranged in hexagons, graphene has extraordinary strength, conductivity, and transparency.",
+    "category": "Technology",
+    "image": "fact_40380.jpg"
+  },
+  {
+    "id": "fact_40381",
+    "title": "The Hundred Years' War Actually Lasted 116 Years",
+    "fact": "Despite its name, the conflict between England and France lasted from 1337 to 1453, spanning 116 years.",
+    "category": "History",
+    "image": "fact_40381.jpg"
+  },
+  {
+    "id": "fact_40382",
+    "title": "Your Left Lung Is Smaller Than Your Right Lung",
+    "fact": "The left lung has only two lobes instead of three to accommodate the heart, making it approximately 10% smaller than the right.",
+    "category": "Human Body",
+    "image": "fact_40382.jpg"
+  },
+  {
+    "id": "fact_40383",
+    "title": "Bouvet Island Is the Most Remote Uninhabited Island",
+    "fact": "This Norwegian volcanic island sits 1,400 miles from the nearest land, making it Earth's most isolated uninhabited landmass.",
+    "category": "Geography",
+    "image": "fact_40383.jpg"
+  },
+  {
+    "id": "fact_40384",
+    "title": "Barnacles Are Crustaceans, Not Mollusks",
+    "fact": "Despite their shell-like appearance, barnacles are arthropods related to crabs and lobsters, permanently cementing themselves to surfaces.",
+    "category": "Animals",
+    "image": "fact_40384.jpg"
+  },
+  {
+    "id": "fact_40385",
+    "title": "The Sun Makes Up 99.86% of the Solar System's Mass",
+    "fact": "Containing 99.86% of all mass in our solar system, the Sun dwarfs the combined mass of all planets, moons, and asteroids.",
+    "category": "Space",
+    "image": "fact_40385.jpg"
+  },
+  {
+    "id": "fact_40386",
+    "title": "Fungi Are More Closely Related to Animals Than Plants",
+    "fact": "Genetic analysis reveals fungi share more recent common ancestry with animals than plants, diverging about 1 billion years ago.",
+    "category": "Nature",
+    "image": "fact_40386.jpg"
+  },
+  {
+    "id": "fact_40387",
+    "title": "Instant Noodles Were Invented in 1958",
+    "fact": "Momofuku Ando created instant ramen in post-war Japan, revolutionizing convenience food and now consuming 100 billion servings annually worldwide.",
+    "category": "Food",
+    "image": "fact_40387.jpg"
+  },
+  {
+    "id": "fact_40388",
+    "title": "Artificial Intelligence Can Now Generate Original Art",
+    "fact": "AI systems like DALL-E and Midjourney create novel images from text descriptions, raising questions about creativity and authorship.",
+    "category": "Technology",
+    "image": "fact_40388.jpg"
+  },
+  {
+    "id": "fact_40389",
+    "title": "The Byzantine Empire Lasted 1,100 Years",
+    "fact": "The Eastern Roman Empire survived from 330 CE until Constantinople fell to the Ottomans in 1453, preserving classical knowledge.",
+    "category": "History",
+    "image": "fact_40389.jpg"
+  },
+  {
+    "id": "fact_40390",
+    "title": "Your Brain Shrinks Throughout the Day",
+    "fact": "Brain size decreases by about 0.1% during waking hours due to neuronal activity, expanding again during sleep through fluid influx.",
+    "category": "Human Body",
+    "image": "fact_40390.jpg"
+  },
+  {
+    "id": "fact_40391",
+    "title": "The Danube River Flows Through 10 Countries",
+    "fact": "At 1,770 miles, the Danube passes through more nations than any other river, connecting Central and Eastern Europe.",
+    "category": "Geography",
+    "image": "fact_40391.jpg"
+  },
+  {
+    "id": "fact_40392",
+    "title": "Venus Has Longest Day of Any Planet at 243 Earth Days",
+    "fact": "Venus rotates so slowly that its day (243 Earth days) exceeds its year (225 Earth days), with retrograde rotation opposite other planets.",
+    "category": "Space",
+    "image": "fact_40392.jpg"
+  },
+  {
+    "id": "fact_40393",
+    "title": "Pistol Shrimp Bubbles Can Reach Temperatures of the Sun's Surface",
+    "fact": "Cavitation bubbles from pistol shrimp claws momentarily reach 8,000°F, approximately matching the Sun's surface temperature of 10,000°F.",
+    "category": "Animals",
+    "image": "fact_40393.jpg"
+  },
+  {
+    "id": "fact_40394",
+    "title": "The Loudest Sound Ever Recorded Was Krakatoa's 1883 Eruption",
+    "fact": "The volcanic explosion reached 310 decibels, rupturing eardrums 40 miles away and heard 3,000 miles across the Indian Ocean.",
+    "category": "Nature",
+    "image": "fact_40394.jpg"
+  },
+  {
+    "id": "fact_40395",
+    "title": "Watermelons Are 92% Water by Weight",
+    "fact": "Among the most hydrating foods, watermelons consist of 92% water while providing vitamins A, B6, and C.",
+    "category": "Food",
+    "image": "fact_40395.jpg"
+  },
+  {
+    "id": "fact_40396",
+    "title": "Quantum Computers Use Superposition and Entanglement",
+    "fact": "Unlike classical bits, qubits can exist in multiple states simultaneously, enabling exponentially faster processing for specific problems.",
+    "category": "Technology",
+    "image": "fact_40396.jpg"
+  },
+  {
+    "id": "fact_40397",
+    "title": "The Longest Reigning Monarch Was Louis XIV at 72 Years",
+    "fact": "France's Sun King ruled from age 4 in 1643 until his death in 1715, the longest verified reign of any European monarch.",
+    "category": "History",
+    "image": "fact_40397.jpg"
+  },
+  {
+    "id": "fact_40398",
+    "title": "Babies Have 300 Bones, Adults Have 206",
+    "fact": "Many infant bones are made of cartilage that ossifies and fuses during growth, reducing total bone count by age 25.",
+    "category": "Human Body",
+    "image": "fact_40398.jpg"
+  },
+  {
+    "id": "fact_40399",
+    "title": "The Aral Sea Lost 90% of Its Volume Since 1960",
+    "fact": "Soviet irrigation projects diverted water, causing this once-vast lake to shrink into separate smaller lakes, creating an ecological disaster.",
+    "category": "Geography",
+    "image": "fact_40399.jpg"
+  },
+  {
+    "id": "fact_40400",
+    "title": "The Drake Equation Estimates Probability of Extraterrestrial Civilizations",
+    "fact": "Formulated in 1961, this equation calculates the number of detectable alien civilizations by multiplying factors like star formation rates.",
+    "category": "Space",
+    "image": "fact_40400.jpg"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "fact_40101",
+    "title": "Honey Never Spoils Due to Low Water Content",
+    "fact": "Archaeologists have found 3,000-year-old honey in Egyptian tombs that was still perfectly edible. Honey's low moisture content and acidic pH prevent bacterial growth.",
+    "category": "Food",
+    "image": "fact_40101.jpg"
+  },
+  {
+    "id": "fact_40102",
+    "title": "Sharks Have Existed Longer Than Trees",
+    "fact": "Sharks first appeared in the oceans around 400 million years ago, while trees emerged about 350 million years ago during the Devonian period.",
+    "category": "Animals",
+    "image": "fact_40102.jpg"
+  },
+  {
+    "id": "fact_40103",
+    "title": "A Day on Venus Is Longer Than Its Year",
+    "fact": "Venus takes 243 Earth days to rotate once on its axis but only 225 Earth days to orbit the Sun, making its day longer than its year.",
+    "category": "Space",
+    "image": "fact_40103.jpg"
+  },
+  {
+    "id": "fact_40104",
+    "title": "Oxford University Predates the Aztec Empire",
+    "fact": "Teaching existed at Oxford as early as 1096, while the Aztec Empire was founded in 1428, making Oxford over 300 years older.",
+    "category": "History",
+    "image": "fact_40104.jpg"
+  },
+  {
+    "id": "fact_40105",
+    "title": "Human DNA Is 99.9% Identical Across All People",
+    "fact": "Despite our vast diversity in appearance and abilities, all humans share 99.9% of their DNA sequence, with only 0.1% accounting for individual differences.",
+    "category": "Human Body",
+    "image": "fact_40105.jpg"
+  },
+  {
+    "id": "fact_40106",
+    "title": "Clouds Weigh Over a Million Pounds",
+    "fact": "An average cumulus cloud weighs about 1.1 million pounds (500,000 kg) of water droplets, but stays aloft due to warm air currents and tiny droplet size.",
+    "category": "Nature",
+    "image": "fact_40106.jpg"
+  },
+  {
+    "id": "fact_40107",
+    "title": "Polar Bears Have Black Skin Under White Fur",
+    "fact": "Polar bear skin is black to better absorb and retain heat from the sun, while their hollow, transparent fur appears white by reflecting visible light.",
+    "category": "Animals",
+    "image": "fact_40107.jpg"
+  },
+  {
+    "id": "fact_40108",
+    "title": "The Internet Weighs About 50 Grams",
+    "fact": "Physicist Russell Seitz calculated that the Internet weighs roughly 50 grams based on the total energy of all moving electrons in data transmission.",
+    "category": "Technology",
+    "image": "fact_40108.jpg"
+  },
+  {
+    "id": "fact_40109",
+    "title": "Wombat Feces Are Cube-Shaped",
+    "fact": "Wombats produce cube-shaped droppings due to elastic properties in their intestinal walls, helping mark territory as the cubes don't roll away.",
+    "category": "Animals",
+    "image": "fact_40109.jpg"
+  },
+  {
+    "id": "fact_40110",
+    "title": "Your Fingernails Grow Four Times Faster Than Toenails",
+    "fact": "Fingernails grow about 3.5 mm per month, while toenails grow only 1.6 mm per month, likely due to better blood circulation in the hands.",
+    "category": "Human Body",
+    "image": "fact_40110.jpg"
+  },
+  {
+    "id": "fact_40111",
+    "title": "Switzerland Hasn't Been to War Since 1815",
+    "fact": "Switzerland has maintained armed neutrality for over 200 years, last engaging in military conflict during the Napoleonic Wars in 1815.",
+    "category": "History",
+    "image": "fact_40111.jpg"
+  },
+  {
+    "id": "fact_40112",
+    "title": "Saffron Is More Expensive Than Gold by Weight",
+    "fact": "Saffron costs $500-$5,000 per pound because it requires 75,000 saffron flowers to produce one pound, with each flower yielding only three stigmas.",
+    "category": "Food",
+    "image": "fact_40112.jpg"
+  },
+  {
+    "id": "fact_40113",
+    "title": "Neutron Stars Are So Dense a Teaspoon Weighs a Billion Tons",
+    "fact": "Matter in a neutron star is so compressed that a teaspoon-sized sample would weigh about 6 billion tons on Earth due to gravitational collapse.",
+    "category": "Space",
+    "image": "fact_40113.jpg"
+  },
+  {
+    "id": "fact_40114",
+    "title": "The Great Wall of China Isn't Visible from Space",
+    "fact": "Despite popular myth, the Great Wall is too narrow to see from space with the naked eye. Astronauts can barely see it even from low Earth orbit.",
+    "category": "Geography",
+    "image": "fact_40114.jpg"
+  },
+  {
+    "id": "fact_40115",
+    "title": "Mantis Shrimp Can Punch with the Force of a Bullet",
+    "fact": "Mantis shrimp strike at 50 mph, creating cavitation bubbles that reach 8,000°F, smashing shells and aquarium glass with ease.",
+    "category": "Animals",
+    "image": "fact_40115.jpg"
+  },
+  {
+    "id": "fact_40116",
+    "title": "Your Brain Generates 12-25 Watts of Electricity",
+    "fact": "The human brain produces enough electrical energy to power a low-wattage LED bulb through the activity of 86 billion neurons.",
+    "category": "Human Body",
+    "image": "fact_40116.jpg"
+  },
+  {
+    "id": "fact_40117",
+    "title": "Quantum Computers Use Qubits That Can Be 0 and 1 Simultaneously",
+    "fact": "Unlike classical bits, quantum bits (qubits) exist in superposition, processing multiple calculations simultaneously through quantum mechanical properties.",
+    "category": "Technology",
+    "image": "fact_40117.jpg"
+  },
+  {
+    "id": "fact_40118",
+    "title": "Lake Baikal Contains More Water Than All North American Great Lakes Combined",
+    "fact": "Lake Baikal holds 5,662 cubic miles of water—23% of Earth's fresh surface water—more than the total volume of all five Great Lakes.",
+    "category": "Geography",
+    "image": "fact_40118.jpg"
+  },
+  {
+    "id": "fact_40119",
+    "title": "Cleopatra Spoke at Least Nine Languages",
+    "fact": "Cleopatra VII was highly educated and spoke Egyptian, Greek, Hebrew, Aramaic, Latin, Ethiopian, Median, Parthian, and possibly more languages.",
+    "category": "History",
+    "image": "fact_40119.jpg"
+  },
+  {
+    "id": "fact_40120",
+    "title": "Koalas Sleep Up to 22 Hours Per Day",
+    "fact": "Koalas sleep 18-22 hours daily because their eucalyptus diet is so low in nutrients and calories, requiring minimal energy expenditure.",
+    "category": "Animals",
+    "image": "fact_40120.jpg"
+  },
+  {
+    "id": "fact_40121",
+    "title": "CRISPR Can Edit DNA with Molecular Scissors",
+    "fact": "CRISPR-Cas9 acts as molecular scissors, precisely cutting and editing DNA sequences to correct genetic defects or modify organisms.",
+    "category": "Science",
+    "image": "fact_40121.jpg"
+  },
+  {
+    "id": "fact_40122",
+    "title": "Bamboo Can Grow 35 Inches in a Single Day",
+    "fact": "Some bamboo species can grow up to 91 cm (35 inches) per day, making it the fastest-growing plant on Earth.",
+    "category": "Nature",
+    "image": "fact_40122.jpg"
+  },
+  {
+    "id": "fact_40123",
+    "title": "Your Eyes Can Distinguish About 10 Million Different Colors",
+    "fact": "Human eyes contain three types of cone cells that detect red, green, and blue wavelengths, combining to perceive roughly 10 million color variations.",
+    "category": "Human Body",
+    "image": "fact_40123.jpg"
+  },
+  {
+    "id": "fact_40124",
+    "title": "Tomatoes Were Once Considered Poisonous in Europe",
+    "fact": "16th-century Europeans thought tomatoes were toxic because wealthy people ate them on pewter plates, causing lead poisoning from the fruit's acidity.",
+    "category": "Food",
+    "image": "fact_40124.jpg"
+  },
+  {
+    "id": "fact_40125",
+    "title": "Saturn's Density Is Lower Than Water",
+    "fact": "Saturn's average density is 0.687 g/cm³, less than water's 1 g/cm³, meaning the planet would theoretically float if placed in a giant ocean.",
+    "category": "Space",
+    "image": "fact_40125.jpg"
+  },
+  {
+    "id": "fact_40126",
+    "title": "The Printing Press Was Invented in China 600 Years Before Gutenberg",
+    "fact": "Chinese inventor Bi Sheng created movable type printing around 1040 CE, centuries before Johannes Gutenberg's 1440 European version.",
+    "category": "History",
+    "image": "fact_40126.jpg"
+  },
+  {
+    "id": "fact_40127",
+    "title": "Octopus Blood Is Blue Due to Copper-Based Hemocyanin",
+    "fact": "Instead of iron-based hemoglobin, octopuses use copper-based hemocyanin to transport oxygen, making their blood appear blue when oxygenated.",
+    "category": "Animals",
+    "image": "fact_40127.jpg"
+  },
+  {
+    "id": "fact_40128",
+    "title": "5G Networks Can Theoretically Reach 20 Gbps Speeds",
+    "fact": "Fifth-generation wireless technology can achieve peak data rates of 20 gigabits per second, about 100 times faster than 4G networks.",
+    "category": "Technology",
+    "image": "fact_40128.jpg"
+  },
+  {
+    "id": "fact_40129",
+    "title": "Antarctica Has Only One ATM",
+    "fact": "McMurdo Station in Antarctica houses the world's southernmost ATM, operated by Wells Fargo for the approximately 1,000 summer residents.",
+    "category": "Geography",
+    "image": "fact_40129.jpg"
+  },
+  {
+    "id": "fact_40130",
+    "title": "Your Stomach Lining Replaces Itself Every 3-4 Days",
+    "fact": "The stomach's mucus lining constantly renews itself to protect against corrosive gastric acid, completely replacing itself several times per week.",
+    "category": "Human Body",
+    "image": "fact_40130.jpg"
+  },
+  {
+    "id": "fact_40131",
+    "title": "Peanuts Aren't Nuts—They're Legumes",
+    "fact": "Despite their name, peanuts grow underground in pods like beans and peas, making them legumes rather than tree nuts.",
+    "category": "Food",
+    "image": "fact_40131.jpg"
+  },
+  {
+    "id": "fact_40132",
+    "title": "Lobsters Can Live Over 100 Years",
+    "fact": "Lobsters show no signs of aging and can theoretically live indefinitely due to telomerase enzyme that repairs their DNA, with some reaching 140+ years.",
+    "category": "Animals",
+    "image": "fact_40132.jpg"
+  },
+  {
+    "id": "fact_40133",
+    "title": "Black Holes Slow Down Time Near Event Horizons",
+    "fact": "Extreme gravitational fields near black holes cause time dilation, where time passes slower relative to distant observers according to Einstein's relativity.",
+    "category": "Space",
+    "image": "fact_40133.jpg"
+  },
+  {
+    "id": "fact_40134",
+    "title": "The First Email Was Sent in 1971",
+    "fact": "Ray Tomlinson sent the first networked email in 1971 using the @ symbol to separate user name from computer name, revolutionizing communication.",
+    "category": "Technology",
+    "image": "fact_40134.jpg"
+  },
+  {
+    "id": "fact_40135",
+    "title": "Viking Explorers Reached North America 500 Years Before Columbus",
+    "fact": "Norse explorer Leif Erikson established a settlement at L'Anse aux Meadows in Newfoundland around 1000 CE, five centuries before Columbus.",
+    "category": "History",
+    "image": "fact_40135.jpg"
+  },
+  {
+    "id": "fact_40136",
+    "title": "Rainforests Produce 28% of Earth's Oxygen",
+    "fact": "Tropical rainforests contribute about 28% of atmospheric oxygen through photosynthesis while absorbing massive amounts of carbon dioxide.",
+    "category": "Nature",
+    "image": "fact_40136.jpg"
+  },
+  {
+    "id": "fact_40137",
+    "title": "Your Heart Beats 100,000 Times Daily",
+    "fact": "The average human heart beats 60-100 times per minute, totaling approximately 100,000 beats per day and 2.5 billion in an average lifetime.",
+    "category": "Human Body",
+    "image": "fact_40137.jpg"
+  },
+  {
+    "id": "fact_40138",
+    "title": "The Maldives Is the Flattest Country on Earth",
+    "fact": "The Maldives has an average ground level of just 1.5 meters above sea level, making it the world's lowest country and vulnerable to rising oceans.",
+    "category": "Geography",
+    "image": "fact_40138.jpg"
+  },
+  {
+    "id": "fact_40139",
+    "title": "Axolotls Can Regenerate Entire Limbs and Organs",
+    "fact": "These salamanders can regrow limbs, spinal cord, heart, and brain tissue without scarring, making them valuable for regenerative medicine research.",
+    "category": "Animals",
+    "image": "fact_40139.jpg"
+  },
+  {
+    "id": "fact_40140",
+    "title": "Vanilla Flavoring Originally Came from Beaver Glands",
+    "fact": "Castoreum, secreted by beaver anal glands, was historically used as vanilla flavoring and is still FDA-approved as 'natural flavoring' though rarely used.",
+    "category": "Food",
+    "image": "fact_40140.jpg"
+  },
+  {
+    "id": "fact_40141",
+    "title": "Jupiter's Moon Europa May Harbor a Subsurface Ocean",
+    "fact": "Scientists believe Europa's icy crust conceals a global ocean 60-150 km deep with more water than all of Earth's oceans combined.",
+    "category": "Space",
+    "image": "fact_40141.jpg"
+  },
+  {
+    "id": "fact_40142",
+    "title": "Blockchain Technology Enables Decentralized Digital Ledgers",
+    "fact": "Blockchain creates tamper-proof distributed databases where transactions are verified by network consensus rather than central authorities.",
+    "category": "Technology",
+    "image": "fact_40142.jpg"
+  },
+  {
+    "id": "fact_40143",
+    "title": "Cleopatra's Palace Now Lies Underwater",
+    "fact": "Earthquakes and tsunamis submerged parts of ancient Alexandria, including Cleopatra's royal palace, now resting 20 feet below the Mediterranean Sea.",
+    "category": "History",
+    "image": "fact_40143.jpg"
+  },
+  {
+    "id": "fact_40144",
+    "title": "Sloths Can Hold Their Breath Longer Than Dolphins",
+    "fact": "By slowing their heart rate, sloths can hold their breath for up to 40 minutes underwater, outlasting dolphins who surface every 8-10 minutes.",
+    "category": "Animals",
+    "image": "fact_40144.jpg"
+  },
+  {
+    "id": "fact_40145",
+    "title": "Your Blood Vessels Stretch 60,000 Miles If Laid End-to-End",
+    "fact": "The human body contains enough arteries, veins, and capillaries to circle Earth's equator 2.5 times if stretched out in a single line.",
+    "category": "Human Body",
+    "image": "fact_40145.jpg"
+  },
+  {
+    "id": "fact_40146",
+    "title": "Iceland Runs Almost Entirely on Renewable Energy",
+    "fact": "Iceland generates 85% of its energy from geothermal and hydroelectric sources, making it one of the world's most sustainable energy producers.",
+    "category": "Geography",
+    "image": "fact_40146.jpg"
+  },
+  {
+    "id": "fact_40147",
+    "title": "Cashews Grow Outside the Fruit",
+    "fact": "Cashew nuts grow in a hard shell attached to the bottom of a cashew apple, making them technically seeds rather than true nuts.",
+    "category": "Food",
+    "image": "fact_40147.jpg"
+  },
+  {
+    "id": "fact_40148",
+    "title": "Quantum Entanglement Links Particles Across Any Distance",
+    "fact": "When particles become entangled, measuring one instantly affects the other regardless of distance, a phenomenon Einstein called 'spooky action.'",
+    "category": "Science",
+    "image": "fact_40148.jpg"
+  },
+  {
+    "id": "fact_40149",
+    "title": "Dragonflies Have Been on Earth for 300 Million Years",
+    "fact": "Dragonflies evolved during the Carboniferous period with wingspans up to 2.5 feet, making them one of Earth's oldest flying insects.",
+    "category": "Animals",
+    "image": "fact_40149.jpg"
+  },
+  {
+    "id": "fact_40150",
+    "title": "Mars Has the Largest Dust Storms in the Solar System",
+    "fact": "Martian dust storms can engulf the entire planet for months, with winds reaching 60 mph despite the thin atmosphere.",
+    "category": "Space",
+    "image": "fact_40150.jpg"
+  },
+  {
+    "id": "fact_40151",
+    "title": "The First Computer Bug Was an Actual Insect",
+    "fact": "In 1947, engineers found a moth trapped in Harvard's Mark II computer, coining the term 'debugging' for fixing computer problems.",
+    "category": "Technology",
+    "image": "fact_40151.jpg"
+  },
+  {
+    "id": "fact_40152",
+    "title": "The Inca Empire Built 25,000 Miles of Roads Without Wheels",
+    "fact": "The Inca constructed an extensive road network across steep Andean mountains using only human labor and pack animals, no wheeled vehicles.",
+    "category": "History",
+    "image": "fact_40152.jpg"
+  },
+  {
+    "id": "fact_40153",
+    "title": "Coral Reefs Support 25% of Marine Species",
+    "fact": "Despite covering less than 0.1% of the ocean floor, coral reefs provide habitat for approximately one-quarter of all marine life.",
+    "category": "Nature",
+    "image": "fact_40153.jpg"
+  },
+  {
+    "id": "fact_40154",
+    "title": "Your Nose Can Remember 50,000 Different Scents",
+    "fact": "The human olfactory system can detect and memorize at least 50,000 distinct odors through 400 different receptor types.",
+    "category": "Human Body",
+    "image": "fact_40154.jpg"
+  },
+  {
+    "id": "fact_40155",
+    "title": "Russia and America Are Less Than 3 Miles Apart",
+    "fact": "The Bering Strait separates Alaska's Little Diomede Island from Russia's Big Diomede Island by only 2.4 miles across international waters.",
+    "category": "Geography",
+    "image": "fact_40155.jpg"
+  },
+  {
+    "id": "fact_40156",
+    "title": "Penguins Propose with Pebbles",
+    "fact": "Male Gentoo penguins search for the smoothest pebble to present to their chosen mate, who accepts by placing it in her nest.",
+    "category": "Animals",
+    "image": "fact_40156.jpg"
+  },
+  {
+    "id": "fact_40157",
+    "title": "Apples Float Because They're 25% Air",
+    "fact": "Apples contain 25% air by volume trapped in cellular spaces, making them buoyant enough to float in water and perfect for bobbing games.",
+    "category": "Food",
+    "image": "fact_40157.jpg"
+  },
+  {
+    "id": "fact_40158",
+    "title": "Time Runs Slower on GPS Satellites Than on Earth",
+    "fact": "GPS satellites must account for relativistic time dilation—their clocks run 38 microseconds faster daily due to weaker gravity and higher velocity.",
+    "category": "Technology",
+    "image": "fact_40158.jpg"
+  },
+  {
+    "id": "fact_40159",
+    "title": "The Milky Way and Andromeda Galaxies Will Collide in 4.5 Billion Years",
+    "fact": "Our galaxies approach each other at 250,000 mph and will eventually merge into a single elliptical galaxy nicknamed 'Milkomeda.'",
+    "category": "Space",
+    "image": "fact_40159.jpg"
+  },
+  {
+    "id": "fact_40160",
+    "title": "Ancient Egyptians Invented Bowling 5,000 Years Ago",
+    "fact": "Archaeological evidence from 3200 BCE shows ancient Egyptians played a bowling-like game with stone balls and pins in temple lanes.",
+    "category": "History",
+    "image": "fact_40160.jpg"
+  },
+  {
+    "id": "fact_40161",
+    "title": "Immortal Jellyfish Can Reverse Their Aging Process",
+    "fact": "Turritopsis dohrnii can revert from adult medusa form back to polyp stage, theoretically achieving biological immortality through transdifferentiation.",
+    "category": "Animals",
+    "image": "fact_40161.jpg"
+  },
+  {
+    "id": "fact_40162",
+    "title": "Your Liver Can Regenerate to Full Size from 25% Remaining",
+    "fact": "The liver is the only internal organ capable of complete regeneration, regrowing to original size from just a quarter of its mass.",
+    "category": "Human Body",
+    "image": "fact_40162.jpg"
+  },
+  {
+    "id": "fact_40163",
+    "title": "Mount Everest Grows 4 Millimeters Taller Each Year",
+    "fact": "The Indo-Australian tectonic plate continues pushing into the Eurasian plate, causing Everest to rise approximately 4mm annually.",
+    "category": "Geography",
+    "image": "fact_40163.jpg"
+  },
+  {
+    "id": "fact_40164",
+    "title": "Ketchup Was Sold as Medicine in the 1830s",
+    "fact": "Dr. John Cook Bennett marketed tomato ketchup as medicinal pills claiming they cured diarrhea, jaundice, and indigestion before becoming a condiment.",
+    "category": "Food",
+    "image": "fact_40164.jpg"
+  },
+  {
+    "id": "fact_40165",
+    "title": "Fiber Optic Cables Transmit Data at 70% the Speed of Light",
+    "fact": "Light signals in fiber optic cables travel at approximately 200,000 km/s, enabling internet data transmission across continents in milliseconds.",
+    "category": "Technology",
+    "image": "fact_40165.jpg"
+  },
+  {
+    "id": "fact_40166",
+    "title": "Raindrops Fall at Terminal Velocity of 20 MPH",
+    "fact": "Air resistance limits raindrop speed to about 20 mph regardless of altitude, preventing painful impacts during storms.",
+    "category": "Nature",
+    "image": "fact_40166.jpg"
+  },
+  {
+    "id": "fact_40167",
+    "title": "Chameleons Change Color for Communication, Not Camouflage",
+    "fact": "Chameleons primarily change color to express mood, temperature regulation, and social signals rather than environmental camouflage.",
+    "category": "Animals",
+    "image": "fact_40167.jpg"
+  },
+  {
+    "id": "fact_40168",
+    "title": "Neptune's Winds Reach 1,200 MPH",
+    "fact": "Neptune experiences the fastest winds in the solar system, with supersonic speeds reaching 1,200 mph in its upper atmosphere.",
+    "category": "Space",
+    "image": "fact_40168.jpg"
+  },
+  {
+    "id": "fact_40169",
+    "title": "The First Fax Was Sent Before the First Phone Call",
+    "fact": "Alexander Bain invented fax technology in 1843, 33 years before Alexander Graham Bell's first telephone call in 1876.",
+    "category": "History",
+    "image": "fact_40169.jpg"
+  },
+  {
+    "id": "fact_40170",
+    "title": "Your Brain Uses 20% of Your Body's Oxygen",
+    "fact": "Despite weighing only 2% of body mass, the human brain consumes approximately 20% of total oxygen intake to power 86 billion neurons.",
+    "category": "Human Body",
+    "image": "fact_40170.jpg"
+  },
+  {
+    "id": "fact_40171",
+    "title": "The Pacific Ocean Is Larger Than All Land Masses Combined",
+    "fact": "The Pacific covers 63 million square miles—more surface area than all of Earth's continents and islands put together.",
+    "category": "Geography",
+    "image": "fact_40171.jpg"
+  },
+  {
+    "id": "fact_40172",
+    "title": "Butterflies Taste with Their Feet",
+    "fact": "Butterflies have chemoreceptors on their feet that detect sugars and nutrients, helping them identify suitable plants for egg-laying.",
+    "category": "Animals",
+    "image": "fact_40172.jpg"
+  },
+  {
+    "id": "fact_40173",
+    "title": "Carrots Were Originally Purple, Not Orange",
+    "fact": "Wild carrots were purple or yellow until 17th-century Dutch farmers cultivated orange varieties to honor William of Orange.",
+    "category": "Food",
+    "image": "fact_40173.jpg"
+  },
+  {
+    "id": "fact_40174",
+    "title": "Moore's Law Predicted Computer Power Doubling Every Two Years",
+    "fact": "Intel founder Gordon Moore observed in 1965 that transistor density on microchips doubles approximately every two years, driving exponential computing growth.",
+    "category": "Technology",
+    "image": "fact_40174.jpg"
+  },
+  {
+    "id": "fact_40175",
+    "title": "Photosynthesis Produces 330 Billion Tons of Oxygen Annually",
+    "fact": "Plants and photosynthetic organisms generate approximately 330 billion tons of oxygen per year, sustaining aerobic life on Earth.",
+    "category": "Nature",
+    "image": "fact_40175.jpg"
+  },
+  {
+    "id": "fact_40176",
+    "title": "Saturn's Rings Are Made of Billions of Ice Chunks",
+    "fact": "Saturn's spectacular rings consist of countless ice particles ranging from dust-sized grains to house-sized chunks orbiting in thin bands.",
+    "category": "Space",
+    "image": "fact_40176.jpg"
+  },
+  {
+    "id": "fact_40177",
+    "title": "The Mongol Postal System Delivered Across 12,000 Miles",
+    "fact": "Genghis Khan's Yam postal network used 50,000 horses and relay stations to deliver messages across the empire in days.",
+    "category": "History",
+    "image": "fact_40177.jpg"
+  },
+  {
+    "id": "fact_40178",
+    "title": "Elephants Are the Only Mammals That Can't Jump",
+    "fact": "Elephants' massive weight and leg bone structure prevent them from jumping—all four feet never leave the ground simultaneously.",
+    "category": "Animals",
+    "image": "fact_40178.jpg"
+  },
+  {
+    "id": "fact_40179",
+    "title": "Your Ears Continue Growing Throughout Your Life",
+    "fact": "Unlike most body parts, ears never stop growing due to ongoing cartilage and skin cell production, growing about 0.22mm per year.",
+    "category": "Human Body",
+    "image": "fact_40179.jpg"
+  },
+  {
+    "id": "fact_40180",
+    "title": "The Hottest Recorded Temperature on Earth Was 134°F",
+    "fact": "Death Valley, California recorded 134°F (56.7°C) on July 10, 1913, the highest reliably measured air temperature on Earth.",
+    "category": "Geography",
+    "image": "fact_40180.jpg"
+  },
+  {
+    "id": "fact_40181",
+    "title": "Almonds Are Members of the Peach Family",
+    "fact": "Almonds are closely related to peaches, apricots, and cherries in the Prunus genus, with similar blossoms and tree characteristics.",
+    "category": "Food",
+    "image": "fact_40181.jpg"
+  },
+  {
+    "id": "fact_40182",
+    "title": "CAPTCHA Helps Digitize Books While Blocking Bots",
+    "fact": "reCAPTCHA puzzles use words from scanned books that OCR couldn't read, crowdsourcing digitization while verifying human users.",
+    "category": "Technology",
+    "image": "fact_40182.jpg"
+  },
+  {
+    "id": "fact_40183",
+    "title": "Lightning Strikes Earth 100 Times Per Second",
+    "fact": "Approximately 8.6 million lightning strikes occur daily worldwide, averaging about 100 strikes per second across the planet.",
+    "category": "Nature",
+    "image": "fact_40183.jpg"
+  },
+  {
+    "id": "fact_40184",
+    "title": "A Single Supernova Can Outshine an Entire Galaxy",
+    "fact": "When massive stars explode as supernovae, they briefly emit more energy than 100 billion normal stars, outshining their host galaxy.",
+    "category": "Space",
+    "image": "fact_40184.jpg"
+  },
+  {
+    "id": "fact_40185",
+    "title": "The First Olympics Banned Women from Even Watching",
+    "fact": "Ancient Greek Olympics prohibited women from participating or spectating under penalty of death, though separate Heraean Games existed for women.",
+    "category": "History",
+    "image": "fact_40185.jpg"
+  },
+  {
+    "id": "fact_40186",
+    "title": "Dolphins Have Names for Each Other",
+    "fact": "Dolphins develop unique signature whistles that function as names, using them to call specific individuals even across long distances.",
+    "category": "Animals",
+    "image": "fact_40186.jpg"
+  },
+  {
+    "id": "fact_40187",
+    "title": "Your Small Intestine Is 20 Feet Long",
+    "fact": "The small intestine measures approximately 20-23 feet in adults, coiled efficiently within the abdominal cavity for maximum nutrient absorption.",
+    "category": "Human Body",
+    "image": "fact_40187.jpg"
+  },
+  {
+    "id": "fact_40188",
+    "title": "Canada Has More Lakes Than the Rest of the World Combined",
+    "fact": "Canada contains over 2 million lakes covering about 9% of its territory, more than every other country on Earth combined.",
+    "category": "Geography",
+    "image": "fact_40188.jpg"
+  },
+  {
+    "id": "fact_40189",
+    "title": "Coffee Was Discovered by Goats in Ethiopia",
+    "fact": "Legend says 9th-century Ethiopian goats became energetic after eating coffee berries, leading herder Kaldi to discover coffee's stimulating properties.",
+    "category": "Food",
+    "image": "fact_40189.jpg"
+  },
+  {
+    "id": "fact_40190",
+    "title": "The First Computer Mouse Was Made of Wood",
+    "fact": "Douglas Engelbart invented the computer mouse in 1964 using a wooden shell, two metal wheels, and a single button.",
+    "category": "Technology",
+    "image": "fact_40190.jpg"
+  },
+  {
+    "id": "fact_40191",
+    "title": "Redwood Trees Can Live Over 2,000 Years",
+    "fact": "Coast redwoods can survive over 2,000 years and grow 380 feet tall, making them among Earth's oldest and tallest living organisms.",
+    "category": "Nature",
+    "image": "fact_40191.jpg"
+  },
+  {
+    "id": "fact_40192",
+    "title": "Mercury Completes Three Rotations for Every Two Orbits",
+    "fact": "Mercury's unique 3:2 spin-orbit resonance means it rotates three times on its axis for every two trips around the Sun.",
+    "category": "Space",
+    "image": "fact_40192.jpg"
+  },
+  {
+    "id": "fact_40193",
+    "title": "The Terracotta Army Contains 8,000 Life-Sized Soldiers",
+    "fact": "China's first emperor Qin Shi Huang was buried with an army of 8,000 unique terracotta warriors, horses, and chariots in 210 BCE.",
+    "category": "History",
+    "image": "fact_40193.jpg"
+  },
+  {
+    "id": "fact_40194",
+    "title": "Pigeons Can Detect Earthquakes Days in Advance",
+    "fact": "Pigeons sense seismic infrasound waves and changes in Earth's magnetic field before earthquakes, demonstrating natural disaster prediction abilities.",
+    "category": "Animals",
+    "image": "fact_40194.jpg"
+  },
+  {
+    "id": "fact_40195",
+    "title": "Your Skeleton Completely Replaces Itself Every 10 Years",
+    "fact": "Bone remodeling through osteoclast and osteoblast activity means your skeleton is completely replaced approximately every decade.",
+    "category": "Human Body",
+    "image": "fact_40195.jpg"
+  },
+  {
+    "id": "fact_40196",
+    "title": "Monaco Is Smaller Than New York's Central Park",
+    "fact": "The entire nation of Monaco covers just 0.78 square miles, making it smaller than Manhattan's 843-acre Central Park.",
+    "category": "Geography",
+    "image": "fact_40196.jpg"
+  },
+  {
+    "id": "fact_40197",
+    "title": "Strawberries Aren't Berries But Bananas Are",
+    "fact": "Botanically, berries have seeds inside, making bananas and blueberries true berries while strawberries are aggregate accessory fruits.",
+    "category": "Food",
+    "image": "fact_40197.jpg"
+  },
+  {
+    "id": "fact_40198",
+    "title": "Neural Networks Learn Like the Human Brain",
+    "fact": "Artificial neural networks mimic biological neurons, using weighted connections and backpropagation to learn patterns from training data.",
+    "category": "Technology",
+    "image": "fact_40198.jpg"
+  },
+  {
+    "id": "fact_40199",
+    "title": "Bioluminescent Fungi Glow to Attract Spore-Dispersing Insects",
+    "fact": "About 80 mushroom species emit green light through luciferin-luciferase reactions, luring insects that spread their spores through forests.",
+    "category": "Nature",
+    "image": "fact_40199.jpg"
+  },
+  {
+    "id": "fact_40200",
+    "title": "The Sun Loses 4 Million Tons of Mass Per Second",
+    "fact": "Nuclear fusion converts 4 million tons of the Sun's mass into energy every second through Einstein's E=mc² equation.",
+    "category": "Space",
+    "image": "fact_40200.jpg"
+  }
+]

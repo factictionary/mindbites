@@ -1,0 +1,702 @@
+[
+  {
+    "id": "fact_40701",
+    "title": "Pistol Shrimp Create Plasma with Their Claw Snaps",
+    "fact": "Cavitation bubbles from claw closure briefly create plasma at 8,000°F, momentarily hotter than the Sun's surface.",
+    "category": "Animals",
+    "image": "fact_40701.jpg"
+  },
+  {
+    "id": "fact_40702",
+    "title": "Your Liver Performs Over 500 Essential Functions",
+    "fact": "This remarkable organ detoxifies blood, produces bile, stores glycogen, and synthesizes proteins vital for survival.",
+    "category": "Human Body",
+    "image": "fact_40702.jpg"
+  },
+  {
+    "id": "fact_40703",
+    "title": "Matcha Contains 137 Times More Antioxidants Than Green Tea",
+    "fact": "Ground whole tea leaves provide concentrated nutrients including L-theanine and catechins compared to steeped leaves.",
+    "category": "Food",
+    "image": "fact_40703.jpg"
+  },
+  {
+    "id": "fact_40704",
+    "title": "Cosmic Inflation Expanded Universe Faster Than Light",
+    "fact": "In first fractions of a second, space itself expanded exponentially, stretching quantum fluctuations into cosmic structures.",
+    "category": "Space",
+    "image": "fact_40704.jpg"
+  },
+  {
+    "id": "fact_40705",
+    "title": "Graphene Conducts Electricity Better Than Copper",
+    "fact": "Electrons move through this two-dimensional carbon lattice with minimal resistance, enabling revolutionary electronic applications.",
+    "category": "Technology",
+    "image": "fact_40705.jpg"
+  },
+  {
+    "id": "fact_40706",
+    "title": "The Cold War Lasted 44 Years Without Direct Conflict",
+    "fact": "From 1947-1991, US-Soviet tensions created proxy wars, space race, and nuclear standoff without direct military confrontation.",
+    "category": "History",
+    "image": "fact_40706.jpg"
+  },
+  {
+    "id": "fact_40707",
+    "title": "Mimic Octopuses Can Impersonate 15 Marine Species",
+    "fact": "These intelligent cephalopods change color, texture, and body shape to mimic lionfish, flatfish, sea snakes, and jellies.",
+    "category": "Animals",
+    "image": "fact_40707.jpg"
+  },
+  {
+    "id": "fact_40708",
+    "title": "The Great Basin Is North America's Largest Desert",
+    "fact": "Covering 190,000 square miles across Nevada and Utah, this cold desert receives precipitation trapped by surrounding mountains.",
+    "category": "Geography",
+    "image": "fact_40708.jpg"
+  },
+  {
+    "id": "fact_40709",
+    "title": "Convection Transfers Heat Through Fluid Movement",
+    "fact": "Warmer, less dense fluid rises while cooler fluid sinks, creating circulation patterns that distribute thermal energy.",
+    "category": "Science",
+    "image": "fact_40709.jpg"
+  },
+  {
+    "id": "fact_40710",
+    "title": "Your Adrenal Glands Release Cortisol During Stress",
+    "fact": "This 'stress hormone' mobilizes energy stores, suppresses inflammation, and prepares body for fight-or-flight responses.",
+    "category": "Human Body",
+    "image": "fact_40710.jpg"
+  },
+  {
+    "id": "fact_40711",
+    "title": "Sound Travels Faster in Water Than Air",
+    "fact": "Acoustic waves propagate at 1,482 m/s in water versus 343 m/s in air due to water's higher density and incompressibility.",
+    "category": "Science",
+    "image": "fact_40711.jpg"
+  },
+  {
+    "id": "fact_40712",
+    "title": "Fireflies Synchronize Flashing in Massive Groups",
+    "fact": "Thousands of male fireflies coordinate light patterns perfectly, creating spectacular synchronized displays to attract mates.",
+    "category": "Animals",
+    "image": "fact_40712.jpg"
+  },
+  {
+    "id": "fact_40713",
+    "title": "The French Revolution Began with Storming Bastille in 1789",
+    "fact": "Revolutionaries seized this medieval fortress-prison on July 14, symbolically challenging royal authority and sparking upheaval.",
+    "category": "History",
+    "image": "fact_40713.jpg"
+  },
+  {
+    "id": "fact_40714",
+    "title": "Phosphorescence Stores and Re-Emits Light Energy",
+    "fact": "Materials absorb photons and slowly release them over time, creating glow-in-the-dark effects lasting hours.",
+    "category": "Science",
+    "image": "fact_40714.jpg"
+  },
+  {
+    "id": "fact_40715",
+    "title": "Umeboshi Are Pickled Plums with 20% Salt Content",
+    "fact": "These intensely sour and salty Japanese preserved fruits aid digestion and are considered a traditional hangover cure.",
+    "category": "Food",
+    "image": "fact_40715.jpg"
+  },
+  {
+    "id": "fact_40716",
+    "title": "The Goldilocks Zone Allows Liquid Water on Planets",
+    "fact": "This habitable region around stars maintains temperatures between 0-100°C, essential for life as we know it.",
+    "category": "Space",
+    "image": "fact_40716.jpg"
+  },
+  {
+    "id": "fact_40717",
+    "title": "Quantum Computers Use Supercooled Qubits",
+    "fact": "Processors operate near absolute zero to maintain quantum states, enabling superposition and entanglement for computation.",
+    "category": "Technology",
+    "image": "fact_40717.jpg"
+  },
+  {
+    "id": "fact_40718",
+    "title": "Your Neurons Fire at Speeds Up to 268 MPH",
+    "fact": "Myelinated nerve impulses travel at 120 meters per second, enabling rapid reflexes and thought processes.",
+    "category": "Human Body",
+    "image": "fact_40718.jpg"
+  },
+  {
+    "id": "fact_40719",
+    "title": "The Danube Flows Through More Countries Than Any River",
+    "fact": "Passing through 10 nations from Germany to Black Sea, this European waterway connects diverse cultures and economies.",
+    "category": "Geography",
+    "image": "fact_40719.jpg"
+  },
+  {
+    "id": "fact_40720",
+    "title": "Pistol Shrimp Can Kill Fish with Sound Alone",
+    "fact": "The 210-decibel cavitation bubble stuns or kills prey through shockwave, not the claw itself making contact.",
+    "category": "Animals",
+    "image": "fact_40720.jpg"
+  },
+  {
+    "id": "fact_40721",
+    "title": "The Suez Crisis Marked End of British Imperial Power",
+    "fact": "The 1956 military intervention's failure demonstrated Britain could no longer act independently of American support.",
+    "category": "History",
+    "image": "fact_40721.jpg"
+  },
+  {
+    "id": "fact_40722",
+    "title": "Ocean Acidification Increases from Absorbed CO2",
+    "fact": "Oceans absorb 30% of atmospheric carbon dioxide, forming carbonic acid that lowers pH threatening marine ecosystems.",
+    "category": "Nature",
+    "image": "fact_40722.jpg"
+  },
+  {
+    "id": "fact_40723",
+    "title": "Lutefisk Is Dried Fish Treated with Lye",
+    "fact": "This Norwegian dish preserves whitefish in caustic solution, creating gelatinous texture requiring careful preparation.",
+    "category": "Food",
+    "image": "fact_40723.jpg"
+  },
+  {
+    "id": "fact_40724",
+    "title": "The Fermi Paradox Questions Absence of Alien Contact",
+    "fact": "Given billions of potentially habitable planets, why haven't we detected extraterrestrial civilizations or signals?",
+    "category": "Space",
+    "image": "fact_40724.jpg"
+  },
+  {
+    "id": "fact_40725",
+    "title": "Plasma Screens Use Ionized Gas to Create Images",
+    "fact": "Electric current excites xenon and neon gases trapped in tiny cells, emitting ultraviolet light that illuminates phosphors.",
+    "category": "Technology",
+    "image": "fact_40725.jpg"
+  },
+  {
+    "id": "fact_40726",
+    "title": "Your Vestibular System Controls Balance and Spatial Orientation",
+    "fact": "Inner ear structures with fluid-filled semicircular canals detect head movements and maintain equilibrium.",
+    "category": "Human Body",
+    "image": "fact_40726.jpg"
+  },
+  {
+    "id": "fact_40727",
+    "title": "The Zambezi River Features Victoria Falls",
+    "fact": "Africa's fourth-longest river plunges 354 feet at Victoria Falls, creating the world's largest sheet of falling water.",
+    "category": "Geography",
+    "image": "fact_40727.jpg"
+  },
+  {
+    "id": "fact_40728",
+    "title": "Electric Rays Can Deliver 220-Volt Shocks",
+    "fact": "Modified muscle cells generate powerful electric discharges for defense and stunning prey in shallow ocean waters.",
+    "category": "Animals",
+    "image": "fact_40728.jpg"
+  },
+  {
+    "id": "fact_40729",
+    "title": "The Silk Road Facilitated Cultural Exchange for Centuries",
+    "fact": "Beyond trade goods, this network spread Buddhism, Islam, technology, and artistic styles between East and West.",
+    "category": "History",
+    "image": "fact_40729.jpg"
+  },
+  {
+    "id": "fact_40730",
+    "title": "The Nitrogen Cycle Recycles Atmospheric Nitrogen",
+    "fact": "Bacteria convert atmospheric N2 into usable compounds for plants, returning nitrogen through decomposition and denitrification.",
+    "category": "Nature",
+    "image": "fact_40730.jpg"
+  },
+  {
+    "id": "fact_40731",
+    "title": "Hákarl Requires 6-Month Fermentation Process",
+    "fact": "Greenland shark meat must ferment buried underground then hang-dry for months to eliminate toxic uric acid.",
+    "category": "Food",
+    "image": "fact_40731.jpg"
+  },
+  {
+    "id": "fact_40732",
+    "title": "The Asteroid Belt Contains Millions of Rocky Objects",
+    "fact": "Between Mars and Jupiter, millions of asteroids orbit the Sun, remnants from solar system formation 4.6 billion years ago.",
+    "category": "Space",
+    "image": "fact_40732.jpg"
+  },
+  {
+    "id": "fact_40733",
+    "title": "Quantum Key Distribution Detects Eavesdropping",
+    "fact": "Observing quantum states changes them, revealing any interception attempts on encrypted communication channels.",
+    "category": "Technology",
+    "image": "fact_40733.jpg"
+  },
+  {
+    "id": "fact_40734",
+    "title": "Your Trachea Has C-Shaped Cartilage Rings",
+    "fact": "These incomplete rings keep airways open while allowing esophagus to expand during swallowing behind the windpipe.",
+    "category": "Human Body",
+    "image": "fact_40734.jpg"
+  },
+  {
+    "id": "fact_40735",
+    "title": "The Great Dividing Range Parallels Australia's East Coast",
+    "fact": "Extending 2,300 miles from Queensland to Victoria, this mountain range influences climate and water distribution.",
+    "category": "Geography",
+    "image": "fact_40735.jpg"
+  },
+  {
+    "id": "fact_40736",
+    "title": "Cleaner Wrasse Fish Remove Parasites from Other Fish",
+    "fact": "These reef inhabitants operate 'cleaning stations' where client fish allow them to eat parasites and dead tissue.",
+    "category": "Animals",
+    "image": "fact_40736.jpg"
+  },
+  {
+    "id": "fact_40737",
+    "title": "The Marshall Plan Rebuilt Western Europe After WWII",
+    "fact": "America provided $13 billion ($150B today) from 1948-1952, preventing economic collapse and communist expansion.",
+    "category": "History",
+    "image": "fact_40737.jpg"
+  },
+  {
+    "id": "fact_40738",
+    "title": "Thermohaline Circulation Drives Ocean Currents Globally",
+    "fact": "Temperature and salinity differences create conveyor belt moving water across ocean basins over thousands of years.",
+    "category": "Nature",
+    "image": "fact_40738.jpg"
+  },
+  {
+    "id": "fact_40739",
+    "title": "Durian's Odor Contains 44 Active Volatile Compounds",
+    "fact": "Chemical analysis identifies sulfur compounds creating its notorious smell, described as rotting onions and gym socks.",
+    "category": "Food",
+    "image": "fact_40739.jpg"
+  },
+  {
+    "id": "fact_40740",
+    "title": "Pulsars Act as Cosmic Lighthouses",
+    "fact": "Rapidly spinning neutron stars emit focused radiation beams that sweep past Earth like lighthouse beams.",
+    "category": "Space",
+    "image": "fact_40740.jpg"
+  },
+  {
+    "id": "fact_40741",
+    "title": "Thermal Cameras Detect Infrared Radiation as Heat Signatures",
+    "fact": "Sensors convert invisible heat emissions into visible images, revealing temperature differences through false color.",
+    "category": "Technology",
+    "image": "fact_40741.jpg"
+  },
+  {
+    "id": "fact_40742",
+    "title": "Your Cochlea Contains 16,000 Hair Cells for Hearing",
+    "fact": "Tiny stereocilia in inner ear convert sound vibrations into electrical signals interpreted by auditory cortex.",
+    "category": "Human Body",
+    "image": "fact_40742.jpg"
+  },
+  {
+    "id": "fact_40743",
+    "title": "The Euphrates River Supported Mesopotamian Civilization",
+    "fact": "One of two rivers creating Fertile Crescent, enabling agriculture and cities including Babylon and Ur 6,000 years ago.",
+    "category": "Geography",
+    "image": "fact_40743.jpg"
+  },
+  {
+    "id": "fact_40744",
+    "title": "Cuttlefish Have Largest Brain-to-Body Ratio Among Invertebrates",
+    "fact": "Complex nervous systems enable problem-solving, memory, and sophisticated camouflage rivaling vertebrate intelligence.",
+    "category": "Animals",
+    "image": "fact_40744.jpg"
+  },
+  {
+    "id": "fact_40745",
+    "title": "The Space Shuttle Flew 135 Missions Over 30 Years",
+    "fact": "From 1981-2011, five orbiters carried astronauts and cargo to orbit, building ISS and launching Hubble Telescope.",
+    "category": "History",
+    "image": "fact_40745.jpg"
+  },
+  {
+    "id": "fact_40746",
+    "title": "Chemosynthesis Supports Deep-Sea Vent Ecosystems",
+    "fact": "Bacteria convert toxic hydrogen sulfide into energy, forming base of food webs in total darkness without sunlight.",
+    "category": "Nature",
+    "image": "fact_40746.jpg"
+  },
+  {
+    "id": "fact_40747",
+    "title": "Kopi Luwak Coffee Costs $600 Per Pound",
+    "fact": "Asian palm civets digest coffee cherries; enzymes reduce bitterness creating smooth flavor in world's most expensive coffee.",
+    "category": "Food",
+    "image": "fact_40747.jpg"
+  },
+  {
+    "id": "fact_40748",
+    "title": "The Drake Equation Estimates Intelligent Alien Civilizations",
+    "fact": "This formula multiplies factors like star formation rate and planet habitability to calculate detectable extraterrestrial life.",
+    "category": "Space",
+    "image": "fact_40748.jpg"
+  },
+  {
+    "id": "fact_40749",
+    "title": "E-Ink Displays Mimic Paper Using Electrophoresis",
+    "fact": "Charged pigment particles rearrange in microcapsules, creating readable displays without backlighting requiring minimal power.",
+    "category": "Technology",
+    "image": "fact_40749.jpg"
+  },
+  {
+    "id": "fact_40750",
+    "title": "Your Spleen Stores Platelets and Filters Blood",
+    "fact": "This fist-sized organ holds 30% of body's platelets, removes old blood cells, and helps fight infections.",
+    "category": "Human Body",
+    "image": "fact_40750.jpg"
+  },
+  {
+    "id": "fact_40751",
+    "title": "The Brahmaputra River Flows Through Three Countries",
+    "fact": "Originating in Tibet, this 1,800-mile river crosses China, India, and Bangladesh before joining the Ganges Delta.",
+    "category": "Geography",
+    "image": "fact_40751.jpg"
+  },
+  {
+    "id": "fact_40752",
+    "title": "Remora Fish Hitch Rides Using Suction Disk Heads",
+    "fact": "Modified dorsal fin creates powerful vacuum attaching to sharks, rays, and turtles while feeding on scraps.",
+    "category": "Animals",
+    "image": "fact_40752.jpg"
+  },
+  {
+    "id": "fact_40753",
+    "title": "The Cuban Missile Crisis Nearly Triggered Nuclear War",
+    "fact": "For 13 days in 1962, US-Soviet standoff over missiles in Cuba brought world closest to nuclear conflict.",
+    "category": "History",
+    "image": "fact_40753.jpg"
+  },
+  {
+    "id": "fact_40754",
+    "title": "Albedo Measures Surface Reflectivity of Sunlight",
+    "fact": "Ice reflects 80-90% of solar radiation while oceans absorb 94%, affecting global temperature regulation.",
+    "category": "Science",
+    "image": "fact_40754.jpg"
+  },
+  {
+    "id": "fact_40755",
+    "title": "Blood Sausage Contains Cooked Blood as Primary Ingredient",
+    "fact": "Found across cultures, these sausages combine pig or cattle blood with fat, grains, and spices for protein-rich food.",
+    "category": "Food",
+    "image": "fact_40755.jpg"
+  },
+  {
+    "id": "fact_40756",
+    "title": "Dyson Spheres Could Harvest Star's Entire Energy Output",
+    "fact": "Hypothetical megastructures surrounding stars might indicate advanced civilizations in SETI searches.",
+    "category": "Space",
+    "image": "fact_40756.jpg"
+  },
+  {
+    "id": "fact_40757",
+    "title": "Hydrogen Fuel Cells Combine Hydrogen and Oxygen",
+    "fact": "Electrochemical reaction produces electricity and water as only byproduct, offering clean energy alternative.",
+    "category": "Technology",
+    "image": "fact_40757.jpg"
+  },
+  {
+    "id": "fact_40758",
+    "title": "Your Eustachian Tubes Equalize Middle Ear Pressure",
+    "fact": "These passages connect ears to throat, opening during swallowing to balance pressure and prevent eardrum damage.",
+    "category": "Human Body",
+    "image": "fact_40758.jpg"
+  },
+  {
+    "id": "fact_40759",
+    "title": "The Lena River Freezes Solid for 7 Months Yearly",
+    "fact": "Siberia's largest river remains frozen October-May, with spring thaw creating massive ice jams and flooding.",
+    "category": "Geography",
+    "image": "fact_40759.jpg"
+  },
+  {
+    "id": "fact_40760",
+    "title": "Bombardier Beetles Spray Boiling Chemical Defense",
+    "fact": "Internal reaction chambers mix chemicals explosively ejecting 212°F spray accurately aimed at threats.",
+    "category": "Animals",
+    "image": "fact_40760.jpg"
+  },
+  {
+    "id": "fact_40761",
+    "title": "The Apollo 11 Computer Had 64KB of Memory",
+    "fact": "Modern smartphones have million times more memory than computers guiding first moon landing in 1969.",
+    "category": "History",
+    "image": "fact_40761.jpg"
+  },
+  {
+    "id": "fact_40762",
+    "title": "Mycorrhizal Networks Connect Forest Trees Underground",
+    "fact": "Fungal threads link tree roots enabling nutrient and information exchange across entire forests.",
+    "category": "Nature",
+    "image": "fact_40762.jpg"
+  },
+  {
+    "id": "fact_40763",
+    "title": "Pu-erh Tea Can Age for Decades Like Wine",
+    "fact": "This fermented Chinese tea improves with age, with vintage cakes from 1950s selling for thousands of dollars.",
+    "category": "Food",
+    "image": "fact_40763.jpg"
+  },
+  {
+    "id": "fact_40764",
+    "title": "The Andromeda Galaxy Contains 1 Trillion Stars",
+    "fact": "Our nearest major galactic neighbor contains 2-4 times more stars than Milky Way's 200-400 billion.",
+    "category": "Space",
+    "image": "fact_40764.jpg"
+  },
+  {
+    "id": "fact_40765",
+    "title": "Metamaterials Bend Light in Unnatural Ways",
+    "fact": "Engineered structures smaller than wavelengths create negative refractive index enabling invisibility cloaks.",
+    "category": "Technology",
+    "image": "fact_40765.jpg"
+  },
+  {
+    "id": "fact_40766",
+    "title": "Your Uvula Prevents Food from Entering Nasal Cavity",
+    "fact": "This dangling tissue helps close off nasopharynx during swallowing and contributes to speech sounds.",
+    "category": "Human Body",
+    "image": "fact_40766.jpg"
+  },
+  {
+    "id": "fact_40767",
+    "title": "The Ob River Is World's 7th Longest at 3,364 Miles",
+    "fact": "Flowing through Russia and Kazakhstan to Arctic Ocean, this Siberian river drains 1.15 million square miles.",
+    "category": "Geography",
+    "image": "fact_40767.jpg"
+  },
+  {
+    "id": "fact_40768",
+    "title": "Leafcutter Ants Have Distinct Castes with Specialized Roles",
+    "fact": "Colonies contain soldiers, foragers, gardeners, and waste managers working cooperatively with size-based division of labor.",
+    "category": "Animals",
+    "image": "fact_40768.jpg"
+  },
+  {
+    "id": "fact_40769",
+    "title": "The Berlin Airlift Supplied Blockaded City for 11 Months",
+    "fact": "Allied aircraft delivered 2.3 million tons of supplies during 1948-1949 Soviet blockade, averaging one flight every 30 seconds.",
+    "category": "History",
+    "image": "fact_40769.jpg"
+  },
+  {
+    "id": "fact_40770",
+    "title": "The Phosphorus Cycle Lacks Significant Atmospheric Component",
+    "fact": "Unlike carbon and nitrogen, phosphorus cycles mainly through rocks, soil, and water without gaseous phase.",
+    "category": "Science",
+    "image": "fact_40770.jpg"
+  },
+  {
+    "id": "fact_40771",
+    "title": "Ambergris from Sperm Whales Is Used in Perfumes",
+    "fact": "This waxy intestinal secretion forms around indigestible squid beaks, worth thousands per pound after ocean aging.",
+    "category": "Food",
+    "image": "fact_40771.jpg"
+  },
+  {
+    "id": "fact_40772",
+    "title": "The Hubble Constant Measures Universe's Expansion Rate",
+    "fact": "Galaxies recede at 70 km/s per megaparsec, though precise value remains debated among cosmologists.",
+    "category": "Space",
+    "image": "fact_40772.jpg"
+  },
+  {
+    "id": "fact_40773",
+    "title": "Photonic Computers Use Light Instead of Electrons",
+    "fact": "Optical computing promises vastly faster speeds with lower heat generation by manipulating photons for data processing.",
+    "category": "Technology",
+    "image": "fact_40773.jpg"
+  },
+  {
+    "id": "fact_40774",
+    "title": "Your Sartorius Is Your Longest Muscle",
+    "fact": "This thin thigh muscle stretches from hip to knee, enabling cross-legged sitting and measuring 50+ cm long.",
+    "category": "Human Body",
+    "image": "fact_40774.jpg"
+  },
+  {
+    "id": "fact_40775",
+    "title": "The Orange River Is South Africa's Longest",
+    "fact": "Flowing 1,367 miles from Lesotho to Atlantic Ocean, this river forms borders between several southern African nations.",
+    "category": "Geography",
+    "image": "fact_40775.jpg"
+  },
+  {
+    "id": "fact_40776",
+    "title": "Anglerfish Use Bioluminescent Lures to Attract Prey",
+    "fact": "Modified dorsal spine contains light-producing bacteria, dangling over mouth to entice curious fish in deep ocean darkness.",
+    "category": "Animals",
+    "image": "fact_40776.jpg"
+  },
+  {
+    "id": "fact_40777",
+    "title": "The Magna Carta Limited Royal Power in 1215",
+    "fact": "English barons forced King John to guarantee rights and due process, establishing foundation for constitutional government.",
+    "category": "History",
+    "image": "fact_40777.jpg"
+  },
+  {
+    "id": "fact_40778",
+    "title": "Gyres Circulate Ocean Water in Massive Loops",
+    "fact": "Wind-driven currents form five major gyres spanning entire ocean basins, affecting climate and marine ecosystems.",
+    "category": "Nature",
+    "image": "fact_40778.jpg"
+  },
+  {
+    "id": "fact_40779",
+    "title": "Century Eggs Turn Black and Translucent During Preservation",
+    "fact": "Alkaline clay coating transforms duck eggs over weeks-months, creating dramatic dark appearance and creamy texture.",
+    "category": "Food",
+    "image": "fact_40779.jpg"
+  },
+  {
+    "id": "fact_40780",
+    "title": "The Local Group Contains Over 50 Galaxies",
+    "fact": "Our galactic neighborhood spans 10 million light-years, dominated by Andromeda, Milky Way, and Triangulum galaxies.",
+    "category": "Space",
+    "image": "fact_40780.jpg"
+  },
+  {
+    "id": "fact_40781",
+    "title": "Memristors Remember Electrical History",
+    "fact": "These circuit elements retain memory of current flow even when powered off, revolutionizing computer memory architecture.",
+    "category": "Technology",
+    "image": "fact_40781.jpg"
+  },
+  {
+    "id": "fact_40782",
+    "title": "Your Pharynx Serves Both Respiratory and Digestive Systems",
+    "fact": "This muscular tube connects mouth and nose to esophagus and larynx, controlling passage of air and food.",
+    "category": "Human Body",
+    "image": "fact_40782.jpg"
+  },
+  {
+    "id": "fact_40783",
+    "title": "The Niger River Forms Unusual Boomerang Shape",
+    "fact": "Africa's third-longest river flows 2,600 miles in crescent arc through West Africa to Gulf of Guinea.",
+    "category": "Geography",
+    "image": "fact_40783.jpg"
+  },
+  {
+    "id": "fact_40784",
+    "title": "Archerfish Compensate for Light Refraction When Shooting",
+    "fact": "These fish calculate angle adjustments accounting for water-air boundary to accurately hit airborne insects.",
+    "category": "Animals",
+    "image": "fact_40784.jpg"
+  },
+  {
+    "id": "fact_40785",
+    "title": "The Fall of Rome Marked Medieval Period Beginning",
+    "fact": "Western Roman Empire's 476 CE collapse fragmented Europe into feudal kingdoms for next 1,000 years.",
+    "category": "History",
+    "image": "fact_40785.jpg"
+  },
+  {
+    "id": "fact_40786",
+    "title": "Succession Gradually Changes Ecosystem Composition",
+    "fact": "Pioneer species colonize bare land, altering conditions enabling progressively complex communities culminating in climax ecosystem.",
+    "category": "Nature",
+    "image": "fact_40786.jpg"
+  },
+  {
+    "id": "fact_40787",
+    "title": "Escargot Are Land Snails Prepared as French Delicacy",
+    "fact": "Helix pomatia snails are purged, cooked in garlic butter, and served in shells as traditional appetizer.",
+    "category": "Food",
+    "image": "fact_40787.jpg"
+  },
+  {
+    "id": "fact_40788",
+    "title": "The Cosmic Background Radiation Is Nearly Uniform",
+    "fact": "Temperature varies only 0.0002 degrees across sky, though tiny fluctuations seeded galaxy formation.",
+    "category": "Space",
+    "image": "fact_40788.jpg"
+  },
+  {
+    "id": "fact_40789",
+    "title": "Spintronics Uses Electron Spin for Data Storage",
+    "fact": "Exploiting quantum spin states alongside charge enables denser, faster, more energy-efficient electronic devices.",
+    "category": "Technology",
+    "image": "fact_40789.jpg"
+  },
+  {
+    "id": "fact_40790",
+    "title": "Your Mesenteric Arteries Supply Blood to Intestines",
+    "fact": "Superior and inferior mesenteric arteries deliver oxygenated blood to small and large intestines during digestion.",
+    "category": "Human Body",
+    "image": "fact_40790.jpg"
+  },
+  {
+    "id": "fact_40791",
+    "title": "The Parana River System Drains Much of South America",
+    "fact": "Second-longest South American river flows 3,032 miles through Brazil, Paraguay, and Argentina to Atlantic Ocean.",
+    "category": "Geography",
+    "image": "fact_40791.jpg"
+  },
+  {
+    "id": "fact_40792",
+    "title": "Electric Catfish Generate 350-Volt Discharges",
+    "fact": "African species produce strong shocks for defense and navigation in muddy waters using specialized organs.",
+    "category": "Animals",
+    "image": "fact_40792.jpg"
+  },
+  {
+    "id": "fact_40793",
+    "title": "The Treaty of Westphalia Ended Thirty Years' War",
+    "fact": "1648 agreements established state sovereignty principles and religious tolerance shaping modern international relations.",
+    "category": "History",
+    "image": "fact_40793.jpg"
+  },
+  {
+    "id": "fact_40794",
+    "title": "Keystone Species Have Disproportionate Ecosystem Impact",
+    "fact": "Removing these organisms causes dramatic changes affecting entire communities despite their relatively small numbers.",
+    "category": "Nature",
+    "image": "fact_40794.jpg"
+  },
+  {
+    "id": "fact_40795",
+    "title": "Bone Marrow Contributes to Hematopoietic Function",
+    "fact": "Red marrow produces all blood cells while yellow marrow stores fat, both essential for homeostasis.",
+    "category": "Food",
+    "image": "fact_40795.jpg"
+  },
+  {
+    "id": "fact_40796",
+    "title": "The Laniakea Supercluster Contains 100,000 Galaxies",
+    "fact": "Our galactic home spans 520 million light-years, containing Virgo Supercluster and neighboring galaxy groups.",
+    "category": "Space",
+    "image": "fact_40796.jpg"
+  },
+  {
+    "id": "fact_40797",
+    "title": "Neuromorphic Chips Mimic Brain Architecture",
+    "fact": "Processors with neural network hardware accelerate AI tasks while consuming fraction of traditional computer power.",
+    "category": "Technology",
+    "image": "fact_40797.jpg"
+  },
+  {
+    "id": "fact_40798",
+    "title": "Your Pyloric Sphincter Controls Stomach Emptying",
+    "fact": "This muscular valve regulates food passage from stomach to small intestine, opening periodically during digestion.",
+    "category": "Human Body",
+    "image": "fact_40798.jpg"
+  },
+  {
+    "id": "fact_40799",
+    "title": "The Irrawaddy River Is Myanmar's Economic Lifeline",
+    "fact": "Flowing 1,350 miles from Himalayas through Myanmar to Andaman Sea, supporting agriculture and transportation.",
+    "category": "Geography",
+    "image": "fact_40799.jpg"
+  },
+  {
+    "id": "fact_40800",
+    "title": "Mantis Shrimp Have 16 Color Receptors Versus Human's 3",
+    "fact": "Complex eyes detect UV, visible, and polarized light enabling color perception far exceeding human capabilities.",
+    "category": "Animals",
+    "image": "fact_40800.jpg"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "fact_40401",
+    "title": "Peacock Feathers Aren't Actually Blue—They Use Nanostructures",
+    "fact": "Peacock colors come from microscopic crystal structures that reflect specific wavelengths, not from pigments, creating iridescent effects.",
+    "category": "Animals",
+    "image": "fact_40401.jpg"
+  },
+  {
+    "id": "fact_40402",
+    "title": "Your Heart Beats 2.5 Billion Times in an Average Lifetime",
+    "fact": "Averaging 70 beats per minute for 75 years, the human heart completes approximately 2.5 billion contractions during a lifetime.",
+    "category": "Human Body",
+    "image": "fact_40402.jpg"
+  },
+  {
+    "id": "fact_40403",
+    "title": "Chocolate Was Used as Medicine in the 16th Century",
+    "fact": "European doctors prescribed chocolate to treat dozens of ailments including fever, heart pain, and digestive problems.",
+    "category": "Food",
+    "image": "fact_40403.jpg"
+  },
+  {
+    "id": "fact_40404",
+    "title": "The Oort Cloud Extends One Light-Year from the Sun",
+    "fact": "This spherical shell of icy objects surrounds our solar system, extending nearly a quarter of the distance to Proxima Centauri.",
+    "category": "Space",
+    "image": "fact_40404.jpg"
+  },
+  {
+    "id": "fact_40405",
+    "title": "WiFi Was Developed Using Black Hole Research",
+    "fact": "Australian radio-astronomer John O'Sullivan adapted techniques from searching for black hole radiation to create WiFi technology.",
+    "category": "Technology",
+    "image": "fact_40405.jpg"
+  },
+  {
+    "id": "fact_40406",
+    "title": "The Spanish Flu Killed More People Than World War I",
+    "fact": "The 1918 influenza pandemic killed an estimated 50 million people worldwide, far exceeding WWI's 17 million military and civilian deaths.",
+    "category": "History",
+    "image": "fact_40406.jpg"
+  },
+  {
+    "id": "fact_40407",
+    "title": "Komodo Dragons Can Reproduce Without Males Through Parthenogenesis",
+    "fact": "Female Komodo dragons can fertilize their own eggs in captivity, producing viable male offspring through asexual reproduction.",
+    "category": "Animals",
+    "image": "fact_40407.jpg"
+  },
+  {
+    "id": "fact_40408",
+    "title": "Mount Everest Is Growing Taller Every Year",
+    "fact": "Tectonic plate collision continues raising the Himalayas approximately 4 millimeters annually, adding 13 feet per century.",
+    "category": "Geography",
+    "image": "fact_40408.jpg"
+  },
+  {
+    "id": "fact_40409",
+    "title": "Photosynthesis Converts 100 Billion Tons of Carbon Annually",
+    "fact": "Plants and photosynthetic organisms convert roughly 100 billion tons of atmospheric carbon into organic compounds each year.",
+    "category": "Nature",
+    "image": "fact_40409.jpg"
+  },
+  {
+    "id": "fact_40410",
+    "title": "Your Brain Continues Developing Until Age 25",
+    "fact": "The prefrontal cortex, responsible for decision-making and impulse control, doesn't fully mature until the mid-twenties.",
+    "category": "Human Body",
+    "image": "fact_40410.jpg"
+  },
+  {
+    "id": "fact_40411",
+    "title": "Titanium Is As Strong As Steel But 45% Lighter",
+    "fact": "Titanium's exceptional strength-to-weight ratio makes it ideal for aerospace applications, medical implants, and high-performance equipment.",
+    "category": "Science",
+    "image": "fact_40411.jpg"
+  },
+  {
+    "id": "fact_40412",
+    "title": "Cows Have Best Friends and Get Stressed When Separated",
+    "fact": "Research shows cows form close bonds with specific herd members and experience elevated heart rates when separated from friends.",
+    "category": "Animals",
+    "image": "fact_40412.jpg"
+  },
+  {
+    "id": "fact_40413",
+    "title": "The Dead Sea Scrolls Survived 2,000 Years in Desert Caves",
+    "fact": "Discovered in 1947, these Jewish texts from 300 BCE to 100 CE were preserved by the Dead Sea's dry climate in Qumran caves.",
+    "category": "History",
+    "image": "fact_40413.jpg"
+  },
+  {
+    "id": "fact_40414",
+    "title": "Rogue Waves Can Exceed 100 Feet in Height",
+    "fact": "These spontaneous ocean waves form from constructive interference, reaching heights double surrounding waves and threatening ships.",
+    "category": "Nature",
+    "image": "fact_40414.jpg"
+  },
+  {
+    "id": "fact_40415",
+    "title": "Pomegranates Can Contain Over 600 Seeds",
+    "fact": "Each pomegranate fruit contains 200-1,400 seeds called arils, with most averaging 600, encased in translucent, juicy flesh.",
+    "category": "Food",
+    "image": "fact_40415.jpg"
+  },
+  {
+    "id": "fact_40416",
+    "title": "Betelgeuse Will Eventually Explode as a Supernova",
+    "fact": "This red supergiant is nearing death and could explode anytime in the next 100,000 years, becoming as bright as a full moon.",
+    "category": "Space",
+    "image": "fact_40416.jpg"
+  },
+  {
+    "id": "fact_40417",
+    "title": "Xerox Corporation Invented the Computer Mouse and GUI",
+    "fact": "Xerox PARC developed the graphical user interface and mouse in the 1970s, which Apple later commercialized in personal computers.",
+    "category": "Technology",
+    "image": "fact_40417.jpg"
+  },
+  {
+    "id": "fact_40418",
+    "title": "Your Stomach Acid Can Dissolve Razor Blades",
+    "fact": "Gastric acid's pH of 1-2 is strong enough to dissolve metal objects like razor blades given sufficient time exposure.",
+    "category": "Human Body",
+    "image": "fact_40418.jpg"
+  },
+  {
+    "id": "fact_40419",
+    "title": "Madagascar Has 5% of World's Species on 0.3% of Land",
+    "fact": "This island nation hosts extraordinary biodiversity with 90% endemic species found nowhere else, including all wild lemurs.",
+    "category": "Geography",
+    "image": "fact_40419.jpg"
+  },
+  {
+    "id": "fact_40420",
+    "title": "Cuttlefish Can Change Color While Sleeping",
+    "fact": "Cuttlefish display rapid color changes during REM sleep, possibly indicating they experience visual dreams like mammals.",
+    "category": "Animals",
+    "image": "fact_40420.jpg"
+  },
+  {
+    "id": "fact_40421",
+    "title": "Cleopatra Ruled Egypt Closer to the Moon Landing Than the Pyramids",
+    "fact": "Cleopatra lived 2,500 years after Giza's pyramids but only 2,000 years before Apollo 11, making her temporally closer to us.",
+    "category": "History",
+    "image": "fact_40421.jpg"
+  },
+  {
+    "id": "fact_40422",
+    "title": "Tsunamis Can Travel at Jet Speed Across Oceans",
+    "fact": "In deep ocean water, tsunami waves propagate at 500 mph—equivalent to jet aircraft—slowing and amplifying as they approach shore.",
+    "category": "Nature",
+    "image": "fact_40422.jpg"
+  },
+  {
+    "id": "fact_40423",
+    "title": "Asparagus Makes Urine Smell Due to Asparagusic Acid",
+    "fact": "Asparagus contains sulfur compounds that break down into volatile chemicals, creating distinctive urine odor within 15 minutes.",
+    "category": "Food",
+    "image": "fact_40423.jpg"
+  },
+  {
+    "id": "fact_40424",
+    "title": "Europa's Ocean May Contain Twice Earth's Water Volume",
+    "fact": "Jupiter's moon Europa likely harbors a global ocean beneath its icy crust containing 2-3 times more water than Earth.",
+    "category": "Space",
+    "image": "fact_40424.jpg"
+  },
+  {
+    "id": "fact_40425",
+    "title": "The First SMS Text Message Was Sent in 1992",
+    "fact": "Neil Papworth sent 'Merry Christmas' on December 3, 1992, initiating the texting revolution that now exceeds 23 billion messages daily.",
+    "category": "Technology",
+    "image": "fact_40425.jpg"
+  },
+  {
+    "id": "fact_40426",
+    "title": "Newborn Babies Can Support Their Own Weight When Grasping",
+    "fact": "The palmar grasp reflex is so strong that newborns can hang from a rod supporting their entire body weight temporarily.",
+    "category": "Human Body",
+    "image": "fact_40426.jpg"
+  },
+  {
+    "id": "fact_40427",
+    "title": "The Strait of Gibraltar Is Only 8 Miles Wide",
+    "fact": "Europe and Africa are separated by just 13 kilometers at the Strait's narrowest point, connecting the Atlantic and Mediterranean.",
+    "category": "Geography",
+    "image": "fact_40427.jpg"
+  },
+  {
+    "id": "fact_40428",
+    "title": "Mantis Shrimp See 12-16 Color Channels Versus Human's 3",
+    "fact": "Mantis shrimp eyes contain 12-16 photoreceptor types compared to humans' three, perceiving ultraviolet and polarized light.",
+    "category": "Animals",
+    "image": "fact_40428.jpg"
+  },
+  {
+    "id": "fact_40429",
+    "title": "The Sistine Chapel Took Michelangelo 4 Years to Paint",
+    "fact": "From 1508-1512, Michelangelo painted 12,000 square feet of chapel ceiling frescoes, often working on his back on scaffolding.",
+    "category": "History",
+    "image": "fact_40429.jpg"
+  },
+  {
+    "id": "fact_40430",
+    "title": "Ball Lightning Is a Rare Atmospheric Electrical Phenomenon",
+    "fact": "These mysterious glowing spheres float through air during thunderstorms, lasting seconds to minutes before disappearing.",
+    "category": "Nature",
+    "image": "fact_40430.jpg"
+  },
+  {
+    "id": "fact_40431",
+    "title": "Dragon Fruit Grows on Climbing Cacti",
+    "fact": "This vibrant tropical fruit comes from Hylocereus cacti that climb trees and walls using aerial roots to reach sunlight.",
+    "category": "Food",
+    "image": "fact_40431.jpg"
+  },
+  {
+    "id": "fact_40432",
+    "title": "Neutron Stars Spin 700 Times Per Second",
+    "fact": "Pulsar PSR J1748-2446ad rotates 716 times per second, the fastest-spinning known object with equatorial surface speed at 24% light speed.",
+    "category": "Space",
+    "image": "fact_40432.jpg"
+  },
+  {
+    "id": "fact_40433",
+    "title": "Velcro Was Invented by Observing Burrs on Dogs",
+    "fact": "Swiss engineer George de Mestral created Velcro in 1941 after examining burrs stuck in his dog's fur under a microscope.",
+    "category": "Technology",
+    "image": "fact_40433.jpg"
+  },
+  {
+    "id": "fact_40434",
+    "title": "Your Hair Grows Approximately 6 Inches Per Year",
+    "fact": "Scalp hair grows about 0.5 inches monthly, though genetics, age, and health significantly affect individual growth rates.",
+    "category": "Human Body",
+    "image": "fact_40434.jpg"
+  },
+  {
+    "id": "fact_40435",
+    "title": "Finland Has 188,000 Lakes Within Its Borders",
+    "fact": "Lakes cover 10% of Finland's surface area, earning it the nickname 'Land of a Thousand Lakes' despite having far more.",
+    "category": "Geography",
+    "image": "fact_40435.jpg"
+  },
+  {
+    "id": "fact_40436",
+    "title": "Elephants Can Detect Seismic Signals Through Their Feet",
+    "fact": "Elephants sense vibrations traveling through ground using specialized pressure sensors in their feet, communicating over miles.",
+    "category": "Animals",
+    "image": "fact_40436.jpg"
+  },
+  {
+    "id": "fact_40437",
+    "title": "The Black Death Killed 30-60% of Europe's Population",
+    "fact": "Between 1347-1353, bubonic plague devastated Europe, killing an estimated 75-200 million people across Eurasia.",
+    "category": "History",
+    "image": "fact_40437.jpg"
+  },
+  {
+    "id": "fact_40438",
+    "title": "Supercells Can Sustain Tornadoes for Hours",
+    "fact": "These rotating thunderstorms can persist for hours, spawning multiple tornadoes and producing baseball-sized hail.",
+    "category": "Nature",
+    "image": "fact_40438.jpg"
+  },
+  {
+    "id": "fact_40439",
+    "title": "Pineapples Take 18-24 Months to Produce One Fruit",
+    "fact": "Each pineapple plant requires nearly two years of growth to produce a single fruit, then dies after fruiting.",
+    "category": "Food",
+    "image": "fact_40439.jpg"
+  },
+  {
+    "id": "fact_40440",
+    "title": "The Hubble Deep Field Contains 3,000 Galaxies",
+    "fact": "A 10-day exposure of a tiny sky patch revealed 3,000 galaxies in what appeared empty space, showing universe's vast density.",
+    "category": "Space",
+    "image": "fact_40440.jpg"
+  },
+  {
+    "id": "fact_40441",
+    "title": "ARPANET Sent Its First Message in 1969",
+    "fact": "The Internet's predecessor transmitted 'LOGIN' between UCLA and Stanford on October 29, 1969, though it crashed after 'LO'.",
+    "category": "Technology",
+    "image": "fact_40441.jpg"
+  },
+  {
+    "id": "fact_40442",
+    "title": "Your Kidneys Filter 200 Quarts of Blood Daily",
+    "fact": "Kidneys process your entire blood volume 40 times daily, removing waste while balancing electrolytes and fluid levels.",
+    "category": "Human Body",
+    "image": "fact_40442.jpg"
+  },
+  {
+    "id": "fact_40443",
+    "title": "The Sahara Desert Grows 10% Per Decade",
+    "fact": "Climate change and overgrazing cause the Sahara to expand southward approximately 48 kilometers per year.",
+    "category": "Geography",
+    "image": "fact_40443.jpg"
+  },
+  {
+    "id": "fact_40444",
+    "title": "Octopuses Can Taste What They Touch",
+    "fact": "Suction cups on octopus arms contain chemoreceptors that taste objects upon contact, enabling simultaneous touch and taste.",
+    "category": "Animals",
+    "image": "fact_40444.jpg"
+  },
+  {
+    "id": "fact_40445",
+    "title": "The Great Fire of London Destroyed 13,200 Houses",
+    "fact": "In 1666, fire consumed 87 churches and 13,200 homes over four days, but remarkably killed only six verified people.",
+    "category": "History",
+    "image": "fact_40445.jpg"
+  },
+  {
+    "id": "fact_40446",
+    "title": "Permafrost Contains 1,500 Billion Tons of Carbon",
+    "fact": "Frozen Arctic soils store twice as much carbon as Earth's atmosphere, threatening massive release as temperatures rise.",
+    "category": "Nature",
+    "image": "fact_40446.jpg"
+  },
+  {
+    "id": "fact_40447",
+    "title": "Salmon Can Navigate Using Earth's Magnetic Field",
+    "fact": "Salmon imprint magnetic field signatures of their birthplace, using this internal compass to return years later for spawning.",
+    "category": "Animals",
+    "image": "fact_40447.jpg"
+  },
+  {
+    "id": "fact_40448",
+    "title": "Potatoes Were First Domesticated 7,000-10,000 Years Ago",
+    "fact": "Indigenous peoples in Peru and Bolivia cultivated potatoes between 8000-5000 BCE, later becoming a global staple food.",
+    "category": "Food",
+    "image": "fact_40448.jpg"
+  },
+  {
+    "id": "fact_40449",
+    "title": "The Andromeda Galaxy Contains One Trillion Stars",
+    "fact": "Our nearest major galactic neighbor contains 2-4 times more stars than the Milky Way's 200-400 billion stars.",
+    "category": "Space",
+    "image": "fact_40449.jpg"
+  },
+  {
+    "id": "fact_40450",
+    "title": "Lithium-Ion Batteries Power Most Modern Electronics",
+    "fact": "Invented in 1991, these rechargeable batteries enabled smartphone revolution through high energy density and long lifespan.",
+    "category": "Technology",
+    "image": "fact_40450.jpg"
+  },
+  {
+    "id": "fact_40451",
+    "title": "Your Body Contains Enough Phosphorus for 2,200 Match Heads",
+    "fact": "The average adult body contains about 750 grams of phosphorus, primarily in bones and teeth as calcium phosphate.",
+    "category": "Human Body",
+    "image": "fact_40451.jpg"
+  },
+  {
+    "id": "fact_40452",
+    "title": "The Ring of Fire Contains 75% of Active Volcanoes",
+    "fact": "This 25,000-mile Pacific Ocean horseshoe hosts 452 volcanoes and 90% of Earth's earthquakes along tectonic boundaries.",
+    "category": "Geography",
+    "image": "fact_40452.jpg"
+  },
+  {
+    "id": "fact_40453",
+    "title": "Wolves Mate for Life and Mourn Lost Partners",
+    "fact": "Wolf pairs form monogamous bonds, with surviving mates showing signs of grief including howling and refusing to eat.",
+    "category": "Animals",
+    "image": "fact_40453.jpg"
+  },
+  {
+    "id": "fact_40454",
+    "title": "The Panama Canal Shortened Shipping Routes by 8,000 Miles",
+    "fact": "Opened in 1914, the canal eliminated the need to sail around South America, saving weeks of transit time.",
+    "category": "History",
+    "image": "fact_40454.jpg"
+  },
+  {
+    "id": "fact_40455",
+    "title": "Bioluminescent Bays Glow Blue When Water Is Disturbed",
+    "fact": "Dinoflagellate plankton emit blue light when agitated, creating glowing trails behind boats and swimmers in certain bays.",
+    "category": "Nature",
+    "image": "fact_40455.jpg"
+  },
+  {
+    "id": "fact_40456",
+    "title": "Oysters Can Change Gender Multiple Times",
+    "fact": "These mollusks are sequential hermaphrodites, alternating between male and female based on environmental conditions.",
+    "category": "Food",
+    "image": "fact_40456.jpg"
+  },
+  {
+    "id": "fact_40457",
+    "title": "The Cosmic Microwave Background Is -454°F",
+    "fact": "Residual Big Bang radiation fills space at 2.7 Kelvin (-270°C), providing evidence for universe's hot, dense origin.",
+    "category": "Space",
+    "image": "fact_40457.jpg"
+  },
+  {
+    "id": "fact_40458",
+    "title": "Penicillin Was Discovered Accidentally in 1928",
+    "fact": "Alexander Fleming noticed Penicillium mold killed bacteria in a contaminated petri dish, revolutionizing medicine with first antibiotic.",
+    "category": "Science",
+    "image": "fact_40458.jpg"
+  },
+  {
+    "id": "fact_40459",
+    "title": "Your Jaw Muscles Exert 200 Pounds of Force",
+    "fact": "Masseter muscles can generate up to 200 PSI of bite force, though humans rarely use maximum strength when chewing.",
+    "category": "Human Body",
+    "image": "fact_40459.jpg"
+  },
+  {
+    "id": "fact_40460",
+    "title": "Lake Titicaca Is the Highest Navigable Lake at 12,507 Feet",
+    "fact": "Straddling Peru and Bolivia, this massive lake sits nearly 2.5 miles above sea level in the Andes Mountains.",
+    "category": "Geography",
+    "image": "fact_40460.jpg"
+  },
+  {
+    "id": "fact_40461",
+    "title": "Monarch Butterfly Migrations Span Four Generations",
+    "fact": "The annual 3,000-mile migration requires four successive generations, with only the fourth generation making the return journey.",
+    "category": "Animals",
+    "image": "fact_40461.jpg"
+  },
+  {
+    "id": "fact_40462",
+    "title": "The Wright Brothers' First Flight Was Shorter Than a Boeing 747",
+    "fact": "The 1903 flight traveled 120 feet—less than half a 747's 232-foot wingspan—showing aviation's rapid advancement.",
+    "category": "History",
+    "image": "fact_40462.jpg"
+  },
+  {
+    "id": "fact_40463",
+    "title": "Waterspouts Are Tornadoes That Form Over Water",
+    "fact": "These rotating columns of air form over oceans and lakes, sometimes moving onshore to become traditional tornadoes.",
+    "category": "Nature",
+    "image": "fact_40463.jpg"
+  },
+  {
+    "id": "fact_40464",
+    "title": "Olive Trees Can Live for 2,000 Years",
+    "fact": "Ancient olive trees in Mediterranean regions continue producing fruit after two millennia, with some exceeding 3,000 years old.",
+    "category": "Food",
+    "image": "fact_40464.jpg"
+  },
+  {
+    "id": "fact_40465",
+    "title": "Enceladus Shoots Water Jets Into Space",
+    "fact": "Saturn's moon Enceladus ejects water vapor plumes from subsurface ocean through ice cracks, suggesting potential for life.",
+    "category": "Space",
+    "image": "fact_40465.jpg"
+  },
+  {
+    "id": "fact_40466",
+    "title": "MRI Machines Use Magnetic Fields 60,000 Times Earth's",
+    "fact": "Medical MRI scanners generate 1.5-3 Tesla magnetic fields, vastly exceeding Earth's 50 microtesla field to image soft tissues.",
+    "category": "Technology",
+    "image": "fact_40466.jpg"
+  },
+  {
+    "id": "fact_40467",
+    "title": "Your Ears Never Stop Growing Throughout Life",
+    "fact": "Ear cartilage and skin continue growing due to gravity and ongoing cell production, expanding approximately 0.22mm yearly.",
+    "category": "Human Body",
+    "image": "fact_40467.jpg"
+  },
+  {
+    "id": "fact_40468",
+    "title": "The Ural Mountains Divide Europe and Asia",
+    "fact": "This 1,550-mile mountain range forms the traditional continental boundary between Europe and Asia in Russia.",
+    "category": "Geography",
+    "image": "fact_40468.jpg"
+  },
+  {
+    "id": "fact_40469",
+    "title": "Platypuses Are One of Five Egg-Laying Mammals",
+    "fact": "Monotremes including platypuses and four echidna species are the only mammals that lay eggs instead of giving live birth.",
+    "category": "Animals",
+    "image": "fact_40469.jpg"
+  },
+  {
+    "id": "fact_40470",
+    "title": "Stonehenge Was Built Over 1,500 Years",
+    "fact": "Construction occurred in multiple phases from 3000-1500 BCE, with massive sarsen stones transported 25 miles to the site.",
+    "category": "History",
+    "image": "fact_40470.jpg"
+  },
+  {
+    "id": "fact_40471",
+    "title": "Fog Is Simply a Cloud Touching the Ground",
+    "fact": "When air temperature drops to dew point near Earth's surface, water vapor condenses into fog—essentially low-altitude clouds.",
+    "category": "Nature",
+    "image": "fact_40471.jpg"
+  },
+  {
+    "id": "fact_40472",
+    "title": "Saffron Requires 75,000 Flowers for One Pound",
+    "fact": "Each crocus flower yields three stigmas, requiring 75,000 hand-harvested flowers to produce one pound of saffron spice.",
+    "category": "Food",
+    "image": "fact_40472.jpg"
+  },
+  {
+    "id": "fact_40473",
+    "title": "The Observable Universe Is 93 Billion Light-Years Across",
+    "fact": "Despite being 13.8 billion years old, cosmic expansion stretched the observable universe to 93 billion light-years in diameter.",
+    "category": "Space",
+    "image": "fact_40473.jpg"
+  },
+  {
+    "id": "fact_40474",
+    "title": "Holograms Store 3D Information on 2D Surfaces",
+    "fact": "Holographic technology records light interference patterns, reconstructing three-dimensional images from flat photographic plates.",
+    "category": "Technology",
+    "image": "fact_40474.jpg"
+  },
+  {
+    "id": "fact_40475",
+    "title": "Your Spleen Filters Old Red Blood Cells",
+    "fact": "This organ removes worn-out erythrocytes, recycles iron, and stores platelets while fighting certain infections.",
+    "category": "Human Body",
+    "image": "fact_40475.jpg"
+  },
+  {
+    "id": "fact_40476",
+    "title": "Chile Is 2,670 Miles Long But Only 110 Miles Wide",
+    "fact": "This extremely narrow nation stretches along South America's Pacific coast with an average width of just 177 kilometers.",
+    "category": "Geography",
+    "image": "fact_40476.jpg"
+  },
+  {
+    "id": "fact_40477",
+    "title": "Hummingbirds Remember Every Flower They've Visited",
+    "fact": "These birds possess exceptional spatial memory, tracking which flowers they've fed from and when nectar will replenish.",
+    "category": "Animals",
+    "image": "fact_40477.jpg"
+  },
+  {
+    "id": "fact_40478",
+    "title": "The Suez Canal Took 10 Years to Construct",
+    "fact": "Built 1859-1869, this 120-mile waterway connects Mediterranean and Red Seas, eliminating Africa circumnavigation for trade.",
+    "category": "History",
+    "image": "fact_40478.jpg"
+  },
+  {
+    "id": "fact_40479",
+    "title": "Geysers Erupt When Underground Water Reaches 400°F",
+    "fact": "Superheated groundwater under pressure explosively vaporizes, shooting steam and water hundreds of feet into air.",
+    "category": "Nature",
+    "image": "fact_40479.jpg"
+  },
+  {
+    "id": "fact_40480",
+    "title": "Marshmallows Were Originally Made from Marsh Mallow Plant",
+    "fact": "Ancient Egyptians made candy from Althaea officinalis root sap; modern marshmallows use gelatin instead of plant extract.",
+    "category": "Food",
+    "image": "fact_40480.jpg"
+  },
+  {
+    "id": "fact_40481",
+    "title": "Brown Dwarfs Are Failed Stars Too Small to Fuse Hydrogen",
+    "fact": "These substellar objects have 13-80 Jupiter masses—insufficient gravity to sustain hydrogen fusion like true stars.",
+    "category": "Space",
+    "image": "fact_40481.jpg"
+  },
+  {
+    "id": "fact_40482",
+    "title": "LED Bulbs Use 90% Less Energy Than Incandescent",
+    "fact": "Light-emitting diodes convert electricity to light far more efficiently, lasting 25 times longer than traditional bulbs.",
+    "category": "Technology",
+    "image": "fact_40482.jpg"
+  },
+  {
+    "id": "fact_40483",
+    "title": "Your Fingernails Grow Four Times Faster Than Toenails",
+    "fact": "Fingernails grow 3.5mm monthly while toenails grow 1.6mm, possibly due to better circulation and more frequent use.",
+    "category": "Human Body",
+    "image": "fact_40483.jpg"
+  },
+  {
+    "id": "fact_40484",
+    "title": "The Sundarbans Is the Largest Mangrove Forest",
+    "fact": "Spanning Bangladesh and India, this 10,000 square kilometer ecosystem hosts Bengal tigers and protects coasts from cyclones.",
+    "category": "Geography",
+    "image": "fact_40484.jpg"
+  },
+  {
+    "id": "fact_40485",
+    "title": "Chameleons' Tongues Accelerate at 264g Force",
+    "fact": "These lizards launch tongues at prey in 0.07 seconds, generating acceleration forces exceeding fighter jet pilots' tolerance.",
+    "category": "Animals",
+    "image": "fact_40485.jpg"
+  },
+  {
+    "id": "fact_40486",
+    "title": "The First Calculator Was Invented in 1642",
+    "fact": "Blaise Pascal created the mechanical calculator 'Pascaline' using gears and wheels to perform addition and subtraction.",
+    "category": "History",
+    "image": "fact_40486.jpg"
+  },
+  {
+    "id": "fact_40487",
+    "title": "Ice Ages Cycle Every 100,000 Years",
+    "fact": "Milankovitch cycles of Earth's orbit cause periodic ice ages, with interglacial warm periods lasting 10,000-15,000 years.",
+    "category": "Nature",
+    "image": "fact_40487.jpg"
+  },
+  {
+    "id": "fact_40488",
+    "title": "Coconuts Can Float Across Oceans for Months",
+    "fact": "Waterproof husks and buoyant fiber allow coconuts to drift 3,000 miles across oceans while remaining viable for germination.",
+    "category": "Food",
+    "image": "fact_40488.jpg"
+  },
+  {
+    "id": "fact_40489",
+    "title": "Magnetars Have the Universe's Strongest Magnetic Fields",
+    "fact": "These neutron stars generate fields 1,000 trillion times Earth's, strong enough to disintegrate atoms from 1,000 miles away.",
+    "category": "Space",
+    "image": "fact_40489.jpg"
+  },
+  {
+    "id": "fact_40490",
+    "title": "Fiber Optic Cables Can Transmit 100 Terabits Per Second",
+    "fact": "Modern optical fiber achieves 100+ Tbps using wavelength division multiplexing, carrying millions of simultaneous conversations.",
+    "category": "Technology",
+    "image": "fact_40490.jpg"
+  },
+  {
+    "id": "fact_40491",
+    "title": "Your Sense of Smell Is Directly Linked to Memory",
+    "fact": "Olfactory bulbs connect to hippocampus and amygdala, making scents powerful memory and emotion triggers.",
+    "category": "Human Body",
+    "image": "fact_40491.jpg"
+  },
+  {
+    "id": "fact_40492",
+    "title": "New Zealand Was the Last Habitable Land Discovered",
+    "fact": "Polynesians reached New Zealand around 1300 CE, making it the final temperate landmass settled by humans.",
+    "category": "Geography",
+    "image": "fact_40492.jpg"
+  },
+  {
+    "id": "fact_40493",
+    "title": "Archerfish Shoot Water Jets to Knock Down Insects",
+    "fact": "These fish accurately shoot water streams up to 10 feet high, compensating for refraction to hit airborne prey.",
+    "category": "Animals",
+    "image": "fact_40493.jpg"
+  },
+  {
+    "id": "fact_40494",
+    "title": "The Printing Press Spread Reformation Ideas Across Europe",
+    "fact": "Gutenberg's invention enabled mass production of Martin Luther's 95 Theses, accelerating Protestant Reformation spread.",
+    "category": "History",
+    "image": "fact_40494.jpg"
+  },
+  {
+    "id": "fact_40495",
+    "title": "Deserts Receive Less Than 10 Inches of Rain Annually",
+    "fact": "Arid regions getting under 250mm precipitation yearly cover 33% of Earth's land surface, supporting specialized ecosystems.",
+    "category": "Nature",
+    "image": "fact_40495.jpg"
+  },
+  {
+    "id": "fact_40496",
+    "title": "Hákarl Is Fermented Shark Buried for Months",
+    "fact": "This Icelandic delicacy involves burying Greenland shark to ferment for 6-12 weeks, neutralizing toxic uric acid.",
+    "category": "Food",
+    "image": "fact_40496.jpg"
+  },
+  {
+    "id": "fact_40497",
+    "title": "The Sun Will Expand Into a Red Giant in 5 Billion Years",
+    "fact": "As hydrogen depletes, our Sun will swell to 100 times its current size, engulfing Mercury, Venus, and possibly Earth.",
+    "category": "Space",
+    "image": "fact_40497.jpg"
+  },
+  {
+    "id": "fact_40498",
+    "title": "Transistor Count Doubled Every Two Years for 50 Years",
+    "fact": "Moore's Law accurately predicted exponential growth from 2,300 transistors in 1971 to 50 billion in 2020 processors.",
+    "category": "Technology",
+    "image": "fact_40498.jpg"
+  },
+  {
+    "id": "fact_40499",
+    "title": "Hiccups Serve No Known Biological Purpose",
+    "fact": "Involuntary diaphragm contractions followed by glottis closure create hiccups—an evolutionary remnant possibly from amphibian ancestors.",
+    "category": "Human Body",
+    "image": "fact_40499.jpg"
+  },
+  {
+    "id": "fact_40500",
+    "title": "Bhutan Measures Gross National Happiness Over GDP",
+    "fact": "This Himalayan kingdom officially prioritizes citizen wellbeing and environmental conservation over economic growth metrics.",
+    "category": "Geography",
+    "image": "fact_40500.jpg"
+  }
+]

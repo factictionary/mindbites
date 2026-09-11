@@ -1,0 +1,702 @@
+[
+  {
+    "id": "fact_40801",
+    "title": "Your Cerebral Cortex Is 2-4mm Thick",
+    "fact": "This thin outer brain layer contains 14-16 billion neurons responsible for consciousness, thought, and voluntary movement.",
+    "category": "Human Body",
+    "image": "fact_40801.jpg"
+  },
+  {
+    "id": "fact_40802",
+    "title": "Hagfish Produce Liters of Slime for Defense",
+    "fact": "These primitive fish release mucus that expands 10,000 times, clogging predator gills within milliseconds.",
+    "category": "Animals",
+    "image": "fact_40802.jpg"
+  },
+  {
+    "id": "fact_40803",
+    "title": "Maillard Reaction Creates Browned Food Flavors",
+    "fact": "Amino acids and sugars react under heat producing hundreds of flavor compounds and brown color in cooked foods.",
+    "category": "Food",
+    "image": "fact_40803.jpg"
+  },
+  {
+    "id": "fact_40804",
+    "title": "White Holes Are Theoretical Opposites of Black Holes",
+    "fact": "These hypothetical regions would expel matter and light rather than consuming them, never observed in nature.",
+    "category": "Space",
+    "image": "fact_40804.jpg"
+  },
+  {
+    "id": "fact_40805",
+    "title": "Quantum Dots Enable Precise Display Colors",
+    "fact": "Semiconductor nanocrystals emit specific wavelengths based on size, creating wider color gamut in modern screens.",
+    "category": "Technology",
+    "image": "fact_40805.jpg"
+  },
+  {
+    "id": "fact_40806",
+    "title": "The Peloponnesian War Lasted 27 Years",
+    "fact": "Athens and Sparta fought 431-404 BCE, fundamentally weakening Greek city-states and enabling Macedonian conquest.",
+    "category": "History",
+    "image": "fact_40806.jpg"
+  },
+  {
+    "id": "fact_40807",
+    "title": "Tardigrades Can Survive 30 Years Without Food",
+    "fact": "These microscopic animals enter cryptobiosis, suspending metabolism indefinitely until favorable conditions return.",
+    "category": "Animals",
+    "image": "fact_40807.jpg"
+  },
+  {
+    "id": "fact_40808",
+    "title": "The Tarim Basin Contains China's Largest Desert",
+    "fact": "Taklamakan Desert covers 130,000 square miles in this endorheic basin surrounded by Himalayan mountain ranges.",
+    "category": "Geography",
+    "image": "fact_40808.jpg"
+  },
+  {
+    "id": "fact_40809",
+    "title": "Osmosis Moves Water Across Semipermeable Membranes",
+    "fact": "Water diffuses from low to high solute concentration until equilibrium, fundamental to cellular function.",
+    "category": "Science",
+    "image": "fact_40809.jpg"
+  },
+  {
+    "id": "fact_40810",
+    "title": "Your Ileum Absorbs Vitamin B12 and Bile Salts",
+    "fact": "The final small intestine section contains specialized receptors for these essential molecules before waste enters colon.",
+    "category": "Human Body",
+    "image": "fact_40810.jpg"
+  },
+  {
+    "id": "fact_40811",
+    "title": "Piezoelectric Materials Generate Electricity from Pressure",
+    "fact": "Mechanical stress on certain crystals produces voltage, enabling sensors, igniters, and energy harvesting devices.",
+    "category": "Science",
+    "image": "fact_40811.jpg"
+  },
+  {
+    "id": "fact_40812",
+    "title": "Pistol Shrimp Colonies Have Queens Like Ants",
+    "fact": "Some species form eusocial groups with reproductive queens and non-breeding workers, rare among marine animals.",
+    "category": "Animals",
+    "image": "fact_40812.jpg"
+  },
+  {
+    "id": "fact_40813",
+    "title": "The Opium Wars Forced China to Open Trade",
+    "fact": "British military victories in 1839-1842 and 1856-1860 imposed unequal treaties ending Chinese trade restrictions.",
+    "category": "History",
+    "image": "fact_40813.jpg"
+  },
+  {
+    "id": "fact_40814",
+    "title": "Trophic Cascades Occur When Apex Predators Disappear",
+    "fact": "Removing top predators causes ecosystem-wide changes as prey populations explode affecting vegetation and lower trophic levels.",
+    "category": "Nature",
+    "image": "fact_40814.jpg"
+  },
+  {
+    "id": "fact_40815",
+    "title": "Capers Are Pickled Flower Buds",
+    "fact": "Unopened buds from Capparis spinosa shrubs are brined or salted creating tangy Mediterranean condiment.",
+    "category": "Food",
+    "image": "fact_40815.jpg"
+  },
+  {
+    "id": "fact_40816",
+    "title": "The Cosmic Microwave Background Has 2.7 Kelvin Temperature",
+    "fact": "Residual Big Bang radiation fills universe at -270°C, providing evidence for hot dense origin 13.8 billion years ago.",
+    "category": "Space",
+    "image": "fact_40816.jpg"
+  },
+  {
+    "id": "fact_40817",
+    "title": "LiDAR Uses Laser Pulses to Map 3D Environments",
+    "fact": "Light detection and ranging measures distance by timing reflected laser light, enabling autonomous vehicle navigation.",
+    "category": "Technology",
+    "image": "fact_40817.jpg"
+  },
+  {
+    "id": "fact_40818",
+    "title": "Your Prostate Gland Produces Seminal Fluid",
+    "fact": "This walnut-sized gland secretes alkaline fluid neutralizing vaginal acidity and providing nutrients for sperm.",
+    "category": "Human Body",
+    "image": "fact_40818.jpg"
+  },
+  {
+    "id": "fact_40819",
+    "title": "The Colorado River Carved Grand Canyon Over 6 Million Years",
+    "fact": "This 1,450-mile river flows through seven US states, creating iconic mile-deep canyon through steady erosion.",
+    "category": "Geography",
+    "image": "fact_40819.jpg"
+  },
+  {
+    "id": "fact_40820",
+    "title": "Cuttlefish Can Change Color While Colorblind",
+    "fact": "Despite lacking color vision, these cephalopods perfectly match surroundings using skin light sensors independent of eyes.",
+    "category": "Animals",
+    "image": "fact_40820.jpg"
+  },
+  {
+    "id": "fact_40821",
+    "title": "The Qin Dynasty United China in 221 BCE",
+    "fact": "Emperor Qin Shi Huang standardized writing, currency, and measurements while building Great Wall foundations.",
+    "category": "History",
+    "image": "fact_40821.jpg"
+  },
+  {
+    "id": "fact_40822",
+    "title": "Phytoplankton Produce 50% of Earth's Oxygen",
+    "fact": "Microscopic marine algae photosynthesize more oxygen than all terrestrial plants combined, supporting ocean food webs.",
+    "category": "Nature",
+    "image": "fact_40822.jpg"
+  },
+  {
+    "id": "fact_40823",
+    "title": "Kimchi Contains Over 100 Different Lactic Acid Bacteria",
+    "fact": "This fermented vegetable provides probiotics, vitamins, and has been shown to have anti-cancer properties.",
+    "category": "Food",
+    "image": "fact_40823.jpg"
+  },
+  {
+    "id": "fact_40824",
+    "title": "The Multiverse Theory Suggests Infinite Parallel Universes",
+    "fact": "Quantum mechanics and inflation theory imply countless universes with different physical laws and constants.",
+    "category": "Space",
+    "image": "fact_40824.jpg"
+  },
+  {
+    "id": "fact_40825",
+    "title": "Perovskite Solar Cells Achieve 25% Efficiency",
+    "fact": "These low-cost materials rival silicon panels while enabling flexible, lightweight solar applications.",
+    "category": "Technology",
+    "image": "fact_40825.jpg"
+  },
+  {
+    "id": "fact_40826",
+    "title": "Your Basal Ganglia Coordinate Voluntary Movement",
+    "fact": "These deep brain nuclei regulate motor control, habits, and reward processing through dopamine signaling.",
+    "category": "Human Body",
+    "image": "fact_40826.jpg"
+  },
+  {
+    "id": "fact_40827",
+    "title": "The Yukon River Flows 1,980 Miles to Bering Sea",
+    "fact": "Canada's longest river drains much of Yukon Territory and Alaska, freezing solid October through May.",
+    "category": "Geography",
+    "image": "fact_40827.jpg"
+  },
+  {
+    "id": "fact_40828",
+    "title": "Goblin Sharks Have Extendable Jaws",
+    "fact": "These deep-sea predators project jaws forward to catch prey, earning 'alien shark' nickname from appearance.",
+    "category": "Animals",
+    "image": "fact_40828.jpg"
+  },
+  {
+    "id": "fact_40829",
+    "title": "The Treaty of Tordesillas Divided New World Between Spain and Portugal",
+    "fact": "Pope mediated 1494 agreement splitting Americas along meridian, explaining why Brazil speaks Portuguese.",
+    "category": "History",
+    "image": "fact_40829.jpg"
+  },
+  {
+    "id": "fact_40830",
+    "title": "The Coriolis Effect Deflects Moving Objects",
+    "fact": "Earth's rotation causes apparent deflection right in Northern Hemisphere, left in Southern, affecting winds and currents.",
+    "category": "Science",
+    "image": "fact_40830.jpg"
+  },
+  {
+    "id": "fact_40831",
+    "title": "Fugu Pufferfish Contains Lethal Tetrodotoxin",
+    "fact": "Japanese delicacy requires licensed chefs who train years to remove poison organs, remaining mildly toxic tingling lips.",
+    "category": "Food",
+    "image": "fact_40831.jpg"
+  },
+  {
+    "id": "fact_40832",
+    "title": "The Heliosphere Protects Solar System from Cosmic Rays",
+    "fact": "Solar wind creates magnetic bubble extending beyond Pluto, deflecting dangerous interstellar radiation.",
+    "category": "Space",
+    "image": "fact_40832.jpg"
+  },
+  {
+    "id": "fact_40833",
+    "title": "Superconducting Magnets Enable Particle Accelerators",
+    "fact": "Near absolute zero temperatures eliminate electrical resistance, generating powerful magnetic fields steering particle beams.",
+    "category": "Technology",
+    "image": "fact_40833.jpg"
+  },
+  {
+    "id": "fact_40834",
+    "title": "Your Medulla Oblongata Controls Automatic Functions",
+    "fact": "This brainstem region regulates breathing, heart rate, and blood pressure without conscious thought.",
+    "category": "Human Body",
+    "image": "fact_40834.jpg"
+  },
+  {
+    "id": "fact_40835",
+    "title": "The Salween River Remains One of Few Undammed",
+    "fact": "Flowing 1,750 miles through China, Myanmar, and Thailand, this wild river supports endangered biodiversity.",
+    "category": "Geography",
+    "image": "fact_40835.jpg"
+  },
+  {
+    "id": "fact_40836",
+    "title": "Vampire Squid Turn Inside-Out When Threatened",
+    "fact": "These deep-sea cephalopods invert cape-like webbing exposing spiky protrusions called cirri for defense.",
+    "category": "Animals",
+    "image": "fact_40836.jpg"
+  },
+  {
+    "id": "fact_40837",
+    "title": "The Hanseatic League Dominated Medieval Baltic Trade",
+    "fact": "This confederation of merchant guilds controlled Northern European commerce from 1200s-1600s through 200 cities.",
+    "category": "History",
+    "image": "fact_40837.jpg"
+  },
+  {
+    "id": "fact_40838",
+    "title": "Biomagnification Concentrates Toxins Up Food Chains",
+    "fact": "Pollutants like mercury accumulate in organisms, reaching dangerous levels in apex predators and humans.",
+    "category": "Nature",
+    "image": "fact_40838.jpg"
+  },
+  {
+    "id": "fact_40839",
+    "title": "Garum Was Ancient Roman Fermented Fish Sauce",
+    "fact": "Extremely popular condiment made from fermented fish intestines, similar to modern Asian fish sauces.",
+    "category": "Food",
+    "image": "fact_40839.jpg"
+  },
+  {
+    "id": "fact_40840",
+    "title": "The Boötes Void Is 330 Million Light-Years Across",
+    "fact": "This supervoid contains far fewer galaxies than expected, challenging cosmological models of structure formation.",
+    "category": "Space",
+    "image": "fact_40840.jpg"
+  },
+  {
+    "id": "fact_40841",
+    "title": "Molecular Computing Uses Chemical Reactions for Calculations",
+    "fact": "DNA and protein-based processors could perform massively parallel computations at molecular scale.",
+    "category": "Technology",
+    "image": "fact_40841.jpg"
+  },
+  {
+    "id": "fact_40842",
+    "title": "Your Amygdala Processes Fear and Emotional Memory",
+    "fact": "These almond-shaped structures evaluate threats and form emotional associations with experiences and stimuli.",
+    "category": "Human Body",
+    "image": "fact_40842.jpg"
+  },
+  {
+    "id": "fact_40843",
+    "title": "The Mackenzie Delta Is Canada's Largest",
+    "fact": "This 5,000 square mile wetland contains thousands of channels where river meets Beaufort Sea.",
+    "category": "Geography",
+    "image": "fact_40843.jpg"
+  },
+  {
+    "id": "fact_40844",
+    "title": "Naked Mole Rats Are Immune to Cancer",
+    "fact": "Unique hyaluronan molecule prevents tumor formation, plus these rodents feel no pain from acid or capsaicin.",
+    "category": "Animals",
+    "image": "fact_40844.jpg"
+  },
+  {
+    "id": "fact_40845",
+    "title": "The Invention of Gunpowder Changed Warfare Forever",
+    "fact": "Chinese invention around 850 CE eventually rendered castles and armored knights obsolete across medieval Europe.",
+    "category": "History",
+    "image": "fact_40845.jpg"
+  },
+  {
+    "id": "fact_40846",
+    "title": "Eutrophication Causes Algal Blooms from Nutrient Pollution",
+    "fact": "Excess nitrogen and phosphorus from fertilizer runoff trigger explosive algae growth depleting oxygen and killing fish.",
+    "category": "Nature",
+    "image": "fact_40846.jpg"
+  },
+  {
+    "id": "fact_40847",
+    "title": "Ortolan Bunting Is Eaten Whole Including Bones",
+    "fact": "This controversial French delicacy involves drowned songbirds consumed under napkins, now banned due to endangered status.",
+    "category": "Food",
+    "image": "fact_40847.jpg"
+  },
+  {
+    "id": "fact_40848",
+    "title": "The Great Red Spot Is Jupiter's 400-Year Storm",
+    "fact": "This anticyclonic tempest larger than Earth has raged continuously since first observation in 1600s.",
+    "category": "Space",
+    "image": "fact_40848.jpg"
+  },
+  {
+    "id": "fact_40849",
+    "title": "Quantum Annealing Solves Optimization Problems",
+    "fact": "Specialized quantum computers find lowest energy states representing optimal solutions to complex scheduling and routing.",
+    "category": "Technology",
+    "image": "fact_40849.jpg"
+  },
+  {
+    "id": "fact_40850",
+    "title": "Your Hippocampus Converts Short-Term to Long-Term Memory",
+    "fact": "This seahorse-shaped structure consolidates memories during sleep and creates spatial mental maps.",
+    "category": "Human Body",
+    "image": "fact_40850.jpg"
+  },
+  {
+    "id": "fact_40851",
+    "title": "The Syr Darya Is Central Asia's Longest River",
+    "fact": "Flowing 1,374 miles from Tian Shan mountains to Aral Sea, supporting agriculture in Kazakhstan and Uzbekistan.",
+    "category": "Geography",
+    "image": "fact_40851.jpg"
+  },
+  {
+    "id": "fact_40852",
+    "title": "Pistol Shrimp Can Stun Humans with Their Snap",
+    "fact": "While rarely dangerous, the 218-decibel shockwave can temporarily stun human divers who get too close.",
+    "category": "Animals",
+    "image": "fact_40852.jpg"
+  },
+  {
+    "id": "fact_40853",
+    "title": "The Emancipation Proclamation Freed Confederate Slaves",
+    "fact": "Lincoln's 1863 executive order declared freedom for enslaved people in rebelling states during Civil War.",
+    "category": "History",
+    "image": "fact_40853.jpg"
+  },
+  {
+    "id": "fact_40854",
+    "title": "Xerophytes Adapt to Extremely Dry Environments",
+    "fact": "Cacti, succulents, and desert plants minimize water loss through specialized leaves, stems, and metabolic pathways.",
+    "category": "Nature",
+    "image": "fact_40854.jpg"
+  },
+  {
+    "id": "fact_40855",
+    "title": "Loukaniko Is Greek Sausage Flavored with Orange",
+    "fact": "This traditional pork sausage combines savory meat with orange zest, wine, and Mediterranean herbs.",
+    "category": "Food",
+    "image": "fact_40855.jpg"
+  },
+  {
+    "id": "fact_40856",
+    "title": "The Observable Universe's Edge Is 46.5 Billion Light-Years Away",
+    "fact": "Despite 13.8 billion year age, cosmic expansion stretched earliest visible light sources to current distance.",
+    "category": "Space",
+    "image": "fact_40856.jpg"
+  },
+  {
+    "id": "fact_40857",
+    "title": "Carbon Nanotubes Are Stronger Than Steel",
+    "fact": "Single-walled tubes of rolled graphene exhibit extraordinary tensile strength 100 times steel at fraction of weight.",
+    "category": "Technology",
+    "image": "fact_40857.jpg"
+  },
+  {
+    "id": "fact_40858",
+    "title": "Your Corpus Callosum Connects Brain Hemispheres",
+    "fact": "This thick neural highway contains 200 million axons enabling communication between left and right cerebral hemispheres.",
+    "category": "Human Body",
+    "image": "fact_40858.jpg"
+  },
+  {
+    "id": "fact_40859",
+    "title": "The Huang He River Is Called China's Sorrow",
+    "fact": "Yellow River's devastating floods killed millions historically, though modern dams now control water flow.",
+    "category": "Geography",
+    "image": "fact_40859.jpg"
+  },
+  {
+    "id": "fact_40860",
+    "title": "Coconut Crabs Can Crack Coconuts with Powerful Claws",
+    "fact": "World's largest terrestrial arthropod generates 3,300 newtons of force—comparable to lion bite—climbing trees for food.",
+    "category": "Animals",
+    "image": "fact_40860.jpg"
+  },
+  {
+    "id": "fact_40861",
+    "title": "The Meiji Restoration Ended Japanese Feudalism",
+    "fact": "1868 revolution returned power to emperor, rapidly modernizing and industrializing Japan within single generation.",
+    "category": "History",
+    "image": "fact_40861.jpg"
+  },
+  {
+    "id": "fact_40862",
+    "title": "The Gaia Hypothesis Views Earth as Self-Regulating System",
+    "fact": "Biosphere interactions maintain conditions suitable for life through feedback loops regulating temperature and atmosphere.",
+    "category": "Science",
+    "image": "fact_40862.jpg"
+  },
+  {
+    "id": "fact_40863",
+    "title": "Hákarl Smells Like Ammonia Due to Fermentation",
+    "fact": "Greenland shark's toxic flesh converts urea to ammonia during months-long fermentation creating pungent odor.",
+    "category": "Food",
+    "image": "fact_40863.jpg"
+  },
+  {
+    "id": "fact_40864",
+    "title": "Enceladus Shoots Water Plumes 200 Miles High",
+    "fact": "Saturn's moon ejects subsurface ocean through ice cracks, suggesting potential for extraterrestrial microbial life.",
+    "category": "Space",
+    "image": "fact_40864.jpg"
+  },
+  {
+    "id": "fact_40865",
+    "title": "Optical Tweezers Manipulate Microscopic Objects with Light",
+    "fact": "Focused laser beams trap and move individual cells, bacteria, and molecules for research applications.",
+    "category": "Technology",
+    "image": "fact_40865.jpg"
+  },
+  {
+    "id": "fact_40866",
+    "title": "Your Thalamus Relays Sensory Information to Cortex",
+    "fact": "This central brain structure processes and routes sensory signals except smell to appropriate cortical regions.",
+    "category": "Human Body",
+    "image": "fact_40866.jpg"
+  },
+  {
+    "id": "fact_40867",
+    "title": "The Tocantins River Flows Entirely Within Brazil",
+    "fact": "At 1,640 miles, this major tributary joins Amazon system near Atlantic Ocean after draining central plateau.",
+    "category": "Geography",
+    "image": "fact_40867.jpg"
+  },
+  {
+    "id": "fact_40868",
+    "title": "Pistol Shrimp Larvae Drift as Plankton for Weeks",
+    "fact": "Eggs hatch into planktonic larvae floating in currents before settling and developing characteristic snapping claw.",
+    "category": "Animals",
+    "image": "fact_40868.jpg"
+  },
+  {
+    "id": "fact_40869",
+    "title": "The Boxer Rebellion Opposed Foreign Influence in China",
+    "fact": "1899-1901 uprising against Western imperialism and Christianity ended with eight-nation alliance occupying Beijing.",
+    "category": "History",
+    "image": "fact_40869.jpg"
+  },
+  {
+    "id": "fact_40870",
+    "title": "Thermoregulation Maintains Constant Body Temperature",
+    "fact": "Homeothermic animals use metabolism, behavior, and physiology to maintain stable internal temperature despite environment.",
+    "category": "Science",
+    "image": "fact_40870.jpg"
+  },
+  {
+    "id": "fact_40871",
+    "title": "Morcilla Is Spanish Blood Sausage with Rice",
+    "fact": "Pork blood mixed with rice, onions, and spices creates dark sausage popular across Iberian Peninsula.",
+    "category": "Food",
+    "image": "fact_40871.jpg"
+  },
+  {
+    "id": "fact_40872",
+    "title": "The Cosmic Web Contains 90% of Universe's Matter",
+    "fact": "Galaxies cluster along filaments of dark matter spanning billions of light-years with vast voids between.",
+    "category": "Space",
+    "image": "fact_40872.jpg"
+  },
+  {
+    "id": "fact_40873",
+    "title": "Thermoelectric Generators Convert Heat Directly to Electricity",
+    "fact": "Seebeck effect in semiconductor junctions enables power generation from temperature differences without moving parts.",
+    "category": "Technology",
+    "image": "fact_40873.jpg"
+  },
+  {
+    "id": "fact_40874",
+    "title": "Your Substantia Nigra Produces Dopamine",
+    "fact": "These midbrain neurons synthesize dopamine regulating movement; their degeneration causes Parkinson's disease symptoms.",
+    "category": "Human Body",
+    "image": "fact_40874.jpg"
+  },
+  {
+    "id": "fact_40875",
+    "title": "The Xingu River Features Transparent Water",
+    "fact": "This Amazon tributary's crystal-clear black water results from tannins without sediment, supporting unique fish species.",
+    "category": "Geography",
+    "image": "fact_40875.jpg"
+  },
+  {
+    "id": "fact_40876",
+    "title": "Yeti Crabs Farm Bacteria on Their Hairy Claws",
+    "fact": "These deep-sea crustaceans cultivate chemosynthetic bacteria as food source near hydrothermal vents.",
+    "category": "Animals",
+    "image": "fact_40876.jpg"
+  },
+  {
+    "id": "fact_40877",
+    "title": "The Iconoclasm Controversy Divided Byzantine Christianity",
+    "fact": "8th-century debate over religious images split Eastern Church, influencing art and theology for centuries.",
+    "category": "History",
+    "image": "fact_40877.jpg"
+  },
+  {
+    "id": "fact_40878",
+    "title": "Feedback Loops Amplify or Dampen System Changes",
+    "fact": "Positive feedback accelerates change while negative feedback restores equilibrium in biological and environmental systems.",
+    "category": "Science",
+    "image": "fact_40878.jpg"
+  },
+  {
+    "id": "fact_40879",
+    "title": "Vegemite Contains 3.45% Sodium Chloride",
+    "fact": "Australian yeast extract spread provides B vitamins but extremely high salt content requires thin application.",
+    "category": "Food",
+    "image": "fact_40879.jpg"
+  },
+  {
+    "id": "fact_40880",
+    "title": "The Parker Solar Probe Will Touch the Sun",
+    "fact": "NASA spacecraft launched 2018 approaches within 4 million miles of solar surface, enduring 2,500°F temperatures.",
+    "category": "Space",
+    "image": "fact_40880.jpg"
+  },
+  {
+    "id": "fact_40881",
+    "title": "Atomic Clocks Measure Time Using Cesium Vibrations",
+    "fact": "Cesium-133 atom oscillates 9,192,631,770 times per second, defining the modern second with incredible precision.",
+    "category": "Technology",
+    "image": "fact_40881.jpg"
+  },
+  {
+    "id": "fact_40882",
+    "title": "Your Pons Connects Brain Regions and Regulates Sleep",
+    "fact": "This brainstem structure bridges cerebrum and cerebellum while controlling REM sleep and breathing.",
+    "category": "Human Body",
+    "image": "fact_40882.jpg"
+  },
+  {
+    "id": "fact_40883",
+    "title": "The Darling River Is Australia's Longest",
+    "fact": "Stretching 1,702 miles, this Murray-Darling Basin tributary often runs dry during severe droughts.",
+    "category": "Geography",
+    "image": "fact_40883.jpg"
+  },
+  {
+    "id": "fact_40884",
+    "title": "Sea Pigs Walk on Tube Feet Across Ocean Floor",
+    "fact": "These deep-sea cucumbers march in herds across abyssal plains eating organic particles in sediment.",
+    "category": "Animals",
+    "image": "fact_40884.jpg"
+  },
+  {
+    "id": "fact_40885",
+    "title": "The Defenestration of Prague Sparked Thirty Years' War",
+    "fact": "Protestants threw Catholic officials from window in 1618, igniting devastating European religious conflict.",
+    "category": "History",
+    "image": "fact_40885.jpg"
+  },
+  {
+    "id": "fact_40886",
+    "title": "Commensalism Benefits One Species Without Harming Another",
+    "fact": "Barnacles on whales or birds nesting in trees gain advantages while hosts remain unaffected.",
+    "category": "Nature",
+    "image": "fact_40886.jpg"
+  },
+  {
+    "id": "fact_40887",
+    "title": "Cuitlacoche Is Corn Fungus Considered Mexican Delicacy",
+    "fact": "Huitlacoche infects corn kernels creating gray-black mushroom-flavored growth valued in haute cuisine.",
+    "category": "Food",
+    "image": "fact_40887.jpg"
+  },
+  {
+    "id": "fact_40888",
+    "title": "The Virgo Cluster Contains 1,300 Galaxies",
+    "fact": "This massive galaxy cluster 54 million light-years away dominates local supercluster including Milky Way.",
+    "category": "Space",
+    "image": "fact_40888.jpg"
+  },
+  {
+    "id": "fact_40889",
+    "title": "Spintronics Could Replace Traditional Electronics",
+    "fact": "Manipulating electron spin alongside charge promises faster, denser, more efficient computing and memory.",
+    "category": "Technology",
+    "image": "fact_40889.jpg"
+  },
+  {
+    "id": "fact_40890",
+    "title": "Your Reticular Formation Regulates Consciousness",
+    "fact": "This brainstem network controls arousal, attention, and sleep-wake transitions through widespread brain connections.",
+    "category": "Human Body",
+    "image": "fact_40890.jpg"
+  },
+  {
+    "id": "fact_40891",
+    "title": "The Limpopo River Marks South African Borders",
+    "fact": "Flowing 1,087 miles to Indian Ocean, this river forms boundaries between South Africa, Zimbabwe, and Botswana.",
+    "category": "Geography",
+    "image": "fact_40891.jpg"
+  },
+  {
+    "id": "fact_40892",
+    "title": "Barreleye Fish Have Transparent Heads",
+    "fact": "These deep-sea fish have see-through skulls with tubular eyes rotating upward to spot prey silhouettes.",
+    "category": "Animals",
+    "image": "fact_40892.jpg"
+  },
+  {
+    "id": "fact_40893",
+    "title": "The Printing Press Democratized Knowledge Access",
+    "fact": "Gutenberg's 1440s invention enabled mass book production, spreading literacy and ideas throughout Renaissance Europe.",
+    "category": "History",
+    "image": "fact_40893.jpg"
+  },
+  {
+    "id": "fact_40894",
+    "title": "Pioneer Species Colonize Barren Environments First",
+    "fact": "Lichens and mosses establish on bare rock, breaking down minerals and creating soil for successive plant communities.",
+    "category": "Nature",
+    "image": "fact_40894.jpg"
+  },
+  {
+    "id": "fact_40895",
+    "title": "Acquacotta Is Tuscan Bread Soup with Vegetables",
+    "fact": "This peasant dish transforms stale bread into hearty meal with tomatoes, onions, and poached eggs.",
+    "category": "Food",
+    "image": "fact_40895.jpg"
+  },
+  {
+    "id": "fact_40896",
+    "title": "Tabby's Star Shows Mysterious Dimming Patterns",
+    "fact": "KIC 8462852's irregular brightness drops up to 22% puzzled astronomers, sparking alien megastructure speculation.",
+    "category": "Space",
+    "image": "fact_40896.jpg"
+  },
+  {
+    "id": "fact_40897",
+    "title": "Photonic Integrated Circuits Use Light Instead of Electrons",
+    "fact": "Optical chips manipulate photons for communication and computing, promising faster speeds with lower power.",
+    "category": "Technology",
+    "image": "fact_40897.jpg"
+  },
+  {
+    "id": "fact_40898",
+    "title": "Your Vagus Nerve Controls Parasympathetic Functions",
+    "fact": "This cranial nerve regulates heart rate, digestion, and inflammation through extensive body connections.",
+    "category": "Human Body",
+    "image": "fact_40898.jpg"
+  },
+  {
+    "id": "fact_40899",
+    "title": "The Dnieper River Is Ukraine's Lifeline",
+    "fact": "Flowing 1,333 miles from Russia through Belarus and Ukraine to Black Sea, supporting hydroelectric power and navigation.",
+    "category": "Geography",
+    "image": "fact_40899.jpg"
+  },
+  {
+    "id": "fact_40900",
+    "title": "Mantis Shrimp Can See Circular Polarized Light",
+    "fact": "These marine crustaceans detect light polarization patterns invisible to humans, possibly for covert communication.",
+    "category": "Animals",
+    "image": "fact_40900.jpg"
+  }
+]

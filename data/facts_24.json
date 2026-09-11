@@ -1,0 +1,702 @@
+[
+  {
+    "id": "fact_40201",
+    "title": "The Human Brain Has 86 Billion Neurons",
+    "fact": "Recent counts using isotropic fractionation reveal the adult human brain contains approximately 86 billion neurons interconnected through 100 trillion synapses.",
+    "category": "Human Body",
+    "image": "fact_40201.jpg"
+  },
+  {
+    "id": "fact_40202",
+    "title": "Greenland Sharks Can Live Over 400 Years",
+    "fact": "Greenland sharks have the longest lifespan of any vertebrate, with radiocarbon dating revealing specimens over 400 years old.",
+    "category": "Animals",
+    "image": "fact_40202.jpg"
+  },
+  {
+    "id": "fact_40203",
+    "title": "Uranus Rotates on Its Side",
+    "fact": "Unlike other planets, Uranus has an axial tilt of 98 degrees, essentially rotating on its side with extreme seasonal variations lasting decades.",
+    "category": "Space",
+    "image": "fact_40203.jpg"
+  },
+  {
+    "id": "fact_40204",
+    "title": "The Wheel Was Invented After Written Language",
+    "fact": "Mesopotamian cuneiform writing appeared around 3400 BCE, while the wheel wasn't invented until approximately 3200 BCE.",
+    "category": "History",
+    "image": "fact_40204.jpg"
+  },
+  {
+    "id": "fact_40205",
+    "title": "Your Saliva Production Could Fill Two Bathtubs Annually",
+    "fact": "Salivary glands produce 0.5-1.5 liters of saliva daily, totaling approximately 730 liters per year—enough to fill two standard bathtubs.",
+    "category": "Human Body",
+    "image": "fact_40205.jpg"
+  },
+  {
+    "id": "fact_40206",
+    "title": "Volcanoes Release Heat from Earth's Molten Core",
+    "fact": "Volcanic activity expels heat from Earth's interior, releasing molten rock, gases, and ash from magma chambers beneath tectonic plate boundaries.",
+    "category": "Nature",
+    "image": "fact_40206.jpg"
+  },
+  {
+    "id": "fact_40207",
+    "title": "Crows Can Make and Use Complex Tools",
+    "fact": "New Caledonian crows craft hooked tools from twigs and bend wire to retrieve food, demonstrating advanced problem-solving abilities.",
+    "category": "Animals",
+    "image": "fact_40207.jpg"
+  },
+  {
+    "id": "fact_40208",
+    "title": "Solid-State Drives Use Flash Memory with No Moving Parts",
+    "fact": "SSDs store data in NAND flash memory chips without mechanical components, providing faster access speeds and greater durability than HDDs.",
+    "category": "Technology",
+    "image": "fact_40208.jpg"
+  },
+  {
+    "id": "fact_40209",
+    "title": "Avocados Are Toxic to Most Domestic Animals",
+    "fact": "Persin compound in avocados is harmless to humans but toxic to birds, horses, cattle, and dogs, causing cardiac and respiratory distress.",
+    "category": "Food",
+    "image": "fact_40209.jpg"
+  },
+  {
+    "id": "fact_40210",
+    "title": "The Coldest Temperature Ever Recorded Was -128.6°F in Antarctica",
+    "fact": "Vostok Station in Antarctica registered -128.6°F (-89.2°C) on July 21, 1983, the lowest natural temperature recorded on Earth's surface.",
+    "category": "Geography",
+    "image": "fact_40210.jpg"
+  },
+  {
+    "id": "fact_40211",
+    "title": "Dark Matter Comprises 85% of the Universe's Mass",
+    "fact": "Although invisible and undetectable by electromagnetic radiation, dark matter's gravitational effects reveal it constitutes 85% of total universal matter.",
+    "category": "Space",
+    "image": "fact_40211.jpg"
+  },
+  {
+    "id": "fact_40212",
+    "title": "The First Vending Machine Sold Holy Water",
+    "fact": "Hero of Alexandria invented the first vending machine around 215 BCE to dispense holy water in Egyptian temples when coins were inserted.",
+    "category": "History",
+    "image": "fact_40212.jpg"
+  },
+  {
+    "id": "fact_40213",
+    "title": "Seahorses Are Monogamous and Dance Together Daily",
+    "fact": "Seahorse pairs engage in elaborate morning greeting dances, reinforcing their lifelong monogamous bonds and synchronizing reproductive cycles.",
+    "category": "Animals",
+    "image": "fact_40213.jpg"
+  },
+  {
+    "id": "fact_40214",
+    "title": "Red Blood Cells Live for 120 Days",
+    "fact": "Each red blood cell circulates for approximately 120 days before being filtered out by the spleen and replaced by bone marrow production.",
+    "category": "Human Body",
+    "image": "fact_40214.jpg"
+  },
+  {
+    "id": "fact_40215",
+    "title": "Hurricanes Release Energy Equivalent to 10,000 Nuclear Bombs",
+    "fact": "A mature hurricane releases heat energy equivalent to exploding a 10-megaton nuclear bomb every 20 minutes through condensation processes.",
+    "category": "Nature",
+    "image": "fact_40215.jpg"
+  },
+  {
+    "id": "fact_40216",
+    "title": "Grapes Explode in Microwaves Due to Plasma Formation",
+    "fact": "Cut grapes connected by a thin skin bridge concentrate electromagnetic energy, ionizing electrolytes into plasma that creates visible sparks.",
+    "category": "Food",
+    "image": "fact_40216.jpg"
+  },
+  {
+    "id": "fact_40217",
+    "title": "Machine Learning Algorithms Improve from Experience",
+    "fact": "ML systems use statistical techniques to learn patterns from data without explicit programming, improving performance through iterative training.",
+    "category": "Technology",
+    "image": "fact_40217.jpg"
+  },
+  {
+    "id": "fact_40218",
+    "title": "Lake Hillier in Australia Is Permanently Bubblegum Pink",
+    "fact": "Lake Hillier's vibrant pink color comes from Dunaliella salina algae and halophilic bacteria producing red and pink carotenoid pigments.",
+    "category": "Geography",
+    "image": "fact_40218.jpg"
+  },
+  {
+    "id": "fact_40219",
+    "title": "The ISS Orbits Earth Every 90 Minutes",
+    "fact": "The International Space Station completes 16 orbits daily at 17,500 mph, experiencing 16 sunrises and sunsets every 24 hours.",
+    "category": "Space",
+    "image": "fact_40219.jpg"
+  },
+  {
+    "id": "fact_40220",
+    "title": "The Colosseum Could Be Filled or Emptied in 15 Minutes",
+    "fact": "Ancient Roman architects designed 80 entrance arches enabling 50,000 spectators to enter or exit the Colosseum in roughly 15 minutes.",
+    "category": "History",
+    "image": "fact_40220.jpg"
+  },
+  {
+    "id": "fact_40221",
+    "title": "Naked Mole Rats Don't Age and Rarely Get Cancer",
+    "fact": "These rodents show negligible senescence, maintaining youthful characteristics throughout their 30-year lifespan with extraordinary cancer resistance.",
+    "category": "Animals",
+    "image": "fact_40221.jpg"
+  },
+  {
+    "id": "fact_40222",
+    "title": "Your Pupils Dilate When You See Someone You Love",
+    "fact": "Emotional arousal triggers norepinephrine release, causing pupil dilation when viewing attractive people or beloved individuals.",
+    "category": "Human Body",
+    "image": "fact_40222.jpg"
+  },
+  {
+    "id": "fact_40223",
+    "title": "Tornadoes Can Have Wind Speeds Exceeding 300 MPH",
+    "fact": "The strongest EF5 tornadoes generate wind speeds over 300 mph, capable of completely destroying well-built structures and hurling vehicles.",
+    "category": "Nature",
+    "image": "fact_40223.jpg"
+  },
+  {
+    "id": "fact_40224",
+    "title": "Durian Fruit Is Banned from Many Hotels and Airlines",
+    "fact": "Durian's pungent sulfur compounds create an odor so overwhelming that Southeast Asian hotels, airlines, and transit systems prohibit it.",
+    "category": "Food",
+    "image": "fact_40224.jpg"
+  },
+  {
+    "id": "fact_40225",
+    "title": "Augmented Reality Overlays Digital Information on Physical World",
+    "fact": "AR technology uses cameras and sensors to superimpose computer-generated images, text, and data onto real-world environments in real-time.",
+    "category": "Technology",
+    "image": "fact_40225.jpg"
+  },
+  {
+    "id": "fact_40226",
+    "title": "Australia Is Wider Than the Moon",
+    "fact": "Australia's diameter measures 4,000 km while the Moon's diameter is 3,474 km, making the continent 526 km wider than Earth's natural satellite.",
+    "category": "Geography",
+    "image": "fact_40226.jpg"
+  },
+  {
+    "id": "fact_40227",
+    "title": "Betelgeuse Could Explode as a Supernova Any Moment",
+    "fact": "The red supergiant star Betelgeuse is nearing the end of its life and could explode as a supernova anytime in the next 100,000 years.",
+    "category": "Space",
+    "image": "fact_40227.jpg"
+  },
+  {
+    "id": "fact_40228",
+    "title": "Machu Picchu Was Built Without Wheels or Iron Tools",
+    "fact": "Inca engineers constructed Machu Picchu using only bronze tools and human labor, fitting massive stones so precisely no mortar was needed.",
+    "category": "History",
+    "image": "fact_40228.jpg"
+  },
+  {
+    "id": "fact_40229",
+    "title": "Ants Have Two Stomachs—One for Themselves, One for Sharing",
+    "fact": "Ants possess a crop (social stomach) to carry and regurgitate food for colony members, plus a regular stomach for personal digestion.",
+    "category": "Animals",
+    "image": "fact_40229.jpg"
+  },
+  {
+    "id": "fact_40230",
+    "title": "Your Appendix May Store Beneficial Gut Bacteria",
+    "fact": "Recent research suggests the appendix serves as a bacterial reservoir, repopulating the colon with beneficial microbes after illness.",
+    "category": "Human Body",
+    "image": "fact_40230.jpg"
+  },
+  {
+    "id": "fact_40231",
+    "title": "Earth's Magnetic Field Completely Flips Every 200,000-300,000 Years",
+    "fact": "Geomagnetic reversals swap magnetic north and south poles due to convection changes in Earth's liquid outer core.",
+    "category": "Nature",
+    "image": "fact_40231.jpg"
+  },
+  {
+    "id": "fact_40232",
+    "title": "Nutmeg Is Hallucinogenic in Large Doses",
+    "fact": "Consuming 2-3 tablespoons of nutmeg produces hallucinations, nausea, and dizziness due to myristicin compound acting on the central nervous system.",
+    "category": "Food",
+    "image": "fact_40232.jpg"
+  },
+  {
+    "id": "fact_40233",
+    "title": "Quantum Teleportation Transfers Information Instantaneously",
+    "fact": "Quantum entanglement enables transferring quantum states between particles without physically moving matter, achieving instant information transmission.",
+    "category": "Technology",
+    "image": "fact_40233.jpg"
+  },
+  {
+    "id": "fact_40234",
+    "title": "There Are More Trees on Earth Than Stars in the Milky Way",
+    "fact": "Earth has approximately 3 trillion trees compared to 100-400 billion stars in our galaxy, meaning trees outnumber Milky Way stars.",
+    "category": "Geography",
+    "image": "fact_40234.jpg"
+  },
+  {
+    "id": "fact_40235",
+    "title": "White Dwarfs Are So Dense a Tablespoon Weighs Tons",
+    "fact": "Stellar remnant white dwarfs pack Sun-like mass into Earth-sized volumes, with density so extreme a tablespoon weighs 15 tons.",
+    "category": "Space",
+    "image": "fact_40235.jpg"
+  },
+  {
+    "id": "fact_40236",
+    "title": "The First Recorded Recipe Was for Beer",
+    "fact": "Ancient Sumerian tablets from 3900 BCE contain the world's oldest known recipe—a hymn to brewing beer for the goddess Ninkasi.",
+    "category": "History",
+    "image": "fact_40236.jpg"
+  },
+  {
+    "id": "fact_40237",
+    "title": "Cuttlefish Can Change Skin Color in 0.3 Seconds",
+    "fact": "Cuttlefish use chromatophore, leucophore, and iridophore cells to change color and pattern instantaneously for camouflage and communication.",
+    "category": "Animals",
+    "image": "fact_40237.jpg"
+  },
+  {
+    "id": "fact_40238",
+    "title": "Your Feet Have 250,000 Sweat Glands",
+    "fact": "Each foot contains approximately 250,000 sweat glands, producing up to half a pint of perspiration daily to regulate temperature.",
+    "category": "Human Body",
+    "image": "fact_40238.jpg"
+  },
+  {
+    "id": "fact_40239",
+    "title": "The Aurora Borealis Occurs 60-200 Miles Above Earth",
+    "fact": "Northern Lights form when solar wind particles collide with atmospheric oxygen and nitrogen at altitudes of 60-200 miles, creating colorful displays.",
+    "category": "Nature",
+    "image": "fact_40239.jpg"
+  },
+  {
+    "id": "fact_40240",
+    "title": "Figs Contain Dead Wasps from Pollination",
+    "fact": "Fig wasps crawl inside figs to pollinate them and often die inside; enzymes break down the wasp into protein during ripening.",
+    "category": "Food",
+    "image": "fact_40240.jpg"
+  },
+  {
+    "id": "fact_40241",
+    "title": "Edge Computing Processes Data Near Its Source",
+    "fact": "Edge computing reduces latency by processing data locally on devices or nearby servers rather than sending everything to distant cloud data centers.",
+    "category": "Technology",
+    "image": "fact_40241.jpg"
+  },
+  {
+    "id": "fact_40242",
+    "title": "Vatican City Has the Highest Crime Rate Per Capita",
+    "fact": "With 800 citizens and millions of tourist visitors annually, Vatican City statistically has the world's highest per capita crime rate.",
+    "category": "Geography",
+    "image": "fact_40242.jpg"
+  },
+  {
+    "id": "fact_40243",
+    "title": "Titan Is the Only Moon with a Thick Atmosphere",
+    "fact": "Saturn's moon Titan has a dense nitrogen atmosphere 1.5 times thicker than Earth's, with methane lakes and hydrocarbon rain.",
+    "category": "Space",
+    "image": "fact_40243.jpg"
+  },
+  {
+    "id": "fact_40244",
+    "title": "Ancient Romans Used Urine to Whiten Teeth and Launder Clothes",
+    "fact": "Romans collected urine for its ammonia content, using it as a cleaning agent for textiles and a whitening agent for teeth.",
+    "category": "History",
+    "image": "fact_40244.jpg"
+  },
+  {
+    "id": "fact_40245",
+    "title": "Mosquitoes Have Killed Half of All Humans Who Ever Lived",
+    "fact": "Scientists estimate mosquito-borne diseases have killed approximately 52 billion people throughout human history, roughly half of all humans ever born.",
+    "category": "Animals",
+    "image": "fact_40245.jpg"
+  },
+  {
+    "id": "fact_40246",
+    "title": "Your Skin Completely Renews Itself Every 28 Days",
+    "fact": "Epidermal cells continuously divide and migrate outward, completely replacing your skin's outer layer approximately every four weeks.",
+    "category": "Human Body",
+    "image": "fact_40246.jpg"
+  },
+  {
+    "id": "fact_40247",
+    "title": "A Single Lightning Bolt Carries 1 Billion Volts",
+    "fact": "Lightning discharges can contain up to 1 billion volts and 300,000 amperes, heating air to 54,000°F—five times hotter than the Sun's surface.",
+    "category": "Nature",
+    "image": "fact_40247.jpg"
+  },
+  {
+    "id": "fact_40248",
+    "title": "White Chocolate Isn't Actually Chocolate",
+    "fact": "White chocolate contains no cocoa solids, only cocoa butter mixed with milk, sugar, and vanilla, technically making it a confection rather than chocolate.",
+    "category": "Food",
+    "image": "fact_40248.jpg"
+  },
+  {
+    "id": "fact_40249",
+    "title": "3D Printing Can Create Objects Layer by Layer from Digital Files",
+    "fact": "Additive manufacturing builds three-dimensional objects by depositing successive layers of material based on digital models, revolutionizing prototyping and production.",
+    "category": "Technology",
+    "image": "fact_40249.jpg"
+  },
+  {
+    "id": "fact_40250",
+    "title": "The Nile River Flows Northward Unlike Most Rivers",
+    "fact": "While most major rivers flow south, the Nile flows 4,135 miles north from African highlands to the Mediterranean Sea due to elevation gradients.",
+    "category": "Geography",
+    "image": "fact_40250.jpg"
+  },
+  {
+    "id": "fact_40251",
+    "title": "Exoplanets in the Habitable Zone Could Support Liquid Water",
+    "fact": "Planets orbiting within the habitable zone maintain temperatures allowing liquid water, a key requirement for life as we know it.",
+    "category": "Space",
+    "image": "fact_40251.jpg"
+  },
+  {
+    "id": "fact_40252",
+    "title": "The First Airplane Flight Lasted Only 12 Seconds",
+    "fact": "On December 17, 1903, the Wright Brothers' first powered flight at Kitty Hawk lasted 12 seconds and covered just 120 feet.",
+    "category": "History",
+    "image": "fact_40252.jpg"
+  },
+  {
+    "id": "fact_40253",
+    "title": "Ravens Can Plan for Future Events",
+    "fact": "Ravens demonstrate advanced cognition by planning tool use and food caching for future scenarios, a trait once thought unique to primates.",
+    "category": "Animals",
+    "image": "fact_40253.jpg"
+  },
+  {
+    "id": "fact_40254",
+    "title": "Your Body Contains Enough Carbon to Make 900 Pencils",
+    "fact": "The human body contains approximately 18% carbon by mass, totaling about 16 kg in an average adult—enough graphite for 900 pencils.",
+    "category": "Human Body",
+    "image": "fact_40254.jpg"
+  },
+  {
+    "id": "fact_40255",
+    "title": "Earthquakes Can Make Days Shorter by Shifting Earth's Mass",
+    "fact": "Massive earthquakes redistribute Earth's mass, slightly increasing rotation speed and shortening days by microseconds through conservation of angular momentum.",
+    "category": "Nature",
+    "image": "fact_40255.jpg"
+  },
+  {
+    "id": "fact_40256",
+    "title": "Ranch Dressing Is America's Most Popular Dressing",
+    "fact": "Created in 1949 by Steve Henson in Alaska, ranch dressing now accounts for 40% of U.S. salad dressing sales.",
+    "category": "Food",
+    "image": "fact_40256.jpg"
+  },
+  {
+    "id": "fact_40257",
+    "title": "Virtual Reality Creates Immersive Computer-Generated Environments",
+    "fact": "VR technology uses head-mounted displays and motion tracking to create interactive three-dimensional environments that simulate physical presence.",
+    "category": "Technology",
+    "image": "fact_40257.jpg"
+  },
+  {
+    "id": "fact_40258",
+    "title": "The Atacama Desert Has Areas That Have Never Received Rain",
+    "fact": "Some regions in Chile's Atacama Desert have no recorded rainfall in recorded history, making it Earth's driest non-polar location.",
+    "category": "Geography",
+    "image": "fact_40258.jpg"
+  },
+  {
+    "id": "fact_40259",
+    "title": "Pulsars Spin Hundreds of Times Per Second",
+    "fact": "Rapidly rotating neutron stars emit regular pulses of radiation as they spin at incredible speeds, with some completing 700 rotations per second.",
+    "category": "Space",
+    "image": "fact_40259.jpg"
+  },
+  {
+    "id": "fact_40260",
+    "title": "The First Credit Card Was Introduced in 1950",
+    "fact": "Diners Club launched the first general-purpose charge card in 1950, accepted at 27 New York restaurants and revolutionizing consumer payment.",
+    "category": "History",
+    "image": "fact_40260.jpg"
+  },
+  {
+    "id": "fact_40261",
+    "title": "Beavers' Teeth Never Stop Growing",
+    "fact": "Beaver incisors grow continuously throughout their life, requiring constant gnawing to wear them down and prevent overgrowth that would prevent eating.",
+    "category": "Animals",
+    "image": "fact_40261.jpg"
+  },
+  {
+    "id": "fact_40262",
+    "title": "Adrenaline Can Temporarily Boost Your Strength by 10-15%",
+    "fact": "During fight-or-flight responses, adrenaline increases muscle strength 10-15% by enhancing oxygen delivery and releasing energy reserves.",
+    "category": "Human Body",
+    "image": "fact_40262.jpg"
+  },
+  {
+    "id": "fact_40263",
+    "title": "Hailstones Form Through Repeated Freezing in Storm Updrafts",
+    "fact": "Supercooled water droplets freeze onto ice nuclei, accumulating layers as updrafts carry them through clouds multiple times before falling.",
+    "category": "Nature",
+    "image": "fact_40263.jpg"
+  },
+  {
+    "id": "fact_40264",
+    "title": "Wasabi Loses Its Flavor After 15 Minutes of Exposure",
+    "fact": "Authentic wasabi's pungent compounds break down rapidly after grating, losing most flavor intensity within 15 minutes of air exposure.",
+    "category": "Food",
+    "image": "fact_40264.jpg"
+  },
+  {
+    "id": "fact_40265",
+    "title": "Biometric Authentication Uses Unique Physical Characteristics",
+    "fact": "Fingerprints, facial recognition, iris scans, and voice patterns provide secure authentication by measuring distinctive biological traits.",
+    "category": "Technology",
+    "image": "fact_40265.jpg"
+  },
+  {
+    "id": "fact_40266",
+    "title": "Africa Is Being Split in Two by the East African Rift",
+    "fact": "Tectonic forces are slowly splitting Africa along the East African Rift, which will eventually create a new ocean in millions of years.",
+    "category": "Geography",
+    "image": "fact_40266.jpg"
+  },
+  {
+    "id": "fact_40267",
+    "title": "The Observable Universe Contains 2 Trillion Galaxies",
+    "fact": "Deep space surveys estimate the observable universe contains approximately 2 trillion galaxies, each with billions of stars.",
+    "category": "Space",
+    "image": "fact_40267.jpg"
+  },
+  {
+    "id": "fact_40268",
+    "title": "The Penny Was America's First Currency Authorized by Federal Law",
+    "fact": "The Coinage Act of 1792 authorized the penny as the first U.S. coin, initially made of 100% copper.",
+    "category": "History",
+    "image": "fact_40268.jpg"
+  },
+  {
+    "id": "fact_40269",
+    "title": "Honeybees Communicate Distance Using Dance Angles",
+    "fact": "Worker bees perform waggle dances where the angle relative to vertical indicates food source direction relative to the sun's position.",
+    "category": "Animals",
+    "image": "fact_40269.jpg"
+  },
+  {
+    "id": "fact_40270",
+    "title": "Your Eyes Blink 15-20 Times Per Minute",
+    "fact": "Blinking spreads tear film across the cornea, keeping eyes moist and clear—averaging 1,200 times per hour while awake.",
+    "category": "Human Body",
+    "image": "fact_40270.jpg"
+  },
+  {
+    "id": "fact_40271",
+    "title": "Caves Can Take Millions of Years to Form",
+    "fact": "Limestone caves form through slow dissolution by carbonic acid in groundwater, with stalactites growing approximately one cubic centimeter per century.",
+    "category": "Nature",
+    "image": "fact_40271.jpg"
+  },
+  {
+    "id": "fact_40272",
+    "title": "Pistachios Can Spontaneously Combust During Storage",
+    "fact": "Pistachio's high fat and low moisture content combined with confined spaces can generate heat through oxidation, causing spontaneous fires.",
+    "category": "Food",
+    "image": "fact_40272.jpg"
+  },
+  {
+    "id": "fact_40273",
+    "title": "Autonomous Vehicles Use Sensors and AI to Navigate",
+    "fact": "Self-driving cars combine LIDAR, cameras, radar, and machine learning algorithms to perceive surroundings and make real-time driving decisions.",
+    "category": "Technology",
+    "image": "fact_40273.jpg"
+  },
+  {
+    "id": "fact_40274",
+    "title": "The Mariana Trench Could Fit Mount Everest with Room to Spare",
+    "fact": "At 36,037 feet deep, Challenger Deep in the Mariana Trench could submerge Mount Everest (29,029 feet) with over a mile of water above its peak.",
+    "category": "Geography",
+    "image": "fact_40274.jpg"
+  },
+  {
+    "id": "fact_40275",
+    "title": "The Cosmic Microwave Background Is Leftover Big Bang Radiation",
+    "fact": "Faint microwave radiation permeating space represents thermal remnants from the universe's formation 13.8 billion years ago.",
+    "category": "Space",
+    "image": "fact_40275.jpg"
+  },
+  {
+    "id": "fact_40276",
+    "title": "Samurai and Cowboys Existed at the Same Time",
+    "fact": "The samurai class wasn't abolished until 1876, overlapping with the American Wild West cowboy era of the 1860s-1890s.",
+    "category": "History",
+    "image": "fact_40276.jpg"
+  },
+  {
+    "id": "fact_40277",
+    "title": "Owls Can Rotate Their Heads 270 Degrees",
+    "fact": "Owls have 14 neck vertebrae (double humans) and specialized vascular adaptations allowing extreme head rotation without cutting blood flow.",
+    "category": "Animals",
+    "image": "fact_40277.jpg"
+  },
+  {
+    "id": "fact_40278",
+    "title": "Your Tongue Print Is Unique Like Your Fingerprint",
+    "fact": "Each person's tongue has a unique combination of shape, texture, and physiological characteristics that could theoretically be used for biometric identification.",
+    "category": "Human Body",
+    "image": "fact_40278.jpg"
+  },
+  {
+    "id": "fact_40279",
+    "title": "Avalanches Can Reach Speeds of 200 MPH",
+    "fact": "Powder snow avalanches can accelerate to 200 mph while mixed avalanches move at 60-80 mph, both capable of devastating destruction.",
+    "category": "Nature",
+    "image": "fact_40279.jpg"
+  },
+  {
+    "id": "fact_40280",
+    "title": "Cucumbers Are 96% Water",
+    "fact": "Cucumbers have the highest water content of any solid food at 96%, making them extremely hydrating and low in calories.",
+    "category": "Food",
+    "image": "fact_40280.jpg"
+  },
+  {
+    "id": "fact_40281",
+    "title": "Cryptocurrency Uses Cryptography for Secure Digital Transactions",
+    "fact": "Digital currencies like Bitcoin use blockchain technology and cryptographic hashing to create decentralized, tamper-resistant financial systems.",
+    "category": "Technology",
+    "image": "fact_40281.jpg"
+  },
+  {
+    "id": "fact_40282",
+    "title": "Norway Has the World's Longest Coastline at 58,133 Miles",
+    "fact": "Including all islands and fjords, Norway's coastline extends 58,133 miles—longer than Earth's equator due to extreme geographic complexity.",
+    "category": "Geography",
+    "image": "fact_40282.jpg"
+  },
+  {
+    "id": "fact_40283",
+    "title": "Gamma-Ray Bursts Are the Universe's Most Powerful Explosions",
+    "fact": "These stellar explosions release more energy in seconds than the Sun will emit in its entire 10-billion-year lifetime.",
+    "category": "Space",
+    "image": "fact_40283.jpg"
+  },
+  {
+    "id": "fact_40284",
+    "title": "The Forbidden City Took 14 Years and 1 Million Workers to Build",
+    "fact": "Constructed between 1406-1420, Beijing's Forbidden City required over 100,000 artisans and 1 million laborers to complete 980 buildings.",
+    "category": "History",
+    "image": "fact_40284.jpg"
+  },
+  {
+    "id": "fact_40285",
+    "title": "Pangolins Are the World's Most Trafficked Mammals",
+    "fact": "Over 1 million pangolins were illegally traded in the past decade for their scales and meat, making them critically endangered.",
+    "category": "Animals",
+    "image": "fact_40285.jpg"
+  },
+  {
+    "id": "fact_40286",
+    "title": "Humans Share 60% of Their DNA with Bananas",
+    "fact": "Despite obvious differences, humans and bananas share approximately 60% of the same DNA sequences due to common cellular functions.",
+    "category": "Human Body",
+    "image": "fact_40286.jpg"
+  },
+  {
+    "id": "fact_40287",
+    "title": "Glaciers Store 69% of Earth's Fresh Water",
+    "fact": "Antarctic and Greenland ice sheets plus smaller glaciers contain 69% of Earth's freshwater resources, locked in frozen form.",
+    "category": "Nature",
+    "image": "fact_40287.jpg"
+  },
+  {
+    "id": "fact_40288",
+    "title": "Honey Is the Only Food That Never Expires",
+    "fact": "Honey's low water content, high acidity, and natural hydrogen peroxide production prevent bacterial growth, making it eternally shelf-stable.",
+    "category": "Food",
+    "image": "fact_40288.jpg"
+  },
+  {
+    "id": "fact_40289",
+    "title": "The Internet of Things Connects Billions of Smart Devices",
+    "fact": "IoT networks link everyday objects with sensors and internet connectivity, enabling remote monitoring, automation, and data collection.",
+    "category": "Technology",
+    "image": "fact_40289.jpg"
+  },
+  {
+    "id": "fact_40290",
+    "title": "Lesotho Is the Only Country Entirely Above 1,000 Meters Elevation",
+    "fact": "The Kingdom of Lesotho, landlocked within South Africa, has the distinction of being the world's only nation entirely above 1,000 meters.",
+    "category": "Geography",
+    "image": "fact_40290.jpg"
+  },
+  {
+    "id": "fact_40291",
+    "title": "Fast Radio Bursts Release Sun's Energy in Milliseconds",
+    "fact": "These mysterious cosmic signals emit as much energy as the Sun produces in 10,000 years, compressed into mere milliseconds.",
+    "category": "Space",
+    "image": "fact_40291.jpg"
+  },
+  {
+    "id": "fact_40292",
+    "title": "The First Television Broadcast Occurred in 1927",
+    "fact": "Philo Farnsworth successfully transmitted the first all-electronic television image on September 7, 1927, revolutionizing mass communication.",
+    "category": "History",
+    "image": "fact_40292.jpg"
+  },
+  {
+    "id": "fact_40293",
+    "title": "Bats Are the Only Mammals Capable of True Flight",
+    "fact": "Unlike gliding squirrels, bats achieved powered flight through wing membranes stretched between elongated finger bones enabling sustained aerial locomotion.",
+    "category": "Animals",
+    "image": "fact_40293.jpg"
+  },
+  {
+    "id": "fact_40294",
+    "title": "Your Sense of Smell Is 10,000 Times More Sensitive Than Taste",
+    "fact": "Olfactory receptors detect thousands of different chemical compounds at extremely low concentrations, vastly exceeding taste sensitivity.",
+    "category": "Human Body",
+    "image": "fact_40294.jpg"
+  },
+  {
+    "id": "fact_40295",
+    "title": "Trees Can Communicate Through Underground Fungal Networks",
+    "fact": "Mycorrhizal fungi connect tree root systems in 'wood wide webs,' enabling nutrient sharing and chemical signaling across forest ecosystems.",
+    "category": "Nature",
+    "image": "fact_40295.jpg"
+  },
+  {
+    "id": "fact_40296",
+    "title": "MSG Is a Naturally Occurring Amino Acid Found in Tomatoes",
+    "fact": "Monosodium glutamate appears naturally in parmesan cheese, tomatoes, mushrooms, and seaweed as the sodium salt of glutamic acid.",
+    "category": "Food",
+    "image": "fact_40296.jpg"
+  },
+  {
+    "id": "fact_40297",
+    "title": "DNA Storage Can Preserve Data for Thousands of Years",
+    "fact": "Synthetic DNA can encode digital information at extreme density—storing the world's data in a shoebox—remaining stable for millennia.",
+    "category": "Technology",
+    "image": "fact_40297.jpg"
+  },
+  {
+    "id": "fact_40298",
+    "title": "The Atlantic Ocean Is Growing While the Pacific Shrinks",
+    "fact": "Seafloor spreading at the Mid-Atlantic Ridge expands the Atlantic by several centimeters annually as the Pacific basin contracts.",
+    "category": "Geography",
+    "image": "fact_40298.jpg"
+  },
+  {
+    "id": "fact_40299",
+    "title": "Sagittarius A* Is the Supermassive Black Hole at Milky Way's Center",
+    "fact": "Our galaxy's central black hole has 4 million solar masses and lies 26,000 light-years from Earth at the Milky Way's rotational center.",
+    "category": "Space",
+    "image": "fact_40299.jpg"
+  },
+  {
+    "id": "fact_40300",
+    "title": "The Eiffel Tower Was Originally Intended to Be Temporary",
+    "fact": "Built for the 1889 World's Fair, the Eiffel Tower was scheduled for demolition after 20 years but was saved for its radio antenna value.",
+    "category": "History",
+    "image": "fact_40300.jpg"
+  }
+]
