@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Terms of Service — Mind Bites</title>
+<title>Terms of Service — MindBites</title>
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -16,12 +16,12 @@
     --border: #E5E7EB;
     --surface: #F9FAFB;
     --white: #FFFFFF;
-    --radius: 12px;
-    --max-w: 780px;
+    --radius: 14px;
+    --max-w: 800px;
   }
 
   body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 1.75;
     color: var(--text);
@@ -29,8 +29,8 @@
   }
 
   header {
-    background: linear-gradient(135deg, #1E1B4B 0%, #3730A3 55%, #4338CA 100%);
-    padding: 56px 24px 48px;
+    background: linear-gradient(135deg, #1E1B4B 0%, #4C1D95 50%, #7C3AED 100%);
+    padding: 60px 24px 50px;
     text-align: center;
   }
 
@@ -39,75 +39,219 @@
     align-items: center;
     gap: 10px;
     background: rgba(255,255,255,0.12);
-    border: 1px solid rgba(255,255,255,0.2);
+    border: 1px solid rgba(255,255,255,0.25);
     border-radius: 50px;
-    padding: 8px 20px;
-    margin-bottom: 28px;
+    padding: 8px 22px;
+    margin-bottom: 24px;
     text-decoration: none;
   }
 
-  .brand-emoji { font-size: 22px; }
-  .brand-text { font-size: 16px; font-weight: 700; color: #fff; letter-spacing: 0.3px; }
+  .brand-emoji { font-size: 24px; }
+
+  .brand-text {
+    font-size: 17px;
+    font-weight: 800;
+    color: #fff;
+    letter-spacing: 0.3px;
+  }
+
   .brand-text span { color: var(--gold); }
 
-  header h1 { font-size: clamp(28px, 5vw, 40px); font-weight: 800; color: #fff; line-height: 1.2; margin-bottom: 12px; }
-  header p { font-size: 15px; color: rgba(255,255,255,0.72); max-width: 480px; margin: 0 auto; }
+  header h1 {
+    font-size: clamp(28px, 5vw, 42px);
+    font-weight: 900;
+    color: #fff;
+    line-height: 1.2;
+    margin-bottom: 12px;
+  }
 
-  .meta-row { display: flex; justify-content: center; gap: 20px; margin-top: 20px; flex-wrap: wrap; }
-  .meta-badge { background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.25); border-radius: 6px; padding: 4px 14px; font-size: 12px; color: rgba(255,255,255,0.85); font-weight: 600; letter-spacing: 0.5px; }
+  header p {
+    font-size: 15.5px;
+    color: rgba(255,255,255,0.8);
+    max-width: 540px;
+    margin: 0 auto;
+  }
 
-  main { max-width: var(--max-w); margin: 0 auto; padding: 56px 24px 80px; }
+  .meta-row {
+    display: flex;
+    justify-content: center;
+    gap: 14px;
+    margin-top: 22px;
+    flex-wrap: wrap;
+  }
 
-  .toc { background: var(--surface); border: 1px solid var(--border); border-left: 4px solid var(--brand); border-radius: var(--radius); padding: 24px 28px; margin-bottom: 48px; }
-  .toc h2 { font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--brand); margin-bottom: 16px; }
-  .toc ol { padding-left: 20px; display: grid; grid-template-columns: 1fr 1fr; gap: 4px 32px; }
+  .meta-badge {
+    background: rgba(255,255,255,0.16);
+    border: 1px solid rgba(255,255,255,0.28);
+    border-radius: 8px;
+    padding: 5px 14px;
+    font-size: 12px;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 0.4px;
+  }
+
+  main {
+    max-width: var(--max-w);
+    margin: 0 auto;
+    padding: 50px 24px 80px;
+  }
+
+  .toc {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--brand);
+    border-radius: var(--radius);
+    padding: 24px 28px;
+    margin-bottom: 48px;
+  }
+
+  .toc h2 {
+    font-size: 13px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--brand);
+    margin-bottom: 16px;
+  }
+
+  .toc ol {
+    padding-left: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px 32px;
+  }
+
   .toc li { font-size: 14px; }
-  .toc a { color: var(--muted); text-decoration: none; transition: color 0.15s; }
-  .toc a:hover { color: var(--brand); }
 
-  section { margin-bottom: 44px; scroll-margin-top: 80px; }
+  .toc a {
+    color: var(--muted);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.15s;
+  }
 
-  h2 { font-size: 22px; font-weight: 800; color: var(--text); margin-bottom: 6px; display: flex; align-items: center; gap: 10px; }
+  .toc a:hover { color: var(--brand); font-weight: 700; }
 
-  .section-icon { width: 32px; height: 32px; border-radius: 8px; background: var(--brand-light); display: inline-flex; align-items: center; justify-content: center; font-size: 16px; flex-shrink: 0; }
-  .section-divider { width: 100%; height: 1px; background: var(--border); margin: 10px 0 18px; }
+  section {
+    margin-bottom: 48px;
+    scroll-margin-top: 80px;
+  }
 
-  p { margin-bottom: 14px; }
+  h2 {
+    font-size: 22px;
+    font-weight: 800;
+    color: var(--text);
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .section-icon {
+    width: 34px;
+    height: 34px;
+    border-radius: 9px;
+    background: var(--brand-light);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 17px;
+    flex-shrink: 0;
+  }
+
+  .section-divider {
+    width: 100%;
+    height: 1px;
+    background: var(--border);
+    margin: 10px 0 18px;
+  }
+
+  p { margin-bottom: 14px; color: var(--text); }
   p:last-child { margin-bottom: 0; }
+
   ul, ol { padding-left: 22px; margin-bottom: 14px; }
   li { margin-bottom: 6px; }
-  strong { font-weight: 700; }
 
-  .highlight-box { background: var(--brand-light); border-radius: var(--radius); padding: 18px 22px; margin: 20px 0; border-left: 3px solid var(--brand); }
-  .highlight-box p { font-size: 14.5px; margin: 0; color: #3730A3; }
+  strong { font-weight: 700; color: var(--text); }
 
-  .warning-box { background: #FFF7ED; border-radius: var(--radius); padding: 18px 22px; margin: 20px 0; border-left: 3px solid #F59E0B; }
-  .warning-box p { font-size: 14.5px; margin: 0; color: #92400E; }
+  .highlight-box {
+    background: var(--brand-light);
+    border-radius: var(--radius);
+    padding: 20px 24px;
+    margin: 20px 0;
+    border-left: 4px solid var(--brand);
+  }
 
-  .contact-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 24px; display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 16px; }
-  .contact-item label { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; color: var(--muted); display: block; margin-bottom: 4px; }
-  .contact-item a { color: var(--brand); text-decoration: none; font-weight: 600; font-size: 15px; }
+  .highlight-box p {
+    font-size: 14.5px;
+    margin: 0;
+    color: #3730A3;
+    line-height: 1.6;
+  }
 
-  footer { background: var(--surface); border-top: 1px solid var(--border); padding: 28px 24px; text-align: center; }
-  footer p { font-size: 13px; color: var(--muted); margin: 0; }
+  .contact-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 24px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-top: 16px;
+  }
+
+  .contact-item label {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: var(--muted);
+    display: block;
+    margin-bottom: 4px;
+  }
+
+  .contact-item a {
+    color: var(--brand);
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 15px;
+  }
+
+  footer {
+    background: var(--surface);
+    border-top: 1px solid var(--border);
+    padding: 32px 24px;
+    text-align: center;
+  }
+
+  footer p {
+    font-size: 13.5px;
+    color: var(--muted);
+    margin: 0;
+  }
+
   footer a { color: var(--brand); text-decoration: none; font-weight: 600; }
 
-  @media (max-width: 540px) { .toc ol { grid-template-columns: 1fr; } .contact-card { grid-template-columns: 1fr; } }
+  @media (max-width: 600px) {
+    .toc ol { grid-template-columns: 1fr; }
+    .contact-card { grid-template-columns: 1fr; }
+  }
 </style>
 </head>
 <body>
 
 <header>
   <a class="brand" href="#">
-    <span class="brand-emoji">🧠</span>
-    <span class="brand-text">Mind <span>Bites</span></span>
+    <span class="brand-emoji">⚖️</span>
+    <span class="brand-text">Mind<span>Bites</span></span>
   </a>
   <h1>Terms of Service</h1>
-  <p>Please read these terms carefully before using Mind Bites.</p>
+  <p>Please read these Terms of Service carefully before accessing or using the MindBites mobile application.</p>
   <div class="meta-row">
-    <span class="meta-badge">Effective: 14 June 2025</span>
-    <span class="meta-badge">Version 1.0</span>
-    <span class="meta-badge">Applies to: Android &amp; iOS</span>
+    <span class="meta-badge">Effective Date: September 2026</span>
+    <span class="meta-badge">Version 2.0</span>
+    <span class="meta-badge">Legal Notice</span>
   </div>
 </header>
 
@@ -116,162 +260,121 @@
   <nav class="toc" aria-label="Contents">
     <h2>Contents</h2>
     <ol>
-      <li><a href="#acceptance">Acceptance</a></li>
-      <li><a href="#description">App Description</a></li>
-      <li><a href="#license">License</a></li>
-      <li><a href="#content">Content &amp; Accuracy</a></li>
-      <li><a href="#ads">Advertising</a></li>
-      <li><a href="#user-conduct">User Conduct</a></li>
-      <li><a href="#ip">Intellectual Property</a></li>
-      <li><a href="#disclaimer">Disclaimers</a></li>
-      <li><a href="#liability">Limitation of Liability</a></li>
-      <li><a href="#termination">Termination</a></li>
-      <li><a href="#governing">Governing Law</a></li>
-      <li><a href="#contact">Contact</a></li>
+      <li><a href="#acceptance">1. Acceptance of Terms</a></li>
+      <li><a href="#educational-use">2. Educational &amp; Non-Advisory Use</a></li>
+      <li><a href="#rss-content">3. Third-Party News &amp; RSS Feeds</a></li>
+      <li><a href="#subscriptions">4. Subscriptions &amp; In-App Purchases</a></li>
+      <li><a href="#intellectual-property">5. MindBites Intellectual Property</a></li>
+      <li><a href="#user-conduct">6. User Conduct &amp; Prohibitions</a></li>
+      <li><a href="#disclaimer">7. Disclaimer of Warranties</a></li>
+      <li><a href="#liability">8. Limitation of Liability</a></li>
+      <li><a href="#modifications">9. Changes to Service &amp; Terms</a></li>
+      <li><a href="#contact">10. Contact &amp; Inquiries</a></li>
     </ol>
   </nav>
 
   <section id="acceptance">
-    <h2><span class="section-icon">✅</span> Acceptance of Terms</h2>
+    <h2><span class="section-icon">✍️</span> 1. Acceptance of Terms</h2>
     <div class="section-divider"></div>
-    <p>By downloading, installing, or using the Mind Bites mobile application ("App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the App.</p>
-    <p>These Terms apply to all users of the App on all platforms (Android and iOS). Use of the App is also subject to our <a href="privacy.html">Privacy Policy</a>, which is incorporated into these Terms by reference.</p>
     <div class="highlight-box">
-      <p>These Terms constitute a legal agreement between you and the developer of Mind Bites ("we", "us", "our"). By tapping "Install" on the Play Store or App Store, you accept these Terms.</p>
+      <p><strong>Summary:</strong> By downloading, installing, or using the MindBites application ("App"), you agree to be bound by these Terms of Service and our Privacy Policy. If you do not agree to these terms, do not use the App.</p>
     </div>
+    <p>These Terms of Service ("Terms") constitute a legally binding agreement between you ("User" or "you") and MindBites ("we", "us", or "our"). These Terms apply to all users of the application on Android and iOS platforms.</p>
   </section>
 
-  <section id="description">
-    <h2><span class="section-icon">📖</span> App Description</h2>
+  <section id="educational-use">
+    <h2><span class="section-icon">💡</span> 2. Educational &amp; Non-Advisory Disclaimer</h2>
     <div class="section-divider"></div>
-    <p>Mind Bites is a free educational and entertainment application that presents curated facts across categories including Animals, Space, Science, History, Human Body, Geography, Food, and Technology. The App features:</p>
+    <p>MindBites is designed strictly for <strong>general educational, cognitive enrichment, and personal informational purposes</strong>.</p>
     <ul>
-      <li>An infinite, swipeable fact feed with AI-generated illustrative images</li>
-      <li>Category filtering and full-text search</li>
-      <li>Local read-progress tracking</li>
-      <li>Content delivered via a static GitHub CDN (no user accounts required)</li>
-      <li>Display advertising via Google AdMob</li>
+      <li><strong>No Financial Advice:</strong> Market momentum summaries, currency tickers, and economic news items are provided for informational awareness only and do not constitute financial, investment, or trading advice.</li>
+      <li><strong>No Medical or Health Advice:</strong> Facts regarding neuroscience, psychology, biology, and health are curated for curiosity and general knowledge. They are not medical advice or clinical recommendations.</li>
+      <li><strong>No Legal Advice:</strong> Geopolitical headlines and world digests do not constitute legal counsel or formal political endorsement.</li>
     </ul>
-    <p>The App is provided free of charge and is supported by advertising revenue.</p>
+    <p>Always seek the guidance of qualified professionals for financial, legal, or medical matters.</p>
   </section>
 
-  <section id="license">
-    <h2><span class="section-icon">📄</span> License to Use</h2>
+  <section id="rss-content">
+    <h2><span class="section-icon">📰</span> 3. Third-Party News &amp; RSS Attribution</h2>
     <div class="section-divider"></div>
-    <p>Subject to your compliance with these Terms, we grant you a <strong>limited, non-exclusive, non-transferable, revocable license</strong> to download and use the App on a device you own or control, solely for your personal, non-commercial purposes.</p>
-    <p>You may <strong>not</strong>:</p>
+    <p>MindBites aggregates headlines and summary metadata from publicly available RSS syndication feeds (including BBC News, The Guardian, The New York Times, The Verge, TechCrunch, CNBC, ScienceDaily, NASA, Yahoo Finance, and Open-Meteo):</p>
     <ul>
-      <li>Copy, modify, distribute, sell, or sublicense the App or any of its content</li>
-      <li>Reverse-engineer, decompile, or disassemble the App (except where required by law)</li>
-      <li>Use the App for any commercial purpose without our express written consent</li>
-      <li>Attempt to circumvent, disable, or interfere with security-related features</li>
-      <li>Scrape or systematically download content from the App or its CDN</li>
+      <li><strong>Third-Party Ownership:</strong> We do not claim ownership, authorship, or exclusive license over third-party news reports, photography, or trademarks. All trademarks, logos, publication names, and article copyrights remain the exclusive property of their respective publishers.</li>
+      <li><strong>Direct Source Links:</strong> MindBites provides direct links to the original full-text articles. When tapping on a link or accessing the Full Feed Reader, you navigate to third-party websites outside our control, subject to their respective terms and policies.</li>
+      <li><strong>On-Device Synthesis:</strong> Summaries, bullet point extractions, and Text-to-Speech audio are generated algorithmically on-device for accelerated reading. We do not guarantee the completeness or absolute real-time accuracy of third-party reporting.</li>
     </ul>
   </section>
 
-  <section id="content">
-    <h2><span class="section-icon">📚</span> Content &amp; Accuracy</h2>
+  <section id="subscriptions">
+    <h2><span class="section-icon">👑</span> 4. Subscriptions &amp; In-App Purchases</h2>
     <div class="section-divider"></div>
-    <p>The facts displayed in Mind Bites are curated for entertainment and general education. While we strive for accuracy, we make <strong>no warranty</strong> that any fact, statistic, or statement in the App is accurate, complete, current, or error-free.</p>
-    <p>Content in Mind Bites should not be relied upon for:</p>
+    <p>MindBites offers premium VIP features ("MindBites PRO") available as Monthly, Annual (with optional 7-Day Free Trial), or Lifetime in-app purchases:</p>
     <ul>
-      <li>Medical, legal, financial, or professional advice</li>
-      <li>Academic research or citation</li>
-      <li>Safety-critical decisions of any kind</li>
+      <li><strong>Free Trial Terms:</strong> If eligible for a 7-day free trial on the Annual Plan, you will not be billed during the trial period. You can cancel anytime before the 7-day trial ends in your Google Play subscription settings to avoid recurring charges.</li>
+      <li><strong>Payment Processing:</strong> All transactions are securely processed by Google Play (or Apple App Store). Prices are clearly displayed prior to purchase in your local currency.</li>
+      <li><strong>Auto-Renewal:</strong> Subscriptions automatically renew unless cancelled at least 24 hours prior to the end of the current billing cycle.</li>
+      <li><strong>Cancellation &amp; Refunds:</strong> You can manage or cancel your subscription at any time via your Google Play Account Settings. Refund requests are subject to Google Play refund policies.</li>
+      <li><strong>Ad-Free Entitlement:</strong> Active PRO members enjoy a completely ad-free experience (suppressing banner, interstitial, and rewarded ad formats).</li>
     </ul>
-    <div class="warning-box">
-      <p>If you believe a fact in the App is materially inaccurate or misleading, please contact us so we can review and correct it.</p>
-    </div>
-    <p>Images in the App are generated by AI models (Stable Diffusion) for illustrative purposes only. They may not accurately represent the subjects depicted and are not intended as factual reference images.</p>
   </section>
 
-  <section id="ads">
-    <h2><span class="section-icon">📢</span> Advertising</h2>
+  <section id="intellectual-property">
+    <h2><span class="section-icon">🧠</span> 5. MindBites Intellectual Property</h2>
     <div class="section-divider"></div>
-    <p>Mind Bites displays advertisements provided by <strong>Google AdMob</strong>. By using the App you agree to the display of these advertisements as part of the free-to-use experience.</p>
-    <p>We are not responsible for the content of third-party advertisements. If you encounter an advertisement that is offensive, inaccurate, or inappropriate, please report it through the AdMob reporting mechanism or contact us.</p>
-    <p>We do not endorse any product, service, or organisation advertised within the App.</p>
+    <p>The MindBites name, brand logo, software code, user interface designs, custom trivia algorithm, sound effects, visual layout, and proprietary fact database are the intellectual property of MindBites and protected by international copyright, trademark, and intellectual property laws.</p>
+    <p>You may not copy, modify, reverse engineer, decompile, distribute, or create derivative works from the application software without our prior written consent.</p>
   </section>
 
   <section id="user-conduct">
-    <h2><span class="section-icon">🤝</span> User Conduct</h2>
+    <h2><span class="section-icon">🚫</span> 6. User Conduct &amp; Prohibitions</h2>
     <div class="section-divider"></div>
-    <p>Mind Bites is a passive content-consumption app — there are no user-generated posts, comments, or submissions. However, you agree not to use the App in any way that:</p>
+    <p>When using MindBites, you agree not to:</p>
     <ul>
-      <li>Violates any applicable law or regulation</li>
-      <li>Infringes the rights of any third party</li>
-      <li>Attempts to gain unauthorised access to our systems or the GitHub CDN</li>
-      <li>Interferes with the proper functioning of the App</li>
-      <li>Is fraudulent, deceptive, or harmful</li>
+      <li>Use the App for any unlawful, fraudulent, or harmful purpose.</li>
+      <li>Attempt to interfere with, disrupt, or compromise the integrity or security of the App or associated network endpoints.</li>
+      <li>Use automated scripts, bots, scrapers, or exploits to access the App or bypass subscription verifications.</li>
     </ul>
-  </section>
-
-  <section id="ip">
-    <h2><span class="section-icon">©</span> Intellectual Property</h2>
-    <div class="section-divider"></div>
-    <p>The Mind Bites app — including its name, logo, design, code, UI layout, and curated content — is owned by us or licensed to us and is protected by copyright, trademark, and other intellectual property laws.</p>
-    <p>The underlying facts in the App are drawn from public-domain scientific and historical knowledge. The <em>compilation, curation, and presentation</em> of those facts, along with all associated images, remain our intellectual property.</p>
-    <p>Nothing in these Terms transfers any intellectual property rights to you beyond the limited license described above.</p>
   </section>
 
   <section id="disclaimer">
-    <h2><span class="section-icon">⚠️</span> Disclaimers</h2>
+    <h2><span class="section-icon">⚠️</span> 7. Disclaimer of Warranties</h2>
     <div class="section-divider"></div>
-    <p>THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.</p>
-    <p>We do not warrant that:</p>
-    <ul>
-      <li>The App will be available at all times or operate error-free</li>
-      <li>Content will be accurate, complete, or up to date</li>
-      <li>The App will be free of viruses or other harmful components</li>
-      <li>Defects will be corrected</li>
-    </ul>
-    <p>Some jurisdictions do not allow the exclusion of implied warranties. In such cases, the above exclusion applies to the maximum extent permitted by law.</p>
+    <p>THE MINDBITES APPLICATION AND ALL CONTENT ARE PROVIDED ON AN <strong>"AS IS" AND "AS AVAILABLE" BASIS</strong> WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, ACCURACY, AND NON-INFRINGEMENT.</p>
+    <p>WE DO NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, OR THAT THIRD-PARTY RSS FEEDS WILL ALWAYS BE AVAILABLE.</p>
   </section>
 
   <section id="liability">
-    <h2><span class="section-icon">🛡️</span> Limitation of Liability</h2>
+    <h2><span class="section-icon">⚖️</span> 8. Limitation of Liability</h2>
     <div class="section-divider"></div>
-    <p>TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF THE APP, INCLUDING BUT NOT LIMITED TO LOSS OF DATA, LOSS OF PROFITS, OR PERSONAL INJURY.</p>
-    <p>OUR TOTAL LIABILITY TO YOU FOR ALL CLAIMS ARISING OUT OF OR RELATED TO THESE TERMS OR THE APP SHALL NOT EXCEED THE AMOUNT YOU PAID FOR THE APP IN THE TWELVE MONTHS PRECEDING THE CLAIM (WHICH, AS THE APP IS FREE, IS ZERO).</p>
-    <p>Some jurisdictions do not allow these limitations. In such cases, the limitations apply to the fullest extent permitted by law.</p>
+    <p>TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL MINDBITES, ITS DEVELOPERS, OR CONTRIBUTORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES (INCLUDING LOSS OF PROFITS, DATA, OR GOODWILL) ARISING OUT OF OR IN CONNECTION WITH YOUR ACCESS TO OR USE OF (OR INABILITY TO ACCESS OR USE) THE APPLICATION.</p>
   </section>
 
-  <section id="termination">
-    <h2><span class="section-icon">🔚</span> Termination</h2>
+  <section id="modifications">
+    <h2><span class="section-icon">🔄</span> 9. Changes to Service &amp; Terms</h2>
     <div class="section-divider"></div>
-    <p>We reserve the right to terminate or suspend your access to the App at any time, without notice, for any reason including violation of these Terms.</p>
-    <p>You may terminate these Terms at any time by uninstalling the App from your device. Upon uninstallation, all locally stored data (read history, cached facts) will be permanently deleted from your device.</p>
-    <p>Sections that by their nature should survive termination (Disclaimers, Limitation of Liability, Governing Law) will survive.</p>
-  </section>
-
-  <section id="governing">
-    <h2><span class="section-icon">⚖️</span> Governing Law</h2>
-    <div class="section-divider"></div>
-    <p>These Terms are governed by the laws of <strong>India</strong>, without regard to its conflict of law provisions. Any disputes arising under these Terms shall be subject to the exclusive jurisdiction of the courts of <strong>Bengaluru, Karnataka, India</strong>.</p>
-    <p>If any provision of these Terms is found to be unenforceable, the remaining provisions will continue in full force and effect.</p>
-    <p>Our failure to enforce any provision of these Terms does not constitute a waiver of our right to enforce it in the future.</p>
+    <p>We reserve the right to modify or replace these Terms at any time. When updates are published, the "Effective Date" at the top will be updated. Your continued use of the App following any changes constitutes acceptance of the new Terms of Service.</p>
   </section>
 
   <section id="contact">
-    <h2><span class="section-icon">✉️</span> Contact</h2>
+    <h2><span class="section-icon">✉️</span> 10. Contact &amp; Inquiries</h2>
     <div class="section-divider"></div>
-    <p>For questions about these Terms, please contact:</p>
+    <p>If you have any questions, legal notices, or feedback regarding these Terms of Service, please reach out to us:</p>
     <div class="contact-card">
       <div class="contact-item">
-        <label>Legal enquiries</label>
-        <a href="mailto:factictionary@gmail.com">factictionary@gmail.com</a>
+        <label>Legal &amp; Support Email</label>
+        <a href="mailto:factictionary@gmil.com">factictionary@gmil.com</a>
       </div>
       <div class="contact-item">
-        <label>General support</label>
-        <a href="mailto:factictionary@gmail.com">factictionary@gmail.com</a>
+        <label>Response Time</label>
+        <span style="font-size:15px; font-weight:700;">Within 24–48 Hours</span>
       </div>
       <div class="contact-item">
-        <label>Response time</label>
-        <span style="font-size:15px; font-weight:600;">Within 48 hours</span>
+        <label>Application Name</label>
+        <span style="font-size:15px; font-weight:700;">MindBites</span>
       </div>
       <div class="contact-item">
-        <label>Jurisdiction</label>
-        <span style="font-size:15px; font-weight:600;">Bengaluru, India</span>
+        <label>Privacy Policy</label>
+        <a href="privacy_policy.html">View Privacy Policy</a>
       </div>
     </div>
   </section>
@@ -279,7 +382,7 @@
 </main>
 
 <footer>
-  <p>© 2025 Mind Bites. All rights reserved. &nbsp;|&nbsp; <a href="privacy_policy.html">Privacy Policy</a></p>
+  <p>© 2026 MindBites. All rights reserved. &nbsp;|&nbsp; <a href="privacy_policy.html">Privacy Policy</a> &nbsp;|&nbsp; <a href="store_listing.html">Store Listing Details</a></p>
 </footer>
 
 </body>
